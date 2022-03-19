@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5786'
-ht-degree: 50%
+source-wordcount: '5681'
+ht-degree: 49%
 
 ---
 
@@ -69,14 +69,6 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 학습, 상호
 [!DNL Adobe System Status]는 Adobe 제품 및 서비스 중단, 중단 및 유지 관리 이벤트에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. [status.adobe.com](https://status.adobe.com/)에서 관련 정보를 확인하십시오.
 
 ## ![아이콘](/assets/ec_appicon_24.png) Experience Cloud - 중앙 인터페이스 구성 요소 및 관리 {#ecloud}
-=======
-릴리스 날짜: **2021년 11월 16일**
-
-**새로운 기능**
-
-* Adobe Status는 이제 제품 수준에서 인시던트를 보고합니다. 상태 클라우드 및 제품 페이지에는 인시던트에 대한 제품 수준의 보고를 기반으로 하는 새로운 모양과 향상된 필터가 제공됩니다. 이렇게 하면 제품이 [status.adobe.com](https://status.adobe.com/) 및 이메일 알림에서 어떤 영향을 받는지 보다 쉽게 이해할 수 있습니다. 구독하지 않은 경우 이 링크를 사용하여 맞춤화된 구독 환경 설정을 지정하십시오. [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
-
-* 이제 상태 홈 페이지가 권한 및 구독을 기반으로 필터링된 이벤트로 맞춤화됩니다. **status.adobe.com** > **[!UICONTROL 내 이벤트]** 탭에서 확인해 보십시오.
 
 Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) 홈 페이지와 영구 제품 헤더에서 사용할 수 있는 기능을 포함합니다. 이러한 기능에는 사용자 프로필 설정, 환경 설정 및 검색이 포함됩니다. 사용자 및 제품 관리, 고객 속성 및 Experience Cloud 대상에 대한 도움말도 찾을 수 있습니다.
 
