@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3f75b897e739d296d4b69d0f85d50ef4fa661ff0
+source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
 workflow-type: tm+mt
-source-wordcount: '5702'
+source-wordcount: '5696'
 ht-degree: 49%
 
 ---
@@ -116,7 +116,7 @@ Adobe Experience Platform Mobile SDK에 대한 [릴리스 정보 및 변경 로�
 
 릴리스 날짜: **2022년 3월 23일**
 
-* Adobe Analytics [릴리스 노트](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ko-KR) (**새 위치**)(검토자, 다음 위치로 이동 `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
+* Adobe Analytics [릴리스 정보](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ko-KR) (**새로운 위치**)
 * Adobe Analytics [제품 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/analytics.html?lang=ko-KR)
 
 ### AppMeasurement {#appm}
@@ -146,7 +146,7 @@ Adobe Analytics용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 
 릴리스 날짜: **2022년 3월 23일**
 
-* Customer Journey Analytics [릴리스 노트](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ko-KR)  (**새 위치**)(검토자, 다음 위치로 이동 `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
+* Customer Journey Analytics [릴리스 정보](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ko-KR) (**새로운 위치**)
 * Customer Journey Analytics [제품 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=ko-KR)
 
 ## ![아이콘](/assets/audience-manager.png) Audience Manager {#aam}
