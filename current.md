@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fe574c18fe36112968b6e58ddb8103239eed9632
+source-git-commit: c85a79e12550790ce932d45dcb0f9940f48c72ac
 workflow-type: tm+mt
-source-wordcount: '5696'
+source-wordcount: '5733'
 ht-degree: 99%
 
 ---
@@ -176,6 +176,8 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 ### Experience Manager 제품 릴리스
 
 * **Experience Manager as a Cloud Service**
+
+   보기 [2022년 3월 릴리스 개요 비디오](https://video.tv.adobe.com/v/341465) 2022.3.0(2022년 3월) 릴리스에 추가된 기능에 대한 요약 정보. 이번 달 비디오부터 Adobe은 현지화된 자막을 프랑스어(FR), 독일어(DE) 및 일본어(JP)로 사용할 수 있도록 했습니다.
 
    * 새로운 기능에 대한 [2021년 1월 릴리스 개요 비디오](https://video.tv.adobe.com/v/340120)
    * 새로운 기능에 대한 [2021년 12월 릴리스 개요 비디오](https://video.tv.adobe.com/v/339278)
