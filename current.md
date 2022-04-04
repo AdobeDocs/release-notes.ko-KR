@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7edf353026f9e8a595771602ea67eafd1bb77d96
+source-git-commit: fa2627b8bdd7e9b9f4159b366767c30f46721369
 workflow-type: tm+mt
-source-wordcount: '5733'
-ht-degree: 98%
+source-wordcount: '5815'
+ht-degree: 96%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 98%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트: **2022년 3월 21일**
+최신 업데이트 날짜: **2022년 4월 1일**
 
-* [[!DNL Experience League] 이벤트](#events)
+* [[!DNL Experience League] events](#events) (**4월 1일**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 중앙 인터페이스 구성 요소 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -56,10 +56,11 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
+| [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 웨비나 | 첫 번째 판을 발표하게 되어 매우 기쁩니다 _경험 작성자 - Adobe Workfront의 기술 교환_. <br>무료 3시간 디지털 학습 이벤트는 전적으로 Workfront에 집중됩니다. 작업 관리를 가장 잘 알고 있는 전문가 및 동료에게 질문할 수 있습니다. Workfront를 처음 사용하는 사용자와 숙련된 사용자 모두를 위한 제품이 있습니다.<br>**날짜:** 4월 13일 수요일 @ 9시 - 오후 12시(PDT) [세부 사항 및 등록](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe은 참석할 수 없는 경우에도 등록하여 온디맨드 레코딩에 액세스할 수 있도록 하는 것을 권장합니다. |
+| [Adobe Workfront 시스템 관리 핵심 사항: 이상적인 사용자 경험 디자인](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 웨비나 | Adobe Workfront의 고객 성공 관리자인 Mary Ann Erickson과 Liberty Mutual Insurance의 Creative Operations Analyst Steve Enos를 통해 이상적인 사용자 경험을 디자인하는 방법을 살펴볼 수 있습니다. <br>**날짜:** 4월 27일 수요일 시간: 오전 8시(PDT) / 오후 4시(영국) <br>[세부 사항 및 등록](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ko-KR) | 라이브 및 온디맨드 비디오 | Experience League 팀이 제작하는 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나 볼 수 있는 기회입니다. Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배워 보십시오.<br> [세부 정보 및 이전 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live 웨비나 | Java™ 및 Sling과 같은 기존의 Experience Manager 기술 없이도 Adobe [!UICONTROL App Builder] 워크플로 및 도구를 사용하여 단일 페이지 앱(SPA)을 신속하게 부트스트랩하고 배포할 수 있습니다. Experience Manager Headless를 사용하면 마케터와 개발자가 각자 자신의 분야에서 전문성을 가질 수 있습니다. 개발자는 전체 애플리케이션 프레임워크, 스타일 및 라우팅을 제어하고 마케터는 콘텐츠와 콘텐츠의 표시 방식을 결정합니다.<br>**날짜:** 3월 23일 수요일 - [세부 정보 및 등록](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: 데이터를 통해 깊은 인상을 주는 스토리 전달](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live 웨비나 | 예술과 과학이 균형을 이룰 때 데이터 스토리텔링이 성공적으로 전달될 수 있습니다. 과하게 조작할 필요가 없습니다. Adobe Analytics 챔피언 Amy Ard는 창의력을 저해하지 않으면서 데이터 스토리텔링을 안내하고자 다음 세 가지 부분에 대해 설명합니다.<ul><li>기회 또는 문제 파악</li><li>데이터를 통한 설명</li><li>솔루션 제공</li></ul>**날짜:** 3월 31일 목요일 - [세부 정보 및 등록](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
-| [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 웨비나 | Experience Makers - The Skill Exchange for Adobe Workfront의 첫 번째 에디션이 4월 13일에 진행됩니다. 이 3시간 길이의 무료 디지털 학습 이벤트는 전적으로 Workfront에 초점을 맞추며 고객은 작업 관리를 가장 잘 아는 전문가 및 동료에게 실시간으로 질문할 수 있습니다. Workfront를 처음 사용하는 사용자와 숙련된 사용자 모두를 위한 제품이 있습니다. <br>**날짜:** 4월 13일 수요일 - [세부 정보 및 등록](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ko-KR) | 비디오 | [!DNL Developers Live] 업계 전반에 걸쳐 디자인, 콘텐츠 제작 워크플로, 문서 서비스 및 고객 경험 관리를 지원하는 최신 기술 발전 및 개발자 도구를 소개합니다. 기조 연설을 보고 Analytics API, 클라이언트 데이터 레이어, Adobe 개발자 오픈 소스 프로젝트 등에 대해 알아보십시오. |
 
 {style=&quot;table-layout:auto&quot;}
