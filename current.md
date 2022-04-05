@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
+source-git-commit: 88d7c6385f680dba693d856585679c517589441d
 workflow-type: tm+mt
-source-wordcount: '5848'
+source-wordcount: '5828'
 ht-degree: 94%
 
 ---
@@ -180,7 +180,7 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 
 * **Experience Manager as a Cloud Service**
 
-   보기 [2022년 3월 릴리스 개요 비디오](https://video.tv.adobe.com/v/341465) 2022.3.0(2022년 3월) 릴리스에 추가된 기능에 대한 요약 정보. 이번 달 비디오부터 Adobe은 현지화된 자막을 프랑스어(FR), 독일어(DE) 및 일본어(JP)로 사용할 수 있도록 했습니다.
+   보기 [2022년 3월 릴리스 개요 비디오](https://video.tv.adobe.com/v/341465) 2022.3.0(2022년 3월) 릴리스에 추가된 기능에 대한 요약 정보. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
    * 새로운 기능에 대한 [2021년 1월 릴리스 개요 비디오](https://video.tv.adobe.com/v/340120)
    * 새로운 기능에 대한 [2021년 12월 릴리스 개요 비디오](https://video.tv.adobe.com/v/339278)
