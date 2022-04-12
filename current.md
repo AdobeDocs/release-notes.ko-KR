@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
+source-git-commit: 29615ef50c01bd12445aaa3d492d4b746b795f0d
 workflow-type: tm+mt
-source-wordcount: '5956'
+source-wordcount: '5952'
 ht-degree: 91%
 
 ---
@@ -483,11 +483,11 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
-마지막 업데이트: **2022년 4월 7일**
+마지막 업데이트: **2022년 4월 11일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 캠페인]<br><br>[!UICONTROL Advertising Insights] | (4월 7일) [!DNL Google Ads] 계정) Advertising Cloud Search이 기존 API에서 모든 호출을 전환하고 있습니다. [!DNL Google AdWords API] 최신 [!DNL Google Ads API]. 새 페이지로 이동 [!DNL Google Ads API] 기존 기능과의 연속성을 보장하고 [!DNL Google’s] 최신 [!DNL Ads] 기능.<br><br>일부 기능은 아직 새 API로 업데이트되지 않았으며 일시적으로 사용할 수 없습니다.<ul><li>위치 확장:<ul>위치 확장 기능은 [!UICONTROL 확장] 보기.</li><li>확장을 만들 수 없습니다.</li><li>위치의 필터가 작동하지 않습니다.</li></li></ul><li>[!UICONTROL Advertising Insights]: 다음 [!UICONTROL 노출 공유 손실됨] 및 [!UICONTROL Query Cross Matching Beta] 분석은 4월 11일부터 사용할 수 없습니다.</li></ul>4월 말까지 위치 확장 기능을 복원할 예정입니다. 영향을 받는 시점을 판단하면 [!UICONTROL Advertising Insights] 모듈을 복원할 수도 있으며, 예상 날짜가 있는 업데이트를 보냅니다. |
+| [!UICONTROL 캠페인]<br><br>[!UICONTROL Advertising Insights] | (4월 11일) [!DNL Google Ads] 계정) Advertising Cloud Search은 기존 API 호출에서 모든 호출을 전송했습니다 [!DNL Google AdWords API] 최신 [!DNL Google Ads API]. 새 페이지로 이동 [!DNL Google Ads API] 기존 기능과의 연속성을 보장하고 [!DNL Google’s] 최신 [!DNL Ads] 기능.<br><br>일부 기능은 아직 새 API로 업데이트되지 않았으며 일시적으로 사용할 수 없습니다.<ul><li>위치 확장:<ul>위치 확장 기능은 [!UICONTROL 확장] 보기.</li><li>확장을 만들 수 없습니다.</li><li>위치의 필터가 작동하지 않습니다.</li></li></ul><li>[!UICONTROL Advertising Insights]: 다음 [!UICONTROL 노출 공유 손실됨] 및 [!UICONTROL Query Cross Matching Beta] 분석을 사용할 수 없습니다.</li></ul>4월 말까지 위치 확장 기능을 복원할 예정입니다. 영향을 받는 시점을 판단하면 [!UICONTROL Advertising Insights] 모듈을 복원할 수도 있으며, 예상 날짜가 있는 업데이트를 보냅니다. |
 | [!UICONTROL 포트폴리오] | (3월 12일 릴리스) 기본적으로 하이브리드 최적화는 캠페인 수준에서 사용할 수 있습니다. 이제 선택적으로 광고 그룹 수준에서 하이브리드 최적화를 활성화할 수 있습니다. 이 경우 최적화 기능은 성능을 보다 정밀하게 제어하기 위해 광고 그룹 수준에서 [!DNL Google] CPA 또는 ROAS 타겟을 설정합니다.<br>모든 포트폴리오에서, 포트폴리오를 시작하기 전에 충분한 모델 적용 범위를 확보하려면 학습 기간을 고려해야 합니다. 마찬가지로 하이브리드 포트폴리오를 캠페인 수준에서 광고 그룹 수준 최적화로 변경하는 경우 포트폴리오를 약 2주 동안 활성 상태로 설정하십시오. 이렇게 하면 최적화 기능이 포함된 광고 그룹에 대해 학습하고 대상을 생성할 수 있습니다.<br>이제 광고 그룹 수준의 최적화를 지원하기 위해 맞춤형 시뮬레이션에 광고 그룹별 결과를 포함할 수 있습니다. 광고 그룹 수준 최적화가 포함된 하이브리드 포트폴리오를 시작하기 전에 광고 그룹 수준 결과를 통해 맞춤 시뮬레이션을 실행하십시오. |
 | [!UICONTROL 포트폴리오] <br> [!UICONTROL 캠페인] | (Match 12 릴리스; 베타 기능 [!DNL Microsoft® Advertising] campaigns) - 이제 검색 캠페인을 구성하여 [!UICONTROL 전환 최대화] 입찰 전략이며 선택적으로 클릭당 최대 비용을 설정합니다.<br>다른 자동 입찰 전략에 대한 하이브리드 최적화 Beta에 이미 참여하고 있는 경우 [!UICONTROL 전환 최대화] 전략에 자동으로 액세스할 수 있으며 [!UICONTROL 전환 최대화] 전략이 포함된 캠페인을 하이브리드 포트폴리오에 포함할 수 있습니다. 하이브리드 포트폴리오에서 이 전략을 사용하려면 [!DNL Microsoft® Ads]에 Advertising Cloud Search 목표를 업로드할 수 있어야 합니다. 아직 Beta에 참여하지 않았으며 가입하고자 하는 경우 [!DNL Adobe] 계정 관리자에게 문의하십시오. |
 | Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | (3) 3월 12일 릴리스 [!DNL Microsoft® Advertising] campaigns) - 이제 [!DNL Microsoft® Advertising] 시장 내 대상을 캠페인 수준 타겟 또는 캠페인으로 제외한 대상 [!UICONTROL adgroup]-수준 타겟입니다. 이전에는 [!UICONTROL 광고 그룹] 수준 타겟으로만 사용할 수 있었습니다. |
