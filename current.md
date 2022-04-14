@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 29615ef50c01bd12445aaa3d492d4b746b795f0d
+source-git-commit: dc6fed1336b4a850bfe2fc158816988da75722f7
 workflow-type: tm+mt
-source-wordcount: '5952'
-ht-degree: 91%
+source-wordcount: '6002'
+ht-degree: 90%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 91%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트 날짜: **2022년 4월 7일**
+최신 업데이트 날짜: **2022년 4월 13일**
 
-* [[!DNL Experience League] events](#events) (**4월 5일** - AEM Gems 재실행)
+* [[!DNL Experience League] events](#events) (**4월 13일**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 중앙 인터페이스 구성 요소 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -58,10 +58,11 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
+| [AEM에서 헤드리스(및 그 사이의 모든 것)](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | Danny Gordon 호스트, 게스트 Amol Anand, Sachin Mali 및 Sean Steimer와 함께 가장 일반적인 Adobe Experience Manager Sites 구현에 대한 세부 분석을 시청하십시오. <br>**날짜:** 2022년 4월 21일, 오전 9시(PST)<br>[예약 및 지난 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ko-KR) |
+| [이러한 모든 대상을 어떻게 처리합니까?](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience League 라이브 | Audience Manager 및 실시간 CDP를 사용하여 대상 전략 최적화. 호스트 더그 무어는 이 Experience League LIVE 행사에서 닉 캠무소와 재키 치밸리어를 환영합니다.<br>**날짜:** 2022년 4월 28일<br>[예약 및 지난 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 웨비나 | 2022년 AEM Gems 업데이트를 사용할 수 있습니다! AEM Gems는 Adobe 전문가가 제공하는 Adobe Experience Manager에 대한 기술적인 분석의 웨비나 시리즈입니다. <br>최신 AEM Gems에 대해서는 [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 및 [AEM Headless 및 App Builder를 사용하여 보다 신속하게 사이트 구축](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>이러한 릴리스 노트를 자주 방문하거나 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/subscription/priority-product-update.html) AEM Gems 및 기타 Experience League 이벤트를 최신 상태로 유지할 수 있습니다. |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 웨비나 | 첫 번째 판을 발표하게 되어 매우 기쁩니다 _경험 작성자 - Adobe Workfront의 기술 교환_. <br>무료 3시간 디지털 학습 이벤트는 전적으로 Workfront에 집중됩니다. 작업 관리를 가장 잘 알고 있는 전문가 및 동료에게 질문할 수 있습니다. Workfront를 처음 사용하는 사용자와 숙련된 사용자 모두를 위한 제품이 있습니다.<br>**날짜:** 4월 13일 수요일 @ 9시 - 오후 12시(PDT) [세부 사항 및 등록](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe은 참석할 수 없는 경우에도 등록하여 온디맨드 레코딩에 액세스할 수 있도록 하는 것을 권장합니다. |
 | [Adobe Workfront 시스템 관리 핵심 사항: 이상적인 사용자 경험 디자인](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 웨비나 | Adobe Workfront의 고객 성공 관리자인 Mary Ann Erickson과 Liberty Mutual Insurance의 Creative Operations Analyst Steve Enos를 통해 이상적인 사용자 경험을 디자인하는 방법을 살펴볼 수 있습니다. <br>**날짜:** 4월 27일 수요일 시간: 오전 8시(PDT) / 오후 4시(영국) <br>[세부 사항 및 등록](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ko-KR) | 라이브 및 온디맨드 비디오 | Experience League 팀이 제작하는 라이브 스트리밍 쇼입니다. Adobe 제품 전문가를 만나 볼 수 있는 기회입니다. Adobe Experience Cloud 애플리케이션에 적용할 수 있는 유용한 팁, 요령 및 전략을 배워 보십시오.<br> [세부 정보 및 이전 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Analytics: 데이터를 통해 깊은 인상을 주는 스토리 전달](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live 웨비나 | 예술과 과학이 균형을 이룰 때 데이터 스토리텔링이 성공적으로 전달될 수 있습니다. 과하게 조작할 필요가 없습니다. Adobe Analytics 챔피언 Amy Ard는 창의력을 저해하지 않으면서 데이터 스토리텔링을 안내하고자 다음 세 가지 부분에 대해 설명합니다.<ul><li>기회 또는 문제 파악</li><li>데이터를 통한 설명</li><li>솔루션 제공</li></ul>**날짜:** 3월 31일 목요일 - [세부 정보 및 등록](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ko-KR) | 비디오 | [!DNL Developers Live] 업계 전반에 걸쳐 디자인, 콘텐츠 제작 워크플로, 문서 서비스 및 고객 경험 관리를 지원하는 최신 기술 발전 및 개발자 도구를 소개합니다. 기조 연설을 보고 Analytics API, 클라이언트 데이터 레이어, Adobe 개발자 오픈 소스 프로젝트 등에 대해 알아보십시오. |
 
