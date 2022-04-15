@@ -6,7 +6,7 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e6a44b87d3c4f39a6e0304d44213d866ae43aec4
+source-git-commit: 4f25c9ff1ac5f923c63ad8c7401146fff0f781da
 workflow-type: tm+mt
 source-wordcount: '6116'
 ht-degree: 44%
@@ -124,7 +124,7 @@ Adobe Experience Platform Mobile SDK에 대한 [릴리스 정보 및 변경 로�
 
 ## ![아이콘](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-릴리스 날짜: **2022년 3월 23일**
+릴리스 날짜: **2022년 4월 20일**
 
 * Adobe Analytics [릴리스 노트](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ko-KR)
 * Adobe Analytics [제품 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/analytics.html?lang=ko-KR)
@@ -154,14 +154,14 @@ Adobe Analytics에 대해 게시된 새로운 비디오 자습서, 문서 및 �
 
 ## ![아이콘](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-릴리스 날짜: **2022년 3월 23일**
+릴리스 날짜: **2022년 4월 20일**
 
 * Customer Journey Analytics [릴리스 노트](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ko-KR)
 * Customer Journey Analytics [제품 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=ko-KR)
 
 ## ![아이콘](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-릴리스 날짜: **2022년 3월 16일**
+릴리스 날짜: **2022년 4월 20일**
 
 * [!DNL Streaming Media Analytics] [릴리스 노트](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**새 위치**)
 * [!DNL Streaming Media Analytics] [제품 설명서 및 자습서](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
