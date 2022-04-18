@@ -4,11 +4,11 @@ description: ' [!DNL Experience Cloud] 제품 및 서비스의 최신 릴리스 
 doc-type: release notes
 last-update: April 2022
 author: mfrei
-mini-toc-levels: 1
+mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3d9450a10069ac060d21d844c6d5cc6e8d7b9bad
+source-git-commit: 559fef013ec51e9c617f8e274089a50ee8498051
 workflow-type: tm+mt
-source-wordcount: '6115'
+source-wordcount: '6118'
 ht-degree: 44%
 
 ---
@@ -68,7 +68,7 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 웨비나 | 2022년 AEM Gems 업데이트를 사용할 수 있습니다! AEM Gems는 Adobe 전문가가 제공하는 Adobe Experience Manager에 대한 Adobe의 웨비나 시리즈입니다. <br>최신 AEM Gems에 대해서는 [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 및 [AEM Headless 및 App Builder를 사용하여 보다 신속하게 사이트 구축](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>이러한 릴리스 노트를 자주 방문하거나 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/subscription/priority-product-update.html) AEM Gems 및 기타 Experience League 이벤트를 최신 상태로 유지할 수 있습니다. |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 웨비나 | Adobe은 첫 번째 판을 발표하게 되어 기쁩니다 _경험 작성자 - Adobe Workfront의 기술 교환_. <br>무료 3시간 디지털 학습 이벤트는 전적으로 Workfront에 집중됩니다. 작업 관리를 가장 잘 알고 있는 전문가 및 동료에게 질문할 수 있습니다. Workfront를 처음 사용하는 사용자와 숙련된 사용자 모두를 위한 제품이 있습니다.<br>**날짜:** 4월 13일 수요일 @ 9시 - 오후 12시(PDT) [세부 사항 및 등록](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe은 참석할 수 없는 경우에도 등록하여 온디맨드 레코딩에 액세스할 수 있도록 하는 것을 권장합니다. |
 | [Adobe Workfront 시스템 관리 핵심 사항: 이상적인 사용자 경험 디자인](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 웨비나 | Adobe Workfront의 고객 성공 관리자인 Mary Ann Erickson과 Liberty Mutual Insurance의 Creative Operations Analyst Steve Enos를 통해 이상적인 사용자 경험을 디자인하는 방법을 살펴볼 수 있습니다. <br>**날짜:** 4월 27일 수요일 시간: 오전 8시(PDT) / 오후 4시(영국) <br>[세부 사항 및 등록](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ko-KR) | 주문형 비디오 | [!DNL Developers Live] 업계 전반에 걸쳐 디자인, 콘텐츠 제작 워크플로, 문서 서비스 및 고객 경험 관리를 지원하는 최신 기술 발전 및 개발자 도구를 소개합니다. 기조 연설을 보고 Analytics API, 클라이언트 데이터 레이어, Adobe 개발자 오픈 소스 프로젝트 등에 대해 알아보십시오. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ko-KR) | 주문형 비디오 | [!DNL Developers Live] 업계 전반에 걸쳐 디자인, 콘텐츠 제작 워크플로, 문서 서비스 및 고객 경험 관리를 지원하는 최신 기술 발전 및 개발자 도구를 소개합니다. 기조 연설을 보고 Analytics API, 클라이언트 데이터 레이어, Adobe Developer 오픈 소스 프로젝트 등에 대해 알아보십시오. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -350,8 +350,8 @@ Adobe Experience Manager를 위한 XML 설명서는 AEM에 배포된 애플리�
 
 Adobe Commerce 릴리스 정보에 대한 다음 링크를 참조하십시오.
 
-* [Adobe Commerce 및 Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Adobe Commerce용 클라우드 인프라](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Adobe Commerce 및 Magento Open Source 2.4.x 릴리스 노트](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite 릴리스 노트](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### 새로운 Adobe Commerce 리소스 {#new-commerce}
 
