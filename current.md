@@ -6,9 +6,9 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4f25c9ff1ac5f923c63ad8c7401146fff0f781da
+source-git-commit: 3d9450a10069ac060d21d844c6d5cc6e8d7b9bad
 workflow-type: tm+mt
-source-wordcount: '6116'
+source-wordcount: '6115'
 ht-degree: 44%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 44%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트 날짜: **2022년 4월 15일**
+최신 업데이트 날짜: **2022년 4월 18일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -100,7 +100,7 @@ Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/do
 
 에 대한 최신 릴리스 정보 및 새 설명서 [!DNL Experience Platform] 및 [!UICONTROL Mobile SDK]:
 
-최신 릴리스 날짜: **2022년 3월 30일**
+릴리스 날짜: **2022년 4월 27일**
 
 * [Experience Platform 릴리스 정보](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ko-KR)
 
