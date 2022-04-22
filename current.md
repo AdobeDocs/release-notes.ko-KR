@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
+source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
 workflow-type: tm+mt
-source-wordcount: '6118'
-ht-degree: 44%
+source-wordcount: '6428'
+ht-degree: 42%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 44%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트 날짜: **2022년 4월 18일**
+최신 업데이트 날짜: **2022년 4월 22일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -68,7 +68,7 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 웨비나 | 2022년 AEM Gems 업데이트를 사용할 수 있습니다! AEM Gems는 Adobe 전문가가 제공하는 Adobe Experience Manager에 대한 Adobe의 웨비나 시리즈입니다. <br>최신 AEM Gems에 대해서는 [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 및 [AEM Headless 및 App Builder를 사용하여 보다 신속하게 사이트 구축](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>이러한 릴리스 노트를 자주 방문하거나 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/subscription/priority-product-update.html) AEM Gems 및 기타 Experience League 이벤트를 최신 상태로 유지할 수 있습니다. |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 웨비나 | Adobe은 첫 번째 판을 발표하게 되어 기쁩니다 _경험 작성자 - Adobe Workfront의 기술 교환_. <br>무료 3시간 디지털 학습 이벤트는 전적으로 Workfront에 집중됩니다. 작업 관리를 가장 잘 알고 있는 전문가 및 동료에게 질문할 수 있습니다. Workfront를 처음 사용하는 사용자와 숙련된 사용자 모두를 위한 제품이 있습니다.<br>**날짜:** 4월 13일 수요일 @ 9시 - 오후 12시(PDT) [세부 사항 및 등록](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe은 참석할 수 없는 경우에도 등록하여 온디맨드 레코딩에 액세스할 수 있도록 하는 것을 권장합니다. |
 | [Adobe Workfront 시스템 관리 핵심 사항: 이상적인 사용자 경험 디자인](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 웨비나 | Adobe Workfront의 고객 성공 관리자인 Mary Ann Erickson과 Liberty Mutual Insurance의 Creative Operations Analyst Steve Enos를 통해 이상적인 사용자 경험을 디자인하는 방법을 살펴볼 수 있습니다. <br>**날짜:** 4월 27일 수요일 시간: 오전 8시(PDT) / 오후 4시(영국) <br>[세부 사항 및 등록](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ko-KR) | 주문형 비디오 | [!DNL Developers Live] 업계 전반에 걸쳐 디자인, 콘텐츠 제작 워크플로, 문서 서비스 및 고객 경험 관리를 지원하는 최신 기술 발전 및 개발자 도구를 소개합니다. 기조 연설을 보고 Analytics API, 클라이언트 데이터 레이어, Adobe Developer 오픈 소스 프로젝트 등에 대해 알아보십시오. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ko-KR) | 주문형 비디오 | [!DNL Developers Live] 업계 전반에 걸쳐 디자인, 콘텐츠 제작 워크플로, 문서 서비스 및 고객 경험 관리를 지원하는 최신 기술 발전 및 개발자 도구를 소개합니다. 기조 연설을 보고 Analytics API, 클라이언트 데이터 레이어, Adobe 개발자 오픈 소스 프로젝트 등에 대해 알아보십시오. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -163,7 +163,7 @@ Adobe Analytics에 대해 게시된 새로운 비디오 자습서, 문서 및 �
 
 릴리스 날짜: **2022년 4월 20일**
 
-* [!DNL Streaming Media Analytics] [릴리스 노트](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**새 위치**)
+* [!DNL Streaming Media Analytics] [릴리스 노트](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=kr)  (**새 위치**)
 * [!DNL Streaming Media Analytics] [제품 설명서 및 자습서](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
 ### 새로운 Customer Journey Analytics 자습서 및 교육 과정 {#tutorials-cja}
@@ -313,13 +313,13 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 
 * [Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
 * [Experience Manager Cloud Manager 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=ko-KR)
-* [자동 양식 전환 서비스 릴리스 정보](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
+* [자동 양식 전환 서비스 릴리스 정보](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=ko-KR)
 * [Experience Manager 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ko-KR)
 * [Experience Manager 6.4 Cumulative Fix Pack 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ko-KR)
 * [Experience Manager Assets Dynamic Media 릴리스 정보](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=ko-KR)
 * [Experience Manager Brand Portal 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=ko-KR)
-* [Experience Manager 데스크탑 앱 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
-* [Experience Manager Dispatcher 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
+* [Experience Manager 데스크탑 앱 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=ko-KR)
+* [Experience Manager Dispatcher 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=ko-KR)
 * [Adobe Primetime 릴리스 정보](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=ko-KR)
 * [Livefyre 릴리스 정보](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=ko-KR)
 
@@ -372,7 +372,7 @@ Adobe Commerce on Experience League의 새로운 문서 및 튜토리얼
 마지막 업데이트 날짜: **2022년 3월 21일**
 
 * 이전 릴리스에 대한 자세한 내용은 [Adobe Target 프리릴리스](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ko-KR)를 참조하십시오.
-* 최신 릴리스에 대한 자세한 내용은 [Adobe Target 릴리스 정보](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)를 참조하십시오.
+* 최신 릴리스에 대한 자세한 내용은 [Adobe Target 릴리스 정보](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ko-KR)를 참조하십시오.
 
 ## ![아이콘](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
@@ -500,12 +500,16 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
-마지막 업데이트: **2022년 4월 11일**
+마지막 업데이트: **2022년 4월 22일** - 4월 23일 릴리스
 
 | 기능 | 설명 |
 | ------- | ----------- |
+| [!UICONTROL 대상자] | ([!DNL Microsoft Advertising] 고객 일치에 적합한 계정) 이제 모든 사용자가 이메일 주소와 함께 CSV 파일을 업로드하여 고객 일치 대상을 만들고 관리할 수 있습니다. 해당 데이터는 SHA-256 알고리즘을 사용하여 해시해야 합니다. |
+| [!UICONTROL 캠페인] | 옵트인하는 광고주가 사용할 수 있는 베타 기능은 다음과 같습니다.<ul><li>([!DNL Microsoft Advertising] 계정)에서 기존 기본 광고 캠페인에 대한 동기화, 읽기 전용 가시성 및 보고(뷰스루 데이터 포함) 지원 [!DNL Microsoft Audience Network], 포함 [!DNL Microsoft Audience Ads].</li><li>([!DNL Google Ads] 및 [!DNL Microsoft Advertising] 계정) 가져오기 기능 [!DNL Google Ads] 캠페인 및 캠페인 구조를 [!DNL Microsoft Advertising] Advertising Cloud Search 내에서 사용할 수 있습니다.</li></ul>베타 프로그램에 관심이 있는 경우 Adobe 계정 관리자에게 문의하십시오. |
+| [!UICONTROL 캠페인]<br><br>[!UICONTROL Portfolio] | ([!DNL Microsoft Advertising] 캠페인) 다음 입찰 전략에 대한 지원을 사용할 수 있습니다.<ul><li>(일반 공급) [!UICONTROL 전환 최대화], [!UICONTROL Target CPA], 및 [!UICONTROL 광고 투자 수익률 Target]: 이제 이러한 전략을 모든 사용자가 사용할 수 있습니다. 이러한 입찰 전략으로 검색 캠페인을 하이브리드(하지만 표준 포트폴리오는 아님) 포트폴리오에 추가할 수 있습니다.</li><li>(베타 기능) [!UICONTROL Target 노출 공유]: 하이브리드 최적화 베타에 참여하는 경우 이 전략으로 캠페인을 구성하고 선택적으로 타겟 노출 공유, 타겟 광고 위치 및 클릭당 최대 비용을 설정할 수 있습니다. 주의: 이 옵션은 하이브리드 포트폴리오에서 아직 지원되지 않으므로 표준 포트폴리오에 추가할 수 없습니다.</li><li>(베타 기능) [!UICONTROL 클릭 최대화]: 하이브리드 최적화 베타에 참여하는 경우 이 전략으로 캠페인을 구성하고 선택적으로 클릭당 목표 최대 비용을 설정할 수 있습니다. 이 전략을 사용하는 캠페인을 표준 또는 하이브리드 포트폴리오에 포함할 수 있습니다. 하이브리드 포트폴리오에서 이 전략을 사용하려면 포트폴리오의 목표만 포함해야 합니다 [!DNL Adobe] 속성(지표)을 사용할 수 있으며, Advertising Cloud Search 목표에 대한 업로드를 활성화해야 합니다 [!DNL Microsoft Ads].</li></ul>하이브리드 최적화 베타에 아직 참여하지 않고 참가하려면 [!DNL Adobe] 계정 관리자. |
+| [!UICONTROL Advertising Insights] | 을 제외한 모든 인사이트 [!UICONTROL 쿼리 교차 일치] 및 [!UICONTROL 하이브리드 Portfolio 설정 준비] 이제 베타 버전이 출시되었습니다. |
 | [!UICONTROL 캠페인]<br><br>[!UICONTROL Advertising Insights] | (4월 11일) [!DNL Google Ads] 계정) Advertising Cloud Search은 기존 API 호출에서 모든 호출을 전송했습니다 [!DNL Google AdWords API] 최신 [!DNL Google Ads API]. 새 페이지로 이동 [!DNL Google Ads API] 기존 기능을 통해 무중단 운영을 보장하고 액세스 가능 [!DNL Google’s] 최신 [!DNL Ads] 기능.<br><br>일부 기능은 아직 새 API로 업데이트되지 않았으며 일시적으로 사용할 수 없습니다.<ul><li>위치 확장:<ul>위치 확장 기능은 [!UICONTROL 확장] 보기.</li><li>확장을 만들 수 없습니다.</li><li>위치의 필터가 작동하지 않습니다.</li></li></ul><li>[!UICONTROL Advertising Insights]: 다음 [!UICONTROL 노출 공유 손실됨] 및 [!UICONTROL Query Cross Matching Beta] 분석을 사용할 수 없습니다.</li></ul>4월 말까지 위치 확장 기능을 복원할 예정입니다. 영향을 받는 시점을 판단하면 [!UICONTROL Advertising Insights] 모듈을 복원할 수도 있으며, 예상 날짜가 있는 업데이트를 보냅니다. |
-| Adobe Analytics와의 통합 | (4월 7일) Advertising Cloud이 보내는 데이터 피드에서 [!DNL Analytics], 데이터 [!DNL Google Ads] 및 [!DNL Microsoft® Advertising] 이제 응답형 검색 광고(RSA)가 [!UICONTROL 응답형 광고 유형] &quot;[!UICONTROL 응답형 검색 광고].&quot; 이전에는 이 [!UICONTROL 응답형 광고 유형] &quot;[!UICONTROL 응답형 텍스트 광고].&quot;<br><br>또한 [!UICONTROL 응답형 광고 제목] 는 이제 첫 번째 헤드라인과 [!UICONTROL 응답형 광고 설명] 가 첫 번째 설명으로 채워집니다. |
+| Adobe Analytics와의 통합 | (4월 7일) Advertising Cloud이 보내는 데이터 피드에서 [!DNL Analytics], 데이터 [!DNL Google Ads] 및 [!DNL Microsoft Advertising] 반응형 검색 광고(RSA)는 [!UICONTROL 광고 유형] &quot;[!UICONTROL 응답형 검색 광고]&quot;라는 메시지가 표시됩니다. 이전에는 이 [!UICONTROL 광고 유형] &quot;[!UICONTROL 텍스트 광고].&quot; 비활성 캠페인의 RSA는 재분류되지 않습니다.<br><br>재분류된 RSA의 경우 [!UICONTROL 응답형 광고 제목] 는 이제 첫 번째 헤드라인과 [!UICONTROL 응답형 광고 설명] 가 첫 번째 설명으로 채워집니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
