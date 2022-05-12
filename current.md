@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
+source-git-commit: cdf35cca137c192dfc32398565b693e4843b6418
 workflow-type: tm+mt
-source-wordcount: '6428'
-ht-degree: 94%
+source-wordcount: '6061'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트 일자: **2022년 4월 22일**
+최근 업데이트: **2022년 5월 11일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -55,20 +55,16 @@ ht-degree: 94%
 
 Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-업데이트 일자: **2022년 4월 5일**
+**2022년 5월 11일**&#x200B;에 업데이트됨
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
+| 이벤트 | 유형 | 설명 |
+| — | — | — |
+| [Journey Optimizer을 사용한 푸시 알림 - 푸시용으로 모바일 앱을 쉽게 구성하는 방법](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizer의 푸시 알림에 대한 일반적인 사용 사례에 대해 알아보고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술 세부 사항을 살펴보십시오. <br>**날짜:** 2022년 5월 12일 @ 9:30 a.m. PDT<br>[예약 및 지난 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ko) |
+| [Adobe Target 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Q&amp;A Coffee Break | Adobe Target 제품 팀의 Brent Kostak와 Draw Burns에 참여하십시오. 이 팀은 공유 대상, Real-Time CDP, 자사 데이터, 종단 간 개인화 워크플로우 등에 대한 Adobe Target 질문에 답변합니다.<br>최근 보기 [실시간 개인화 웨비나](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/upcoming-webinar-4-28-22-real-time-personalization-with-adobe/td-p/449012) 추가 질문 사항은 [커피 브레이크 실](https://adobe.ly/3MyiDHa) Adobe Target 커뮤니티!<br>**날짜:** 2022년 5월 25일 @ 8시(PDT)<br>[세부 사항 및 등록](https://adobe.ly/3MyiDHa) |
+| [Adobe [!DNL Developers Live]: 상거래](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | 주문형 비디오 | _Adobe Developers Live: Commerce 2022_ 다양한 배경과 단일 목적을 가진 개발자 및 경험 작성자를 통합하여 놀라운 종단 간 경험을 생성합니다. 이 하루 동안의 가상 컨퍼런스는 중요한 상거래 및 오픈 소스 개발자 업데이트, 기술 세션, 커뮤니티 네트워킹 기회 등을 제공합니다. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | 온디맨드 세션 | Adobe 경영진, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc., CEO John Donahoe, NIKE, Inc. 및 American Red Cross의 CEO Gail J. McGovern으로부터 고객 경험이 어떻게 디지털 경제의 자금인지 알아보십시오.<br>Adobe Summit 2022의 [온디맨드 세션](https://business.adobe.com/summit/2022/sessions.html)을 살펴보십시오. |
-| [AEM의 Headful에서 Headless까지(그리고 그 사이의 모든 것)](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | 호스트 Danny Gordon과 게스트 Amol Anand, Sachin Mali 및 Sean Steimer와 함께 가장 일반적인 Adobe Experience Manager Sites 구현에 대한 자세한 분석을 확인하십시오. <br>**일자:** 2022년 4월 21일 @ 오전 9시(태평양 표준시)<br>[일정 및 이전 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ko) |
-| [이러한 대상을 어떻게 처리합니까?](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience League 라이브 | Audience Manager 및 Real-time CDP를 사용하여 대상 전략을 이해합니다. 호스트 Doug Moore가 이 Experience League LIVE 이벤트에서 Nick Cammuso와 Jackie Chevallier를 게스트로 맞습니다.<br>**일자:** 2022년 4월 28일 @ 오전 9시(태평양 표준시)<br>[일정 및 이전 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Adobe Campaign Classic v7 및 Campaign v8](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/adobe-campaign-community-q-amp-a-coffee-break-april-21st-8am-pt/td-p/444060) | Q&amp;A Coffee Break | Adobe Campaign 커뮤니티에서 Scott Segrin, Eric Knee, David Loyd 및 Peter Mancuso - Adobe Campaign Enterprise Architecture 팀과 함께 실시간 Q&amp;A에 참여하십시오.<br>**일자:** 2022년 4월 21일 @ 오전 8시(태평양 표준시)<br>[세부 정보 및 등록](https://adobe.ly/3NB6kuG) |
-| [Adobe Target 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Q&amp;A 커피 브레이크 | Jim McTiernan이 Adobe Target Community에서 Adobe Target 권장 사항, AB 테스트 및 MVT 개인 맞춤화에 대한 질문에 답변합니다.<br>**일자:** 2022년 4월 27일 @ 오전 8시(태평양 표준시)<br>[세부 정보 및 등록](https://adobe.ly/3joCuvU%C2%A0) |
-| [AEM 및 CIF 프레임워크](https://adobe.ly/3O0uXl5) | AEM Gems | AEM 및 CIF 프레임워크를 통합하여 풍부하고 매력적인 전자 상거래 경험 구축&#x200B;<br>**일자:** 2022년 4월 27일 @ 오전 8:00(PDT) / 오후 5:00(CET) / 오후 8시 30분(IST)<br>[세부 정보 및 등록](https://adobe.ly/3O0uXl5) |
-| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=ko) | Adobe Live 웨비나 | 2022년 AEM Gems 업데이트를 사용할 수 있습니다! AEM Gems는 Adobe 전문가가 Adobe Experience Manager의 기술적인 측면에 대한 심도 있는 분석을 제공하는 Adobe 웨비나 시리즈입니다. <br>최신 AEM Gems에 대한 자세한 내용은 [Adobe Experience Manager as a Cloud Service: 2021년 검토 및 2022년 전망](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=ko)과 [AEM Headless 및 App Builder를 사용하여 보다 빠르게 사이트 구축](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=ko)을 참조하십시오.<br>이 릴리스 정보를 자주 방문하거나 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/subscription/priority-product-update.html)를 구독하여 AEM Gems 및 기타 Experience League 이벤트에 대한 최신 정보를 얻으십시오. |
-| [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 웨비나 | Adobe는 _Experience Makers - The Skill Exchange for Adobe Workfront_&#x200B;의 첫 번째 에디션을 기쁘게 발표합니다. <br>이 3시간 길이의 무료 디지털 학습 이벤트는 전적으로 Workfront에 초점을 맞춥니다. 고객은 작업 관리를 가장 잘 아는 전문가 및 동료에게 질문할 수 있습니다. Workfront를 처음 사용하는 사용자와 숙련된 사용자 모두를 위한 제품이 있습니다.<br>**일자:** 4월 13일 수요일 @ 오전 9시 ~ 오후 12시(태평양 표준시) [세부 정보 및 등록](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe는 참석할 수 없는 경우에도 등록하는 것을 권장하므로 온디맨드 녹화에 대한 액세스가 보장됩니다. |
-| [Adobe Workfront System Admin Essentials: 이상적인 사용자 경험 디자인](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 웨비나 | Adobe Workfront의 고객 지원 매니저인 Join Mary Ann Erickson, Liberty Mutual Insurance의 크리에이티브 작업 분석가인 Steve Enos와 함께 이상적인 사용자 경험을 디자인하는 방법을 알아보십시오. <br>**일자:** 2022년 4월 27일 수요일 시간: 오전 8시(태평양 표준시) / 오후 4시(영국) <br>[세부 정보 및 등록](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ko) | 온디맨드 비디오 | [!DNL Developers Live] 업계 전반에 걸쳐 디자인, 콘텐츠 제작 워크플로, 문서 서비스 및 고객 경험 관리를 지원하는 최신 기술 발전 및 개발자 도구를 소개합니다. 기조 연설을 보고 Analytics API, 클라이언트 데이터 레이어, Adobe Developer 오픈 소스 프로젝트 등에 대해 알아보십시오. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -350,8 +346,8 @@ Adobe Experience Manager를 위한 XML 설명서는 AEM에 배포된 애플리�
 
 Adobe Commerce 릴리스 정보에 대한 다음 링크를 참조하십시오.
 
-* [Adobe Commerce 및 Magento Open Source 2.4.x 릴리스 노트](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Cloud Suite 릴리스 노트](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Adobe Commerce 및 Magento Open Source 2.4.x 릴리스 정보](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite 릴리스 정보](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### 새로운 Adobe Commerce 리소스 {#new-commerce}
 
@@ -500,16 +496,16 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
-마지막 업데이트: **2022년 4월 22일** - 4월 23일 릴리스
+마지막 업데이트: **2022년 4월 22일**, 4월 23일 릴리스
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 대상자] | ([!DNL Microsoft Advertising] 고객 일치에 적합한 계정) 이제 모든 사용자가 이메일 주소와 함께 CSV 파일을 업로드하여 고객 일치 대상을 만들고 관리할 수 있습니다. 해당 데이터는 SHA-256 알고리즘을 사용하여 해시해야 합니다. |
-| [!UICONTROL 캠페인] | 옵트인하는 광고주가 사용할 수 있는 베타 기능은 다음과 같습니다.<ul><li>([!DNL Microsoft Advertising] 계정)에서 기존 기본 광고 캠페인에 대한 동기화, 읽기 전용 가시성 및 보고(뷰스루 데이터 포함) 지원 [!DNL Microsoft Audience Network], 포함 [!DNL Microsoft Audience Ads].</li><li>([!DNL Google Ads] 및 [!DNL Microsoft Advertising] 계정) 가져오기 기능 [!DNL Google Ads] 캠페인 및 캠페인 구조를 [!DNL Microsoft Advertising] Advertising Cloud Search 내에서 사용할 수 있습니다.</li></ul>베타 프로그램에 관심이 있는 경우 Adobe 계정 관리자에게 문의하십시오. |
-| [!UICONTROL 캠페인]<br><br>[!UICONTROL Portfolio] | ([!DNL Microsoft Advertising] 캠페인) 다음 입찰 전략에 대한 지원을 사용할 수 있습니다.<ul><li>(일반 공급) [!UICONTROL 전환 최대화], [!UICONTROL Target CPA], 및 [!UICONTROL 광고 투자 수익률 Target]: 이제 이러한 전략을 모든 사용자가 사용할 수 있습니다. 이러한 입찰 전략으로 검색 캠페인을 하이브리드(하지만 표준 포트폴리오는 아님) 포트폴리오에 추가할 수 있습니다.</li><li>(베타 기능) [!UICONTROL Target 노출 공유]: 하이브리드 최적화 베타에 참여하는 경우 이 전략으로 캠페인을 구성하고 선택적으로 타겟 노출 공유, 타겟 광고 위치 및 클릭당 최대 비용을 설정할 수 있습니다. 주의: 이 옵션은 하이브리드 포트폴리오에서 아직 지원되지 않으므로 표준 포트폴리오에 추가할 수 없습니다.</li><li>(베타 기능) [!UICONTROL 클릭 최대화]: 하이브리드 최적화 베타에 참여하는 경우 이 전략으로 캠페인을 구성하고 선택적으로 클릭당 목표 최대 비용을 설정할 수 있습니다. 이 전략을 사용하는 캠페인을 표준 또는 하이브리드 포트폴리오에 포함할 수 있습니다. 하이브리드 포트폴리오에서 이 전략을 사용하려면 포트폴리오의 목표만 포함해야 합니다 [!DNL Adobe] 속성(지표)을 사용할 수 있으며, Advertising Cloud Search 목표에 대한 업로드를 활성화해야 합니다 [!DNL Microsoft Ads].</li></ul>하이브리드 최적화 베타에 아직 참여하지 않고 참가하려면 [!DNL Adobe] 계정 관리자. |
-| [!UICONTROL Advertising Insights] | 을 제외한 모든 인사이트 [!UICONTROL 쿼리 교차 일치] 및 [!UICONTROL 하이브리드 Portfolio 설정 준비] 이제 베타 버전이 출시되었습니다. |
+| [!UICONTROL 대상자] | (고객 일치 타겟팅에 적합한 [!DNL Microsoft Advertising] 계정) 이제 모든 사용자는 이메일 주소가 포함된 CSV 파일을 업로드하여 고객 일치 대상을 만들고 관리할 수 있습니다. 해당 데이터는 SHA-256 알고리즘을 사용하여 해시해야 합니다. |
+| [!UICONTROL 캠페인] | 옵트인하는 광고주는 다음 Beta 기능을 사용할 수 있습니다.<ul><li>([!DNL Microsoft Advertising] 계정) [!DNL Microsoft Audience Ads]를 포함한 [!DNL Microsoft Audience Network]의 기존 기본 광고 캠페인에 대한 동기화, 읽기 전용 가시성 및 보고(뷰스루 데이터 포함) 지원</li><li>([!DNL Google Ads] 및 [!DNL Microsoft Advertising] 계정) Advertising Cloud Search 내에서 [!DNL Google Ads] 캠페인 및 캠페인 구조를 [!DNL Microsoft Advertising]으로 가져오는 기능</li></ul>Beta 프로그램에 관심이 있는 경우 Adobe 계정 관리자에게 문의하십시오. |
+| [!UICONTROL 캠페인]<br><br>[!UICONTROL 포트폴리오] | ([!DNL Microsoft Advertising] 캠페인) 다음 입찰 전략이 지원됩니다.<ul><li>(일반 가용성) [!UICONTROL 전환 최대화], [!UICONTROL 타겟 CPA] 및 [!UICONTROL 타겟 광고 투자 수익률]: 이제 모든 사용자가 이 전략을 사용할 수 있습니다. 이러한 입찰 전략을 사용하여 검색 캠페인을 하이브리드(표준에는 적용되지 않음) 포트폴리오에 추가할 수 있습니다.</li><li>(Beta 기능) [!UICONTROL 타겟 노출 점유율]: 하이브리드 최적화 Beta에 참여하는 경우 이 전략으로 캠페인을 구성하고 필요한 경우 타겟 노출 점유율, 타겟 광고 위치 및 클릭당 최대 비용을 설정할 수 있습니다. 주의: 이 옵션은 아직 하이브리드 포트폴리오에서 지원되지 않으며 표준 포트폴리오에 추가할 수 없습니다.</li><li>(Beta 기능) [!UICONTROL 클릭 수 최대화]: 하이브리드 최적화 Beta에 참여하는 경우 이 전략으로 캠페인을 구성하고 필요한 경우 클릭당 최대 비용을 설정할 수 있습니다. 표준 또는 하이브리드 포트폴리오에 이 전략을 사용하는 캠페인을 포함할 수 있습니다. 하이브리드 포트폴리오에서 이 전략을 사용하려면 포트폴리오의 목표에는 [!DNL Adobe] 속성(메트릭)만 포함되어야 하며 Advertising Cloud Search 목표를 [!DNL Microsoft Ads]에 업로드할 수 있어야 합니다.</li></ul>아직 하이브리드 최적화 Beta에 참여하지 않았으며 가입하고자 하는 경우 [!DNL Adobe] 계정 관리자에게 문의하십시오. |
+| [!UICONTROL 광고 인사이트] | [!UICONTROL 쿼리 교차 일치] 및 [!UICONTROL 하이브리드 포트폴리오 설정 준비]를 제외한 모든 인사이트는 이제 Beta 기능이 아닙니다. |
 | [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (4월 11일, [!DNL Google Ads] 계정) Advertising Cloud Search는 모든 API 호출을 레거시 [!DNL Google AdWords API]에서 최신 [!DNL Google Ads API]로 전환했습니다. 새 [!DNL Google Ads API]로 이동하면 기존 기능과의 연속성이 보장되며 [!DNL Google’s] 최신 [!DNL Ads] 기능에 액세스할 수 있습니다.<br><br>일부 기능은 아직 새 API로 업데이트되지 않았으며 일시적으로 사용할 수 없습니다.<ul><li>위치 확장:<ul>위치 확장은 [!UICONTROL 확장] 보기에 표시되지 않습니다.</li><li>확장 기능을 사용할 수 없습니다.</li><li>위치에 대한 필터가 작동하지 않습니다.</li></li></ul><li>[!UICONTROL Advertising Insights]: [!UICONTROL 노출 점유율 누락] 및 [!UICONTROL 쿼리 교차 일치 Beta] 분석을 사용할 수 없습니다.</li></ul>4월 말까지 위치 확장 기능이 복구될 것으로 예상하고 있습니다. 영향을 받는 [!UICONTROL Advertising Insights] 모듈 또한 복원할 수 있는 시기가 결정되면 예상 날짜가 포함된 업데이트를 보내드리겠습니다. |
-| Adobe Analytics와의 통합 | (4월 7일) Advertising Cloud이 보내는 데이터 피드에서 [!DNL Analytics], 데이터 [!DNL Google Ads] 및 [!DNL Microsoft Advertising] 반응형 검색 광고(RSA)는 [!UICONTROL 광고 유형] &quot;[!UICONTROL 응답형 검색 광고]&quot;라는 메시지가 표시됩니다. 이전에는 이 [!UICONTROL 광고 유형] &quot;[!UICONTROL 텍스트 광고].&quot; 비활성 캠페인의 RSA는 재분류되지 않습니다.<br><br>재분류된 RSA의 경우 [!UICONTROL 응답형 광고 제목] 는 이제 첫 번째 헤드라인과 [!UICONTROL 응답형 광고 설명] 가 첫 번째 설명으로 채워집니다. |
+| Adobe Analytics와의 통합 | (4월 7일) Advertising Cloud가 [!DNL Analytics]로 전송하는 데이터 피드에서 [!DNL Google Ads] 및 [!DNL Microsoft Advertising] 반응형 검색 광고(RSA)에 대한 데이터는 새 클릭 수를 수신할 때 [!UICONTROL 광고 유형] “[!UICONTROL 반응형 검색 광고]”로 재분류됩니다. 이전에는 [!UICONTROL 광고 유형] “[!UICONTROL 텍스트 광고]”에 대한 데이터가 포함되었습니다. 비활성 캠페인의 RSA는 재분류되지 않습니다.<br><br>재분류된 RSA의 경우, 이제 [!UICONTROL 반응형 광고 제목]이 첫 번째 헤드라인으로 채워지고 [!UICONTROL 반응형 광고 설명]이 첫 번째 설명으로 채워집니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
