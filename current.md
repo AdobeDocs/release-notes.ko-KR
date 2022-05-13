@@ -80,7 +80,7 @@ Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/do
 
 | 기능 | 설명 |
 | ------- |-------|
-| 자연어 검색 | 통합 검색의 단일 인터페이스를 통해 모든 질문에 대한 즉각적인 답변을 얻으십시오. 이 기능은 Experience Platform 및 Journey Optimizer의 모든 페이지에서 항상 사용할 수 있습니다. |
+| 자연어 검색 | 통합 검색의 단일 인터페이스를 통해 모든 질문에 대한 즉각적인 답변을 얻으십시오. 이 기능은 Experience Platform 및 Journey Optimizer의 모든 페이지에서 언제든지 사용할 수 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -205,7 +205,7 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
    _에셋의 새로운 기능_
 
    * 이제 Experience Manager Dynamic Media는 사용자 인터페이스에서 [하나의 별칭 계정을 구성](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-alias-account.html?lang=ko)할 수 있는 유연성을 제공하므로 즉시 사용 가능한 [!UICONTROL Dynamic Media] URL 및 Viewer Embed 코드가 업데이트됩니다. 이는 리브랜딩과 같은 비즈니스 컨텍스트에 대한 업데이트를 반영하여 SEO에 긍정적인 영향을 미칩니다.
-   * 이제 Experience Manager Assets 사용자 인터페이스를 사용하여 다음을 수행할 수 있습니다.
+   * 이제 Experience Manager Assets 사용자 인터페이스를 사용하여 다음과 같은 작업을 수행할 수 있습니다.
       * 저장소에서 [중복 에셋 감지](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=ko#detect-duplicate-assets)를 구성합니다.
       * 이미지에 [디지털 워터마크 추가](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/watermark-assets.html?lang=ko)를 구성합니다.
    * 이제 관리자는 대량 다운로드를 위한 이메일 서비스를 구성할 수 있습니다. 이를 통해 사용자는 Experience Manager Assets 인터페이스에서 [대량 다운로드에 대한 이메일 알림을 활성화](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/download-assets-from-aem.html?lang=ko#enable-email-notifications-for-large-downloads)할 수 있습니다. 사용자는 다운로드 프로세스가 완료되면 아카이브된 zip 폴더의 다운로드 링크가 포함된 이메일 알림을 수신하게 됩니다.
@@ -268,7 +268,7 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
    * Cloud Manage 랜딩 페이지 경험이 새로워져 탐색 기능이 개선되고, 간단하게 그리드/타일 보기로 전환되고, 빠른 프로그램 요약을 위한 팝업이 제공됩니다.
    * 새 실패 임계값(`< D`)이 [안정성 평가 지표](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=ko#understanding-code-quality-rules)에 추가되었습니다.
 
-      * 주로 잘못된 인덱스 및 워크플로 프로세스와 관련하여, 시스템 안정성에 영향을 미치는 심각한 품질 문제가 발생하면 고객은 해당 문제가 해결될 때까지 배포할 수 없습니다.
+      * 주로 잘못된 인덱스 및 워크플로 프로세스와 관련하여 시스템 안정성에 영향을 미치는 심각한 품질 문제가 발생하면 고객은 해당 문제가 해결될 때까지 배포할 수 없습니다.
    * BannedPath [품질 규칙](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en#understanding-code-quality-rules)의 심각도가 차단에서 심각으로 변경되었습니다.
    * 파이프라인 마법사는 관련 [웹 계층 구성 파이프라인](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#web-tier-config-pipelines)을 구성하기 전에 Experience Manager 환경 업데이트가 필요한 시기를 사용자에게 알려 줍니다.
 
@@ -544,4 +544,4 @@ Document Cloud 도움말은 다음을 참조하십시오.
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ko)는 전략을 다루고 기존 비즈니스 문제를 빠르게 해결하기 위한 반복 가능한 구현입니다. 각 블루프린트는 고가치 비즈니스 문제, 아키텍처, 구현 단계, 기술 고려 사항 및 관련 문서 링크를 설명하는 일련의 아티팩트를 제공합니다.
 
-[상단](#events)
+[맨 위로](#events)
