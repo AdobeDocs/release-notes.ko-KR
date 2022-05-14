@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8ddc70389416b26d1cd0c6be5a60c1d34f2cc954
+source-git-commit: c3e59ee55c248878950ccf28a97b778dac69e31a
 workflow-type: tm+mt
-source-wordcount: '4974'
+source-wordcount: '4977'
 ht-degree: 52%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 52%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최근 업데이트: **2022년 5월 13일**
+최근 업데이트: **2022년 5월 14일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -406,6 +406,8 @@ Experience League에 새로 게시된 비디오 이벤트:
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
 | 2022년 5월 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | 비디오 | Marketo 로드맵에 대해 학습합니다. 그런 다음 Marketo 인스턴스를 제품으로 인식하는 것의 중요성을 살펴봅니다. 새로 게시된 이 게시에서 프로그램 구성원 사용자 정의 필드, Marketo Engage 팁과 트릭 등의 잠재력을 잠금 해제하는 방법에 대한 조언을 얻을 수 있습니다 [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) 2021년 8월부터 지금 Experience League에 있습니다. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### 주요 Marketo Engage 업데이트
 
