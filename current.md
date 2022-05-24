@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 181c2ee19d1a3687355876f70f25c6e110a90ebc
+source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
 workflow-type: tm+mt
-source-wordcount: '4971'
+source-wordcount: '4935'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 99%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최근 업데이트: **2022년 5월 14일**
+최근 업데이트: **2022년 5월 24일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -39,7 +39,7 @@ ht-degree: 99%
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (업데이트됨) **5월 24일**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -55,11 +55,10 @@ ht-degree: 99%
 
 Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-**2022년 5월 13일**&#x200B;에 업데이트됨
+**2022년 5월 24일**&#x200B;에 업데이트됨
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
-| [Adobe Analytics - Experience Makers - The Skill Exchange](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) | The Skill Exchange | 전적으로 Adobe Analytics에 초점을 맞춘 3시간 길이의 무료 디지털 학습 이벤트에 참여해 보십시오. 작업 영역을 가장 잘 아는 전문가 및 동료에게 실시간으로 질문할 수 있습니다.<br>2022년 5월 18일 @ 1:30pm-4:30pm EST<br> [세부 정보 및 등록](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) |
 | [Adobe Campaign - 고객 성공 웨비나 시리즈](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Adobe Campaign을 통해 고객 여정을 개선합니다. | Streamotion의 Kayo, Bungy 및 Flash 브랜드의 참여 운영 책임자인 Anja Starun과의 실시간 Peer2Peer 토론에 참여해 보십시오. 그녀의 팀이 Adobe Campaign을 사용하여 개별화된 고객 여정을 만들기 위해 구현한 성공적인 전략에 대해 직접 들어보십시오. <br>**일자:** 5월 26일 @ 오후 3시(EST) <br>[세부 정보 및 등록](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Journey Optimizer로 푸시 알림 - 푸시용으로 모바일 앱을 쉽게 구성하는 방법](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizer를 사용한 푸시 알림의 일반적인 사용 사례에 대해 알아보고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술적인 세부 정보를 살펴보십시오. <br>**일자:** 2022년 5월 12일 @ 오전 9시 30분(PDT)<br>[일정 및 이전 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=kr) |
 | [Adobe Target 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Q&amp;A Coffee Break | Adobe Target 제품 팀의 Brent Kostak 및 Drew Burns에 참여하여 공유 대상, Real-Time CDP, 자사 데이터, 통합 개인화 워크플로 등에 대한 Adobe Target 질문에 답변할 수 있습니다.<br>최근 [실시간 개인화 웨비나](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012)를 시청하고 Adobe Target 커뮤니티의 [Coffee Break 스레드](https://adobe.ly/3MyiDHa)에서 전문가에게 추가적인 질문을 하십시오.<br>**일자:** 2022년 5월 25일 @ 오전 8시(PDT) <br>[세부 정보 및 등록](https://adobe.ly/3MyiDHa) |
@@ -348,6 +347,8 @@ Adobe Commerce 릴리스 정보에 대한 다음 링크를 참조하십시오.
 Adobe Campaign은 온라인 및 오프라인 마케팅 채널 간에 직관적이고, 자동화된 방식으로 일대일 메시지를 제공합니다. 이제 고객이 습관 및 선호도에 따라 결정된 작업 환경을 통해 원하는 사항을 예측할 수 있습니다.
 
 ### 최신 Campaign 제품 릴리스
+
+**최신 릴리스:** [Campaign Standard 릴리스 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (2022년 6월)
 
 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ko), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) 및 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 릴리스 정보에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
 
