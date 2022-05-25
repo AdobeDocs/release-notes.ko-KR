@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
+source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
 workflow-type: tm+mt
-source-wordcount: '4935'
+source-wordcount: '4933'
 ht-degree: 99%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 ![배너](assets/experience-cloud-banner-3.png)
 
-[Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home)를 통해 성공적인 Experience Maker로서의 길을 시작해 보십시오. 방대한 입문용 문서 라이브러리, 셀프 가이드 튜토리얼, 입문용 비디오, 모든 레벨과 역할을 위한 과정, 동료들의 온라인 커뮤니티, 필요할 경우 전문가 지원을 찾아보십시오.
+[ Experience League](https://experienceleague.adobe.com/?lang=en#home)를 통해 성공적인 Experience Maker로서의 길을 시작해 보십시오. 방대한 입문용 문서 라이브러리, 셀프 가이드 튜토리얼, 입문용 비디오, 모든 레벨과 역할을 위한 과정, 동료들의 온라인 커뮤니티, 필요할 경우 전문가 지원을 찾아보십시오.
 
 시작할 준비가 되셨습니까? [약 5분 분량의 퀴즈를 풀고 당첨되어 보십시오.](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)
 
@@ -49,7 +49,7 @@ ht-degree: 99%
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Digital Experience 블루프린트 - 튜토리얼](#blueprints)
 
-도움이 필요하십니까? [Adobe Experience League](https://experienceleague.adobe.com/?lang=ko-KR/#home)에서 제품 및 기술 문서, Adobe에서 제공하는 교육 과정, 비디오 튜토리얼, 빠른 답변, 커뮤니티 통찰력 및 강사 중심의 교육을 확인할 수 있습니다.
+도움이 필요하십니까? [ Experience League](https://experienceleague.adobe.com/?lang=ko-KR/#home)에서 제품 및 기술 문서, Adobe에서 제공하는 교육 과정, 비디오 튜토리얼, 빠른 답변, 커뮤니티 통찰력 및 강사 중심의 교육을 확인할 수 있습니다.
 
 ## ![아이콘](/assets/experience-league.png) [!DNL Experience League] 이벤트 {#events}
 
