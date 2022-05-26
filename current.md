@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
+source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
 workflow-type: tm+mt
-source-wordcount: '4933'
+source-wordcount: '4966'
 ht-degree: 99%
 
 ---
@@ -55,13 +55,14 @@ ht-degree: 99%
 
 Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-**2022년 5월 24일**&#x200B;에 업데이트됨
+**2022년 5월 26일**&#x200B;에 업데이트됨
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
+| [전문가에게 문의: 웹 SDK의 기본 사항](https://www.youtube.com/watch?v=g0KajUfq-S4) | 웨비나 | 데이터 수집 모범 사례 이해 및 사용 <br>[예약 및 지난 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=kr) |
 | [Adobe Campaign - 고객 성공 웨비나 시리즈](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Adobe Campaign을 통해 고객 여정을 개선합니다. | Streamotion의 Kayo, Bungy 및 Flash 브랜드의 참여 운영 책임자인 Anja Starun과의 실시간 Peer2Peer 토론에 참여해 보십시오. 그녀의 팀이 Adobe Campaign을 사용하여 개별화된 고객 여정을 만들기 위해 구현한 성공적인 전략에 대해 직접 들어보십시오. <br>**일자:** 5월 26일 @ 오후 3시(EST) <br>[세부 정보 및 등록](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
-| [Journey Optimizer로 푸시 알림 - 푸시용으로 모바일 앱을 쉽게 구성하는 방법](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizer를 사용한 푸시 알림의 일반적인 사용 사례에 대해 알아보고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술적인 세부 정보를 살펴보십시오. <br>**일자:** 2022년 5월 12일 @ 오전 9시 30분(PDT)<br>[일정 및 이전 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=kr) |
 | [Adobe Target 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Q&amp;A Coffee Break | Adobe Target 제품 팀의 Brent Kostak 및 Drew Burns에 참여하여 공유 대상, Real-Time CDP, 자사 데이터, 통합 개인화 워크플로 등에 대한 Adobe Target 질문에 답변할 수 있습니다.<br>최근 [실시간 개인화 웨비나](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012)를 시청하고 Adobe Target 커뮤니티의 [Coffee Break 스레드](https://adobe.ly/3MyiDHa)에서 전문가에게 추가적인 질문을 하십시오.<br>**일자:** 2022년 5월 25일 @ 오전 8시(PDT) <br>[세부 정보 및 등록](https://adobe.ly/3MyiDHa) |
+| [Journey Optimizer로 푸시 알림 - 푸시용으로 모바일 앱을 쉽게 구성하는 방법](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizer를 사용한 푸시 알림의 일반적인 사용 사례에 대해 알아보고 Adobe Experience Platform에서 제공하는 푸시용 앱을 구성하는 방법에 대한 기술적인 세부 정보를 살펴보십시오. <br>**일자:** 2022년 5월 12일 @ 오전 9시 30분(PDT)<br>[일정 및 이전 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe [!DNL Developers Live]: Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=kr) | 온디맨드 비디오 | _Adobe Developers Live: Commerce 2022_&#x200B;는 다양한 배경과 하나의 목적을 가진 개발자와 경험 빌더를 한데 모아 놀라운 통합 경험을 만듭니다. 이 하루 동안의 가상 컨퍼런스에서는 중요한 Commerce 및 오픈 소스 개발자 업데이트, 기술 세션, 커뮤니티 네트워킹 기회 등을 제공합니다. |
 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=kr) | 온디맨드 비디오 | Marketo 로드맵의 중요성과 잘못된 계획을 피하는 방법에 대해 알아보십시오. 현재 Experience League에서 2021년 8월부터 [!DNL Marketo] Skill Exchange에서 프로그램 멤버 맞춤형 필드의 잠재적인 기능을 잠금 해제하는 방법, Marketo Engage 팁 및 트릭 등에 대한 조언을 얻으십시오. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | 온디맨드 세션 | Adobe 경영진, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc., CEO John Donahoe, NIKE, Inc. 및 American Red Cross의 CEO Gail J. McGovern으로부터 고객 경험이 어떻게 디지털 경제의 자금인지 알아보십시오.<br>Adobe Summit 2022의 [온디맨드 세션](https://business.adobe.com/summit/2022/sessions.html)을 살펴보십시오. |
