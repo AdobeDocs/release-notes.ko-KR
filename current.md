@@ -6,10 +6,10 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
+source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
-source-wordcount: '4966'
-ht-degree: 99%
+source-wordcount: '5033'
+ht-degree: 97%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 99%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최근 업데이트: **2022년 5월 24일**
+최근 업데이트: **2022년 5월 27일**
 
-* [[!DNL Experience League] 이벤트](#events)
+* [[!DNL Experience League] events](#events) (업데이트됨) **5월 27일**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 중앙 인터페이스 구성 요소 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,10 +55,11 @@ ht-degree: 99%
 
 Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-**2022년 5월 26일**&#x200B;에 업데이트됨
+**2022년 5월 27일**&#x200B;에 업데이트됨
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
+| [Experience Makers Government 포럼](https://adobegovforum.govexec.com/agenda/) | 온디맨드 비디오 | 5월 10일 제13회 연례 AEMGF는 가상 참석자와 개인 참석자의 결합으로 성공적이었습니다. 의 주제에 초점을 맞춘 스테이징 및 브레이크아웃 세션 _사람들을 우선시하는 디지털 경험_. 상위 세션 포함 _사냥꾼은 어떻게 우리가 파블로 에스코바르를_, _CX의 미래_, 및 _창의성의 황금기대와 근대공간_. |
 | [전문가에게 문의: 웹 SDK의 기본 사항](https://www.youtube.com/watch?v=g0KajUfq-S4) | 웨비나 | 데이터 수집 모범 사례 이해 및 사용 <br>[예약 및 지난 이벤트](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=kr) |
 | [Adobe Campaign - 고객 성공 웨비나 시리즈](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Adobe Campaign을 통해 고객 여정을 개선합니다. | Streamotion의 Kayo, Bungy 및 Flash 브랜드의 참여 운영 책임자인 Anja Starun과의 실시간 Peer2Peer 토론에 참여해 보십시오. 그녀의 팀이 Adobe Campaign을 사용하여 개별화된 고객 여정을 만들기 위해 구현한 성공적인 전략에 대해 직접 들어보십시오. <br>**일자:** 5월 26일 @ 오후 3시(EST) <br>[세부 정보 및 등록](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Adobe Target 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Q&amp;A Coffee Break | Adobe Target 제품 팀의 Brent Kostak 및 Drew Burns에 참여하여 공유 대상, Real-Time CDP, 자사 데이터, 통합 개인화 워크플로 등에 대한 Adobe Target 질문에 답변할 수 있습니다.<br>최근 [실시간 개인화 웨비나](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012)를 시청하고 Adobe Target 커뮤니티의 [Coffee Break 스레드](https://adobe.ly/3MyiDHa)에서 전문가에게 추가적인 질문을 하십시오.<br>**일자:** 2022년 5월 25일 @ 오전 8시(PDT) <br>[세부 정보 및 등록](https://adobe.ly/3MyiDHa) |
