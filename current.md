@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8c5b3c3246a9f14e48d77c294143464b1c9e72c0
+source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
 workflow-type: tm+mt
-source-wordcount: '4708'
+source-wordcount: '4696'
 ht-degree: 54%
 
 ---
@@ -218,15 +218,14 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
    * [Dynamic Media 스마트 이미징은 이제 AVIF 파일 형식을 지원합니다](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - WebP에 비해 20% 더 큰 크기를 감소시킨 AVIF를 사용하여 Google Core Web Vital(가장 큰 컨텐츠 페인트)을 더욱 개선합니다. 총 AVIF는 JPEG에 비해 최대 41%의 평균 크기 감소를 제공합니다(일부 이미지에서 76%까지 높이).
    * 이제 Experience Manager Assets Brand Portal은 12시간마다 자동 작업을 실행하여 Experience Manager에 게시된 모든 Brand Portal 자산을 삭제합니다. 따라서 폴더 크기를 임계값 제한 이하로 유지하려면 기여도 폴더에서 자산을 수동으로 삭제할 필요가 없습니다. 자세한 내용은 [Experience Manager Assets Brand Portal의 새로운 기능](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=ko-KR).
 
-      _프리릴리스 채널의 새로운 기능_
+   _프리릴리스 채널의 새로운 기능_
 
    * Experience Manager Assets은 Adobe Sensei AI 기능을 사용하여 이제 [이미지의 색상을 구별하고 수집 시 자동으로 태그로 차이를 적용합니다](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). 이러한 태그는 이미지 색상 구성에 따라 향상된 검색 환경을 제공합니다. 1에서 40 범위의 이미지에 태그가 지정된 색상의 수를 구성하여 나중에 해당 색상을 기반으로 이미지를 검색할 수 있도록 할 수 있습니다.
+
 
 * **Experience Manager Forms as a Cloud Service**
 
    _사전 릴리스 채널의 새로운 기능_
-
-   * **통신 - Forms as a Cloud Service SDK에서 문서 조작 API 지원** -
 
    * **Microsoft® Power Automate와 적응형 Forms 통합** - 이제 제출 시 Microsoft® Power Automated Cloud Flow를 실행하도록 적응형 양식을 구성할 수 있습니다. 구성된 적응형 양식은 캡처된 데이터, 첨부 파일 및 기록 문서를 Power Automatic Cloud Flow로 전송하여 처리합니다. Microsoft® Power Automate의 기능을 활용하여 사용자 정의 데이터 캡처 경험을 구축하고 캡처된 데이터를 중심으로 비즈니스 로직을 구축하고 고객 워크플로우를 자동화할 수 있습니다.
    * **적응형 양식 만들기 마법사** - 비즈니스 사용자에게 친숙한 마법사를 사용하여 응용 Forms을 빠르게 작성할 수 있습니다. 이 마법사는 적응형 양식을 만들기 위해 사전 구성된 템플릿, 스타일 지정, 필드 및 제출 옵션을 쉽게 선택할 수 있도록 빠른 탭 탐색을 제공합니다.
