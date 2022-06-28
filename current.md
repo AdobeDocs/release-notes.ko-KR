@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
+source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
 workflow-type: tm+mt
-source-wordcount: '4696'
-ht-degree: 98%
+source-wordcount: '4816'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 98%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트: **2022년 6월 12일**
+최신 업데이트: **2022년 6월 28일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -53,10 +53,12 @@ ht-degree: 98%
 
 [Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.](https://experienceleague.adobe.com/events/?lang=en)
 
-업데이트 날짜: **2022년 6월 10일**
+업데이트 날짜: **2022년 6월 28일**
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
+| [고급 데이터 인텔리전스를 활용하여 개인화 향상](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 고객 성공 웨비나 | Adobe 전문가와 함께 Adobe Analytics의 고급 기능을 통해 조직의 분석가 및 마케터가 심도 있는 데이터 분석을 가속화하고 시기 적절한 인사이트를 조정하여 채널, 순간 및 구매 단계에서 보다 개인화된 고객 경험을 제공하는 방법을 알아보십시오.<br>**날짜:** 7월 6일 오후 3시 AEST - [세부 사항 및 등록](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target - 성공을 위한 기술 강화](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | Adobe Target의 핵심 개념과 기능을 이해하여 브랜드 경험을 제네릭에서 천재로 변환하는 AI의 기능을 테스트, 개인화 및 인지할 수 있습니다.<br>**날짜:** 6월 30일~7월 1일 - [세부 사항 및 등록](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 | Adobe Campaign, Journey Optimizer - [크로스 채널 과제: 규모에 맞는 개인화](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | 가상 이벤트 | 변화의 속도에 보조를 맞추고, 마케팅 기술을 중요한 원동력으로 사용하며, 더욱 데이터 중심적이 되는 것에 대해 451 Research, 리서치 디렉터인 Sheryl Kingstone의 이야기를 들어보십시오. 또한 Adobe Summit 2022에서 공유된 중요한 세션과 팁 및 요령을 다시 살펴보며, 이 세션에서는 채널 전체에 걸쳐 개인화를 촉진할 수 있는 방법에 대한 전문가의 이야기를 들을 수 있습니다.<br>**일자:** 6월 14일 - [세부 정보 및 등록](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
 | [자세히 살펴보기 - Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems - 가상 이벤트 | 작년에 출시된 새로운 기능, 개발 비하인드 스토리 업데이트, 그리고 남은 2022년에 대한 전망을 살펴보십시오. <br>**일자:** 6월 15일 - [세부 정보 및 등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
 | [디지털 전략을 확장하기 위해 신뢰를 구축하고 효과를 전달하는 방법](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | 마스터 라운드 테이블 | 귀사의 디지털 전략의 영향을 효과적으로 전달할 수 있는 방법에 대해 논의할 수 있는 독점적이고 친밀한 대화에 참여하십시오. <br>**일자:** 6월 21일 - [세부 정보 및 등록](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
