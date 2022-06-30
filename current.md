@@ -6,7 +6,7 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4256f9f814955a7819c8f0333ea8ba3bc9c2745a
+source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
 workflow-type: tm+mt
 source-wordcount: '4288'
 ht-degree: 95%
@@ -60,9 +60,9 @@ ht-degree: 95%
 | [고급 데이터 인텔리전스를 활용하여 개인화 향상](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 고객 성공 웨비나 | Adobe 전문가와 함께 Adobe Analytics의 고급 기능을 통해 조직의 분석가 및 마케터가 심도 있는 데이터 분석을 가속화하고 시기 적절한 인사이트를 조정하여 채널, 순간 및 구매 단계에서 보다 개인화된 고객 경험을 제공하는 방법을 알아보십시오.<br>**날짜:** 7월 6일 오후 3시 AEST - [세부 사항 및 등록](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target - 성공을 위한 기술 강화](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | Adobe Target의 핵심 개념과 기능을 이해하여 브랜드 경험을 제네릭에서 천재로 변환하는 AI의 기능을 테스트, 개인화 및 인지할 수 있습니다.<br>**날짜:** 6월 30일~7월 1일 - [세부 사항 및 등록](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
-자세한 내용은 [이벤트](https://experienceleague.adobe.com/events/?lang=en) Experience League 시 업데이트되지 않습니다.
-
 {style=&quot;table-layout:auto&quot;}
+
+자세한 내용은 [이벤트](https://experienceleague.adobe.com/events/?lang=en) Experience League 시 업데이트되지 않습니다.
 
 ## ![아이콘](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
