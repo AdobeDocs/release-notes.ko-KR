@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 42023ff20f7b6811a608b640866abb9f6d7ccc18
+source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
 workflow-type: tm+mt
 source-wordcount: '5268'
 ht-degree: 51%
@@ -304,10 +304,10 @@ Adobe Commerce 릴리스 정보에 대한 다음 링크를 참조하십시오.
 | 2022년 7월 | [페이지 빌더 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html) | 제품 설명서 | 기본 컨텐츠 구성 요소 작성을 위한 3가지 연습 등 Page Builder 기능에 대해 알아보십시오. 이 안내서는 관리자를 위한 것입니다. 이 섹션에서는 코어 Adobe Commerce 구성 및 기능에 대한 기본적인 이해를 가정합니다. |
 | 2022년 7월 | [B2B for Adobe Commerce 안내서](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html) | 관리 안내서 | 기능 구성 및 관리 등 이 모듈의 설치 및 활성화에 대한 자세한 정보를 얻습니다. |
 | 2022년 7월 | [Adobe Commerce용 B2B - 자습서](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en) | 비디오(다중) | 에 대해 알아보기 [!UICONTROL 회사] 페이지를 Adobe Commerce에 추가합니다. 회사 계정을 관리할 수 있으며 승인 대기 중인 요청이 목록 맨 위에 나타납니다. |
-| 2022년 7월 | [품질 패치 도구 사용](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | 유형 | 에 대해 알아보기 [!UICONTROL 품질 패치 도구]- Adobe Commerce 및 Magento Open Source에 대한 품질 패치를 제공하는 명령줄 툴입니다. |
+| 2022년 7월 | [품질 패치 도구 사용](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | 비디오 | 에 대해 알아보기 [!UICONTROL 품질 패치 도구]- Adobe Commerce 및 Magento Open Source에 대한 품질 패치를 제공하는 명령줄 툴입니다. |
 | 2022년 7월 | [사이트 전체 분석 도구 대시보드](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html) | 비디오 | 사이트 전체 분석 도구에 대해 알아봅니다. 이 기능은 Adobe Commerce 설치의 보안 및 운영을 보장하기 위한 자세한 시스템 통찰력과 권장 사항이 포함된 사전 예방적, 셀프 서비스 도구 및 중앙 저장소입니다. |
 | 2022년 7월 | [결제 서비스 사용](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html) | 비디오 | 사용 방법 알아보기 [!UICONTROL 결제 서비스] 운영 오버헤드를 줄이려면 매출 증대 |
-| 2022년 7월 | [주문 상태 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | 유형 | 주문 상태 및 주문 세부 사항을 확인하는 방법과 필요한 경우 주문 상태를 변경하는 방법을 알아봅니다. |
+| 2022년 7월 | [주문 상태 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | 비디오 | 주문 상태 및 주문 세부 사항을 확인하는 방법과 필요한 경우 주문 상태를 변경하는 방법을 알아봅니다. |
 | 2022년 7월 | [마케팅 도구](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en) | 비디오(다중) | 카탈로그 가격 규칙 만들기, 장바구니 가격 규칙, 관련 제품 규칙 관리, 라이브 검색 등에 대해 알아봅니다. |
 | 2022년 7월 | [비즈니스 가치를 제공하는 컨텐츠 개인화의 혁신](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en) | 비디오 | Skill Builder 프레젠테이션을 보고 컨텐츠 작성을 대중화하고, 옴니채널 게재를 간소화하고, 개인화를 규모에 맞게 개인화할 수 있는 Adobe의 컨텐츠 솔루션의 최근 혁신적인 기능에 대해 알아보십시오. |
 | 2022년 7월 | [카탈로그 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html) | 비디오 | Adobe Commerce의 카탈로그 관리에 대해 알아봅니다. 카테고리를 만들고, 카테고리의 제품을 관리하고, 인벤토리를 관리하는 등의 작업을 수행합니다. |
