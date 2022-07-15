@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
+source-git-commit: 1e283c634ce9af45252e7df5c1b300e244e8196f
 workflow-type: tm+mt
-source-wordcount: '4288'
-ht-degree: 100%
+source-wordcount: '4395'
+ht-degree: 96%
 
 ---
 
@@ -431,21 +431,24 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud DSP]의 새로운 기능 {#adcloud-dsp}
 
-마지막 업데이트: **2022년 6월 8일**, 5월 31일 릴리스
+마지막 업데이트: **2022년 7월 14일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| 맞춤형 보고서 | (Beta 기능) 이제 Advertising Cloud DSP는 고객 데이터 플랫폼(CDP) 내에 구축된 인증된 신호로 구성된 자사 세그먼트를 수집할 수 있습니다. |
+| 맞춤형 보고서 | (31) 5월 5일 베타 기능) 이제 Advertising Cloud DSP에서 고객 데이터 플랫폼(CDP) 내에서 구축된 인증된 신호로 구성된 자사 세그먼트를 수집할 수 있습니다. |
+| [!UICONTROL 인벤토리] | (6월 29일 릴리스) 새로운 기능 [!UICONTROL 인벤토리] > [!UICONTROL 딜] 보기에는 와 동일한 데이터 사용자 지정 기능이 포함되어 있습니다. [!UICONTROL 캠페인] 추가 필터, 열 사용자 지정 및 사용자 지정 보기, 열 정렬 및 데이터 시각화(차트) 보기를 저장하는 옵션을 포함한 보기. 각 행에서 명령 메뉴를 열 수 있습니다 [!UICONTROL ...] 거래 이름 뒤에 |
+| [!DNL Inventory Inspector] | (6월 29일 릴리스) [!UICONTROL 인벤토리] 배치 탭 [!UICONTROL 검사자] 이제 사용자 정의 가능한 데이터 시각화 차트와 다음과 같은 확장된 성능 지표를 포함합니다 [!UICONTROL 뷰가능 비율], [!UICONTROL 클릭 수], 및 [!UICONTROL 어제의 CPM]. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
-마지막 업데이트: **2022년 6월 8일,** 6월 11일 릴리스
+마지막 업데이트: **2022년 7월 14일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL Insights] | 이제 노출 점유율 누락 분석을 Beta 기능으로 다시 사용할 수 있습니다. |
+| [!UICONTROL Insights] | (6월 11일 릴리스) 이제 노출 공유 손실된 분석을 베타 기능으로 다시 사용할 수 있습니다. |
+| [!DNL Advanced Campaign Management] | (6월 20일) ([!DNL Google Ads] 및 [!DNL Microsoft Advertising] 캠페인) 이제 인벤토리의 내용을 기반으로 검색 엔진별 광고 템플릿을 사용하여 동적 응답형 검색 광고 변형을 만들 수 있습니다. [!UICONTROL 캠페인] > [!UICONTROL 고급(ACM)]. |
 
 {style=&quot;table-layout:auto&quot;}
 
