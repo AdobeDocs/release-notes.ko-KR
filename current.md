@@ -2,18 +2,18 @@
 title: 최신 릴리스 정보
 description: ' [!DNL Experience Cloud] 제품 및 서비스의 최신 릴리스 정보, 새로운 기능 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise] 및 [!DNL Document Cloud]에 대한 새로운 도움말과 튜토리얼을 찾아보십시오.'
 doc-type: release notes
-last-update: June 2022
+last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 1e283c634ce9af45252e7df5c1b300e244e8196f
+source-git-commit: 42023ff20f7b6811a608b640866abb9f6d7ccc18
 workflow-type: tm+mt
-source-wordcount: '4395'
-ht-degree: 96%
+source-wordcount: '5268'
+ht-degree: 51%
 
 ---
 
-# Adobe Experience Cloud 릴리스 정보 - 2022년 6월
+# Adobe Experience Cloud 릴리스 정보 - 2022년 7월
 
 ![배너](assets/experience-cloud-banner-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 96%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트: **2022년 6월 28일**
+최신 업데이트: **2022년 7월 15일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -51,14 +51,13 @@ ht-degree: 96%
 
 ## ![아이콘](/assets/experience-league.png) [!DNL Experience League] 이벤트 {#events}
 
-[Experience League 이벤트](https://experienceleague.adobe.com/events/?lang=en)는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
+Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다. 자세한 내용은 [이벤트](https://experienceleague.adobe.com/events/?lang=en) Experience League 시 2022년 7월에 업데이트됨.
 
-업데이트 날짜: **2022년 6월 28일**
+업데이트됨 **2022년 7월 14일**
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
-| [심층 데이터 인텔리전스를 활용하여 개인화 향상](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 고객 성공 웨비나 | Adobe 전문가와 함께 Adobe Analytics의 고급 기능을 통해 귀사의 분석가 및 마케터가 심층 데이터 분석을 가속화하고 시기적절한 통찰력을 확보하여 채널, 순간 및 구매 단계에서 보다 개인화된 고객 경험을 제공할 수 있는 방법을 알아보십시오.<br>**일자:** 7월 6일 오후 3시(AEST) - [세부 정보 및 등록](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
-| [Adobe Target - 성공을 위한 스킬 업](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | Adobe Target의 핵심 개념과 기능을 이해하고 테스트, 개인화 및 브랜드 경험을 범용에서 천재성으로 바꿔 주는 AI의 힘에 대해 알아봅니다.<br>**일자:** 6월 30일, 7월 1일 - [세부 정보 및 등록](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
+| [전문가에게 문의: 데이터 저장소 및 데이터 준비](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | Adobe Experience Cloud의 데이터 수집에 대한 이 세 가지 세션의 마지막 단계에서는 데이터 수집을 위한 데이터 준비와 같은 기능을 포함하여 Adobe의 고급 데이터 수집 기능에 대해 자세히 살펴봅니다. 이 세션이 끝날 때 참석자는 디지털 경험에서 데이터를 수집할 수 있는 최신 및 강력한 기능을 확신하고 있습니다&#x200B;<br>**날짜:** 7월 21일 오후 9시 PST - [세부 사항](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[예정된 에피소드와 과거](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=kr) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -94,7 +93,7 @@ Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/do
 
 [!DNL Experience Platform] 및 [!UICONTROL Mobile SDK]에 대한 최신 릴리스 정보와 새로운 설명서:
 
-릴리스 예정일: **2022년 7월 22일**
+릴리스 예정일: **2022년 7월 27일**
 
 * [Experience Platform 릴리스 정보](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ko)
 
@@ -104,8 +103,11 @@ Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/do
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022년 6월 | [관리자를 위한 Real-time CDP 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2022.1.rtcdp) | 교육 과정 | [!DNL Real-time Customer Data Platform]으로 시작하고 실행하는 데 필요한 관리 작업에 대해 소개합니다. 사용자 관리 및 다른 파트너 및 시스템과의 연결 설정 방법에 대해 알아보십시오. | [!DNL Real-time CDP] |
-| 2022년 6월 | [세그먼트 활성화 성공 모니터링](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/monitoring-the-success-of-segment-activation.html?lang=kr) | 비디오 | 대상까지의 세그먼트 흐름을 모니터링하는 두 가지 주요 방법을 배우십시오. 활성화 파트너에게 세그먼트 프로필을 보낼 때는 특히 문제를 해결할 수 있도록 이 데이터 전송의 성공과 관련된 정보를 반드시 확인해야 합니다. | [!DNL Real-time CDP] |
+| 2022년 7월 | [이벤트 전달 모니터링](https://experienceleague.adobe.com/docs/platform-learn/data-collection/event-forwarding/monitor.html) | 비디오 | 데이터 수집 인터페이스에서 이벤트 전달을 모니터링하는 방법을 알아봅니다. | 데이터 수집 |
+| 2022년 7월 | [데이터 수집 모니터링](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/monitoring-dashboard.html) | 비디오 | 모니터링 대시보드를 사용하여 Adobe Experience Platform에 수집되는 데이터를 모니터링하고 추적하는 방법을 알아봅니다. | 데이터 수집 |
+| 2022년 7월 | [Adobe Experience Platform으로 샘플 데이터 가져오기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=ko-KR) | 문서 | 샘플 데이터를 사용하여 Experience Platform 샌드박스 환경을 설정하는 방법을 알아봅니다. Postman 컬렉션을 사용하여 필드 그룹, 스키마, 데이터 세트를 만든 다음 샘플 데이터를 Experience Platform으로 가져올 수 있습니다. | Experience Platform |
+| 2022년 7월 | [세그먼트 일치 수신 데이터](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-receiving-data.html) | 비디오 | 세그먼트 일치 기능을 사용하면 전략적 파트너가 데이터를 공유할 수 있습니다. 이 비디오에서는 데이터를 승인하고 받는 방법, 데이터를 보고 고유한 세그먼트에 추가할 수 있는 위치를 알아봅니다. | Experience Platform - 세그먼트 |
+| 2022년 7월 | [전문가에게 문의: Real-Time CDP 연결](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-06-23-22.html?lang=en) | Experience League 라이브 비디오 | 데이터 수집에 대한 세 가지 라이브 스트림 세션 중 두 번째 세션에서 Adobe의 가장 좋아하는 전문가가 Adobe RTCDP를 광범위하게 살펴봅니다 [!UICONTROL 연결]: 고객이 서버측 태그 관리 시스템을 사용하여 Adobe이 아닌 대상에 이벤트를 전달할 수 있습니다. | 데이터 수집 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -115,9 +117,9 @@ Adobe Experience Platform Mobile SDK에 대한 [릴리스 정보 및 변경 로�
 
 ## ![아이콘](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-다음 릴리스: **2020년 6월 15일**
+다음 릴리스: **2022년 7월 20일**
 
-최신 업데이트: **2022년 6월 8일**
+마지막 업데이트: **2022년 7월 13일**
 
 * Adobe Analytics [릴리스 정보](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ko)
 * Adobe Analytics [제품 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/analytics.html?lang=ko)
@@ -134,13 +136,13 @@ Adobe Analytics용으로 게시된 새로운 비디오 튜토리얼, 문서 또�
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 6월 | [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/docs/courses/using/analytics-a-1-2022-1-democratizing.html?lang=kr) | 교육 과정 | 디지털 데이터 대중화에서 지원하는 Adobe Analytics의 기능에 대해 알아보십시오. 데이터 대중화는 병목 현상을 제거하고 조직의 핵심 인력이 데이터를 기반으로 정확한 결정을 내릴 수 있도록 지원하는 프로세스입니다. |
+| 2022년 7월 | [2022 플로우 개선 사항](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-improvements.html) | 비디오 | 의 향상된 기능 중 일부에 대해 알아보십시오 [!UICONTROL 흐름] 시각화. 개선 사항으로는 관심 있는 경로의 시작 또는 끝을 구성할 수 있고, 열을 필터링하여 특정 항목을 포함하거나 제외할 수 있으며, 사전 구성 가능한 고급 설정이 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## ![아이콘](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-최신 업데이트: **2022년 5월 19일**
+최신 업데이트: **2022년 7월 12일**
 
 * Customer Journey Analytics [릴리스 정보](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ko)
 * Customer Journey Analytics [제품 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=ko)
@@ -151,12 +153,9 @@ CJA용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정.
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 6월 | [데이터 보기의 바인딩 차원](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/binding-dimensions-in-data-views.html?lang=kr) | 비디오 | 바인딩 차원에 대해 알아보십시오. 이 기능을 사용하면 사용자가 보다 세분화된 지속성 할당 목적으로 한 개의 차원을 선택하여 다른 차원에 연결할 수 있습니다. |
-| 2022년 6월 | [Customer Journey Analytics 랜딩 페이지](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/cja-basics/customer-journey-analytics-landing-page.html) | 비디오 | Customer Journey Analytics 랜딩 페이지는 프로젝트 및 모바일 스코어카드 기본 보기와 학습 섹션을 통해 더욱 효과적으로 시작할 수 있습니다. |
-| 2022년 6월 | [Adobe Analytics 데이터 수집, 매핑 및 변형](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-prep/ingest-map-and-transform-adobe-analytics-data.html) | 비디오 | 데이터 조작 기능을 포함하여 [!DNL Analytics] 데이터에 대한 데이터 준비 기능을 사용하는 방법에 대해 알아보십시오. 예를 들어 Analytics 변수를 새 사용자 정의 필드에 매핑하고 변환 및 계산을 수행할 수 있습니다. |
-| 2022년 6월 | [하위 문자열 구성 요소 설정 구성](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configure-substring-component-settings.html) | 비디오 | 문자열 조작 방법을 사용하여 Customer Journey Analytics 보고서에서 원하는 치수 값 부분을 얻는 방법을 배우십시오. 일단 적용되면 데이터 변환은 소급하여 즉시 발생합니다. |
-| 2022년 6월 | [모바일 스코어카드 만들기](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html) | 비디오 | 경영진 사용자를 위한 대시보드를 구성하고 제공하는 방법에 대해 알아보십시오. |
-| 2022년 6월 | [연결 생성 및 편집 경험](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-connections-creation-and-edit-experience.html) | 비디오 | 롤링 데이터 보존 기간을 활성화하고, 이벤트 타임스탬프에 따라 데이터 채우기를 활성화 및 요청하고, 데이터 세트별로 기존 데이터를 가져오는 방법을 알아보십시오. |
+| 2022년 7월 | [다음 및 이전 항목 패널 구성](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/panels/configure-next-previous-item-panel.html) | 비디오 | [!DNL Customer Journey Analytics]에서 다음 및 이전 항목 패널을 구성하는 방법에 대해 알아봅니다. 이 패널에서는 특정 차원 값에 대한 다음 또는 이전 항목을 식별하기 위한 표와 시각화가 생성됩니다. |
+| 2022년 7월 | [주석 만들기](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/annotations/create-an-annotation.html?lang=en) | 비디오 | 에서 주석을 만드는 방법을 알아봅니다 [!DNL Customer Journey Analytics] 캠페인 시작, 데이터 문제 및 휴일과 같은 이벤트가 발생할 때 프로젝트를 수행합니다. 이 기능은 사용자들에게 이러한 날짜 또는 날짜 범위의 지표 분산에 대해 알려 줍니다. |
+| 2022년 7월 | [빠른 필터 만들기](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter.html) | 비디오 | [!DNL Customer Journey Analytics] 프로젝트에서 바로 빠른 필터를 만들어 전체 필터를 빌드하는 경우의 복잡성을 피할 수 있습니다.  |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -185,82 +184,69 @@ Experience Manager의 새로운 기능, 수정 내용 및 업데이트. 안정�
 
 Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Manager 릴리스 업데이트 및 로드맵](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ko) 페이지를 방문할 것을 권장합니다.
 
-### Experience Manager 제품 업데이트
+### 제품 업데이트 비디오
 
-* **Experience Manager as a Cloud Service**
+* [2022년 6월 릴리스 개요 비디오](https://video.tv.adobe.com/v/344308/?quality=12) 2022.6 릴리스의 요약입니다.
 
-   [2022년 5월 릴리스 개요 비디오](https://video.tv.adobe.com/v/343321/?quality=12)를 시청하여 2022.5.0(2022년 5월) 릴리스에 추가된 기능에 대한 간단한 요약을 살펴보십시오. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+이전 제품 업데이트 비디오:
 
-   * [2022년 4월 릴리스 개요 비디오](https://video.tv.adobe.com/v/342612?quality=12)
-   * [2022년 3월 릴리스 개요 비디오](https://video.tv.adobe.com/v/341465).
-   * [2022년 1월 릴리스 개요 비디오](https://video.tv.adobe.com/v/340120).
-   * [2021년 12월 릴리스 개요 비디오](https://video.tv.adobe.com/v/339278).
-   * [2021년 10월 릴리스 개요 비디오](https://video.tv.adobe.com/v/338253).
-   * [2021년 9월 릴리스 개요 비디오](https://video.tv.adobe.com/v/337381).
+* [2022년 5월 릴리스 개요 비디오](https://video.tv.adobe.com/v/343321/?quality=12) 2022.5.0(2022년 5월) 릴리스에 추가된 기능에 대한 요약은 를 참조하십시오.
+* [2022년 4월 릴리스 개요 비디오](https://video.tv.adobe.com/v/342612?quality=12)
+* [2022년 3월 릴리스 개요 비디오](https://video.tv.adobe.com/v/341465).
+* [2022년 1월 릴리스 개요 비디오](https://video.tv.adobe.com/v/340120).
+* [2021년 12월 릴리스 개요 비디오](https://video.tv.adobe.com/v/339278).
+* [2021년 10월 릴리스 개요 비디오](https://video.tv.adobe.com/v/338253).
+* [2021년 9월 릴리스 개요 비디오](https://video.tv.adobe.com/v/337381).
 
-* **Experience Manager Sites as a Cloud Service**
+### Experience Manager [!DNL Sites] 로서의 [!DNL Cloud Service]
 
-   _프리릴리스 채널의 새로운 기능_
+의 새로운 기능 [!DNL Sites]:
 
-   * 다양한 GraphQL 기능.
-   * 콘텐츠 조각의 헤드리스 사용에 최적화된 [새 콘솔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/content-fragments/content-fragment-console.html?lang=kr).
+* A [새 사용자 인터페이스](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) 이제 컨텐츠 관리자 및 컨텐츠 작성자가 헤드리스 사용 사례에 대한 컨텐츠 조각을 효율적으로 관리(게시, 게시 취소, 복사 및 이동 등의 작업 수행), 검색/필터 및 만들 수 있습니다.
 
-* **Experience Manager Assets as a Cloud Service**
+* 새로운 [목차 구성 요소](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/tableofcontents.html?lang=en) 은 [!UICONTROL 핵심 구성 요소] 그러나 모든 구성 요소를 사용하여 콘텐츠 페이지에서 목차를 자동으로 렌더링합니다. 또한, 서버 측에서 렌더링되고 디스패처에 의해 완전히 캐시되므로 로드하는 것도 효율적입니다.
 
-   _새로운 기능_
+### Experience Manager [!DNL Assets] 로서의 [!DNL Cloud Service]
 
-   * [Dynamic Media 스마트 이미징에서 이제 AVIF 파일 형식을 지원](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - AVIF를 통해 WebP에 비해 20%의 추가 크기를 줄임으로써 Google Core Web Vital(최대 콘텐츠풀 페인트)을 더욱 개선합니다. 전체적으로 AVIF는 JPEG에 비해 최대 41%의 평균 크기 감소를 제공합니다(일부 이미지에서는 76%까지).
-   * 이제 Experience Manager Assets Brand Portal은 12시간마다 자동 작업을 실행하여 Experience Manager에 게시된 모든 Brand Portal 에셋을 삭제합니다. 따라서 폴더 크기를 임계값 제한 이하로 유지하기 위해 기여도 폴더의 에셋을 수동으로 삭제할 필요가 없습니다. [Experience Manager Assets Brand Portal의 새로운 기능](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=kr)을 참조하십시오.
+의 새로운 기능 [!DNL Assets]:
 
-   _프리릴리스 채널의 새로운 기능_
+* Experience Manager [!DNL Assets] 이제에서 Adobe Sensei AI 기능 사용 [이미지의 색상을 구별하고 수집 시 자동으로 태그로 적용합니다](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=kr). 이러한 태그를 통해 이미지 색상 구성에 따라 향상된 검색 환경을 사용할 수 있습니다. 이미지에 태그가 지정된 색상의 수를 1~40개 범위에서 구성할 수 있으므로 나중에 해당 색상을 기준으로 이미지를 검색할 수 있습니다.
 
-   * Experience Manager Assets는 Adobe Sensei AI 기능을 사용하여 이제 [수집 시에 이미지의 색상을 구분하고 차이를 태그로 자동 적용합니다](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=kr). 이러한 태그를 통해 이미지 색상 구성에 따라 향상된 검색 환경을 사용할 수 있습니다. 나중에 해당 색상을 기준으로 이미지를 검색할 수 있도록 이미지에 태그가 지정된 색상 수를 1 - 40 범위 내에서 구성할 수 있습니다.
+### Experience Manager Forms as a Cloud Service
 
+의 새로운 기능 [!DNL Forms]:
 
-* **Experience Manager Forms as a Cloud Service**
+* [통합 [!UICONTROL 응용 Forms] Microsoft® Power Automate 사용](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/forms-microsoft-power-automate-integration.html?lang=en): 이제 제출 시 Microsoft® Power Automated Cloud Flow를 실행하도록 적응형 양식을 구성할 수 있습니다. 구성된 적응형 양식은 캡처된 데이터, 첨부 파일 및 기록 문서를 처리를 위해 Power Automate Cloud Flow로 전송합니다. Microsoft® Power Automatic의 강력한 기능을 활용하면서 사용자 정의 데이터 캡처 환경을 구축하여 캡처된 데이터를 중심으로 비즈니스 로직을 구축하고 고객 워크플로를 자동화할 수 있도록 지원합니다.
 
-   _프리릴리스 채널의 새로운 기능_
+**적응형 양식을 만드는 마법사:** 비즈니스 사용자에게 친숙한 마법사를 사용하여 신속하게 작성할 수 있습니다 [!UICONTROL 응용 Forms]. 마법사는 미리 구성된 템플릿, 스타일, 필드 및 제출 옵션을 손쉽게 선택하여 적응형 양식을 만들 수 있는 빠른 탭 탐색 기능을 제공합니다.
 
-   * **Microsoft® Power Automatic과 Adaptive Forms 통합** – 이제 제출 시 Microsoft® Power Automatic Cloud Flow를 실행하도록 적응형 양식을 구성할 수 있습니다. 구성된 적응형 양식은 캡처된 데이터, 첨부 파일 및 기록 문서를 처리를 위해 Power Automate Cloud Flow로 전송합니다. Microsoft® Power Automatic의 강력한 기능을 활용하면서 사용자 정의 데이터 캡처 환경을 구축하여 캡처된 데이터를 중심으로 비즈니스 로직을 구축하고 고객 워크플로를 자동화할 수 있도록 지원합니다.
-   * **적응형 양식을 만드는 마법사** – 비즈니스 사용자에게 친숙한 마법사를 사용하여 적응형 양식을 신속하게 만들 수 있습니다. 마법사는 미리 구성된 템플릿, 스타일, 필드 및 제출 옵션을 손쉽게 선택하여 적응형 양식을 만들 수 있는 빠른 탭 탐색 기능을 제공합니다.
+### Experience Manager as a Cloud Service 기반
 
-* **Experience Manager as a Cloud Service 기반**
+새로운 기능:
 
-   _새로운 기능_
+5월(2022.5.0) 릴리스 노트에서 언급했듯이 복제 에이전트 관리 화면의 분배 탭에 있는 &quot;트리 추가&quot; 옵션이 제거되었습니다. 콘텐츠 트리 계층이 있는 패키지는 대신 게시 관리 또는 콘텐츠 트리 게시 워크플로를 사용하여 복제해야 합니다..
 
-   * 이전에 더 이상 사용되지 않는 것으로 발표되었던 복제 에이전트 관리 화면의 **[!UICONTROL 배포]** 탭 아래에 있는 **[!UICONTROL 트리 추가]** 옵션은 2022년 6월 20일 또는 그 이후에 곧 제거될 예정입니다. 콘텐츠 트리 계층이 있는 패키지는 대신 [게시 관리](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=kr#manage-publication) 또는 [콘텐츠 트리 게시 워크플로](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=kr#publish-content-tree-workflow)를 사용하여 복제해야 합니다..
-   * 10MB 이상의 콘텐츠 패키지(속성이 있는 노드, 바이너리를 포함하지 않음)를 배포하기 위해 복제 에이전트 관리 화면 또는 복제 API를 사용하는 방법은 더 이상 사용되지 않으며 2022년 9월 12일 또는 그 이후에 곧 시행될 예정입니다. 대신 이러한 대용량 콘텐츠 패키지를 복제하려면 [게시 관리](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#manage-publication) 또는 [콘텐츠 트리 게시 워크플로](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#publish-content-tree-workflow)를 사용해야 합니다. 2022년 7월 복제 에이전트 관리 화면의 **[!UICONTROL 배포]** 탭에 경고 메시지가 나타납니다. 경고 메시지는 이러한 대용량 콘텐츠 패키지를 복제하려는 경우 복제 API를 사용하여 이러한 대용량 콘텐츠 패키지를 복제할 때마다 Experience Manager 오류 로그에도 나타납니다. 9월에는 경고가 오류로 대체됩니다. 따라서 그에 따라 프로세스를 조정하는 것이 좋습니다.
+### [!DNL Cloud Manager]
 
-   _프리릴리스 채널의 새로운 기능_
+새로운 기능:
 
-   * 이제 Experience Manager as a Cloud Service가 통합 쉘과 통합되어 사용자 경험을 개선하고 다른 모든 Experience Cloud 애플리케이션과 통합합니다. 자세한 내용은 [통합 쉘의 Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=kr)를 참조하십시오.
+* [!DNL Cloud Manager] 이제 사용자는 [!UICONTROL 시작] 언제든지 랜딩 페이지에 카드를 넣을 수 있습니다.
 
-
-* **Experience Manager as a Cloud Service 기반 보안**
-
-   * **TLS 1.0 및 TLS 1.1 사용 중단** – 2022년 6월 30일부터 Experience Manager as a Cloud Service는 사용자 시스템과의 보다 안전한 네트워크 통신 및 데이터 교환을 요구할 것입니다. Experience Manager는 TLS(Transport Layer Security) 1.2 프로토콜만 사용합니다. TLS 1.0 및 1.1은 더 이상 사용되지 않습니다.
-
-      TLS 1.0 또는 TLS 1.1을 계속 사용할 경우 Experience Manager as a Cloud Service에 액세스할 수 없게 될 수 있습니다.
-
-### 커뮤니티
-
-* 릴리스된 내용을 다루는 [Experience Manager as a Cloud Service 2022.5.0 릴리스 업데이트 비디오](https://adobe.ly/3NDPR8Y)를 재생하십시오. (10분)
-* GEM 웨비나 – _자세히 살펴보기: Cloud Manager 2022_
-   * 2022년 6월 15일 수요일
-   * 08:00 태평양 표준시, 17:00 중부 유럽 표준시, 20:30 인도 표준시
-   * [여기에서 등록](https://adobe.ly/3t4jfgp).
-   * [토론 스레드](https://adobe.ly/3O0rdzd).
+* The popuover on the [컨텐츠 복원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=en) 이제 환경 세부 사항 페이지의 탭에 사용자가 변경 사항을 로컬로 볼 수 있도록 해주는 유용한 git 명령 목록이 표시됩니다.
 
 ### 새로운 Experience Manager 교육 과정 및 튜토리얼 {#tutorials-aem}
 
 지난 달에 게시된 새로운 비디오, 튜토리얼 및 교육 과정입니다.
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
-| -----------| ---------- | ---------- | ---------- | ------|
-| 2022년 6월 | [[!DNL Forms] 포털 구성 요소](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/forms-portal-components.html?lang=kr) | 비디오 | Forms Cloud Service에서 [!DNL AEM Forms] [!UICONTROL 포털] 구성 요소를 활성화하는 방법을 알아보십시오. | AEM Forms CS |
-| 2022년 6월 | [AEM 및 CIF 프레임워크를 통합하여 풍부하고 매력적인 전자 상거래 경험을 구축하십시오](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aem-and-cif-framework-integration.html?lang=kr) | 비디오 | Adobe의 CIF 프레임워크를 사용하여 일관되고 콘텐츠가 풍부한 몰입형 상거래 경험을 구축하는 방법을 이해하십시오. | AEM 및 CIF 프레임워크 |
-| 2022년 6월 | [SAML 2.0 인증](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/authentication/saml-2-0.html) | 비디오 | 선택한 SAML 2.0 호환 IDP에 대해 최종 사용자(AEM 작성자가 아님)를 설정하고 인증하는 방법에 대해 알아보십시오. | AEM CS |
-| 2022년 6월 | [컨텍스트 인식 클라우드 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/context-aware-fdm.html?lang=kr) | 비디오 | Cloud Service의 AEM Forms에서 컨텍스트 인식 클라우드 구성을 정의하는 방법에 대해 알아보십시오. | AEM Forms |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 2022년 7월 | [엔터프라이즈 워크플로우 관리를 최대한 활용](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=en) | 비디오 | 자산 관리를 위해 워크플로우를 사용하여 얻을 수 있는 이점 및 워크플로우를 신속하게 만드는 방법을 알아봅니다. | AEM - Experience Workflow Management |
+| 2022년 7월 | [Adobe Experience Manager을 통해 헤드리스 경험 제공](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en) | 비디오 | 최신 Experience Manager을 사용한 헤드리스 경험 관리에 대해 알아보기 [!UICONTROL 컨텐츠 조각] 헤드리스 컨텐츠 전달을 위한 새로운 GraphQL API 및 개선 사항. | Experience Manager [!DNL Sites] |
+| 2022년 7월 | [Adobe Experience Manager Assets에서 비즈니스에 메타데이터 작동](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=en) | 비디오 | 자산에 대한 작업 로드를 줄이고 자산을 보다 검색할 수 있도록 만들어 AEM Assets에서 메타데이터를 최대한 활용하는 방법을 알아봅니다. | Experience Manager [!DNL Assets] |
+| 2022년 7월 | [iOS 앱](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/ios-swiftui-app.html) | 비디오 | 예제 애플리케이션은 Adobe Experience Manager의 헤드리스 기능을 살펴보는 좋은 방법입니다. 이 iOS 애플리케이션은 AEM을 사용하여 컨텐츠를 쿼리하는 방법을 보여줍니다 [!UICONTROL GraphQL API] 지속되는 쿼리 사용. | Experience Manager [!DNL Assets], [!DNL Sites] |
+| 2022년 7월 | [Android™ 앱](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/android-app.html) | 비디오 | 이 Android™ 응용 프로그램은 [!UICONTROL GraphQL API] AEM | Experience Manager [!DNL Assets], [!DNL Sites] |
+| 2022년 7월 | [Adobe Experience Manager as a Cloud Service에 대한 OSGi 구성](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/configuring-osgi.html?lang=en) | 비디오 | AEM CS용 OSGI를 구성하는 방법을 알아봅니다. 예를 들어, AEM 코드 프로젝트의 일부인 구성 파일을 통해 OSGi 번들 관리 및 OSGi 구성 요소에 대한 구성 설정 관리에 대해 알아봅니다. | AEM as a Cloud Service |
+| 2022년 7월 | [양식 데이터 모델 속성 재정의](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/override-fdm-values.html?lang=en) | 비디오 | 다른 종단점에 대해 한 양식 데이터 모델을 쉽게 테스트할 수 있도록 양식 데이터 모델 속성을 재정의하는 방법을 알아봅니다. | AEM [!DNL Forms] |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -269,7 +255,7 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 모든 Experience Manager 릴리스 정보는 다음 페이지에서 유지 관리됩니다.
 
 * [Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ko)
-* [Experience Manager Cloud Manager 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=ko)
+* [Experience Manager Cloud Manager 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=en)
 * [자동 양식 전환 서비스 릴리스 정보](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=ko)
 * [Experience Manager 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ko)
 * [Experience Manager 6.4 Cumulative Fix Pack 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ko)
@@ -283,7 +269,7 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 ### Experience Manager용 기타 도움말 리소스
 
 * [Experience Manager as a Cloud Service 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ko)
-* [Cloud Manager 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=ko)
+* [Cloud Manager 사용 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en)
 * [Experience Manager 6.5 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ko)
 * [Experience Manager 6.4 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ko)
 * [Experience Manager 6.3 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko)
@@ -294,13 +280,13 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 
 ## ![아이콘](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
 
-[!DNL Experience Manager Guides] (이전의 [!DNL XML Documentation for Experience Manager])는 AEM에 배포된 애플리케이션입니다. Adobe Experience Manager의 기본 DITA 지원을 활성화하는 강력한 엔터프라이즈급 구성 요소 콘텐츠 관리 솔루션(CCMS)으로, AEM에서 DITA 기반 콘텐츠 생성 및 전달을 처리할 수 있도록 촉진합니다.
+[!DNL Experience Manager Guides] 는 AEM에 배포된 애플리케이션입니다. Adobe Experience Manager의 기본 DITA 지원을 활성화하는 강력한 엔터프라이즈급 구성 요소 콘텐츠 관리 솔루션(CCMS)으로, AEM에서 DITA 기반 콘텐츠 생성 및 전달을 처리할 수 있도록 촉진합니다.
 
 [[!DNL Experience Manager Guides]](https://www.adobe.com/kr/products/xml-documentation-for-experience-manager/features.html)에 대해 자세히 알아보십시오.
 
 ### 추가 리소스
 
-* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=ko) - Experience League의 튜토리얼
+* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html?lang=en) - Experience League의 튜토리얼
 * [[!DNL Experience Manager Guides] 학습 및 지원](https://helpx.adobe.com/kr/support/xml-documentation-for-experience-manager.html) - 제품 설명서
 
 ## ![아이콘](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
@@ -314,11 +300,17 @@ Adobe Commerce 릴리스 정보에 대한 다음 링크를 참조하십시오.
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 6월 | [MBI 시작하기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/getting-started.html?lang=kr) | 비디오 | 사전 구성된 대시보드 및 사용 가능한 사용자 정의 옵션에 대한 자세한 내용과 함께 MBI의 핵심 기능에 대해 Commerce 제품 팀에서 직접 알아보십시오. |
-| 2022년 6월 | [MBI에서 데이터 세트 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/manage-data-sets.html?lang=kr) | 비디오 | Adobe Commerce 제품 팀에서 직접 MBI Data Warehouse Manager의 강력한 기능에 대해 알아보십시오. 기본 보고서 작성에서 벗어나 데이터로 더 많은 작업을 수행하는 방법에 대해 알아보십시오. |
-| 2022년 6월 | [MBI Data Warehouse 최적화](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/optimize-data-warehouse.html?lang=kr) | 비디오 | 테이블 및 열 동기화 설정을 관리하고, 테이블의 스키마를 드릴다운하며, 보고서에 사용할 계산된 열을 만드는 방법에 대해 알아보십시오. |
-| 2022년 6월 | [MBI로 휴일 준비](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/holiday-readiness.html?lang=kr) | 비디오 | 주요 MBI 기능을 사용하여 일반적인 계절 분석 사용 사례와 이를 해결하는 방법에 대해 알아보십시오. |
-| 2022년 6월 | [MBI - 전문가에게 묻기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/ask-expert.html?lang=kr) | 비디오 | 이 두 부분으로 구성된 웨비너에서는 Business Intelligence에 대한 고객의 의견을 알아봅니다. Business Intelligence, 공통 테이블 표현식을 사용한 SQL 최적화 등을 통해 비즈니스 혁신에 대해 알아보십시오. |
+| 2022년 7월 | [Adobe Commerce 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/guide-overview.html) | 제품 설명서 | Adobe Commerce 및 Magento Open Source을 처음 사용하는 상인 및 시스템 관리자를 위한 안내서입니다. 해당 전문가의 관점에서 플랫폼에 대한 개요를 보고 기능 저장소를 사용할 수 있는 기본 기능에 대한 자세한 정보를 살펴보십시오. |
+| 2022년 7월 | [페이지 빌더 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html) | 제품 설명서 | 기본 컨텐츠 구성 요소 작성을 위한 3가지 연습 등 Page Builder 기능에 대해 알아보십시오. 이 안내서는 관리자를 위한 것입니다. 이 섹션에서는 코어 Adobe Commerce 구성 및 기능에 대한 기본적인 이해를 가정합니다. |
+| 2022년 7월 | [B2B for Adobe Commerce 안내서](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html) | 관리 안내서 | 기능 구성 및 관리 등 이 모듈의 설치 및 활성화에 대한 자세한 정보를 얻습니다. |
+| 2022년 7월 | [Adobe Commerce용 B2B - 자습서](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en) | 비디오(다중) | 에 대해 알아보기 [!UICONTROL 회사] 페이지를 Adobe Commerce에 추가합니다. 회사 계정을 관리할 수 있으며 승인 대기 중인 요청이 목록 맨 위에 나타납니다. |
+| 2022년 7월 | [품질 패치 도구 사용](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | 유형 | 에 대해 알아보기 [!UICONTROL 품질 패치 도구]- Adobe Commerce 및 Magento Open Source에 대한 품질 패치를 제공하는 명령줄 툴입니다. |
+| 2022년 7월 | [사이트 전체 분석 도구 대시보드](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html) | 비디오 | 사이트 전체 분석 도구에 대해 알아봅니다. 이 기능은 Adobe Commerce 설치의 보안 및 운영을 보장하기 위한 자세한 시스템 통찰력과 권장 사항이 포함된 사전 예방적, 셀프 서비스 도구 및 중앙 저장소입니다. |
+| 2022년 7월 | [결제 서비스 사용](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html) | 비디오 | 사용 방법 알아보기 [!UICONTROL 결제 서비스] 운영 오버헤드를 줄이려면 매출 증대 |
+| 2022년 7월 | [주문 상태 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | 유형 | 주문 상태 및 주문 세부 사항을 확인하는 방법과 필요한 경우 주문 상태를 변경하는 방법을 알아봅니다. |
+| 2022년 7월 | [마케팅 도구](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en) | 비디오(다중) | 카탈로그 가격 규칙 만들기, 장바구니 가격 규칙, 관련 제품 규칙 관리, 라이브 검색 등에 대해 알아봅니다. |
+| 2022년 7월 | [비즈니스 가치를 제공하는 컨텐츠 개인화의 혁신](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en) | 비디오 | Skill Builder 프레젠테이션을 보고 컨텐츠 작성을 대중화하고, 옴니채널 게재를 간소화하고, 개인화를 규모에 맞게 개인화할 수 있는 Adobe의 컨텐츠 솔루션의 최근 혁신적인 기능에 대해 알아보십시오. |
+| 2022년 7월 | [카탈로그 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html) | 비디오 | Adobe Commerce의 카탈로그 관리에 대해 알아봅니다. 카테고리를 만들고, 카테고리의 제품을 관리하고, 인벤토리를 관리하는 등의 작업을 수행합니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -333,7 +325,8 @@ Adobe Commerce 릴리스 정보에 대한 다음 링크를 참조하십시오.
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 6월 | [linktext](https://experienceleague.adobe.com/?recommended=Target-D-1-2021.1) | 교육 과정 | 웹 사이트에서 Adobe Target을 구현하는 방법에 대해 알아봅니다. 요구 사항 및 사용자 권한을 포함한 관리 주제부터 시작하여 이 교육 과정에서는 구현 방법, 고려 사항 및 모범 사례에 대해 다룹니다. |
+| 2022년 7월 | [대상자 만들기](https://experienceleague.adobe.com/docs/target-learn/tutorials/audiences/create-audiences.html) | 비디오 | 에서 사용자 지정 대상을 만들고 저장하는 방법을 알아봅니다. [!DNL Target] 활동에 사용. |
+| 2022년 7월 | [Adobe Target을 사용하여 개인화 및 자동화](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html?lang=en) | 비디오 | 다음을 사용하여 Adobe Target 기능의 자동화 및 최적화에 대한 핵심 개념을 알아봅니다 [!UICONTROL 자동 Target] 및 [!UICONTROL 자동 개인화]. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -343,10 +336,10 @@ Adobe Campaign은 온라인 및 오프라인 마케팅 채널 간에 직관적�
 
 ### 최신 Campaign 제품 릴리스
 
-* 새로운 [Campaign v8.3 릴리스](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
-* 새로운 [Campaign Standard 22.2 릴리스](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
-* 새로운 [컨트롤 패널 5월 릴리스](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
-* 새로운 Experience League [튜토리얼 및 교육 과정](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign)
+* [Campaign v8.3 릴리스](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
+* [Campaign Standard 22.2 릴리스](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* [Campaign 컨트롤 패널 6월 릴리스](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
+* [튜토리얼 및 교육 과정](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) Experience League 시
 
 ### 새로운 [!DNL Campaign] 튜토리얼 및 교육 과정 {#tutorials-campaign}
 
@@ -354,12 +347,20 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022년 6월 | [게재 템플릿 구성](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/using-delivery-templates/configure-a-delivery-template.html) | 비디오 | 임시 게재용 템플릿을 구성하는 방법을 알아봅니다. | Campaign v8 |
-| 2022년 6월 | [반복 및 연속 이메일 게재 만들기](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/recurring-deliveries.html) | 비디오 | 반복 게재 및 예약 활동을 구성하는 방법에 대해 알아봅니다. | Campaign v8 |
-| 2022년 6월 | [보강 활동 구성](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/enrichment-activity.html) | 비디오 | 게재 로그 정보를 기반으로 보강 활동을 구성하는 방법을 알아봅니다. | Campaign v8 |
-| 2022년 6월 | [SMS 소개 -](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html) | 비디오 | SMS가 무엇인지, SMS 서비스 제공자의 역할, Adobe Campaign이 서비스 제공자와 연결하는 방법에 대해 알아봅니다. 서비스 제공자를 통해 전달되는 정보와 사용 가능한 기술 노트를 이해합니다. | Campaign v8, Campaign Standard, Campaign Classic v7 |
-| 2022년 6월 | [표준 SMPP 제공자에 대한 SMS 계정 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=kr) | 비디오 | Adobe Campaign을 사용하여 SMPP 계정을 설정하는 방법, SMS 게재 결과를 분석하고 SMPP 제공자의 사양에 맞게 SR 처리를 사용자 정의하는 방법에 대해 알아봅니다. | Campaign v8, Campaign Classic v7 |
-| 2022년 6월 | [SMPP 제공자에 SMS 커넥터 적용](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html) | 비디오 | SMPP 제공자에 SMS 커넥터를 적용하는 방법에 대해 알아봅니다. SMS 설정을 미세 조정하여 연결 제한을 처리하고, 최대 처리량, 전송 창 및 TLS 암호화를 설정합니다. | Campaign v8, Campaign Classic v7, Campaign Standard |
+| 2022년 7월 | [하이브리드 호스팅 모델에 컨트롤 패널 사용](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html) | 비디오 | 컨트롤 패널을 Adobe Campaign 하이브리드 호스팅 모델에 사용할 수 있도록 설정하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다. | 제어판 |
+| 2022년 7월 | [스루 넣기 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=ko) | 비디오 | 캠페인 인스턴스의 고객을 통해 게재를 모니터링하고 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다. | 제어판 |
+| 2022년 7월 | [워크플로우를 모니터링하여 리소스 사용 최적화](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=ko) | 비디오 | 워크플로우의 임시 저장소 사용을 모니터링하는 방법 및 인스턴스의 데이터베이스 또는 워크플로우 문제를 방지하기 위해 워크플로우 설정을 구성하는 위치를 알아봅니다. | 제어판 |
+| 2022년 7월 | [Adobe Campaign Classic에서 데이터 모델 개발 및 사용자 지정](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en) | 비디오(Skill Builder 이벤트) | 이 세션에 참여하여 Campaign Classic 내의 데이터 모델 내에서 데이터 스키마를 개발하는 방법을 Campaign 트레이너와 함께 알아보십시오. | Campaign Classic v7 |
+| 2022년 7월 | [결과를 도출하는 게재 가능성 모범 사례 및 전략](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/deliverability-best-practices.html) | 비디오 | 이메일 캠페인 계획 및 프로덕션에 들어가는 수많은 시간을 최소화하는 방법을 알아봅니다. | Campaign Classic v7 |
+| 2022년 7월 | [Adobe Campaign Classic을 통해 크로스 채널 마케팅 강화](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en) | 비디오 | Adobe Campaign Classic 고객을 위한 워크플로우, 자동화, 개인화 및 측정에 중점을 둔 이 심층적인 웨비나를 시청하십시오. | Campaign Classic v7 |
+| 2022년 7월 | [프로에서 팁을 절약하는 시간!](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/tips.html?lang=en) | 비디오 | Adobe Campaign 프로의 팁과 트릭으로 새해를 시작하십시오! 캠페인을 제작 및 시작하고 보다 의미 있고 맞춤 설정된 크로스채널 경험을 제공하는 방법을 통해 보다 효율적으로 캠페인을 수행할 수 있습니다. | Campaign Classic v7 |
+| 2022년 7월 | [마케팅 에코시스템과 Adobe Campaign 통합](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en) | 비디오 | 마케팅 에코시스템과 Adobe Campaign 통합에 대해 알아봅니다. Adobe Campaign과 같은 크로스 채널 마케팅 솔루션은 다른 기술 또는 팀과 분리되지 않아야 합니다. 서로 다른 시스템이 고객을 완전히 이해하고 크로스채널 전략을 방해하지 않도록 하십시오. | Campaign Classic v7 |
+| 2022년 7월 | [Adobe Campaign Standard 고객 Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en) | 비디오 | Microsoft®의 마케팅 팀에서 Adobe Campaign Standard 사용 방법, 아키텍처 및 안내 원칙, 모범 사례를 공유할 수 있습니다. | Campaign Standard |
+| 2022년 7월 | [Adobe Campaign Customer Spotlight - Center Parcs](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/center-parcs.html?lang=en) | 비디오 | Adobe Campaign 고객이 Adobe Campaign을 통해 도전을 극복하고, 새로운 표준에 적응하며, 캠페인 관리를 통해 보다 효율적으로 대처하고, 의미 있는 가치를 창출하는 방법을 공유하고 있다는 것을 알아보십시오. | Campaign Classic v7 |
+| 2022년 7월 | [Adobe Campaign Classic V7와 V8 비교](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en) | 비디오 | 최신 제품 업데이트에 대해 듣고 제품 관리자의 V7와 V8 간의 차이점을 파악합니다. | Campaign Classic v7, Campaign v8 |
+| 2022년 7월 | [Keynote - B2B 및 B2C에서 고객 여정 트렌드와 혁신](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/keynote.html?lang=en) | 비디오 | B2B 및 B2C에서 고객 여정 관리의 최신 트렌드에 대해 알아봅니다. 주요 여정 애플리케이션과 광범위한 Adobe Experience Cloud 및 플랫폼의 최신 혁신 사항을 확인할 수 있습니다. | Marketo, Campaign Classic v7, Campaign v8 |
+| 2022년 7월 | [Adobe Campaign Standard을 위한 주요 팁과 트릭](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=en) | 비디오 | Adobe Campaign Standard 인스턴스에 로그인하고 ACS를 보다 효율적으로 사용할 수 있도록 타깃팅, 개인화 및 마케팅 피로에 대한 우수 사례를 알아봅니다. | Campaign Standard |
+| 2022년 7월 | [크로스 채널 마케팅을 지원하는 데 필요한 팀, 기술 및 조직 디자인](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/team-skills-org-design.html) | 비디오 | 언제 어디서나 원하는 방식으로 참여할 수 있는 권한을 부여하는 방법을 알아보십시오. 계획, 실행 및 측정을 지원하는 마케팅 조직이 있어야 하는 중요성에 대해 알아봅니다. | Campaign Classic v7, Campaign v8, Campaign Standard |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -368,7 +369,7 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 * Adobe Campaign v8: [설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ko) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ko) - [구현 안내서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ko)
 * Adobe Campaign Standard: [Campaign Standard 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko) - [릴리스 계획](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ko) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ko)
 * Adobe Campaign Classic: [Campaign Classic v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ko) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ko)
-* Adobe Campaign 제어판: [설명서](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko) - [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ko) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ko) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ko) 방법 비디오
+* Adobe Campaign 제어판: [설명서](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko) - [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ko) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ko) 방법 비디오
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -376,11 +377,23 @@ Journey Optimizer를 사용하면 단일 애플리케이션에서 수백만 고�
 
 ### 최신 Journey Optimizer 제품 릴리스
 
-[Journey Optimizer 릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ko-KR)에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
+[Journey Optimizer 릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ko)에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
+
+### 새로운 Journey Optimizer 튜토리얼 및 교육 과정 {#tutorials-ajo}
+
+Adobe Journey Optimizer에 대해 게시된 새로운 비디오, 자습서 또는 교육 과정
+
+| 게시일 | 이름 | 유형 | 설명 |
+| -----------| ---------- | ---------- | ---------- |
+| 2022년 7월 | [메시지 빈도 규칙 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/configure-frequency-rules.html) | 비디오 | 빈도 규칙을 만들고, 활성화하고, 테스트하고, 보고하는 방법을 알아봅니다. 메시지에 대해 상속될 빈도 규칙을 결정하는 방법을 알아봅니다. |
+| 2022년 7월 | [SMS 메시지 구성, 작성, 전달](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/configure-author-and-deliver-sms-messages.html) | 비디오 | 고객 여정에 SMS 메시지를 구성하고, 작성하고, 포함하는 방법을 알아봅니다. |
+| 2022년 7월 | [SMS에 대한 인바운드 키워드 지원](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/inbound-keyword-support-for-sms.html) | 비디오 | SMS에 대한 기본 인바운드 키워드 지원(시작, 중지, 중지 해지)이 작동하는 방식을 이해합니다. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Journey Optimizer]를 위한 추가 리소스
 
-* [Journey Optimizer 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko)
+* [Journey Optimizer 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko)
 * [의사 결정 관리 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=ko) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ko)
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
@@ -402,6 +415,17 @@ Experience Platform을 사용하여 모든 개인의 요구 사항을 실시간�
 ### 주요 Marketo Engage 업데이트
 
 최신 릴리스 일정 정보 및 릴리스 정보는 [!DNL Marketo Engage] [릴리스 일정](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=ko)을 참조하십시오.
+
+### 새로운 Marketo 튜토리얼 및 교육 과정 {#tutorials-marketo}
+
+Adobe Marketo에 대해 게시된 새로운 비디오, 자습서 또는 교육 과정입니다.
+
+| 게시일 | 이름 | 유형 | 설명 |
+| -----------| ---------- | ---------- | ---------- |
+| 2022년 7월 | [Marketo Engage 및 Adobe Experience Cloud을 사용한 B2B 경험](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=en) | 비디오 | Marketo Engage과 Adobe Experience Cloud 애플리케이션 간의 통합 및 해결할 문제점 대해 연습하십시오. | Marketo Engage |
+| 2022년 7월 | [함께 개선 - Adobe Marketo Engage과 Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=en) | 비디오 | Marketo Engage 및 RT-CDP(B2B 버전)를 사용하여 B2B 캠페인을 오케스트레이션하는 방법과 주요 사용 사례 및 이점이 무엇입니까? | Marketo, Real-time Customer Data Platform |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## ![아이콘](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
@@ -436,8 +460,8 @@ Last updated: **October 27, 2021**
 | 기능 | 설명 |
 | ------- | ----------- |
 | 맞춤형 보고서 | (31) 5월 5일 베타 기능) 이제 Advertising Cloud DSP에서 고객 데이터 플랫폼(CDP) 내에서 구축된 인증된 신호로 구성된 자사 세그먼트를 수집할 수 있습니다. |
-| [!UICONTROL 인벤토리] | (6월 29일 릴리스) 새로운 기능 [!UICONTROL 인벤토리] > [!UICONTROL 딜] 보기에는 와 동일한 데이터 사용자 지정 기능이 포함되어 있습니다. [!UICONTROL 캠페인] 추가 필터, 열 사용자 지정 및 사용자 지정 보기, 열 정렬 및 데이터 시각화(차트) 보기를 저장하는 옵션을 포함한 보기. 각 행에서 명령 메뉴를 열 수 있습니다 [!UICONTROL ...] 거래 이름 뒤에 |
-| [!DNL Inventory Inspector] | (6월 29일 릴리스) [!UICONTROL 인벤토리] 배치 탭 [!UICONTROL 검사자] 이제 사용자 정의 가능한 데이터 시각화 차트와 다음과 같은 확장된 성능 지표를 포함합니다 [!UICONTROL 뷰가능 비율], [!UICONTROL 클릭 수], 및 [!UICONTROL 어제의 CPM]. |
+| [!UICONTROL 인벤토리] | (6월 29일 릴리스) 새로운 기능 [!UICONTROL 인벤토리] > [!UICONTROL 딜] 보기에는 와 동일한 데이터 사용자 지정 기능이 포함되어 있습니다. [!UICONTROL 캠페인] 추가 필터, 열 사용자 지정 및 사용자 지정 보기, 열 정렬 및 데이터 시각화(차트) 보기를 저장하는 옵션을 포함한 보기. 거래 이름 뒤에 있는 줄임표(..)를 클릭하여 각 행에서 명령 메뉴를 열 수 있습니다. |
+| [!UICONTROL Inventory Inspector] | (6월 29일 릴리스) [!UICONTROL 인벤토리] 배치 탭 [!UICONTROL 검사자] 이제 사용자 정의 가능한 데이터 시각화 차트와 다음과 같은 확장된 성능 지표를 포함합니다 [!UICONTROL 뷰가능 비율], [!UICONTROL 클릭 수], 및 [!UICONTROL 어제의 CPM]. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -456,11 +480,17 @@ Last updated: **October 27, 2021**
 
 Adobe Document Cloud용으로 게시된 새로운 튜토리얼 및 교육 과정
 
-| 게시일 | 이름 | 유형 | 설명 |
-| -----------| ---------- | ---------- | ---------- |
-| 2022년 6월 | [위임자 역할 사용](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=kr) | 비디오 | 위임자 역할을 사용하여 문서를 중개인에게 보낸 후 문서를 라우팅하여 서명을 받는 방법에 대해 알아봅니다. |
-| 2022년 6월 | [이벤트 및 경고에 대한 알림 구성](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-shared-events-and-alert.html?lang=kr) | 비디오 | Acrobat Sign에서 구성할 수 있는 공유 이벤트 및 경고 설정에 대해 알아봅니다. 경고는 특정 시간대에 수행되지 않은 작업이고 이벤트는 수행된 작업입니다. |
-| 2022년 6월 | [고급 계정 공유](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/advanced-account-sharing.html?lang=kr) | 비디오 | 고급 계정 공유 설정 방법 - 관리자와 사용자가 전송, 수정 및 보기 권한을 위임할 수 있습니다. |
+| 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 2022년 7월 | [승인자 역할 사용](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/add-an-approver.html?lang=en) | 비디오(업데이트됨) | 승인 프로세스를 통해 문서를 보내는 방법을 알아봅니다. | Adobe Sign |
+| 2022년 7월 | [웹 양식 설정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html) | 비디오(업데이트됨) | 웹 사이트에서 직접 전자 방식으로 서명할 수 있는 문서를 만드는 방법을 알아봅니다. | Adobe Sign |
+| 2022년 7월 | [위임자 역할 사용](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=en) | 비디오 (업데이트됨) | 설명 | Adobe Sign |
+| 2022년 7월 | [전자 서명 문서](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/electronically-sign-a-document.html?lang=en) | 비디오(업데이트됨) | Acrobat Sign으로 보낼 문서에 서명하는 것이 얼마나 쉬운지 알아보십시오. | Adobe Sign |
+| 2022년 7월 | [Acrobat Sign 관리자를 위한 설정 및 실행](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/up-and-running-admin.html?lang=en) | 비디오(업데이트됨) | Acrobat Sign에서 신속하게 시작하고 실행하기 위해 관리자가 중점을 두어야 하는 7가지 주요 영역을 알아봅니다. | Adobe Sign |
+| 2022년 7월 | [Outlook의 Send for Signature](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/send-for-signature-with-outlook.html?lang=en#) | 비디오(업데이트됨) | Microsoft® Outlook에서 직접 서명용 문서를 전송하여 문서 워크플로우를 간소화하는 방법을 알아봅니다. | Adobe Sign |
+| 2022년 7월 | [Outlook 채우기 및 로그인](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/fill-and-sign-doc-microsoft-outlook.html?lang=en) | 비디오(업데이트됨) | Microsoft Outlook에서 직접 양식을 작성하고 서명하여 문서 워크플로우를 간소화하는 방법을 살펴볼 수 있습니다. | Adobe Sign |
+| 2022년 7월 | [그룹 만들기 및 관리](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-and-manage-groups.html?lang=en) | 비디오(업데이트됨) | 그룹을 만들고, 사용자를 그룹에 추가하고, 그룹 설정을 편집하는 방법을 알아봅니다. | Adobe Sign |
+| 2022년 7월 | [다른 사람에게 서명 위임](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/delegate-signing.html?lang=en) | 비디오(업데이트됨) | 문서 서명을 다른 사람에게 위임하는 방법을 알아봅니다. | Adobe Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
