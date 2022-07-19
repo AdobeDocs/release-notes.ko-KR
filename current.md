@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
+source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
 workflow-type: tm+mt
 source-wordcount: '5254'
 ht-degree: 51%
@@ -57,7 +57,7 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
-| [전문가에게 문의: 데이터 저장소 및 데이터 준비](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | Adobe Experience Cloud의 데이터 수집에 대한 이 세 가지 세션의 마지막 단계에서는 데이터 수집을 위한 데이터 준비와 같은 기능을 포함하여 Adobe의 고급 데이터 수집 기능에 대해 자세히 살펴봅니다. 이 세션이 끝날 때 참석자는 디지털 경험에서 데이터를 수집할 수 있는 최신 및 강력한 기능을 확신하고 있습니다&#x200B;<br>**날짜:** 7월 21일 오전 9시 PST - [세부 사항](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [전문가에게 문의: 데이터 저장소 및 데이터 준비](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | Adobe Experience Cloud의 데이터 수집에 대한 이 세 가지 세션의 마지막 단계에서는 데이터 수집을 위한 데이터 준비와 같은 기능을 포함하여 Adobe의 고급 데이터 수집 기능에 대해 자세히 살펴봅니다. 이 세션이 끝날 때 참석자는 디지털 경험에서 데이터를 수집할 수 있는 최신 및 강력한 기능을 확신하고 있습니다&#x200B;<br>**날짜:** 7월 21일 @ 9시 PDT - [세부 사항](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
