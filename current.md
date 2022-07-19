@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
+source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
 workflow-type: tm+mt
 source-wordcount: '5254'
 ht-degree: 51%
@@ -192,11 +192,11 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 
 * [2022년 5월 릴리스 개요 비디오](https://video.tv.adobe.com/v/343321/?quality=12) 2022.5.0(2022년 5월) 릴리스에 추가된 기능에 대한 요약은 를 참조하십시오.
 * [2022년 4월 릴리스 개요 비디오](https://video.tv.adobe.com/v/342612?quality=12)
-* [2022년 3월 릴리스 개요 비디오](https://video.tv.adobe.com/v/341465).
-* [2022년 1월 릴리스 개요 비디오](https://video.tv.adobe.com/v/340120).
-* [2021년 12월 릴리스 개요 비디오](https://video.tv.adobe.com/v/339278).
-* [2021년 10월 릴리스 개요 비디오](https://video.tv.adobe.com/v/338253).
-* [2021년 9월 릴리스 개요 비디오](https://video.tv.adobe.com/v/337381).
+* [2022년 3월 릴리스 개요 비디오](https://video.tv.adobe.com/v/341465)
+* [2022년 1월 릴리스 개요 비디오](https://video.tv.adobe.com/v/340120)
+* [2021년 12월 릴리스 개요 비디오](https://video.tv.adobe.com/v/339278)
+* [2021년 10월 릴리스 개요 비디오](https://video.tv.adobe.com/v/338253)
+* [2021년 9월 릴리스 개요 비디오](https://video.tv.adobe.com/v/337381)
 
 ### Experience Manager [!DNL Sites] 로서의 [!DNL Cloud Service]
 
