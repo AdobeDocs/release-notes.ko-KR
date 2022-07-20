@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5577'
 ht-degree: 49%
 
 ---
@@ -75,8 +75,6 @@ Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/do
 
 ### 프로비저닝 업데이트
 
-업데이트됨: **2022년 7월 19일**
-
 >[!IMPORTANT]
 >
 >Experience Cloud 프로비저닝에 대한 다음 알림을 검토하십시오.
@@ -85,9 +83,11 @@ Adobe은 모든 Experience Cloud 고객이 일부 Experience Cloud 제품 간의
 
 Adobe Experience Platform [!UICONTROL 데이터 수집] include [태그](https://experienceleague.adobe.com/docs/tags.html?lang=en) 간소화된 범용 태그 관리를 위해 그리고 신뢰할 수 있고 강력하고 완벽한 스트리밍 데이터 인프라를 제공합니다. 태그는 고객 경험 데이터 수집을 단순화하고 경험 전달을 간소화합니다.
 
-이 업데이트 관리자는 Admin Console에 대한 변경 사항이나 추가 사항을 볼 수 있습니다.
+**Admin Console 변경 사항**
 
-1. Admin Console의 Adobe Experience Platform 제품 카드에 포함되는 항목:
+관리자는 다음과 같이 Admin Console에 대한 변경 사항 또는 추가 사항을 볼 수 있습니다.
+
+* Admin Console의 Adobe Experience Platform 제품 카드에 포함되는 항목:
 
    * 장소
    * 보증
@@ -102,7 +102,7 @@ Adobe Experience Platform [!UICONTROL 데이터 수집] include [태그](https:/
 
    현재 Experience Platform을 사용하는 조직의 경우 _위치_ 이제 Experience Platform 카드에 통합됩니다.
 
-1. Adobe Experience Platform 데이터 수집(이전의 Launch) 및 개인 정보 는 다른 Experience Platform 기능과 별도의 제품 카드로 계속 표시됩니다.
+* Adobe Experience Platform 데이터 수집(이전의 Launch) 및 개인 정보 는 다른 Experience Platform 기능과 별도의 제품 카드로 계속 표시됩니다.
 
 새로운 기능에 대한 자세한 내용은 Experience League의 해당 페이지를 참조하십시오.
 
