@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bd6e90a7cbb0f07b21c65b6486fb65327fce6003
+source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
 workflow-type: tm+mt
-source-wordcount: '5574'
+source-wordcount: '5576'
 ht-degree: 49%
 
 ---
@@ -117,7 +117,9 @@ Adobe Experience Platform [!UICONTROL 데이터 수집] include [태그](https:/
 * [방문자 ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [개인 정보 보호](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=ko)
 
-기능 업데이트: **2022년 7월 11일**
+### 기능 업데이트
+
+릴리스된 기능: **2022년 7월 11일**
 
 | 기능 | 설명 |
 | ------- | ------- |
