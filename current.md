@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
+source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
 workflow-type: tm+mt
-source-wordcount: '5254'
-ht-degree: 51%
+source-wordcount: '5571'
+ht-degree: 49%
 
 ---
 
@@ -72,6 +72,48 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud - 중앙 인터페이스 구성 요소 및 관리 {#ecloud}
 
 Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ko)에는 홈 페이지 및 영구 제품 헤더에서 사용할 수 있는 기능이 포함됩니다. 이러한 기능에는 사용자 프로필 설정, 환경 설정 및 검색이 포함됩니다. 사용자 및 제품 관리, 고객 속성 및 Experience Cloud Audiences에 대한 도움말도 찾을 수 있습니다.
+
+### 프로비저닝 업데이트
+
+>[!IMPORTANT]
+>
+>Experience Cloud 프로비저닝에 대한 다음 알림을 검토하십시오.
+
+Adobe은 모든 Experience Cloud 고객이 일부 Experience Cloud 제품 간의 상호 운용성을 지원하는 기본 기능에 액세스할 수 있도록 프로비저닝을 업데이트하고 있습니다. 사용자는 Experience Cloud 조직에 추가된 새 자격 부여 권한으로서 Adobe Experience Platform을 갖게 됩니다. [!UICONTROL 데이터 수집] 를 포함한 서비스로 사용할 수 있습니다.
+
+Adobe Experience Platform [!UICONTROL 데이터 수집] include [태그](https://experienceleague.adobe.com/docs/tags.html?lang=en) 간소화된 범용 태그 관리를 위해 그리고 신뢰할 수 있고 강력하고 완벽한 스트리밍 데이터 인프라를 제공합니다. 태그는 고객 경험 데이터 수집을 단순화하고 경험 전달을 간소화합니다.
+
+이 업데이트 관리자는 Admin Console에 대한 변경 사항이나 추가 사항을 볼 수 있습니다.
+
+1. Admin Console의 Adobe Experience Platform 제품 카드에 포함되는 항목:
+
+   * 장소
+   * 보증
+   * ID 네임스페이스
+   * 샌드박스
+   * 경험 데이터 모델
+   * 스키마
+   * 데이터스트림
+   * 방문자 ID
+
+   현재 Experience Platform을 사용하지 않는 조직의 경우 _Adobe Experience Platform_ 위에 나열된 기능을 포함하여 Admin Console의 제품입니다.
+
+   현재 Experience Platform을 사용하는 조직의 경우 _위치_ 이제 Experience Platform 카드에 통합됩니다.
+
+1. Adobe Experience Platform 데이터 수집(이전의 Launch) 및 개인 정보 는 다른 Experience Platform 기능과 별도의 제품 카드로 계속 표시됩니다.
+
+새로운 기능에 대한 자세한 내용은 Experience League의 해당 페이지를 참조하십시오.
+
+* [데이터 수집](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [장소](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
+* [보증](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [ID 네임스페이스](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=ko)
+* [샌드박스](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ko-KR)
+* [경험 데이터 모델](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=ko)
+* [스키마](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ko-KR)
+* [데이터스트림](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [방문자 ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [개인 정보 보호](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=ko)
 
 릴리스 예정일: **2022년 7월 11일**
 
