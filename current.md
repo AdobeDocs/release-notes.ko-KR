@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
+source-git-commit: bd6e90a7cbb0f07b21c65b6486fb65327fce6003
 workflow-type: tm+mt
-source-wordcount: '5571'
+source-wordcount: '5574'
 ht-degree: 49%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 49%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트: **2022년 7월 18일**
+최신 업데이트: **2022년 7월 19일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -75,6 +75,8 @@ Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/do
 
 ### 프로비저닝 업데이트
 
+업데이트됨: **2022년 7월 19일**
+
 >[!IMPORTANT]
 >
 >Experience Cloud 프로비저닝에 대한 다음 알림을 검토하십시오.
@@ -115,7 +117,7 @@ Adobe Experience Platform [!UICONTROL 데이터 수집] include [태그](https:/
 * [방문자 ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [개인 정보 보호](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=ko)
 
-릴리스 예정일: **2022년 7월 11일**
+기능 업데이트: **2022년 7월 11일**
 
 | 기능 | 설명 |
 | ------- | ------- |
