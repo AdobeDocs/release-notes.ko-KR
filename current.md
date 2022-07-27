@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
+source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
 workflow-type: tm+mt
-source-wordcount: '5706'
-ht-degree: 95%
+source-wordcount: '5746'
+ht-degree: 94%
 
 ---
 
@@ -40,8 +40,8 @@ ht-degree: 95%
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
-* [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Marketo Engage]](#marketo) (**7월 27일에 업데이트됨**)
+* [[!DNL Adobe Workfront]](#workfront) (**7월 27일에 업데이트됨**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -467,6 +467,7 @@ Adobe Marketo에 게시된 새로운 비디오, 튜토리얼 또는 교육 과�
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022년 7월 27일 | [Marketo Engage 자습서](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | 비디오 | 다음 방문 [Marketo Engage 자습서 홈](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) 설정 및 해제 |
 | 2022년 7월 | [Marketo Engage 및 Adobe Experience Cloud를 통한 B2B 경험](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=ko-KR) | 비디오 | Marketo Engage와 Adobe Experience Cloud 애플리케이션 간의 통합 및 해결할 문제점을 확인하십시오. | Marketo Engage |
 | 2022년 7월 | [함께 사용하여 더욱 효율적인 작업 수행 - Adobe Marketo Engage 및 Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=ko-KR) | 비디오 | Marketo Engage 및 RT-CDP(B2B 에디션)를 사용하여 B2B 캠페인을 오케스트레이션하는 방법과 주요 사용 사례 및 이점에 대해 알아봅니다. | Marketo, Real-time Customer Data Platform |
 
