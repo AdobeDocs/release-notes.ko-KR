@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
+source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
 workflow-type: tm+mt
-source-wordcount: '5678'
+source-wordcount: '5706'
 ht-degree: 95%
 
 ---
@@ -475,6 +475,10 @@ Adobe Marketo에 게시된 새로운 비디오, 튜토리얼 또는 교육 과�
 ## ![아이콘](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront]는 아이디어 공유, 콘텐츠 생성, 복잡한 프로세스 관리 및 최상의 작업 수행을 위한 통합 작업 관리 애플리케이션입니다.
+
+**Workfront 튜토리얼 홈**
+
+**2022년 7월 27일**: Workfront의 새로운 [Experience League에 대한 자습서 홈](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) 모든 교육 및 자습서 비디오 및 문서에 대해 설명합니다.
 
 모든 제품에 대한 최신 정보를 보려면 [[!DNL Workfront] 릴리스](https://one.workfront.com/s/product-releases) 페이지를 참조하십시오.
 
