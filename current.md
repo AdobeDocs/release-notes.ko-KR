@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
+source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5746'
-ht-degree: 94%
+source-wordcount: '5842'
+ht-degree: 92%
 
 ---
 
@@ -53,10 +53,11 @@ ht-degree: 94%
 
 Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다. 2022년 7월의 최신 정보를 확인하려면 Experience League의 [이벤트](https://experienceleague.adobe.com/events/?lang=en)를 참조하십시오.
 
-업데이트 날짜: **2022년 7월 17일**
+업데이트 날짜: **2022년 7월 28일**
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
+| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | 커뮤니티 Q&amp;A Coffee Break | Adobe Premier Support 비즈니스 컨설턴트인 Rachel Booth와 함께 할 것입니다 `@rbooth115`. 다음에 바로 채팅하기 위해 Adobe Target 커뮤니티에 로그인됩니다 [이 스레드](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) 전문 지식(개인화, 최적화, 통합)과 관련된 질문에 대한 정보입니다. <br>**날짜:** 8월 3일 수요일 @ 8시 PDT - 오전 9시 - [세부 사항 및 등록](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
 | [전문가에게 문의: 데이터 스트림 및 데이터 준비](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=ko-KR) | Experience League LIVE | Adobe Experience Cloud의 데이터 수집에 대한 이 세 가지 세션의 마지막 단계에서는 데이터 수집을 위한 데이터 준비와 같은 기능을 포함하여 Adobe의 고급 데이터 수집 기능에 대해 자세히 살펴봅니다. 이 세션이 끝나면 디지털 경험에서 데이터를 수집할 수 있는 강력한 최신 기능을 자신 있게 사용할 수 있습니다.<br>**날짜:** 7월 21일 오전 9시 (PDT) - [세부 정보](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
