@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
+source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6346'
+ht-degree: 86%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-마지막 업데이트: **2022년 7월 27일**
+최신 업데이트: **2022년 8월 11일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ ht-degree: 0%
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**7월 27일에 업데이트됨**)
-* [[!DNL Adobe Workfront]](#workfront) (**7월 27일에 업데이트됨**)
+* [[!DNL Adobe Workfront]](#workfront) (**8월 11일 업데이트됨**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -478,9 +478,30 @@ Adobe Marketo에 게시된 새로운 비디오, 튜토리얼 또는 교육 과�
 
 Adobe [!DNL Workfront]는 아이디어 공유, 콘텐츠 생성, 복잡한 프로세스 관리 및 최상의 작업 수행을 위한 통합 작업 관리 애플리케이션입니다.
 
-**Workfront 튜토리얼 홈**
+### 새로운 Adobe Workfront 교육 과정 및 자습서 {#tutorials-workfront}
 
-**2022년 7월 27일**: Workfront의 새로운 [Experience League에 대한 자습서 홈](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) 모든 교육 및 자습서 비디오 및 문서에 대해 설명합니다.
+Experience League에 대한 새로운 Workfront 교육 과정 및 자습서
+
+| 게시일 | 이름 | 유형 | 설명 |
+| -----------| ---------- | ---------- | ---------- |
+| 2022년 8월 | [Workfront 튜토리얼](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | 튜토리얼 홈 | Experience League에서 Workfront 자습서를 위한 새 홈 을 참조하십시오. |
+| 2022년 8월 | [시스템 관리자를 위한 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | 교육 과정 | 시스템 설정을 사용하여 사용자를 설정하고 사용자의 경험을 최적화하는 방법에 대한 첫 번째 단계를 알아봅니다. |
+| 2022년 8월 | [Workfront 관리자에 대한 시스템 설정 추가 정보](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | 교육 과정 | 사용자 조직, 사용자 지정 양식, 승인 프로세스 및 이정표, 레이아웃 템플릿 등 사용자의 경험을 향상시키기 위한 시스템 설정에 대해 자세히 알아보십시오. |
+| 2022년 8월 | [계획자용 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | 교육 과정 | 프로젝트를 만들고 계획하는 방법을 배워서 Workfront 여정을 시작합니다. Workfront에서는 단순하게 유지하는 것이 좋습니다. |
+| 2022년 8월 | [프로젝트 관리 및 닫기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | 교육 과정 | 이제 프로젝트를 만들고 계획하는 방법을 배웠으므로 프로젝트를 관리하고 닫을 수 있습니다. |
+| 2022년 8월 | [계획자로서 작업 관리에 대한 추가 이해 ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | 교육 과정 | 프로젝트 만들기, 계획 및 관리의 기본 사항을 알게 되면 Workfront을 최대한 활용하기 위해 알고 있어야 하는 몇 가지 사항이 있습니다. |
+| 2022년 8월 | [근로자를 위한 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | 교육 과정 | 이 교육 과정은 작업 또는 요청을 받고 프로젝트 및 문서에서 팀과 공동 작업하는 Adobe Workfront의 작업 라이선스 사용자를 위한 것입니다. |
+| 2022년 8월 | [Adobe Workfront for 공동 작업자](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | 교육 과정 | 새로운 Workfront 환경에서 검토 또는 요청 라이센스를 사용하여 작업, 문서 및 증명을 쉽게 요청, 검토 및 공동 작업하는 방법을 알아봅니다. |
+| 2022년 8월 | [사용자 지정 양식 만들기 및 관리](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | 교육 과정 | 시스템에서 사용자 지정 필드를 만들어 조직의 고유한 정보를 캡처합니다. Workfront 내에서 사용자 지정 양식을 만들고, 공유하고, 첨부하는 방법을 알아봅니다. |
+| 2022년 8월 | [Workfront 증명 - 관리 및 설정](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | 교육 과정 | 증명 설정을 조정하고, 작업 및 보고서를 사용자 지정하고, 증명 워크플로우를 설정하는 방법을 알아봅니다. |
+| 2022년 8월 | [Workfront 증명 - 증명 업로드](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | 교육 과정 | 검토 및 승인을 위해 증명을 업로드하는 방법을 알아봅니다. |
+| 2022년 8월 | [Workfront 증명 - 작업 검토 및 승인](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | 교육 과정 | Workfront 증명을 검토자 또는 승인자로 사용하는 방법을 알아봅니다. |
+| 2022년 8월 | [기본 보고 요소](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | 교육 과정 | 보고 요소는 Workfront의 모든 목록 보고서에 있는 필터, 보기 및 그룹화입니다. 이에 대해 학습하면 사용자 지정 보고서 및 달력을 만드는 데 도움이 됩니다. |
+| 2022년 8월 | [사용자 지정 달력 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | 교육 과정 | 사용자 지정 달력을 사용하면 프로젝트, 작업 및 문제의 날짜 및 정보를 달력 형식으로 직접 표시할 수 있습니다. |
+| 2022년 8월 | [사용자 지정 보고서 및 대시보드 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | 교육 과정 | 보고서는 데이터의 창입니다. Workfront에서 세 가지 유형의 보고서를 만들어 대시보드에서 사용하는 방법을 알아봅니다. |
+| 2022년 8월 | [중간 필터 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | 교육 과정 | 와일드카드, OR 필터 및 텍스트 모드를 보다 잘 이해할 수 있습니다. 내장된 프로젝트, 작업 및 문제 필터를 열고 진행 중인 작업의 세부 사항을 살펴보십시오. |
+
+{style=&quot;table-layout:auto&quot;}
 
 모든 제품에 대한 최신 정보를 보려면 [[!DNL Workfront] 릴리스](https://one.workfront.com/s/product-releases) 페이지를 참조하십시오.
 
