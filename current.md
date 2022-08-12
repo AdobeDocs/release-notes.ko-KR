@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
+source-git-commit: 141c070586c42f697e31f9741076e7e76caa30c2
 workflow-type: tm+mt
 source-wordcount: '5981'
 ht-degree: 84%
@@ -347,7 +347,7 @@ Adobe Campaign은 온라인 및 오프라인 마케팅 채널 간에 직관적�
 
 * [Campaign v7.3 릴리스](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ko-KR)
 * [제어판 6월 릴리스](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ko-KR)
-* Experience League의 [튜토리얼 및 교육 과정](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko-KR#tutorials-campaign)
+* [Tutorials 및 교육 과정](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko-KR#tutorials-campaign) Experience League 시
 
 ### 새로운 [!DNL Campaign] 튜토리얼 및 교육 과정 {#tutorials-campaign}
 
