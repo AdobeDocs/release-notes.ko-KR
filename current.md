@@ -5,10 +5,11 @@ doc-type: release notes
 last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 02987b7f5f4fd84837e4d774ff8f96cea6b4debd
+exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
+source-git-commit: 12468598e028faf1f4e359a435a76783706d01d9
 workflow-type: tm+mt
 source-wordcount: '4134'
-ht-degree: 52%
+ht-degree: 97%
 
 ---
 
@@ -56,8 +57,8 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 | 이벤트 | 유형 | 설명 |
 | -----------|---------- | ----|
-| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) | 웨비나 | _내일의 성공을 더욱 부채질하다: 데이터 품질 및 채택_ - 이 라이브 웨비나에서 Adobe Analytics Champions Frederk Werner와 Sarah Owen과 함께 분석의 모든 측면에 데이터 품질을 빌드하고 이를 둘러싼 공유 문화를 만드는 방법을 알아봅니다.<p>**날짜:** 8월 25일 @ 동부시간 오전 11:00 - [세부 사항 및 등록](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
-| [Experience Makers 라이브](https://business.adobe.com/events/experience-makers-live.html) | 웨비나 | Sara Blakely, Peyton Manning 및 Eli Manning의 주요 노트가 포함된 Experience Makers를 위한 무료 이벤트입니다.<p>**날짜:** 9월 13일 - 14일 - [세부 사항 및 등록](https://business.adobe.com/events/experience-makers-live.html) |
+| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) | 웨비나 | _내일의 성공을 위한 동력: 데이터 품질 및 채택_ - 이 라이브 웹 세미나에서 Adobe Analytics 챔피언 Frederik Werner 및 Sarah Owen에 참여하여 분석의 모든 측면에 데이터 품질을 구축하고 이를 둘러싼 공유 문화를 생성하는 방법에 대해 알아보십시오.<p>**일자:** 8월 25일, 오전 11시 (ET) [세부 정보 및 등록](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
+| [Experience Makers 라이브](https://business.adobe.com/events/experience-makers-live.html) | 웨비나 | Sara Blakely, Peyton Manning 및 Eli Manning의 키노트가 포함된 Experience Makers를 위한 무료 이벤트입니다.<p>**일자:** 9월 13일 ~ 14일 - [세부 정보 및 등록](https://business.adobe.com/events/experience-makers-live.html) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -77,19 +78,19 @@ Experience Cloud [중앙 UI 구성 요소](https://experienceleague.adobe.com/do
 
 >[!IMPORTANT]
 >
->관리자, 놓치지 마십시오 [중요 공지](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=ko#july—2022) Experience Cloud 프로비저닝 기본 정보(2022년 7월 발표).
+>관리자들은 Experience Cloud 프로비저닝(2022년 7월 발행)에 대한 이 [중요 공지](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=ko#2022년 7월)를 놓치지 마십시오.
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) Adobe [!DNL Experience Platform] {#platform}
 
 [!DNL Experience Platform] 및 [!UICONTROL Mobile SDK]에 대한 최신 릴리스 정보와 새로운 설명서:
 
-예정된 릴리스: **2022년 8월 24일**
+릴리스 예정일: **2022년 8월 24일**
 
-* [Experience Platform 릴리스 정보](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ko-KR)
+* [Experience Platform 릴리스 정보](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
 ### [!DNL Adobe Mobile] SDK
 
-업데이트됨: **2022년 8월 2일** - 다음을 참조하십시오. [릴리스 노트 및 변경 로그](https://aep-sdks.gitbook.io/docs/release-notes) Adobe Experience Platform Mobile SDK용.
+업데이트됨: **2022년 8월 2일** - Adobe Experience Platform Mobile SDK에 대한 [릴리스 정보 및 변경 로그](https://aep-sdks.gitbook.io/docs/release-notes)를 참조하십시오.
 
 ## ![아이콘](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -150,7 +151,7 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 
 ### 제품 업데이트 비디오
 
-보기 [2022년 7월 릴리스 개요 비디오](https://video.tv.adobe.com/v/345409/?quality=12) 2022.7.0(2022년 7월) 릴리스에 추가된 기능에 대한 요약은 를 참조하십시오. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+[2022년 7월 릴리스 개요 비디오](https://video.tv.adobe.com/v/345409/?quality=12)를 시청하여 2022.7.0(2022년 7월) 릴리스에 추가된 기능에 대한 간단한 요약을 살펴보십시오. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
 * [2022년 6월 릴리스 개요 비디오](https://video.tv.adobe.com/v/344308/?quality=12)
 * [2022년 5월 릴리스 개요 비디오](https://video.tv.adobe.com/v/343321/?quality=12)
@@ -165,68 +166,68 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 
 _새로운 기능_
 
-* 다음 [컨텐츠 조각 콘솔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=ko-KR) 이제에서 지원 [키보드 단축키](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console-keyboard-shortcuts.html?lang=en).
-* as a Cloud Service Experience Manager [웹에 최적화된 이미지 제공](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=en) WebP와 같은 형식을 제공하여 페이지 속도를 크게 향상시킵니다. 또한 이 새로운 서비스는 보다 유연한 이미지 크기 조정 및 변환 옵션을 제공합니다. 모든 버전의 [코어 이미지 구성 요소](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=en) 이 서비스를 사용하고 이미지 구성 요소의 정책에서 옵션을 선택하여 WebP에서 이미지를 제공할 수 있습니다.
-* 이제 Experience Manager 개인화 활동은 이전 오퍼 대신 경험 조각을 사용할 수 있습니다. 이 기능은 다음을 수행하는 데 도움이 됩니다.
-   * Experience Manager 컨텐츠가 이전 라이브러리 오퍼보다 경험 조각 오퍼를 홍보하는 마이그레이션 경로를 활성화하여 향후 개인화에 맞게 적절히 스타일이 지정된 콘텐츠를 제공할 수 있습니다.
-   * 콘텐츠 작성자가 실수로 스타일이 지정되지 않은 콘텐츠를 사이트에 제공하지 않도록 합니다.
-   * 모든 구성 요소의 타깃팅 모드를 편집 가능한 템플릿을 사용하는 경험 조각(JSON 및 HTML 유형 모두)으로 변환할 수 있습니다.
+* [콘텐츠 조각 콘솔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=ko-KR)은 이제 [키보드 단축키](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console-keyboard-shortcuts.html?lang=ko-kr)를 지원합니다.
+* as a Cloud Service Experience Manager [웹에 최적화된 이미지 제공](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=ko-kr) WebP와 같은 형식을 제공하여 페이지 속도를 크게 향상시킵니다. 또한 이 새로운 서비스는 보다 유연한 이미지 크기 조정 및 변환 옵션을 제공합니다. 모든 버전의 [핵심 이미지 구성 요소](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=ko-kr)는 이 서비스를 사용하며 이미지 구성 요소 정책에서 옵션을 선택하여 WebP에서 이미지를 제공할 수 있습니다.
+* Experience Manager 개인화 활동은 이제 레거시 서비스 대신 경험 조각을 사용할 수 있습니다. 이 기능을 통해 다음과 같은 작업을 수행할 수 있습니다.
+   * 레거시 라이브러리가 아닌 Experience Manager 콘텐츠가 경험 조각 오퍼를 촉진하는 마이그레이션 경로를 통해 향후 규모에 맞는 개인화에 적합한 스타일의 콘텐츠를 제공할 수 있습니다.
+   * 콘텐츠 작성자가 사이트에서 스타일이 지정되지 않은 콘텐츠를 실수로 제공하는 것을 방지합니다.
+   * 모든 구성 요소의 타겟팅 모드를 편집 가능한 템플릿을 사용하는 경험 조각(JSON 및 HTML 유형 모두)으로 변환할 수 있습니다.
 
 ### Experience Manager [!DNL Assets] 로서의 [!DNL Cloud Service]
 
-_사전 릴리스 채널에서 사용할 수 있는 새로운 기능_
+_프리릴리스 채널에서 사용할 수 있는 새로운 기능_
 
-* 이제 Adobe Experience Manager Assets을에 구성할 수 있습니다. [MIME 유형에 따라 사용자가 업로드할 수 있는 자산 유형을 제한합니다](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/configure-asset-upload-restrictions.html?lang=en).
+* 이제 [사용자가 MIME 유형에 따라 업로드할 수 있는 에셋 유형을 제한](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/configure-asset-upload-restrictions.html?lang=ko-kr)하도록 Adobe Experience Manager Assets를 구성할 수 있습니다.
 
 ### Experience Manager [!DNL Forms] 로서의 [!DNL Cloud Service]
 
 _새로운 기능_
 
-* **스크리블 서명에 대한 키보드 입력 지원** - 적응형 Forms이 터치 장치에서 점점 더 많이 사용되고 있으며, 한 가지 일반적인 요구 사항은 서명을 지원하는 것입니다. 터치 장치에서 문서에 서명하는 것은 허용되는 양식 서명 방법이 되었다. 적응형 Forms에는 스크리블 서명 및 Adobe Sign에 대한 기본 지원 기능이 있습니다. 이제 이미 지원되는 다른 옵션과 함께 키보드를 사용하여 적응형 양식에서 스크리블 서명을 사용할 수도 있습니다. 또한 접근성 준수를 강화하는 데에도 도움이 됩니다.
+* **스크리블 서명을 위한 키보드 입력 지원** - 적응형 양식은 터치 디바이스에서 점점 더 많이 사용되고 있으며, 한 가지 일반적인 요구사항은 서명을 지원하는 것입니다. 터치 디바이스에서 문서에 서명하는 것은 양식 서명에서 허용되는 방법이 되었습니다. 적응형 양식은 이러한 사용 사례에 대해 스크리블 서명 및 Adobe Sign을 기본 지원합니다. 이제 이미 지원되는 다른 옵션과 더불어 키보드를 사용하여 적응형 양식에 스크리블 서명을 할 수도 있습니다. 또한 접근성 규정 준수를 개선하는 데도 도움이 됩니다.
 
-* **로컬 언어로 적응형 Forms 마법사 사용** - 원하는 언어로 마법사를 사용할 수 있습니다. 이제 Experience Manager에서 지원하는 모든 언어를 지원합니다.
+* **로컬 언어로 적응형 양식 마법사 사용** - 선택한 언어로 마법사를 사용할 수 있습니다. 이제 Experience Manager에서 지원하는 모든 언어를 지원합니다.
 
 _프리릴리스 채널에서 사용할 수 있는 새로운 기능_
 
-* **호출 - Experience Manager 워크플로우 단계** - DDX(Document Description XML)는 요소가 문서 빌딩 블록을 나타내는 선언적 마크업 언어입니다. 이러한 빌딩 블록에는 PDF 및 XDP 문서와 주석, 책갈피 및 스타일이 지정된 텍스트와 같은 기타 요소가 포함됩니다. DDX 문서는 문서의 템플릿이며 결과 문서에 표시되어야 하는 소스 문서의 원하는 특성을 설명합니다. 하나의 DDX를 다양한 소스 문서와 함께 사용할 수 있습니다. 호출 단계 및 Experience Manager 워크플로우를 사용하여 문서 분해, Acrobat 및 XFA Forms 작성 및 수정, 그리고 에 설명된 기타 작업과 같은 다양한 작업을 수행할 수 있습니다. [DDX 참조](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf) 설명서.
+* **호출 - Experience Manager 워크플로 단계** - DDX(Document Description XML)는 문서의 구성 요소를 나타내는 선언적 마크업 언어입니다. 이러한 구성 요소에는 PDF 및 XDP 문서는 물론 주석, 책갈피 및 스타일이 지정된 텍스트와 같은 기타 요소가 포함됩니다. DDX 문서는 문서용 템플릿이며 결과 문서에 나타나야 하는 원본 문서의 원하는 특성을 설명합니다. 단일 DDX를 다양한 원본 문서와 함께 사용할 수 있습니다. Experience Manager 워크플로 호출 단계를 사용하여 문서 어셈블/디스어셈블, Acrobat 및 XFA 양식 작성 및 수정, [DDX 참조](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf) 설명서에 설명된 기타 작업과 같은 다양한 작업을 수행할 수 있습니다.
 
-* **PDF/A로 변환 - Experience Manager 워크플로우 단계** - PDF/A는 문서의 컨텐츠를 장기 보존하기 위한 보관 형식이며 모든 글꼴이 포함되고 파일의 압축이 해제됩니다. 이제 AEM Workflow에서 PDF/A로 변환 단계를 사용하여 문서 또는 파일을 어떤 형식의 형식으로든 PDF/A 형식으로 변환할 수 있습니다.
+* **PDF/A로 변환 - Experience Manager 워크플로우 단계** - PDF/A는 문서의 컨텐츠를 장기 보존하기 위한 보관 형식이며 모든 글꼴이 포함되고 파일의 압축이 해제됩니다. 이제 AEM 워크플로의 PDF/A로 변환 단계를 사용하여 모든 형식의 문서 또는 파일을 PDF/A 형식으로 변환할 수 있습니다.
 
 ### Experience Manager as a Cloud Service 기반
 
 _새로운 기능_
 
-* 다음 [저장소 브라우저](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/repository-browser.html?lang=ko) 이제 경로 입력 필드가 있으므로 저장소 계층 구조의 특정 폴더로 바로 이동할 수 있습니다
-* 이제 SCD(Sling Content Distribution)에서 게시되는 컨텐츠를 사용하지 않고 콘텐츠를 무효화하기 위해 명시적 &quot;무효화&quot; 작업을 지원합니다. 자세한 내용은 [Experience Manager as a Cloud Service 캐싱](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=en#explicit-invalidation) 페이지를 참조하십시오.
-* `mod_macro` 이제 Experience Manager as a Cloud Service에서 사용할 수 있습니다. [이 표 보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/disp-overview.html?lang=ko) 지원되는 Apache 모듈 목록입니다.
+* 이제 [저장소 브라우저](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/repository-browser.html?lang=ko-kr)에 경로 입력 필드가 있으므로 저장소 계층의 특정 폴더로 직접 이동할 수 있습니다.
+* SCD(Sling 콘텐츠 배포)는 이제 해당 콘텐츠가 게시되지 않은 콘텐츠를 무효화하기 위해 명시적인 &quot;무효화&quot; 작업을 지원합니다. 자세한 내용은 [Experience Manager as a Cloud Service의 캐싱](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=ko-kr#explicit-invalidation)을 참조하십시오.
+* `mod_macro`를 이제 Experience Manager as a Cloud Service에서 사용할 수 있습니다. 지원되는 Apache 모듈의 목록은 [이 표](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/disp-overview.html?lang=ko-kr)를 참조하십시오.
 
-_as a Cloud Service SDK Dispatcher 도구 Experience Manager 개선 사항_
+_Experience Manager as a Cloud Service SDK Dispatcher 도구 개선 사항_
 
-* Apache는 `update_sdk.sh` Apache 및 Dispatcher 구성에 대한 후속 변경 사항을 자동으로 로드 및 확인하여 개발자 속도를 향상시킵니다. Dispatcher 도구 유연한 모드에서만 지원됩니다. 또한, [Apache 및 Dispatcher 구성 디버깅](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/validation-debug.html?lang=en#automatic-loading) 자동 로드 및 유효성 검사에 대한 자세한 내용은 를 참조하십시오.
-* 로컬 Apache/Dispatcher 구성은 클라우드 환경의 변경 사항을 더 밀접하게 추적하여 두 환경 간의 패리티를 증가시킵니다.
+* Apache는 Apache 및 Dispatcher 구성에 대한 변경 사항을 자동으로 로드하고 유효성을 검사하는 `update_sdk.sh` 스크립트로 시작할 수 있으므로 개발자 속도가 향상됩니다. Dispatcher 도구 유연한 모드에서만 지원됩니다. 자동 로드 및 유효성 검사에 대한 자세한 내용은 [Apache 및 Dispatcher 구성 디버깅](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/validation-debug.html?lang=ko-kr#automatic-loading)을 참조하십시오.
+* 로컬 Apache/Dispatcher 구성은 클라우드 환경의 변화를 더욱 면밀히 추적하여 두 환경 간의 유사성을 증가시킵니다.
 
-_사전 릴리스 채널에서 사용할 수 있는 새로운 기능_
+_프리릴리스 채널에서 사용할 수 있는 새로운 기능_
 
-* 이제 Experience Manager as a Cloud Service가 통합 쉘과 통합되어 사용자 경험을 개선하고 다른 모든 Experience Cloud 애플리케이션과 통합합니다. 자세한 내용은 [통합 셸의 as a Cloud Service Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=kr).
+* 이제 Experience Manager as a Cloud Service가 통합 쉘과 통합되어 사용자 경험을 개선하고 다른 모든 Experience Cloud 애플리케이션과 통합합니다. [통합 쉘의 Experience Manager as a Cloud Service를 위한 IMS 지원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=ko-kr)을 참조하십시오.
 
 ### [!DNL Cloud Manager]
 
 _새로운 기능_
 
-* 이제 Cloud Manager 사용자는 **[!UICONTROL 시작]** 랜딩 페이지의 카드입니다.
-* 팝업 [컨텐츠 복원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=ko-KR) 이제 환경 세부 사항 페이지의 탭에 사용자가 변경 사항을 로컬로 볼 수 있도록 해주는 유용한 git 명령 목록이 표시됩니다.
+* 이제 Cloud Manager 사용자는 랜딩 페이지의 **[!UICONTROL 시작]** 카드에서 유용한 비디오 튜토리얼에 액세스할 수 있습니다.
+* 이제 환경 세부 정보 페이지의 [콘텐츠 복원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=ko-kr) 탭에 나타나는 팝업에 변경 내용을 로컬로 확인할 수 있도록 하는 유용한 git 명령 목록이 표시됩니다.
 
 ### Adobe Learning Manager 커넥터
 
 _새로운 기능_
 
-* 새로운 Adobe Learning Manager에는 Adobe Experience Manager Sites, Marketo Engage 및 Adobe Commerce에 대한 커넥터가 있습니다. 자세한 내용은 [Adobe Learning Manager 사용 안내서](https://helpx.adobe.com/learning-manager/user-guide.html).
+* 새로운 Adobe Learning Manager에는 Adobe Experience Manager Sites, Marketo Engage 및 Adobe Commerce에 대한 커넥터가 있습니다. [Adobe Learning Manager 사용 안내서](https://helpx.adobe.com/kr/learning-manager/user-guide.html)를 참조하십시오.
 
 ### 커뮤니티
 
 * Experience Manager as a Cloud Service [2022.7.0 릴리스 업데이트](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-as-a-cloud-service-2022-7-0-release-update/ba-p/540062#M546).
-* 드디어! 필요한 모든 Experience Manager 컨텐츠를 한 곳에서 관리 [Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/finally-all-the-aem-content-you-need-all-in-one-place-on-aem/ba-p/460583)!
-* Adobe Experience Manager [Community Lens 1st Edition](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-1st-edition-august-2022/ba-p/538960)2022년 8월
+* 마지막으로 필요한 모든 Experience Manager 콘텐츠가 [Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/finally-all-the-aem-content-you-need-all-in-one-place-on-aem/ba-p/460583)의 한 곳에 있습니다!
+* Adobe Experience Manager [Community Lens 초판](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-1st-edition-august-2022/ba-p/538960), 2022년 8월.
 
 ### 새로운 Experience Manager 교육 과정 및 튜토리얼 {#tutorials-aem}
 
@@ -234,10 +235,10 @@ _새로운 기능_
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022년 8월 | [AEM as a Cloud Service 2022.7.0 릴리스 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html) | 비디오 | Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms 및 Cloud Manager의 최신 릴리스에 대한 기능 및 혁신에 대해 AEM 제품 팀의 의견을 들어 알아보십시오. | AEM as a Cloud Service |
-| 2022년 8월 | [AEM Headless 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=en) | 업데이트된 문서 | AEM Headless SDK 자습서가 지속형 쿼리 및 WKND 2.0을 사용하도록 업데이트되었습니다. 실습 자습서를 사용하여 다양한 옵션을 사용하는 방법을 탐색하고 자신에게 적합한 옵션을 선택하십시오. | AEM as a Cloud Service |
-| 2022년 8월 | [Adobe Experience Cloud와의 AEM as a Cloud Service 통합](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html) | 비디오 | AEM as a Cloud Service이 다른 Adobe Experience Cloud 제품과의 지원되는 통합에 대해 알아봅니다. | AEM CS, Experience Cloud |
-| 2022년 8월 | [Forms CS 및 Microsoft® Power 자동화](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html) | 비디오 | 적응형 양식 제출에서 자동 흐름을 신속하게 실행할 수 있습니다. | AEM Forms |
+| 2022년 8월 | [AEM as a Cloud Service 2022.7.0 릴리스 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html) | 비디오 | AEM 제품 팀의 의견을 듣고 Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms 및 Cloud Manager의 최신 릴리스에 대한 기능과 혁신에 대해 알아보십시오. | AEM as a Cloud Service |
+| 2022년 8월 | [AEM Headless 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=ko-kr) | 업데이트된 문서 | AEM Headless SDK 자습서가 지속형 쿼리 및 WKND 2.0을 사용하도록 업데이트되었습니다. 실습 자습서를 사용하여 다양한 옵션을 사용하는 방법을 탐색하고 자신에게 적합한 옵션을 선택하십시오. | AEM as a Cloud Service |
+| 2022년 8월 | [AEM as a Cloud Service와 Adobe Experience Cloud의 통합](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html) | 비디오 | AEM as a Cloud Service이 다른 Adobe Experience Cloud 제품과의 지원되는 통합에 대해 알아봅니다. | AEM CS, Experience Cloud |
+| 2022년 8월 | [Forms CS 및 Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html) | 비디오 | 적응형 양식 제출 시 Power Automate 흐름을 호출합니다. | AEM Forms |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -291,15 +292,15 @@ Adobe Commerce 릴리스 정보에 대한 다음 링크를 참조하십시오.
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 8월 | [Adobe Commerce 컨텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html) | 제품 설명서 | Adobe Commerce 컨텐츠 및 디자인을 위한 새 제품 설명서 홈 을 참조하십시오. |
-| 2022년 8월 | [카탈로그 서비스 안내서 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html) | 제품 설명서 | 소개 [!UICONTROL 카탈로그 서비스]. 온보딩 및 설치에 대해 알아봅니다. |
-| 2022년 8월 | [Adobe Commerce에 대한 빠른 체크아웃](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html) | 제품 설명서 | Adobe Commerce을 위한 일반적인 체크아웃 경험과 빠른 체크아웃 이점 및 해당 여정을 따르는 모범 사례에 대한 개요를 살펴보십시오. |
+| 2022년 8월 | [Adobe Commerce Content 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html) | 제품 설명서 | Adobe Commerce 콘텐츠 및 디자인을 보려면 신제품 설명서 홈을 방문하십시오. |
+| 2022년 8월 | [카탈로그 서비스 안내서 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html) | 제품 설명서 | [!UICONTROL 카탈로그 서비스]를 소개합니다. 온보딩 및 설치에 대해 알아보십시오. |
+| 2022년 8월 | [Adobe Commerce용 빠른 체크아웃](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html) | 제품 설명서 | Adobe Commerce의 일반적인 체크아웃 경험과 빠른 체크아웃이 어떤 이점을 제공하는지, 그리고 이러한 여정에서 따라야 할 모범 사례에 대해 간략히 살펴보십시오. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## ![아이콘](/assets/target.png) [!DNL Adobe Target] {#target}
 
-마지막 업데이트 날짜: **2022년 7월 20일**
+마지막 업데이트: **2022년 7월 20일**
 
 * 이전 릴리스에 대한 자세한 내용은 [Adobe Target 프리릴리스](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ko-KR)를 참조하십시오.
 * 최신 릴리스에 대한 자세한 내용은 [Adobe Target 릴리스 정보](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ko-KR)를 참조하십시오.
@@ -310,9 +311,9 @@ Adobe Campaign은 온라인 및 오프라인 마케팅 채널 간에 직관적�
 
 ### 최신 Campaign 제품 릴리스
 
-* [Campaign v8 릴리스 정보](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=en)
+* [Campaign v8 릴리스 정보](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=ko-kr)
 * [Campaign v7.3 릴리스 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ko-KR)
-* [Campaign 컨트롤 패널 7월 릴리스](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ko-KR)
+* [제어판 7월 릴리스](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ko-KR)
 
 <!--* [Tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League-->
 
@@ -344,7 +345,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 * Adobe Campaign v8: [설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ko-KR) - [구현 안내서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ko-KR)
 * Adobe Campaign Standard: [Campaign Standard 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR) - [릴리스 계획](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ko-KR)
 * Adobe Campaign Classic: [Campaign Classic v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ko-KR)
-* Adobe Campaign Campaign 컨트롤 패널: [설명서](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko-KR) - [릴리스 노트](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - 방법 비디오 [방법 비디오](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=en)
+* Adobe Campaign 제어판: [설명서](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - [방법 비디오](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko-kr)에 대한 방법 비디오
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -352,7 +353,7 @@ Journey Optimizer를 사용하면 단일 애플리케이션에서 수백만 고�
 
 ### 최신 Journey Optimizer 제품 릴리스
 
-[Journey Optimizer 릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
+[Journey Optimizer 릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ko-kr)에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
 
 <!-- ### New Journey Optimizer tutorials and courses {#tutorials-ajo}
 
@@ -373,7 +374,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
-Experience Platform을 사용하여 모든 개인의 요구 사항을 실시간 지능적으로 예측하여 경험 채널에서 규모에 맞게 고객 여정을 오케스트레이션할 수 있습니다.
+Experience Platform을 사용하여 모든 개인의 요구 사항을 실시간으로 지능적으로 예측하여 경험 채널에서 규모에 맞게 고객 여정을 조율할 수 있습니다.
 
 ### 최신 [!DNL Journey Orchestration] 제품 릴리스
 
@@ -397,42 +398,42 @@ Adobe Marketo에 게시된 새로운 비디오, 튜토리얼 또는 교육 과�
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 8월 | [Marketo Engage 자습서](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | 비디오 | 다음 방문 [Marketo Engage 자습서 홈](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Marketo Engage을 위한 모든 과거 및 새로운 자습서에 대한 Experience League 설정. |
+| 2022년 8월 | [Marketo Engage 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr) | 비디오 | Marketo Engage의 모든 과거 및 새로운 튜토리얼을 보려면 Experience League의 [Marketo Engage 튜토리얼 홈](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)을 방문하십시오. |
 
 {style=&quot;table-layout:auto&quot;}
 
-최신 제품 설명서는 [Marketo 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en) 홈
+최신 제품 설명서를 보려면 [Marketo 제품 설명서](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko-kr) 홈을 참조하십시오.
 
 ## ![아이콘](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront]는 아이디어 공유, 콘텐츠 생성, 복잡한 프로세스 관리 및 최상의 작업 수행을 위한 통합 작업 관리 애플리케이션입니다.
 
-### 새로운 Adobe Workfront 교육 과정 및 자습서 {#tutorials-workfront}
+### 새로운 Adobe Workfront 교육 과정 및 튜토리얼 {#tutorials-workfront}
 
-Experience League에 대한 새로운 Workfront 교육 과정 및 자습서
+Experience League의 새로운 Workfront 교육 과정 및 튜토리얼.
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 8월 | [Workfront 튜토리얼](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | 튜토리얼 홈 | Experience League에서 Workfront 자습서를 위한 새 홈 을 참조하십시오. |
-| 2022년 8월 | [시스템 관리자를 위한 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | 교육 과정 | 시스템 설정을 사용하여 사용자를 설정하고 사용자의 경험을 최적화하는 방법에 대한 첫 번째 단계를 알아봅니다. |
-| 2022년 8월 | [Workfront 관리자에 대한 시스템 설정 추가 정보](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | 교육 과정 | 사용자 조직, 사용자 지정 양식, 승인 프로세스 및 이정표, 레이아웃 템플릿 등 사용자의 경험을 향상시키기 위한 시스템 설정에 대해 자세히 알아보십시오. |
-| 2022년 8월 | [계획자용 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | 교육 과정 | 프로젝트를 만들고 계획하는 방법을 배워서 Workfront 여정을 시작합니다. Workfront에서는 단순하게 유지하는 것이 좋습니다. |
-| 2022년 8월 | [프로젝트 관리 및 닫기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | 교육 과정 | 이제 프로젝트를 만들고 계획하는 방법을 배웠으므로 프로젝트를 관리하고 닫을 수 있습니다. |
-| 2022년 8월 | [계획자로서 작업 관리에 대한 추가 이해 ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | 교육 과정 | 프로젝트 만들기, 계획 및 관리의 기본 사항을 알게 되면 Workfront을 최대한 활용하기 위해 알고 있어야 하는 몇 가지 사항이 있습니다. |
-| 2022년 8월 | [근로자를 위한 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | 교육 과정 | 이 교육 과정은 작업 또는 요청을 받고 프로젝트 및 문서에서 팀과 공동 작업하는 Adobe Workfront의 작업 라이선스 사용자를 위한 것입니다. |
-| 2022년 8월 | [Adobe Workfront for 공동 작업자](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | 교육 과정 | 새로운 Workfront 환경에서 검토 또는 요청 라이센스를 사용하여 작업, 문서 및 증명을 쉽게 요청, 검토 및 공동 작업하는 방법을 알아봅니다. |
-| 2022년 8월 | [사용자 지정 양식 만들기 및 관리](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | 교육 과정 | 시스템에서 사용자 지정 필드를 만들어 조직의 고유한 정보를 캡처합니다. Workfront 내에서 사용자 지정 양식을 만들고, 공유하고, 첨부하는 방법을 알아봅니다. |
-| 2022년 8월 | [Workfront 증명 - 관리 및 설정](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | 교육 과정 | 증명 설정을 조정하고, 작업 및 보고서를 사용자 지정하고, 증명 워크플로우를 설정하는 방법을 알아봅니다. |
-| 2022년 8월 | [Workfront 증명 - 증명 업로드](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | 교육 과정 | 검토 및 승인을 위해 증명을 업로드하는 방법을 알아봅니다. |
-| 2022년 8월 | [Workfront 증명 - 작업 검토 및 승인](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | 교육 과정 | Workfront 증명을 검토자 또는 승인자로 사용하는 방법을 알아봅니다. |
-| 2022년 8월 | [기본 보고 요소](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | 교육 과정 | 보고 요소는 Workfront의 모든 목록 보고서에 있는 필터, 보기 및 그룹화입니다. 이에 대해 학습하면 사용자 지정 보고서 및 달력을 만드는 데 도움이 됩니다. |
-| 2022년 8월 | [사용자 지정 달력 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | 교육 과정 | 사용자 지정 달력을 사용하면 프로젝트, 작업 및 문제의 날짜 및 정보를 달력 형식으로 직접 표시할 수 있습니다. |
-| 2022년 8월 | [사용자 지정 보고서 및 대시보드 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | 교육 과정 | 보고서는 데이터의 창입니다. Workfront에서 세 가지 유형의 보고서를 만들어 대시보드에서 사용하는 방법을 알아봅니다. |
-| 2022년 8월 | [중간 필터 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | 교육 과정 | 와일드카드, OR 필터 및 텍스트 모드를 보다 잘 이해할 수 있습니다. 내장된 프로젝트, 작업 및 문제 필터를 열고 진행 중인 작업의 세부 사항을 살펴보십시오. |
+| 2022년 8월 | [Workfront 튜토리얼](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=ko-kr) | 튜토리얼 홈 | Experience League의 새로운 Workfront 튜토리얼 홈을 방문하십시오. |
+| 2022년 8월 | [시스템 관리자를 위한 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | 교육 과정 | 사용자를 설정하고 시스템 설정으로 사용자 환경을 최적화하는 방법의 첫 번째 단계에 대해 알아보십시오. |
+| 2022년 8월 | [Workfront 관리자를 위한 시스템 설정 지식 향상](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | 교육 과정 | 사용자 조직, 사용자 정의 양식, 승인 프로세스 및 마일스톤, 레이아웃 템플릿을 포함하여 사용자 경험을 개선하기 위한 시스템 설정에 대해 자세히 알아봅니다. |
+| 2022년 8월 | [플래너를 위한 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | 교육 과정 | 프로젝트를 만들고 계획하는 방법을 배움으로써 Workfront 여정을 시작하십시오. Workfront는 이러한 작업을 간단하게 유지할 것을 권장합니다. |
+| 2022년 8월 | [프로젝트 관리 및 종료](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | 교육 과정 | 이제 프로젝트를 만들고 계획하는 방법을 배웠으므로 프로젝트를 관리하고 종료하는 방법에 대해 알아볼 수 있습니다. |
+| 2022년 8월 | [플래너로서의 작업 관리에 대한 이해 향상](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | 교육 과정 | 프로젝트 생성, 계획 및 관리에 대한 기본 사항을 학습한 후에는 Workfront를 최대한 활용하기 위해 알아야 할 몇 가지 사항이 더 있습니다. |
+| 2022년 8월 | [작업자를 위한 Workfront 시작하기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | 교육 과정 | 이 과정은 Adobe Workfront에서 작업 또는 요청을 받고 프로젝트 및 문서에 대해 팀과 공동 작업하는 작업 라이선스가 있는 사용자를 위한 것입니다. |
+| 2022년 8월 | [공동 작업자를 위한 Adobe Workfront](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | 교육 과정 | 검토 또는 요청 라이선스를 사용하여 새로운 Workfront 환경에서 작업, 문서 및 증명을 쉽게 요청, 검토 및 공동 작업하는 방법에 대해 알아봅니다. |
+| 2022년 8월 | [맞춤형 양식 생성 및 관리](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | 교육 과정 | 시스템에 사용자 정의 필드를 만들어 조직의 고유 정보를 캡처합니다. Workfront 내에서 사용자 정의 양식을 작성, 공유 및 첨부하는 방법을 배웁니다. |
+| 2022년 8월 | [Workfront 증명 - 관리 및 설정](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | 교육 과정 | 증명 설정을 조정하고, 액션 및 보고서를 사용자 정의하고, 증명 워크플로를 설정하는 방법에 대해 알아봅니다. |
+| 2022년 8월 | [Workfront 증명 - 증명 업로드](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | 교육 과정 | 검토 및 승인을 위해 증명을 업로드하는 방법을 배웁니다. |
+| 2022년 8월 | [Workfront 증명 - 작업 검토 및 승인](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | 교육 과정 | Workfront 증명을 검토자 또는 승인자로 사용하는 방법을 배웁니다. |
+| 2022년 8월 | [기본 보고 요소](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | 교육 과정 | 보고 요소는 Workfront의 모든 목록 보고서에 있는 필터, 보기 및 그룹입니다. 이러한 요소들을 통해 사용자 정의 보고서 및 달력을 만들 수 있습니다. |
+| 2022년 8월 | [사용자 정의 달력 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | 교육 과정 | 사용자 정의 달력을 사용하면 프로젝트, 작업 및 문제의 날짜 및 정보를 달력 형식으로 직접 표시할 수 있습니다. |
+| 2022년 8월 | [사용자 정의 보고서 및 대시보드 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | 교육 과정 | 보고서는 데이터를 볼 수 있는 창입니다. Workfront에서 세 가지 유형의 보고서를 만들고 대시보드에서 사용하는 방법에 대해 알아봅니다. |
+| 2022년 8월 | [중간 필터 만들기](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | 교육 과정 | 와일드카드, OR 필터 및 텍스트 모드를 더 잘 이해합니다. 기본 제공 프로젝트, 작업 및 문제 필터를 열고 실제 진행 상황에 대한 세부 정보를 확인합니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
-자세한 내용은 [[!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) 페이지를 참조하십시오.
+모든 제품에 대한 최신 정보를 보려면 [[!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) 페이지를 참조하십시오.
 
 ## ![아이콘](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
 
@@ -450,7 +451,7 @@ Experience League에 대한 새로운 Workfront 교육 과정 및 자습서
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| Adobe Analytics와의 통합 | (8월 6일 릴리스) Advertising Cloud이 보내는 데이터 피드 개선 사항 [!DNL Analytics] 검색 엔진의 클릭/비용/노출 데이터와 의 관련 전환 데이터 간에 불일치가 줄어듭니다. [!DNL Analytics]. |
+| Adobe Analytics와의 통합 | (8월 6일 릴리스) Advertising Cloud가 [!DNL Analytics]에 보내는 데이터 피드를 개선하면 검색 엔진의 클릭/비용/노출 횟수 데이터와 [!DNL Analytics]의 관련 전환 데이터 간의 불일치가 줄어듭니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -486,10 +487,10 @@ Adobe Document Cloud용으로 게시된 새로운 튜토리얼 및 교육 과정
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022년 8월 | [새로운 작업 공간 경험](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html) | 비디오 | 도구 및 파일 간에 원활하게 이동할 수 있도록 Acrobat에서 활성화할 수 있는 새로운 작업 공간 경험에 대해 알아보십시오. | Adobe Acrobat |
-| 2022년 8월 | [온라인 결제 설정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=en) | 비디오 | 문서에서 온라인 결제를 설정하고 수락하는 방법을 알아봅니다. | Acrobat Sign |
-| 2022년 8월 | [스탬프로 서명](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html) | 비디오 | 서명 워크플로우에서 스탬프를 사용하여 승인되었거나 완료된 문서를 표시하는 방법을 알아봅니다. | Acrobat Sign |
-| 2022년 8월 | [직접 서명 받기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=en) | 비디오 | 를 사용하여 다른 사람의 서명을 직접 가져오는 방법을 알아봅니다. [Acrobat Sign 모바일 앱](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=en). | Acrobat Sign |
+| 2022년 8월 | [새로운 작업 영역 경험](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html) | 비디오 | 도구와 파일 사이를 원활하게 이동할 수 있도록 Acrobat에서 활성화할 수 있는 새로운 작업 영역 경험에 대해 알아보십시오. | Adobe Acrobat |
+| 2022년 8월 | [온라인 결제 설정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=ko-kr) | 비디오 | 문서에서 온라인 결제를 설정하고 수락하는 방법에 대해 알아보십시오. | Acrobat Sign |
+| 2022년 8월 | [스탬프로 서명](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html) | 비디오 | 서명 워크플로에서 스탬프를 사용하여 승인되거나 완료된 문서를 표시하는 방법에 대해 알아보십시오. | Acrobat Sign |
+| 2022년 8월 | [직접 서명 받기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=ko-kr) | 비디오 | 를 사용하여 다른 사람의 서명을 직접 가져오는 방법을 알아봅니다. [Acrobat Sign 모바일 앱](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=ko-kr). | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
