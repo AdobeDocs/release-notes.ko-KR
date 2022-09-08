@@ -6,7 +6,7 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
+source-git-commit: b463f30f9d36a0047933ce500d81a8f123d48131
 workflow-type: tm+mt
 source-wordcount: '5112'
 ht-degree: 79%
@@ -58,7 +58,7 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 | 제품/이벤트 이름 | 유형 | 설명 |
 | -----------|---------- | ----|
 | **[!DNL Adobe Analytics]** | 웨비나 | _경험 작성자 - 기술 교환_ - Adobe에 참여하십시오 [!DNL Analytics] 전문가들이 Adobe에 대한 내부 정보를 제공하는 에디션 [!DNL Analytics]. <p>**날짜:** 9월 8일 @ 9:00 PT - [세부 사항 및 등록](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
-| **[!DNL Adobe Workfront]** | 워크숍 | 다른 고객과 교류하고 토론할 기회를 찾고 있습니다. [!DNL Workfront] 기능? CS 연결 시리즈에 참여하십시오! 다른 고객과 연결하여 조직의 주요 주제에 대해 논의할 수 있는 월간 기회입니다.<p>>**날짜:** 9월 12일 @ 오전 7시 MT [세부 사항 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 워크숍 | 다른 고객과 교류하고 토론할 기회를 찾고 있습니다. [!DNL Workfront] 기능? CS 연결 시리즈에 참여하십시오! 다른 고객과 연결하여 조직의 주요 주제에 대해 논의할 수 있는 월간 기회입니다.<p>**날짜:** 9월 12일 @ 오전 7시 MT [세부 사항 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | 웨비나 | _Experience Makers Live_ - 사라 블라클리, 페이튼 매닝, 엘리 매닝의 키노트를 포함한 무료 행사<p>**일자:** 9월 13일 ~ 14일 - [세부 정보 및 등록](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | 워크숍 | Diagramming Workflows - Customer Success 팀에 합류하여 Induction에서 Completion까지 Diagramming 워크플로우의 라이브 토론 및 둘러보기와 효과적인 작업 관리 작업을 위한 견고한 기반을 설정하는 방법을 이해합니다. <p>**일자:** 9월 20일 ~ 일 - [세부 정보 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign]** (Classic 및 Standard) | 웨비나 | 크로스 채널 마케터의 성수기와 가장 바쁜 시기인 휴일 시즌이 다가오고 있습니다. 계획이 잘 진행되어야 합니다. 이 [!DNL Adobe Campaign] 인사이더 세션에서는 전자 메일 게재 기능에 도움이 되는 주제를 다룹니다. [!DNL Adobe Campaign] 인스턴스가 활동이 가장 많은 상태가 되도록 성능 조정, 워크플로우 및 게재 모범 사례<p>**날짜:** 9월 15일 @ 8:00 PT [세부 사항 및 등록](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
