@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7c5a6c8ca64bef6ae2421b24a51ab4d0237d186d
+source-git-commit: 2b212054c9798d6c4a78a382f838e037697e7d7d
 workflow-type: tm+mt
 source-wordcount: '5431'
 ht-degree: 42%
@@ -169,7 +169,7 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 
 ### 제품 업데이트 비디오
 
-보기 [8월 릴리스 개요 비디오](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=kr) 2022.8.0(2022년 8월) 릴리스에 추가된 기능에 대한 요약입니다. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+보기 [8월 릴리스 개요 비디오](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=kr) 2022.8.0(2022년 8월) 릴리스에 추가된 기능에 대한 요약입니다. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
 
 * [2022년 7월 릴리스 개요 비디오](https://video.tv.adobe.com/v/345409/?quality=12)
 * [2022년 6월 릴리스 개요 비디오](https://video.tv.adobe.com/v/344308/?quality=12)
