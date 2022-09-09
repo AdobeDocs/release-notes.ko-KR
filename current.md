@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c31b0d7fc934b0c54d250703d30bee7f344b1e7
+source-git-commit: de17195b999264f06cb12433c97e8ebf6706a42e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 최신 업데이트: **2022년 9월 9일**
 
-* [[!DNL Experience League] events](#events) (업데이트됨) **9월 7일**)
+* [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 중앙 인터페이스 구성 요소 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,11 +53,10 @@ ht-degree: 0%
 
 Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다. 2022년 7월의 최신 정보를 확인하려면 Experience League의 [이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr)를 참조하십시오.
 
-업데이트됨 **2022년 9월 8일**
+업데이트됨 **2022년 9월 9일**
 
 | 제품/이벤트 이름 | 유형 | 설명 |
 | -----------|---------- | ----|
-| **[!DNL Adobe Analytics]** | 웨비나 | _경험 작성자 - 기술 교환_ - Adobe에 참여하십시오 [!DNL Analytics] 전문가들이 Adobe에 대한 내부 정보를 제공하는 에디션 [!DNL Analytics]. <p>**날짜:** 9월 8일 @ 9:00 PT - [세부 사항 및 등록](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
 | **[!DNL Adobe Workfront]** | 워크숍 | 다른 고객과 교류하고 토론할 기회를 찾고 있습니다. [!DNL Workfront] 기능? CS 연결 시리즈에 참여하십시오! 다른 고객과 연결하여 조직의 주요 주제에 대해 논의할 수 있는 월간 기회입니다.<p>**날짜:** 9월 12일 @ 오전 7시 MT [세부 사항 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | 웨비나 | _Experience Makers Live_ - 사라 블라클리, 페이튼 매닝, 엘리 매닝의 키노트를 포함한 무료 행사<p>**일자:** 9월 13일 ~ 14일 - [세부 정보 및 등록](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | 워크숍 | Diagramming Workflows - Customer Success 팀에 합류하여 Induction에서 Completion까지 Diagramming 워크플로우의 라이브 토론 및 둘러보기와 효과적인 작업 관리 작업을 위한 견고한 기반을 설정하는 방법을 이해합니다. <p>**일자:** 9월 20일 ~ 일 - [세부 정보 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
