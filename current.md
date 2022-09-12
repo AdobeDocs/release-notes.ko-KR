@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '6447'
+source-wordcount: '6560'
 ht-degree: 40%
 
 ---
@@ -455,9 +455,8 @@ Experience League의 새로운 Workfront 교육 과정 및 자습서 모음입�
 [!DNL Adobe Advertising Cloud]의 릴리스 정보
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [ [!DNL Advertising Cloud DSP]의 새로운 기능](#adcloud-dsp)
 * [ [!DNL Advertising Cloud Search]의 새로운 기능](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -473,17 +472,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### [!DNL Advertising Cloud DSP]의 새로운 기능 {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+마지막 업데이트: **2022년 9월 12일**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL 패키지 및 배치 간격] | (9월 12일 릴리스) 이제 비행 게재 및 지연 시간 게시에 대해 별도의 간격 제어를 사용할 수 있습니다. 이전에는 단일 전략이 두 가지 모두 제어되었습니다. 기존 패키지 및 배치에 대한 설정은 다음과 같이 매핑되었습니다.<ul><li>기존 **[!UICONTROL 채우기 전략 간격]**=*[!UICONTROL 짝수]* — 이제 로 구성됨 **[!UICONTROL 비행기 간격]**=*[!UICONTROL 짝수]* 및 **[!UICONTROL 지연 간격]**=*[!UICONTROL 짝수]*</li><li>기존 **[!UICONTROL 채우기 전략 간격]**=*[!UICONTROL 약간 앞]* — 이제 로 구성됨 **[!UICONTROL 비행기 간격]**=*[!UICONTROL 약간 앞]* 및 **[!UICONTROL 지연 간격]**=*[!UICONTROL 짝수]*</li><li>기존 **[!UICONTROL 채우기 전략 간격]**=*[!UICONTROL Frontload]* — 이제 로 구성됨 **[!UICONTROL 비행기 간격]**=*[!UICONTROL Frontload]* 및 **[!UICONTROL 지연 간격]**=*[!UICONTROL ASAP]*</li><li>기존 **[!UICONTROL 채우기 전략 간격]**=*[!UICONTROL 공격적인 전면 로드]* — 이제 로 구성됨 **[!UICONTROL 비행기 간격]**=*[!UICONTROL 공격적인 전면 로드]* 및 **[!UICONTROL 지연 간격]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
