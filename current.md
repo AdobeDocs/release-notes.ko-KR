@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: cf7e689976b05fa9ea87eaf54fb5160f8012f2e2
+source-git-commit: ce5a4fc5fa4acea6976ec2958a23d864bcf2dc72
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -57,10 +57,11 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 | 제품/이벤트 이름 | 유형 | 설명 |
 | -----------|---------- | ----|
+| **Experience League 쇼케이스** | 콘테스트 | 혁신적이고 개인화된 고객 경험을 구축하기 위해 Experience Cloud 제품을 통합한 방법을 Adobe에게 알려주십시오. 이야기를 제출하고 Adobe이 인지할 수 있습니다! **9월 9일 - 29일 접수** - [세부 사항](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email) |
 | **[!DNL Adobe Workfront]** | 워크숍 | 다른 고객과 교류하고 토론할 기회를 찾고 있습니다. [!DNL Workfront] 기능? CS 연결 시리즈에 참여하십시오! 다른 고객과 연결하여 조직의 주요 주제에 대해 논의할 수 있는 월간 기회입니다.<p>**날짜:** 9월 12일 @ 오전 7시 MT [세부 사항 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | 웨비나 | _Experience Makers Live_ - 사라 블라클리, 페이튼 매닝, 엘리 매닝의 키메모로 된 무료 행사<p>**일자:** 9월 13일 ~ 14일 - [세부 정보 및 등록](https://business.adobe.com/events/experience-makers-live.html) |
-| **[!DNL Adobe Workfront]** | 워크숍 | Diagramming Workflows - Customer Success 팀에 합류하여 Induction에서 Completion까지 Diagramming 워크플로우의 라이브 토론 및 둘러보기와 효과적인 작업 관리 작업을 위한 견고한 기반을 설정하는 방법을 이해합니다. <p>**일자:** 9월 20일 ~ 일 - [세부 정보 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign]** (Classic 및 Standard) | 웨비나 | 크로스 채널 마케터의 휴일 시즌과 가장 바쁜 시간이 다가오고 있습니다. 계획이 진행되어야 합니다. 이 [!DNL Adobe Campaign] 인사이더 세션에서는 전자 메일 게재 기능에 도움이 되는 주제를 다룹니다. [!DNL Adobe Campaign] 성능 조정, 워크플로우 및 게재 모범 사례에 따라 인스턴스가 활동이 가장 많은 상태가 되도록 합니다.<p>**날짜:** 9월 15일 @ 8:00 PT [세부 사항 및 등록](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
+| **[!DNL Adobe Workfront]** | 워크숍 | Diagramming Workflows - Customer Success 팀에 합류하여 Induction에서 Completion까지 Diagramming 워크플로우의 라이브 토론 및 둘러보기와 효과적인 작업 관리 작업을 위한 견고한 기반을 설정하는 방법을 이해합니다. <p>**일자:** 9월 20일 ~ 일 - [세부 정보 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 웨비나 | _시스템 관리 핵심 사항: 리소스 관리 시작_ - Adobe 사용 [!DNL Workfront] 자원을 관리하는 것은 DREAM입니다. 필요한 작업, 액세스 가능한 리소스, 가용성에 따라 자원을 할당하는 것입니다. 방법을 배우려면 우리와 함께 하십시오.<p>**날짜:** 9월 21일 @ 오전 8:00 영국 [세부 사항 및 등록](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
 | **[!DNL Adobe Workfront]** | 워크숍 | _가치 실현 시리즈: 프로젝트 템플릿의 사례 만들기_ EMC와 함께 [!UICONTROL 프로젝트 템플릿] 또한 다양한 방법으로 기업의 가치를 높이고 효율성을 높일 수 있습니다. Adobe는 캠페인, 제공 자료 등에 의한 프로젝트 지원을 위해 템플릿을 구조화하는 다양한 접근 방식을 브레인스멘션합니다. 최신 청사진을 살펴보면서 좋아하는 것을 몇 가지 시연합니다. <p>**날짜:** 9월 21일 @ 12:30 오후 MT [세부 사항 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 워크숍 | _사용자와 사용자를 계속 추적할 수 있는 10가지 커뮤니케이션 팁_ - 효과적인 커뮤니케이션은 사용자, 사용자 및 궁극적으로 회사 성공에 필수적인 요소입니다. 이 워크샵에서는 10가지 팁을 제공합니다. [!DNL Workfront] - 성능, 생산성 향상 및 불필요한 문제의 위험 감소 <p>**날짜:** 9월 22일 @ 7시 MT [세부 사항 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
