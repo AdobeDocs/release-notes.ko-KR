@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
+source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
 workflow-type: tm+mt
-source-wordcount: '6445'
-ht-degree: 41%
+source-wordcount: '6447'
+ht-degree: 40%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 41%
 >
 >이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다.
 
-최신 업데이트: **2022년 9월 9일**
+최신 업데이트: **2022년 9월 12일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -33,7 +33,7 @@ ht-degree: 41%
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (업데이트됨) **9월 12일**)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -203,7 +203,7 @@ _새로운 기능_
 _Forms의 Beta 기능_
 
 * **통합 스토리지 커넥터** - Unified Storage Connector를 사용하여 고객 관리 리포지토리에서 처리 중인 데이터를 외부화합니다. 예를 들어 다음 작업을 수행할 수 있습니다.
-   * Forms 포털 저장 및 재개 기능을 활성화하고 적응형 양식 초안을 고객 관리 데이터 저장소에 저장합니다.
+   * Forms Portal의 저장 및 재개 기능을 활성화하고 고객 관리 데이터 저장소에 적응형 양식 초안을 저장합니다.
    * 고객 관리 저장소에 중요한 개인 데이터(SPD)가 포함된 인프로세스 Experience Manager 워크플로우 데이터(Experience Manager 워크플로우 변수 데이터)를 저장합니다.
 * **Experience Manager Forms as a Cloud Service, Communications** - [통신 API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) XDP 템플릿과 XML 데이터를 결합하여 다양한 형식으로 인쇄 문서를 생성하는 데 도움이 됩니다. 이 서비스를 사용하면 동기화 모드에서 문서를 생성할 수 있습니다. API를 사용하면 다음과 같은 기능을 제공하는 애플리케이션을 만들 수 있습니다.
    * XML 데이터로 템플릿 파일을 채워 문서를 생성합니다.
