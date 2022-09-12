@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce5a4fc5fa4acea6976ec2958a23d864bcf2dc72
+source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6445'
+ht-degree: 41%
 
 ---
 
@@ -163,13 +163,13 @@ CJA용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정.
 
 Experience Manager의 새로운 기능, 수정 내용 및 업데이트. 안정성, 보안 및 성능 향상을 위해 최신 패치를 배포하려는 경우 온프레미스 배포를 사용하는 것이 좋습니다.
 
-자세한 내용은 [Adobe Experience Manager as a Cloud Service의 현재 릴리스 노트](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+<!-- See [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) -->
 
 Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Manager 릴리스 업데이트 및 로드맵](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ko-KR) 페이지를 방문할 것을 권장합니다.
 
 ### 제품 업데이트 비디오
 
-보기 [8월 릴리스 개요 비디오](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=kr) 2022.8.0(2022년 8월) 릴리스에 추가된 기능에 대한 요약입니다. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
+보기 [2022년 8월 릴리스 개요 비디오](https://video.tv.adobe.com/v/345409/?quality=12) 2022.8.0(2022년 8월) 릴리스에 추가된 기능에 대한 요약입니다. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
 * [2022년 7월 릴리스 개요 비디오](https://video.tv.adobe.com/v/345409/?quality=12)
 * [2022년 6월 릴리스 개요 비디오](https://video.tv.adobe.com/v/344308/?quality=12)
@@ -181,13 +181,87 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 * [2021년 10월 릴리스 개요 비디오](https://video.tv.adobe.com/v/338253)
 * [2021년 9월 릴리스 개요 비디오](https://video.tv.adobe.com/v/337381)
 
+### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
+
+_새로운 기능_
+
+* 디지털 자산을 링크로 공유할 때 사용자는 바로 URL을 클립보드에 복사할 수 있습니다. 향상된 기능을 통해 에셋을 보다 빠르고 편리한 방법으로 공유할 수 있습니다. 이 기능을 사용하면 자산 공유를 빠르고 편리하게 할 수 있습니다.
+* TXT 파일을 업로드할 때 에셋 마이크로 서비스가 자동으로 썸네일을 생성합니다. PNG 썸네일은 사용자가 파일을 열지 않고도 내용이나 파일을 어느 정도 식별할 수 있도록 도와주는 TXT 파일의 렌디션입니다. 이 기능은 구성이 필요하지 않으며 기본적으로 작동합니다.
+
+_프리릴리스 채널에서 사용할 수 있는 새로운 기능_
+
+* 이제 사용자는 열 및 카드 보기에서 검색 결과에 표시된 자산을 정렬할 수 있습니다. 정렬은 이름, 생성됨, 수정됨 또는 없음 열에서 작동합니다.
+
+### Experience Manager [!DNL Forms] 로서의 [!DNL Cloud Service]
+
+_새로운 기능_
+
+* 이제 Forms as a Cloud Service용 AEM Archetype 프로젝트에 다음이 포함됩니다 [Microsoft® Dynamics 및 Salesforce.com용 양식 데이터 모델](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
+* Acroform 기반 레코드 문서: Experience Manager Forms as a Cloud Service 지원 [Adobe Acrobat 양식 PDF(Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html) XFA 기반 양식 템플릿 외에 기록 문서에 대한 템플릿으로 사용됩니다.
+* Microsoft® Azure 데이터 저장소 커넥터: 이제 다음을 수행할 수 있습니다 [양식 데이터 모델을 Microsoft® Azure 저장소에 연결](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-azure-storage.html). 적응형 양식 데이터를 검색하고 BLOB으로 Microsoft® Azure 저장 공간에 저장할 수 있습니다.
+
+_Forms의 Beta 기능_
+
+* **통합 스토리지 커넥터** - Unified Storage Connector를 사용하여 고객 관리 리포지토리에서 처리 중인 데이터를 외부화합니다. 예를 들어 다음 작업을 수행할 수 있습니다.
+   * Forms 포털 저장 및 재개 기능을 활성화하고 적응형 양식 초안을 고객 관리 데이터 저장소에 저장합니다.
+   * 고객 관리 저장소에 중요한 개인 데이터(SPD)가 포함된 인프로세스 Experience Manager 워크플로우 데이터(Experience Manager 워크플로우 변수 데이터)를 저장합니다.
+* **Experience Manager Forms as a Cloud Service, Communications** - [통신 API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) XDP 템플릿과 XML 데이터를 결합하여 다양한 형식으로 인쇄 문서를 생성하는 데 도움이 됩니다. 이 서비스를 사용하면 동기화 모드에서 문서를 생성할 수 있습니다. API를 사용하면 다음과 같은 기능을 제공하는 애플리케이션을 만들 수 있습니다.
+   * XML 데이터로 템플릿 파일을 채워 문서를 생성합니다.
+   * 비대화형 PDF 인쇄 스트림을 포함하여 다양한 형식의 출력 양식을 생성합니다.
+   * XFA 양식 PDF 및 Adobe Acrobat Form에서 인쇄 PDF 파일을 생성합니다.
+Beta 프로그램에 등록하려면 [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com)에 문의하십시오.
+
+_프리릴리스 채널에서 사용할 수 있는 새로운 기능_
+
+* **적응형 양식에서 Adobe Sign 역할 사용** - 비즈니스 및 엔터프라이즈 서비스 수준용 Adobe Sign은 선택적으로 서명자 이외의 계약 수신자의 역할을 확장하여 워크플로우 요구 사항에 보다 잘 맞게 역할을 확장할 수 있습니다. 이제 [계약의 각 수신자가 적응형 양식에서 자신의 역할을 구성할 수 있으며](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform), 서명자는 기본 역할입니다.
+* **응용 Forms용 Analytics** - 이제 Adaptive Forms용 Adobe Analytics 를 통해 최종 사용자 행동을 캡처하고 추적하여 최종 사용자 통찰력을 수집할 수 있습니다. 최종 사용자 경험을 향상시키기 위해 데이터를 기반으로 결정을 내리는 데 도움이 됩니다.
+* **Microsoft® Dynamics 및 Salesforce.com과 Experience Manager Forms을 손쉽게 연결** - 이 서비스는 Microsoft® Dynamics 및 [Salesforce.com](https://www.salesforce.com/?bc=DF). 이 능력은 그것을 가능하게 한다 [개발자가 적응형 양식에 Microsoft® Dynamics 365 및 Salesforce 클라우드 서비스를 보다 빠르고 쉽게 구성할 수 있습니다](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-msdynamics-salesforce.html).
+
+### Experience Manager Screens as a Cloud Service
+
+_새로운 기능_
+
+* 이제 Screens as a Cloud Service에서 기본 재생 모니터링을 지원합니다. 이제 플레이어에서 각 ping을 사용하여 다양한 재생 지표를 보고합니다(기본값은 30초). 지표를 기반으로 다양한 극단적 사례(중단 경험, 빈 화면, 일정 문제 등)를 감지할 수 있습니다. 이 기능을 통해 팀은 플레이어가 콘텐츠를 제대로 플레이하고 있는지 원격으로 모니터링할 수 있습니다. 또한 현장에서의 빈 화면이나 깨진 경험에 대한 반응성을 높이고 최종 사용자에게 손상된 경험이 표시될 위험을 줄입니다.
+자세한 내용은 [기본 재생 모니터링](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/manage-player-registration/installing-screens-cloud-player.html?lang=en#playback-monitoring) 자세한 내용
+* 의 비디오에 대한 축소판 지원은 이제 Screens에서 as a Cloud Service으로 지원됩니다. 컨텐츠 작성자는 이미지가 자리 표시자로 사용되도록 비디오의 축소판을 정의할 수 있습니다. 적합한 팀에서 실제 비디오를 마무리하는 동안 콘텐츠 재생 및 타기팅을 적절하게 테스트할 수 있습니다. 비디오 재생이 실패할 경우 이미지를 사용할 수도 있습니다.
+자세한 내용은 [비디오에 대한 축소판 지원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/core-product-features/thumbnail-support-videos.html) 자세한 내용
+
+### [!DNL Cloud Manager]
+
+_새로운 기능_
+
+* Cloud Manager에서 사용하는 AEM Archetype 프로젝트의 버전이 이제 버전 30으로 업데이트되었습니다.
+* 이제 Cloud Manager 랜딩 페이지의 프로그램 카드 및 관련 경험이 새로 고침됩니다.
+* 코드 품질 단계 로그에는 이제 OakPal 스캔 프로세스에 대한 자세한 로깅 정보가 포함됩니다.
+* 이제 활동 페이지 메뉴 옵션에는 완료된 코드 생성기 실행을 위해 로그 다운로드 옵션이 포함됩니다. 이를 선택하면 빌드 단계의 로그가 다운로드됩니다.
+* 이제 프로그램 카드에서 직접 을 클릭하면 Cloud Manager 개요 페이지로 이동합니다.
+* 이제 Cloud Service 고객은 Cloud Manager에서 SLA(서비스 수준 계약) 보고서를 볼 수 있습니다. 이 기능은 다음 몇 개월 동안 점진적으로 제공됩니다.
+자세한 내용은 [SLA 보고](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/sla-reporting.html) 추가 정보
+* IndexType 및 IndexDamAssetLucene 품질 규칙의 유형과 심각도가 변경되었습니다. 이제 둘 다 Blocker 심각성의 버그입니다.
+* 비동기 및 Tika 구성을 처리하기 위해 새로운 Oak 인덱스 품질 규칙이 도입되었습니다.
+* 프로그램당 최대 SSL 인증서를 50개로 늘립니다.
+* 사용자가 Cloud Manager 사용자 인터페이스를 통해 여러 저장소를 만들고 관리할 수 있는 셀프 서비스 기능입니다.
+* SonarQube가 불필요하게 Git 내역 데이터를 읽고 있었습니다. 큰 코드 베이스에서 이로 인해 불필요한 빌드 성능 벌금이 발생할 수 있습니다.
+* 이제 파이프라인당 Maven 종속성 캐시를 무효화하는 데 사용할 수 있는 API가 있습니다.
+* Cloud Manager에서 사용하는 AEM Archetype 프로젝트의 버전이 이제 버전 29로 업데이트되었습니다.
+
+### 커뮤니티
+
+* 전체 목록 [Experience League의 최신 Experience Manager 콘텐츠은 여기에서 찾을 수 있습니다](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
+* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) communities는 사용자가 고객을 위해 게임 변경 디지털 경험을 제작하고 참여하며 강화할 수 있는 하트비트입니다.
+모든 커뮤니티 권고자 목록을 검토하려면 다음을 참조하십시오 [Adobe 블로그](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
+* Experience Manager에 대한 새 기능 요청 또는 제안을 제출하는 방법
+   * 이제 Experience Manager 기능 요청을 제출하는 새로운 프로세스가 활성화됩니다. [아이디어 만들기](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
+   * 자세한 내용은 [세부 정보](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
+   * [새 Experience Manager 아이디어 제출 지침](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+
 ### 새로운 Experience Manager 교육 과정 및 튜토리얼 {#tutorials-aem}
 
 지난 달에 게시된 새로운 비디오, 튜토리얼 및 교육 과정입니다.
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022년 9월 | [AEM as a Cloud Service 2022.8.0 릴리스 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) | 비디오 | AEM 제품 팀으로부터 의견을 듣고 최신 Adobe Experience Manager 릴리스의 기능 및 혁신적인 기능에 대해 알아보십시오 [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites], Commerce Integration Framework, [!DNL Forms], 및 [!DNL Cloud Manager]. | AEM |
+| 2022년 9월 | [AEM as a Cloud Service 2022.8.0 릴리스 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=kr) | 비디오 | AEM 제품 팀으로부터 의견을 듣고 최신 Adobe Experience Manager 릴리스의 기능 및 혁신적인 기능에 대해 알아보십시오 [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites], Commerce Integration Framework, [!DNL Forms], 및 [!DNL Cloud Manager]. | AEM |
 | 2022년 9월 | [웹에 최적화된 이미지 제공](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en) | 비디오 | AEM 핵심 구성 요소를 사용하여 AEM as a Cloud Service 사이트에서 웹에 최적화된 이미지 전달을 활성화하는 방법을 알아봅니다. | AEM Sites |
 | 2022년 9월 | [Microsoft® Power Automate와 통합](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=en) | 비디오 | 적응형 양식 제출 시 Power Automate 흐름을 호출합니다. Forms CS를 Microsoft® Power Automatic과 구성 및 통합하는 단계를 알아봅니다. 제출된 양식 데이터를 분석한 다음 DoR을 전자 메일 첨부 파일로 보냅니다. | AEM Forms CS |
 | 2022년 9월 | [Adobe 컨텐츠 관리 포럼 이벤트 시리즈 - 2022년](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=en) | 비디오 | Elliot Sedega가 제공하는 시작 주소를 보고 AEM 개요를 살펴보십시오. 또한 컨텐츠 속도 등의 기능을 잠금 해제할 수도 있습니다. | AEM CS |
@@ -220,7 +294,7 @@ Adobe는 릴리스 정보를 최신 상태로 유지하기 위해 [Experience Ma
 * [Experience Manager 6.5 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ko-KR)
 * [Experience Manager 6.4 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ko-KR)
 * [Experience Manager 6.3 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR)
-* [Experience Manager 6.2 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR#previous-updates)html
+* [Experience Manager 6.2 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR#previous-updates)
 * [이전 버전의 Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic 도움말 홈](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ko-KR)
 * [Experience Manager 설명서: 최신 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ko-KR#aem-as-a-cloud-service)
