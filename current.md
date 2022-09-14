@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
+source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
 workflow-type: tm+mt
-source-wordcount: '6560'
+source-wordcount: '6495'
 ht-degree: 40%
 
 ---
@@ -247,13 +247,9 @@ _새로운 기능_
 
 ### 커뮤니티
 
-* 전체 목록 [Experience League의 최신 Experience Manager 콘텐츠은 여기에서 찾을 수 있습니다](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
-* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) communities는 사용자가 고객을 위해 게임 변경 디지털 경험을 제작하고 참여하며 강화할 수 있는 하트비트입니다.
-모든 커뮤니티 권고자 목록을 검토하려면 다음을 참조하십시오 [Adobe 블로그](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
-* Experience Manager에 대한 새 기능 요청 또는 제안을 제출하는 방법
-   * 이제 Experience Manager 기능 요청을 제출하는 새로운 프로세스가 활성화됩니다. [아이디어 만들기](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
-   * 자세한 내용은 [세부 정보](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
-   * [새 Experience Manager 아이디어 제출 지침](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+* AEM as a Cloud Service 2022.7.0 - [릴리스 업데이트](https://adobe.ly/3paYDAo).
+* **Experience League 쇼케이스** - 다양한 Adobe Experience Cloud 제품을 통해 수행할 수 있는 작업을 EMC와 전 세계에 보여줍니다. [오늘 이야기를 제출하세요!](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email)
+* AEM 사용자 그룹 회의 | Adobe PTP, 방갈로르 | 2022년 9월 30일 | [여기에 등록](https://adobe.ly/3DlsUos) | [커뮤니티 스레드에 대한 대화](https://adobe.ly/3DhQwub).
 
 ### 새로운 Experience Manager 교육 과정 및 튜토리얼 {#tutorials-aem}
 
