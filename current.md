@@ -1,14 +1,14 @@
 ---
 title: 최신 릴리스 정보
-description: Adobe에 대한 최신 릴리스 노트 읽기 [!DNL Experience Cloud] 제품 및 서비스. 예정된 이벤트와 Experience League에 대한 새로운 설명서에 대해 알아봅니다. 에 대한 최신 자습서 및 교육 과정 살펴보기 [!DNL Experience Cloud] 응용 프로그램.
+description: Adobe에 대한 최신 릴리스 노트 읽기 [!DNL Experience Cloud] 제품 및 서비스. Experience League에서의 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다. 에 대한 최신 자습서 및 교육 과정 살펴보기 [!DNL Experience Cloud] 응용 프로그램.
 doc-type: release notes
 last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
+source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
 workflow-type: tm+mt
-source-wordcount: '6495'
+source-wordcount: '6483'
 ht-degree: 40%
 
 ---
@@ -488,7 +488,7 @@ Last updated: **August 9, 2022**
 |  | ([!DNL Google Ads] 계정) 이제 캠페인 > 광고 보기에 선택 사항이 포함됩니다 [!UICONTROL 광고 강도] 각 반응형 검색 광고(RSA)가 얼마나 잘 따르는지 나타내는 열 [!DNL Google Ads] 성능 우수 사례<br><br>[!DNL Microsoft® Advertising] 는 아직 API를 통해 유사한 지원을 활성화하지 않습니다. |
 |  | ([!DNL Microsoft® Advertising] 계정) 이제 의 기존 기본 광고 캠페인에 대해 동기화, 읽기 전용 및 보고(뷰스루 데이터 포함) 지원을 사용할 수 있습니다 [!DNL Microsoft® Audience Network]에 대해 [!DNL Microsoft®] 대상 광고. |
 | [!UICONTROL 캠페인], [!UICONTROL 보고서] | 다음 주 더 많은 게시자 노출 횟수 공유 지표를 캠페인 관리 보기 및 보고서에 열로 사용할 수 있습니다. |
-| [!UICONTROL 전환 값 규칙] | ([!DNL Google Ads accounts]; 베타 기능) 이제 [!UICONTROL 최적화] > [!UICONTROL 전환 값 규칙]. 광고주 [!DNL Google Ads] 개별 계정 수준 이하의 전환 추적은 규칙을 만들고 관리할 수도 있습니다.<br><br>전환 값 규칙의 자동 최적화는 향후 릴리스에서 사용할 수 있습니다. |
+| [!UICONTROL 전환 값 규칙] | ([!DNL Google Ads accounts]; 베타 기능) 이제 [!UICONTROL 최적화] > [!UICONTROL 전환 값 규칙]. 광고주 [!DNL Google Ads] 개별 계정 수준 이하의 전환 추적은 규칙을 만들고 관리할 수도 있습니다. |
 | [!UICONTROL 포트폴리오] | (옵트인 베타 기능; [!DNL Google Ads] account) [!DNL YouTube] 캠페인 [!UICONTROL 전환 최대화] 하이브리드 포트폴리오의 입찰 전략이 이제 사용자 지정 시뮬레이션 결과에 포함됩니다. 하이브리드 포트폴리오는 만 포함해야 합니다 [!DNL YouTube] 캠페인.<br><br>베타 프로그램에 참여하려면 계정 팀에 문의하십시오. |
 | [!UICONTROL 광고 인사이트] | 다음 [!UICONTROL Advertising Insights] 뷰에는 성능과 안정성을 향상하는 새로운 인프라를 기반으로 새로운 모양과 워크플로우가 제공됩니다. 이제 인사이트 이름을 클릭하고 설정을 선택하거나 입력한 다음 를 클릭합니다 [!UICONTROL 인사이트 생성].<br><br>일시적으로 기존 보기로 돌아가려면 을 활성화합니다 [!UICONTROL 이전 UI로 전환] 오른쪽 상단에 있습니다. 기존 보기는 9월 말에 제거됩니다. |
 |  | 다음 [!UICONTROL Query Cross Matching Beta] 이제 분석을 사용할 수 있습니다. |
