@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
+source-git-commit: 892aae110e9a8d74f9e151a255110acedf984bcf
 workflow-type: tm+mt
-source-wordcount: '6483'
-ht-degree: 40%
+source-wordcount: '6692'
+ht-degree: 39%
 
 ---
 
@@ -494,7 +494,7 @@ Last updated: **August 9, 2022**
 |  | 다음 [!UICONTROL Query Cross Matching Beta] 이제 분석을 사용할 수 있습니다. |
 | [!UICONTROL 보고서] | ([!DNL Google Ads] 계정만 해당) 새로운 전문 보고서 [!UICONTROL RSA Assets 보고서] 각 자산에 대한 노출 횟수 지표를 보여줍니다([!UICONTROL 크리에이티브 제목] 또는 [!UICONTROL 설명])를 사용하십시오. 기본적으로, 데이터는 보고 기간 동안 자산을 비활성화(제거)한 경우에도 지정된 데이터 범위에서 하나 이상의 노출을 받은 각 자산에 대해 한 개의 행을 포함합니다. **참고:** 옵션을 &quot;(으)로 선택하면[!UICONTROL 성능 데이터가 없는 행 포함]:&quot;데이터를 받지 않은 자산에 대해서는 데이터가 여전히 포함되지 않습니다. |
 |  | 응답형 검색 광고(RSA)에 대한 추가 지원은 [!UICONTROL 광고 변형 보고서]:<ul><ul>([!DNL Google Ads] 계정만 해당) [!UICONTROL 열] 설정, 새 &quot;[!UICONTROL 광고 강도]&quot; 열은 RSA가 얼마나 잘 따르는지 나타냅니다. [!DNL Google Ads] 성능 우수 사례 동일한 열은 [!UICONTROL 캠페인] > [!UICONTROL 광고] 보기. [!DNL Microsoft® Advertising] 는 아직 API를 통해 유사한 지원을 활성화하지 않습니다.</li><li>에서 [!UICONTROL 열] 설정에서는 보고서 결과를 [!UICONTROL 크리에이티브 제목] 및 [!UICONTROL 설명].</li><li>에서 [!UICONTROL 고급 필터] 설정, 다음을 기준으로 필터링할 수 있습니다. [!UICONTROL 광고 텍스트] 두 필드 모두에 적용되는 필드 [!UICONTROL 크리에이티브 제목] 및 [!UICONTROL 설명].</li></ul> |
-| [!UICONTROL 추천 항목] | ([!DNL Google Ads] 계정; 베타 기능) 내 [!UICONTROL 통찰력 및 보고서] > [!UICONTROL Recommendations 베타]를 채울 수 있습니다.<ul><li>자세한 내용은 [!DNL Google Ads] 계정이 필요합니다.</li><li>계정에 대한 권장 사항 적용 및 해제.</li><li>계정에 대해 적용된 각 권장 사항의 로그를 봅니다.</li></ul> |
+| [!UICONTROL 추천 항목] | ([!DNL Google Ads] 계정; 베타 기능) 내 [!UICONTROL 통찰력 및 보고서] > [!UICONTROL Recommendations 베타]를 채울 수 있습니다.<ul><li>자세한 내용은 [!DNL Google Ads] 계정이 필요합니다.</li><li>계정에 대한 권장 사항 적용 및 해제.</li><li>계정에 대해 적용된 각 권장 사항의 로그를 봅니다.</li></ul><br>지원되는 Recommendations:<li><strong>권장 사항 카테고리; 권장 사항 유형; 설명</strong></li><li>광고 및 확장; CALL_EXTENSION; campaign에 호출 확장 추가</li><li>광고 및 확장; CALLOUT_EXTENSION; 캠페인에 설명선 확장 추가</li><li>광고 및 확장; OPTIMIZE_AD_ROTATION; 최적화된 광고 순환 사용</li><li>광고 및 확장; RESPONSIVE SEARCH_AD; 새로운 응답형 검색 광고 추가</li><li>광고 및 확장; RESPONSIVE_SEARCH_AD_ASSET; 광고에 응답형 검색 광고 자산 추가</li><li>광고 및 확장; SITELINK_EXTENSION; 캠페인에 sitelink 확장 추가</li><li>광고 및 확장; TEXT_AD; 광고 제안 추가</li><li>입찰 및 예산 캠페인 예산 예산으로 제한된 캠페인 수정</li><li>입찰 및 예산 ENHANCED_CPC_OPT_IN; 향상된 CPC를 사용한 입찰</li><li>입찰 및 예산 FORECASTING_CAMPAIGN BUDGET; 향후 예산에 의해 제한될 것으로 예상되는 캠페인 수정</li><li>입찰 및 예산 한계 ROI_CAMPAIGN 예산; 캠페인 예산을 조정하여 ROI 향상</li><li>입찰 및 예산 OPT_IN 클릭 최대화; 클릭 수를 최대화한 입찰</li><li>입찰 및 예산 OPT_IN 전환 최대화; 전환율을 극대화한 입찰</li><li>입찰 및 예산 MOVE_UNUSED_BUDGET; 사용하지 않은 예산을 제한된 예산으로 이동</li><li>입찰 및 예산 Target_CPA_OPT_IN; Target CPA를 사용한 입찰</li><li>입찰 및 예산 Target_ROAS_OPT_IN; Target ROAS를 사용한 입찰</li><li>키워드 및 타겟팅; 키워드; 새 키워드 추가</li><li>키워드 및 타겟팅; SEARCH_PARTNERS_OPT_IN; Google 검색 파트너와 도달 범위 확장</li><li>키워드 및 타겟팅; USE_BROAD MATCH 키워드; 전환 기반 캠페인에 광범위한 일치 사용 <strong>완전 자동화된 변환 기반 입찰</strong></li> |
 | [!UICONTROL 캠페인 가져오기] | (베타 기능) [!DNL Google Display Network] 광고 이미지를 포함하여 [!DNL Microsoft® Advertising] 대상 캠페인의 [!DNL Microsoft® Audience Network] 변환 전: [!UICONTROL 도구] > [!UICONTROL 캠페인 가져오기]. 캠페인을 가져오면 가져오기 작업의 상태를 확인하고 오류 로그를 검토하며 가져오기 일정을 편집, 일시 중지 또는 삭제할 수 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
