@@ -6,8 +6,8 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ceaa0175f0c01830cba0a247e248f054d1f39b89
-workflow-type: ht
+source-git-commit: ce5bafed072084badc26e0ba4326239910a3c72d
+workflow-type: tm+mt
 source-wordcount: '6525'
 ht-degree: 100%
 
@@ -71,7 +71,7 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 {style=&quot;table-layout:auto&quot;}
 
-예정된 이벤트 및 이전 에피소드에 대한 최신 정보는 Experience League의 [이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr)를 참조하십시오.
+예정된 이벤트 및 이전 에피소드에 대한 최신 정보는 Experience League의 [이벤트](https://experienceleague.adobe.com/events/?lang=en)를 참조하십시오.
 
 ## ![아이콘](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -189,7 +189,7 @@ _프리릴리스 채널에서 사용할 수 있는 새로운 기능_
 
 * 사용자는 이제 열 및 카드 보기에서 검색 결과에 표시된 에셋을 정렬할 수 있습니다. 정렬은 이름, 생성됨, 수정됨 또는 없음 열에서 작동합니다.
 
-### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
+### Experience Manager [!DNL Forms] 로서의 [!DNL Cloud Service]
 
 _새로운 기능_
 
@@ -288,7 +288,7 @@ _새로운 기능_
 * [Experience Manager 6.4 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ko-KR)
 * [Experience Manager 6.3 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR)
 * [Experience Manager 6.2 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR#previous-updates)
-* [이전 버전의 Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR#previous-updates)
+* [이전 버전의 Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic 도움말 홈](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ko-KR)
 * [Experience Manager 설명서: 최신 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ko-KR#aem-as-a-cloud-service)
 
@@ -358,9 +358,9 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 
 ### Campaign 도움말 리소스
 
-* Adobe Campaign v8: [설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ko-KR) - [구현 안내서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ko-KR)
-* Adobe Campaign Standard: [Campaign Standard 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR) - [릴리스 계획](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ko-KR)
-* Adobe Campaign Classic: [Campaign Classic v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ko-KR)
+* Adobe Campaign v8: [설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [구현 안내서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ko-KR)
+* Adobe Campaign Standard: [Campaign Standard 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR) - [릴리스 계획](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ko-KR)
+* Adobe Campaign Classic: [Campaign Classic v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ko-KR)
 * Adobe Campaign 제어판: [설명서](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ko-KR) - [방법 비디오](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=ko)에 대한 방법 비디오
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -377,15 +377,15 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 9월 | [마케팅 담당자를 위한 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | 비디오 | Adobe Journey Optimizer&#39;의 의사 결정 관리 기능에 대해 자세히 알아보십시오. 이 과정은 고객에게 최상의 혜택을 제공하여 매출, 고객 경험 및 충성도를 높이기를 원하는 마케터를 위해 설계되었습니다. |
+| 2022년 9월 | [마케팅 담당자를 위한 의사 결정 관리 시작하기](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | 교육 과정 | Adobe Journey Optimizer&#39;의 의사 결정 관리 기능에 대해 자세히 알아보십시오. 이 과정은 고객에게 최상의 혜택을 제공하여 매출, 고객 경험 및 충성도를 높이기를 원하는 마케터를 위해 설계되었습니다. |
 | 2022년 9월 | [캠페인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=ko) | 비디오 | 작업을 즉시 또는 지정된 일정에 따라 실행하여 특정 대상자에게 일회성 콘텐츠를 전달하는 방법을 알아봅니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Journey Optimizer]를 위한 추가 리소스
 
-* [Journey Optimizer 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ko-KR) - [방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR)
-* [의사 결정 관리 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ko-KR)
+* [Journey Optimizer 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR)
+* [의사 결정 관리 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ko-KR)
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -397,7 +397,7 @@ Experience Platform을 사용하여 모든 개인의 요구 사항을 실시간�
 
 #### [!DNL Journey Orchestration]를 위한 추가 리소스
 
-* [Journey Orchestration 설명서](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ko-KR)
+* [Journey Orchestration 설명서](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ko-KR)
 
 ## ![아이콘](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -413,7 +413,7 @@ Adobe Marketo에 게시된 새로운 비디오, 튜토리얼 또는 교육 과�
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022년 8월 | [Marketo Engage 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr) | 비디오 | Marketo Engage의 모든 과거 및 새로운 튜토리얼을 보려면 Experience League의 [Marketo Engage 튜토리얼 홈](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr)을 방문하십시오. |
+| 2022년 8월 | [Marketo Engage 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr) | 비디오 | Marketo Engage의 모든 과거 및 새로운 튜토리얼을 보려면 Experience League의 [Marketo Engage 튜토리얼 홈](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)을 방문하십시오. |
 
 {style=&quot;table-layout:auto&quot;}
 
