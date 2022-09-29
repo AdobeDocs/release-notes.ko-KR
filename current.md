@@ -245,8 +245,8 @@ _새로운 기능_
 ### 커뮤니티
 
 * AEM as a Cloud Service 2022.7.0 - [릴리스 업데이트](https://adobe.ly/3paYDAo).
-* **}Experience League 전시** - 사용자와 세상이 만나는 Adobe Experience Cloud 제품을 통해 수행 가능한 작업들 [지금 바로 스토리를 제출하십시오!](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email)
-* AEM 사용자 그룹 모임 | Adobe PTP, Bangalore | 2022년 9월 30일 | [여기에서 등록{](https://adobe.ly/3DlsUos) | [커뮤니티 스레드에 관한 토론](https://adobe.ly/3DhQwub).
+* **Experience League 전시** - 사용자와 세상이 만나는 Adobe Experience Cloud 제품을 통해 수행 가능한 작업들 [지금 바로 스토리를 제출하십시오!](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email)
+* AEM 사용자 그룹 모임 | Adobe PTP, Bangalore | 2022년 9월 30일 | [여기에서 등록](https://adobe.ly/3DlsUos) | [커뮤니티 스레드에 관한 토론](https://adobe.ly/3DhQwub).
 
 ### 새로운 Experience Manager 교육 과정 및 튜토리얼 {#tutorials-aem}
 
