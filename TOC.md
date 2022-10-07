@@ -6,7 +6,7 @@ breadcrumb-title: 릴리스 정보
 user-guide-description: Adobe Experience Cloud 및 Experience Platform의 새로운 기능, 수정 사항 및 중요 공지 사항에 대해 알아봅니다.
 user-guide-url: https://www.adobe.com
 source-git-commit: 34c526b0570d885295cd06f1f90fdaf5fd19ab4f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 
