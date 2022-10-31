@@ -138,7 +138,7 @@ Adobe Analytics용으로 게시된 새로운 비디오 튜토리얼, 문서 또�
 | 2022년 11월 | [주요 지표 요약 시각화](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html) | 비디오 | 단일 기간 내에서 중요한 지표의 추세를 확인할 수 있도록 해 주는 Analysis Workspace의 주요 지표 요약 시각화에 대해 알아봅니다. 또한 두 기간에 걸쳐 지표의 성능을 비교할 수 있습니다. |
 | 2022년 10월 | [Analysis Workspace의 콤보 차트](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html) | 비디오 | Analysis Workspace의 콤보 차트 시각화에 대해 알아봅니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![아이콘](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
@@ -257,7 +257,7 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 | 2022년 10월 | [콘텐츠 조각 콘솔](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=ko) | 비디오 | AEM as a Cloud Service의 콘텐츠 조각 작성 콘솔의 기본 기능에 대해 알아봅니다. | AEM CS |
 | 2022년 10월 | [AEM as a Cloud Service 콘텐츠 마이그레이션 FAQ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html) | 비디오 | AEM as a Cloud Service로의 콘텐츠 마이그레이션에 대해 자주 묻는 질문에 대한 답변을 얻으십시오. | AEM CS |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Experience Manager 릴리스 정보
 
@@ -311,7 +311,7 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 | [여러 PayPal 계정 사용](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=ko#use-multiple-paypal-accounts) | 판매자 계정에 대해 다양한 PayPal 비즈니스 계정을 사용하여 서로 다른 통화를 사용하는 여러 국가에서 거래하거나 비즈니스의 일부에 Adobe Commerce를 사용하는 방법에 대해 알아봅니다. |
 | [웹 사이트 또는 스토어 보기에 부드러운 설명자 추가](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=ko#add-soft-descriptor) | 웹 사이트 또는 스토어 보기에 고객 거래 은행 거래 명세서에서 스토어/브랜드/카탈로그를 구분할 부드러운 설명자를 추가하는 방법에 대해 알아봅니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Adobe Commerce]의 릴리스 정보{#release-notes-commerce}
 
@@ -332,7 +332,7 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 | 2022년 10월 | [Adobe Commerce용 카탈로그 서비스](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html) | 제품 설명서 | 카탈로그 서비스를 설치하고 테스트하는 방법에 대해 알아봅니다. |
 | 2022년 10월 | [Adobe Commerce 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/guide-overview.html) | 제품 설명서 | 타겟팅된 할인 및 이벤트를 포함한 머천다이징 및 프로모션 기능에 대해 읽어보십시오. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![아이콘](/assets/target.png) [!DNL Adobe Target] {#target}
 
@@ -360,7 +360,7 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 | 2022년 10월 | [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | 교육 과정 | Campaign 인스턴스를 SMTP 공급자에 연결하는 방법 및 구성을 분석하고 문제를 해결하는 방법에 대해 알아봅니다. | Campaign v8 |
 | 2022년 10월 | [전체 하위 도메인 위임](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=ko) | 업데이트된 비디오 | 하위 도메인을 Adobe Campaign에 완전히 위임하는 방법을 알아봅니다. | 제어판 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Campaign 도움말 리소스
 
@@ -387,7 +387,7 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 | 2022년 10월 | [다른 샌드박스로 여정 복사](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=ko) | 비디오 | 한 샌드박스에서 다른 샌드박스로 여정과 해당 종속 오브젝트를 복사하는 방법에 대해 알아봅니다. |
 | 2022년 10월 | [경고 사용](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=ko) | 비디오 | 예기치 않은 여정 비헤이비어에 대해 사전 정의된 경고를 구독하고 이메일을 통해, Journey Optimizer 내에서 또는 API를 사용하여 알림을 받는 방법에 대해 알아봅니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Journey Optimizer]를 위한 추가 리소스
 
@@ -442,7 +442,7 @@ Experience League의 새로운 [!DNL Workfront] 교육 과정 및 튜토리얼 �
 | 2022년 10월 | [보드에서 열 설정 추가 및 편집](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=ko) | 비디오 | 보드에서 열 설정을 추가하고 편집하는 방법에 대해 알아봅니다. |
 | 2022년 10월 | [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko) | 비디오 | API Explorer 및 텍스트 모드를 사용하여 보고 UI의 기능을 능가하는 고급 필터, 보기 및 그룹화를 만드는 방법에 대해 알아봅니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 모든 제품에 대한 최신 정보를 보려면 [[!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) 페이지를 참조하십시오.
 
@@ -476,7 +476,7 @@ Last updated: **August 9, 2022**
 | ------- | ----------- |
 | [!UICONTROL 캠페인] | (10월 6일 릴리스) [!UICONTROL 캠페인] 보기에 대해 새로운 게재 간격 관련 지표인 **[!UICONTROL 어제의 OTS]**(타겟 지출), **[!UICONTROL 어제의 게재]**, **[!UICONTROL 어제의 목표]**, **[!UICONTROL 오늘의 OTS]**(타겟 지출), **[!UICONTROL 오늘의 게재]** 및 **[!UICONTROL 오늘의 목표]**&#x200B;를 사용할 수 있습니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
@@ -486,14 +486,14 @@ Last updated: **August 9, 2022**
 | ------- | ----------- |
 | [!UICONTROL 포트폴리오], [!UICONTROL 캠페인] | (옵트인 Beta 기능) 새로운 **[!UICONTROL 네트워크 지출 제한]** 옵션을 사용하면 다중 네트워크 포트폴리오의 특정 광고 네트워크 예산 할당에 대한 제한을 정의할 수 있습니다. 옵션은 일간, 주간 및 월간 지출 전략이 있는 포트폴리오에 대해 사용할 수 있으며 **[!UICONTROL 캠페인 최대 지출 목표 % 활성화]** 옵션이 활성화되어 있지 않을 때만 가능합니다. **[!UICONTROL 캠페인 예산 제한 자동 조정]** 옵션을 선택하면 제한 조건이 다중 및 최소 캠페인 예산 설정에 대해 구성된 값 내에서 작동합니다.<br><br>[!UICONTROL 기본 보고서]의 새로운 네트워크 제한 보고서는 지정된 모든 최소 및 최대 검색 엔진 예산과 포트폴리오에 대한 실제 지출(비용)을 보여 줍니다.<br><br>Beta 프로그램에 참여하려면 계정 팀에 문의하십시오. |
 | 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정의 Beta 기능) 이제 [!DNL Microsoft® Audience Network]의 캠페인에 대해 다음 지원을 사용할 수 있습니다.<ul><li>이제 [!UICONTROL 캠페인] 보기에서, 그리고 Bulksheets를 사용해 대상자 캠페인(캠페인 유형 **[!UICONTROL 대상자(이미지)]** 또는 **[!UICONTROL 대상자(피드)]**), 광고 그룹(광고 그룹 유형 **[!UICONTROL 대상자]**) 및 광고(크리에이티브 유형 **[!UICONTROL 반응형 광고]**)의 상태를 만들고, 편집하고, 변경할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>향후 릴리스를 통해 최적화 지원을 사용할 수 있습니다. |
-|  | ([!DNL Microsoft® Advertising] 계정의 Beta 기능) 이제 [!UICONTROL 캠페인] 보기의 캠페인 검색에서, 그리고 Bulksheets를 사용해 멀티미디어 광고를 만들고 관리할 수 있습니다. 광고의 크리에이티브 유형은 **[!UICONTROL 멀티미디어 광고]**&#x200B;입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율](하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
+|  | ([!DNL Microsoft® Advertising] 계정의 Beta 기능) 이제 [!UICONTROL 캠페인] 보기의 캠페인 검색에서, 그리고 Bulksheets를 사용해 멀티미디어 광고를 만들고 관리할 수 있습니다. 광고의 크리에이티브 유형은 **[!UICONTROL 멀티미디어 광고]**&#x200B;입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
 | [!UICONTROL 캠페인], [!UICONTROL 보고서] | ([!DNL Google Ads] 및 [!DNL Microsoft® Advertising] 계정의 Beta 기능) 이제 게시자 노출 점유율 지표를 다음 캠페인 관리 보기 및 보고서의 열로 사용할 수 있습니다.<ul><li>캠페인 관리 보기: [!UICONTROL 광고]를 제외한 모든 캠페인 항목 보기. <b>참고:</b> 광고 네트워크에서는 광고 수준 데이터를 사용할 수 없습니다.</li><li>기본 보고서: [!UICONTROL 광고 변동], [!UICONTROL 캠페인 시간별] 및 [!UICONTROL 네트워크 제한] 보고서를 제외한 모든 보고서. <b>참고:</b> 광고 네트워크에서는 광고 수준 데이터를 사용할 수 없습니다.</li><li>특성 보고서: [!UICONTROL Adwords 및 Bing 대상자 타겟], [!UICONTROL 캠페인 일일 노출 점유율] 및 [!UICONTROL 키워드 일일 노출 점유율] 보고서.</li></ul><b>참고:</b> [!UICONTROL 캠페인 일일 노출 점유율] 및 [!UICONTROL 키워드 일일 노출 점유율] 보고서는 이제 중복 항목이므로 향후 릴리스에서 제거됩니다. 예약된 보고서, 템플릿 또는 스프레드시트 피드에 이러한 보고서 유형을 사용하는 경우 [!UICONTROL 캠페인] 및 [!UICONTROL 키워드] 보고서를 대신 사용하십시오. 당분간은 해당 보고서 유형에서 기존 지표가 중복됩니다. |
 | [!UICONTROL 전환 값 규칙] | ([!DNL Google Ads accounts]) [!UICONTROL 전환 값 규칙] 보기는 현재 Beta 상태가 아니며 일반적으로 사용할 수 있습니다. 기존 [!DNL Google Ads] 전환 값 규칙을 보는 데 사용합니다. 개인 계정 수준 또는 하위 수준의 [!DNL Google Ads] 전환 추적 코드가 있는 광고주 또한 규칙을 만들고 관리할 수 있습니다. |
 | [!UICONTROL 광고 인사이트] | [!UICONTROL 노출 점유율 누락] 및 [!UICONTROL 쿼리 교차 일치] 분석은 현재 Beta 상태가 아니며 일반적으로 사용할 수 있습니다. |
 | [!UICONTROL 권장 사항] | ([!DNL Google Ads] 계정 전용) [!UICONTROL 권장 사항] 기능은 현재 Beta 버전이 아니며 일반적으로 사용할 수 있습니다.<ul><li>계정에 실행되지 않은 모든 [!DNL Google Ads] 권장 사항을 한눈에 볼 수 있습니다.</li><li>계정의 권장 사항을 적용하고 종료합니다.</li><li>계정에 적용되는 각 권장 사항의 로그를 확인합니다.</li></ul> |
 | **[!UICONTROL 캠페인 가져오기]** | (Beta 기능) **[!UICONTROL 도구]** > **[!UICONTROL 캠페인 가져오기]**&#x200B;에서 [!DNL Google Ads] 성과 최대 캠페인(로컬 인벤토리 광고 포함)을 [!DNL Microsoft® Advertising] 스마트 쇼핑 캠페인으로 가져올 수 있습니다. 캠페인을 가져오면 가져오기 작업의 상태를 확인하고 오류 로그를 검토하며 가져오기 일정을 편집, 일시 중지 또는 삭제할 수 있습니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![아이콘](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
@@ -515,7 +515,7 @@ Adobe Document Cloud용으로 게시된 새로운 튜토리얼 및 교육 과정
 | 2022년 10월 | [웹 양식 데이터 관리](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=ko) | 비디오 | 웹 양식에서 데이터를 추적하고, 관리하고, 내보내는 방법에 대해 알아봅니다. | Acrobat Sign |
 | 2022년 10월 | [Acrobat Sign의 리퀴드 모드](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html) | 비디오 | 리퀴드 모드가 모바일 로그인 환경을 개선하는 방법에 대해 알아봅니다. 더 이상 문서를 읽고 서명하는 동안 확대하거나 축소하지 않아도 됩니다. | Acrobat Sign |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Document Cloud 도움말은 다음을 참조하십시오.
 
@@ -533,7 +533,7 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 | 2022년 11월 | [CC Libraries로 CC 워크플로 개선](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=en) | PDF | 이 실습형 튜토리얼에서는 Creative Cloud Libraries가 디자인 요소를 함께 유지하여 디자이너와 팀의 프로젝트 일관성을 보장하는 방법을 알아봅니다. |
 | 2022년 11월 | [Frame.io로 비디오 검토](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=en) | PDF | 이 실습형 튜토리얼에서는 Adobe Premiere Pro용 Frame.io 확장을 사용하여 에셋을 중앙 집중화 및 공유하고, 실시간 댓글을 받고, 수정 사항을 추적하고, 타임라인을 벗어나지 않고도 더 빠르게 승인을 받는 방법을 알아봅니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 최신 튜토리얼은 [Creative Cloud for enterprise 튜토리얼](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ko-KR)을 참조하십시오.
 
