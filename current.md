@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
+source-git-commit: ece304539959b8aa223e378f365852277213822f
 workflow-type: tm+mt
-source-wordcount: '5305'
-ht-degree: 99%
+source-wordcount: '4939'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 이 페이지는 Experience Cloud 제품 릴리스 정보 페이지와 Experience League의 최신 튜토리얼, 교육 과정 및 이벤트에 대한 액세스를 제공합니다.
 
-최신 업데이트: **2022년 11월 14일**
+최신 업데이트: **2022년 11월 17일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -449,8 +449,9 @@ Experience League의 새로운 [!DNL Workfront] 교육 과정 및 튜토리얼 �
 [!DNL Adobe Advertising Cloud]의 릴리스 정보
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [ [!DNL Advertising Cloud DSP]의 새로운 기능](#adcloud-dsp)
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [ [!DNL Advertising Cloud Search]의 새로운 기능](#adcloud-search)
+
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -466,30 +467,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-### [!DNL Advertising Cloud DSP]의 새로운 기능 {#adcloud-dsp}
+<!--
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-마지막 업데이트: **2022년 10월 6일**
+Last updated: **October 6, 2022**
 
-| 기능 | 설명 |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL 캠페인] | (10월 6일 릴리스) [!UICONTROL 캠페인] 보기에 대해 새로운 게재 간격 관련 지표인 **[!UICONTROL 어제의 OTS]**(타겟 지출), **[!UICONTROL 어제의 게재]**, **[!UICONTROL 어제의 목표]**, **[!UICONTROL 오늘의 OTS]**(타겟 지출), **[!UICONTROL 오늘의 게재]** 및 **[!UICONTROL 오늘의 목표]**&#x200B;를 사용할 수 있습니다. |
+| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
 
-{style=&quot;table-layout:auto&quot;}
+-->
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
-마지막 업데이트: **2022년 10월 14일**, 10월 15일 릴리스
+마지막 업데이트: **2022년 11월 17일** 11월 15일 릴리스
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 포트폴리오], [!UICONTROL 캠페인] | (옵트인 Beta 기능) 새로운 **[!UICONTROL 네트워크 지출 제한]** 옵션을 사용하면 다중 네트워크 포트폴리오의 특정 광고 네트워크 예산 할당에 대한 제한을 정의할 수 있습니다. 옵션은 일간, 주간 및 월간 지출 전략이 있는 포트폴리오에 대해 사용할 수 있으며 **[!UICONTROL 캠페인 최대 지출 목표 % 활성화]** 옵션이 활성화되어 있지 않을 때만 가능합니다. **[!UICONTROL 캠페인 예산 제한 자동 조정]** 옵션을 선택하면 제한 조건이 다중 및 최소 캠페인 예산 설정에 대해 구성된 값 내에서 작동합니다.<br><br>[!UICONTROL 기본 보고서]의 새로운 네트워크 제한 보고서는 지정된 모든 최소 및 최대 검색 엔진 예산과 포트폴리오에 대한 실제 지출(비용)을 보여 줍니다.<br><br>Beta 프로그램에 참여하려면 계정 팀에 문의하십시오. |
-| 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정의 Beta 기능) 이제 [!DNL Microsoft® Audience Network]의 캠페인에 대해 다음 지원을 사용할 수 있습니다.<ul><li>이제 [!UICONTROL 캠페인] 보기에서, 그리고 Bulksheets를 사용해 대상자 캠페인(캠페인 유형 **[!UICONTROL 대상자(이미지)]** 또는 **[!UICONTROL 대상자(피드)]**), 광고 그룹(광고 그룹 유형 **[!UICONTROL 대상자]**) 및 광고(크리에이티브 유형 **[!UICONTROL 반응형 광고]**)의 상태를 만들고, 편집하고, 변경할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>향후 릴리스를 통해 최적화 지원을 사용할 수 있습니다. |
-|  | ([!DNL Microsoft® Advertising] 계정의 Beta 기능) 이제 [!UICONTROL 캠페인] 보기의 캠페인 검색에서, 그리고 Bulksheets를 사용해 멀티미디어 광고를 만들고 관리할 수 있습니다. 광고의 크리에이티브 유형은 **[!UICONTROL 멀티미디어 광고]**&#x200B;입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
-| [!UICONTROL 캠페인], [!UICONTROL 보고서] | ([!DNL Google Ads] 및 [!DNL Microsoft® Advertising] 계정의 Beta 기능) 이제 게시자 노출 점유율 지표를 다음 캠페인 관리 보기 및 보고서의 열로 사용할 수 있습니다.<ul><li>캠페인 관리 보기: [!UICONTROL 광고]를 제외한 모든 캠페인 항목 보기. <b>참고:</b> 광고 네트워크에서는 광고 수준 데이터를 사용할 수 없습니다.</li><li>기본 보고서: [!UICONTROL 광고 변동], [!UICONTROL 캠페인 시간별] 및 [!UICONTROL 네트워크 제한] 보고서를 제외한 모든 보고서. <b>참고:</b> 광고 네트워크에서는 광고 수준 데이터를 사용할 수 없습니다.</li><li>특성 보고서: [!UICONTROL Adwords 및 Bing 대상자 타겟], [!UICONTROL 캠페인 일일 노출 점유율] 및 [!UICONTROL 키워드 일일 노출 점유율] 보고서.</li></ul><b>참고:</b> [!UICONTROL 캠페인 일일 노출 점유율] 및 [!UICONTROL 키워드 일일 노출 점유율] 보고서는 이제 중복 항목이므로 향후 릴리스에서 제거됩니다. 예약된 보고서, 템플릿 또는 스프레드시트 피드에 이러한 보고서 유형을 사용하는 경우 [!UICONTROL 캠페인] 및 [!UICONTROL 키워드] 보고서를 대신 사용하십시오. 당분간은 해당 보고서 유형에서 기존 지표가 중복됩니다. |
-| [!UICONTROL 전환 값 규칙] | ([!DNL Google Ads accounts]) [!UICONTROL 전환 값 규칙] 보기는 현재 Beta 상태가 아니며 일반적으로 사용할 수 있습니다. 기존 [!DNL Google Ads] 전환 값 규칙을 보는 데 사용합니다. 개인 계정 수준 또는 하위 수준의 [!DNL Google Ads] 전환 추적 코드가 있는 광고주 또한 규칙을 만들고 관리할 수 있습니다. |
-| [!UICONTROL 광고 인사이트] | [!UICONTROL 노출 점유율 누락] 및 [!UICONTROL 쿼리 교차 일치] 분석은 현재 Beta 상태가 아니며 일반적으로 사용할 수 있습니다. |
-| [!UICONTROL 권장 사항] | ([!DNL Google Ads] 계정 전용) [!UICONTROL 권장 사항] 기능은 현재 Beta 버전이 아니며 일반적으로 사용할 수 있습니다.<ul><li>계정에 실행되지 않은 모든 [!DNL Google Ads] 권장 사항을 한눈에 볼 수 있습니다.</li><li>계정의 권장 사항을 적용하고 종료합니다.</li><li>계정에 적용되는 각 권장 사항의 로그를 확인합니다.</li></ul> |
-| **[!UICONTROL 캠페인 가져오기]** | (Beta 기능) **[!UICONTROL 도구]** > **[!UICONTROL 캠페인 가져오기]**&#x200B;에서 [!DNL Google Ads] 성과 최대 캠페인(로컬 인벤토리 광고 포함)을 [!DNL Microsoft® Advertising] 스마트 쇼핑 캠페인으로 가져올 수 있습니다. 캠페인을 가져오면 가져오기 작업의 상태를 확인하고 오류 로그를 검토하며 가져오기 일정을 편집, 일시 중지 또는 삭제할 수 있습니다. |
+| 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정)의 캠페인 지원 [!DNL Microsoft® Audience Network] 이제 베타 버전이 출시되었습니다.<ul><li>대상 캠페인(캠페인 유형 &quot;)의 상태를 생성, 편집 및 변경할 수 있습니다[!UICONTROL 대상(이미지)]&quot; 또는 &quot;[!UICONTROL 대상(피드)]&quot;), 광고 그룹(광고 그룹 유형 &quot;[!UICONTROL Audience]&quot;) 및 광고(광고 유형 &quot;[!UICONTROL 응답형 광고]&quot;) [!UICONTROL 캠페인] 일괄 시트를 보고 사용할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>향후 릴리스를 통해 최적화 지원을 사용할 수 있습니다. |
+|  | ([!DNL Microsoft® Advertising] 계정) 멀티미디어 광고 지원이 이제 베타 버전이 아닙니다. 검색 캠페인에서 멀티미디어 광고를 만들고 관리할 수 있습니다 [!UICONTROL 캠페인] 일괄 시트 보기 및 사용 광고의 크리에이티브 유형은 “[!UICONTROL 멀티미디어 광고]”입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
+| [!UICONTROL 대상], [!UICONTROL 보고서] | (베타 기능 [!DNL Microsoft® Advertising] 계정) [!DNL Microsoft® Advertising] 이제 동적 리마케팅 대상이 동기화되어 [!UICONTROL 캠페인] > [!UICONTROL 대상] 사용 [!UICONTROL 대상 유형] &quot;[!UICONTROL 동적 리마케팅] &lt;*VisitorType*>&quot;(예: &quot;동적 리마케팅 과거 바이어&quot;) 동적 리마케팅 대상을 만들고, 업데이트하고, 삭제할 수도 있습니다.<br><br>대상을 캠페인 수준 및 광고 그룹 수준 광고 타겟 및 제외로 사용할 수 있습니다. Target에 입찰 수정자가 포함될 수 있습니다. **참고:** 동적 리마케팅 대상 타겟에 대한 입찰 수정자는 &quot;[!UICONTROL 입찰 조정값 자동 최적화]설정.<br><br>동적 리마케팅 대상자용 데이터는 [!UICONTROL 대상 Target 보고서]. |
 
 {style=&quot;table-layout:auto&quot;}
 
