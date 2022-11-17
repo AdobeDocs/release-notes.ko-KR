@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ece304539959b8aa223e378f365852277213822f
+source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
 workflow-type: tm+mt
-source-wordcount: '4939'
-ht-degree: 96%
+source-wordcount: '4997'
+ht-degree: 93%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 최신 업데이트: **2022년 11월 17일**
 
-* [[!DNL Experience League] 이벤트](#events)
+* [[!DNL Experience League] events](#events) (업데이트됨) **11월 17일**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 중앙 인터페이스 구성 요소 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,16 +55,13 @@ ht-degree: 96%
 
 Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-다가오는 이벤트는 다음과 같습니다.
+예정된 이벤트:
 
-* **[!DNL Journey Optimizer]:** 10월 25일 - _의사 결정 관리를 통해 적시에 적절한 오퍼 제공_
-* **[!DNL Workfront]:** 10월 25일 - _전문가에게 문의: 워크플로 및 프로세스 설계 웨비나 후속 내용_
-* **[!DNL Analytics]:** 11월 3일 - _Adobe Analytics 챔피언의 팁 및 요령_
-* **[!DNL Workfront]:** 11월 4일 - _Adobe Workfront 관리자 채팅: 마케팅 및 크리에이티브_
-* **[!DNL Experience Manager]:** 11월 9일 - _Adobe Developers Live: 헤드리스_
-* **[!DNL Workfront]:** 11월 9일 - _Workfront Wednesday - 커뮤니티 채팅_
+* [Adobe Target 커피 브레이크](https://adobe.ly/3WoLYth) - **11월 29일** - _Cristinel Anastasoaie를 사용한 커뮤니티 Q&amp;A 커피 브레이크_
+* [고객 워크샵](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 1일** - _전문가에게 문의 - 성공적인 최종 사용자 채택 웨비나 후속_
+* [Q&amp;A 채팅](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 5일** - _CS 연결 - 전략적 우수 사례 공유_
 
-예정된 이벤트 및 이전 이벤트에 대한 최신 정보는 [Experience League의 이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr)를 참조하십시오.
+전체 이벤트 예약에 대해서는 [Experience League 시 이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr).
 
 ## ![아이콘](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
