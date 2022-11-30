@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: be3d436320ff1bb71bd3c0e6d0551252b7e56b40
+source-git-commit: c84c5cf8b04236f15c9abdc3330147360ab643d5
 workflow-type: tm+mt
-source-wordcount: '5136'
+source-wordcount: '5147'
 ht-degree: 91%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 이 페이지는 Experience Cloud 제품 릴리스 정보 페이지와 Experience League의 최신 튜토리얼, 교육 과정 및 이벤트에 대한 액세스를 제공합니다.
 
-최신 업데이트: **2022년 11월 17일**
+최신 업데이트: **2022년 11월 29일**
 
 * [[!DNL Experience League] events](#events) (업데이트됨) **11월 17일**)
 * [[!DNL Adobe System Status]](#status)
@@ -475,14 +475,14 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
-마지막 업데이트: **2022년 11월 23일** 11월 15일 릴리스
+마지막 업데이트: **2022년 11월 30일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정)의 캠페인 지원 [!DNL Microsoft® Audience Network] 이제 베타 버전이 출시되었습니다.<ul><li>대상 캠페인(캠페인 유형 &quot;)의 상태를 생성, 편집 및 변경할 수 있습니다[!UICONTROL 대상(이미지)]&quot; 또는 &quot;[!UICONTROL 대상(피드)]&quot;), 광고 그룹(광고 그룹 유형 &quot;[!UICONTROL Audience]&quot;) 및 광고(광고 유형 &quot;[!UICONTROL 응답형 광고]&quot;) [!UICONTROL 캠페인] 일괄 시트를 보고 사용할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>향후 릴리스를 통해 최적화 지원을 사용할 수 있습니다. |
-|  | ([!DNL Microsoft® Advertising] 계정) 멀티미디어 광고 지원이 이제 베타 버전이 아닙니다. 검색 캠페인에서 멀티미디어 광고를 만들고 관리할 수 있습니다 [!UICONTROL 캠페인] 일괄 시트 보기 및 사용 광고의 크리에이티브 유형은 “[!UICONTROL 멀티미디어 광고]”입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
-| [!UICONTROL 대상], [!UICONTROL 보고서] | (베타 기능 [!DNL Microsoft® Advertising] 계정) [!DNL Microsoft® Advertising] 이제 동적 리마케팅 대상이 동기화되어 [!UICONTROL 캠페인] > [!UICONTROL 대상] 사용 [!UICONTROL 대상 유형] &quot;[!UICONTROL 동적 리마케팅] &lt;*VisitorType*>&quot;(예: &quot;동적 리마케팅 과거 바이어&quot;) 동적 리마케팅 대상을 만들고, 업데이트하고, 삭제할 수도 있습니다.<br><br>대상을 캠페인 수준 및 광고 그룹 수준 광고 타겟 및 제외로 사용할 수 있습니다. Target에 입찰 수정자가 포함될 수 있습니다. **참고:** 동적 리마케팅 대상 타겟에 대한 입찰 수정자는 &quot;[!UICONTROL 입찰 조정값 자동 최적화]설정.<br><br>동적 리마케팅 대상자용 데이터는 [!UICONTROL 대상 Target 보고서]. |
-| [!UICONTROL 캠페인 가져오기] | 가져올 수 있는 모든 옵션 [!DNL Google Ads] 캠페인 [!DNL Microsoft Advertising] 이제 베타 버전이 출시되었습니다.<ul><li>가져오기 [!DNL Google Display Network] 캠페인 [!DNL Microsoft Advertising] 대상 캠페인의 [!DNL Microsoft Audience Network].</li><li>가져오기 [!DNL Google Ads] 로컬 인벤토리 광고를 포함한 최대 캠페인 [!DNL Microsoft Advertising] 스마트 쇼핑 캠페인.</li><li>(이미 베타 버전 부족) 가져오기 [!DNL Google Ads] 캠페인을 검색하여 [!DNL Microsoft Advertising] 캠페인을 검색 및 표시합니다.</li></ul>캠페인을 가져오면 [!UICONTROL 검색] > [!UICONTROL 도구] > [!UICONTROL 캠페인 가져오기]로 가져오기 작업의 상태를 확인하고 오류 로그를 검토하고 가져오기 일정을 편집, 일시 중지 또는 삭제할 수 있습니다. |
+| 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) [!DNL Microsoft® Audience Network] 이제 베타 버전이 출시되었습니다.<ul><li>대상 캠페인(캠페인 유형 &quot;)의 상태를 생성, 편집 및 변경할 수 있습니다[!UICONTROL 대상(이미지)]&quot; 또는 &quot;[!UICONTROL 대상(피드)]&quot;), 광고 그룹(광고 그룹 유형 &quot;[!UICONTROL Audience]&quot;) 및 광고(광고 유형 &quot;[!UICONTROL 응답형 광고]&quot;) [!UICONTROL 캠페인] 일괄 시트를 보고 사용할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>향후 릴리스를 통해 최적화 지원을 사용할 수 있습니다. |
+|  | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) 멀티미디어 광고 지원은 이제 베타 버전이 아닙니다. 검색 캠페인에서 멀티미디어 광고를 만들고 관리할 수 있습니다 [!UICONTROL 캠페인] 일괄 시트 보기 및 사용 광고의 크리에이티브 유형은 “[!UICONTROL 멀티미디어 광고]”입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
+| [!UICONTROL 대상], [!UICONTROL 보고서] | ([!DNL Microsoft® Advertising] 계정; 11월 29일 릴리스) 다이내믹 리마케팅 대상에 대한 지원이 이제 베타 버전에서 제공됩니다.<ul><li>동적 리마케팅 대상은 동기화되고 [!UICONTROL 캠페인] > [!UICONTROL 대상] 사용 [!UICONTROL 대상 유형] &quot;[!UICONTROL 동적 리마케팅] &lt;*VisitorType*>&quot;(예: &quot;동적 리마케팅 과거 바이어&quot;) 동적 리마케팅 대상을 만들고, 업데이트하고, 삭제할 수도 있습니다.</li><li>대상을 캠페인 수준 및 광고 그룹 수준 광고 타겟 및 제외로 사용할 수 있습니다. Target에 입찰 수정자가 포함될 수 있습니다. **참고:** 동적 리마케팅 대상 타겟에 대한 입찰 수정자는 &quot;[!UICONTROL 입찰 조정값 자동 최적화]설정.</li><li>동적 리마케팅 대상자용 데이터는 [!UICONTROL 대상 Target 보고서].</li></ul> |
+| [!UICONTROL 캠페인 가져오기] | (11월 15일 릴리스) 가져오기를 위한 모든 옵션 [!DNL Google Ads] 캠페인 [!DNL Microsoft Advertising] 이제 베타 버전이 출시되었습니다.<ul><li>가져오기 [!DNL Google Display Network] 캠페인 [!DNL Microsoft Advertising] 대상 캠페인의 [!DNL Microsoft Audience Network].</li><li>가져오기 [!DNL Google Ads] 로컬 인벤토리 광고를 포함한 최대 캠페인 [!DNL Microsoft Advertising] 스마트 쇼핑 캠페인.</li><li>(이미 베타 버전 부족) 가져오기 [!DNL Google Ads] 캠페인을 검색하여 [!DNL Microsoft Advertising] 캠페인을 검색 및 표시합니다.</li></ul>캠페인을 가져오면 [!UICONTROL 검색] > [!UICONTROL 도구] > [!UICONTROL 캠페인 가져오기]로 가져오기 작업의 상태를 확인하고 오류 로그를 검토하고 가져오기 일정을 편집, 일시 중지 또는 삭제할 수 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
