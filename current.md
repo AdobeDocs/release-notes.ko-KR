@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: c84c5cf8b04236f15c9abdc3330147360ab643d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5147'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 91%
 
 >[!IMPORTANT]
 >
->이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다. 다음 우선 순위 제품 업데이트는에 배포됩니다. **2023년 1월**&#x200B;휴가 시즌 이후에. 채널을 고정하세요!
+>이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오. Experience League의 최신 상황을 수시로 확인할 수 있습니다. 다음 우선순위 제품 업데이트는 휴가철 이후인 **2023년 1월**&#x200B;에 배포될 예정입니다. 추후에 업데이트될 예정입니다.
 
 이 페이지는 Experience Cloud 제품 릴리스 정보 페이지와 Experience League의 최신 튜토리얼, 교육 과정 및 이벤트에 대한 액세스를 제공합니다.
 
 최신 업데이트: **2022년 11월 29일**
 
-* [[!DNL Experience League] events](#events) (업데이트됨) **11월 17일**)
+* [[!DNL Experience League] 이벤트](#events) (**11월 17일** 업데이트됨)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 중앙 인터페이스 구성 요소 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,11 +57,11 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 예정된 이벤트:
 
-* [Adobe Target 커피 브레이크](https://adobe.ly/3WoLYth) - **11월 29일** - _Cristinel Anastasoaie를 사용한 커뮤니티 Q&amp;A 커피 브레이크_
-* [고객 워크샵](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 1일** - _전문가에게 문의 - 성공적인 최종 사용자 채택 웨비나 후속_
-* [Q&amp;A 채팅](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 5일** - _CS 연결 - 전략적 우수 사례 공유_
+* [Adobe Target 커피 브레이크](https://adobe.ly/3WoLYth) - **11월 29일** - _Cristinel Anastasoaie와의 커뮤니티 Q&amp;A 커피 브레이크_
+* [고객 워크숍](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 1일** - _전문가에게 문의 - 성공적인 최종 사용자 채택 웨비나 후속 내용_
+* [Q&amp;A 채팅](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 5일** - _CS Connections - 전략 모범 사례 공유_
 
-전체 이벤트 예약에 대해서는 [Experience League 시 이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr).
+전체 이벤트 일정은 [Experience League의 이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr)를 참조하십시오.
 
 ## ![아이콘](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -187,9 +187,9 @@ _AEM Sites의 새로운 기능_
 
 * 편집 가능한 템플릿과 스타일 시스템을 지원하는 [핵심 WCM 구성 요소](https://github.com/adobe/aem-core-wcm-components)를 기반으로 합니다.
 
-* 이메일에 최적화되고 제작 준비가 완료된 10개의 구성 요소(페이지, 컨테이너, 제목, 텍스트, 이미지, 버튼, 티저, 경험 조각, 콘텐츠 조각, 세그먼테이션)를 제공합니다.
+* 이메일에 최적화되고 제작 준비가 완료된 10개의 구성 요소(페이지, 컨테이너, 제목, 텍스트, 이미지, 버튼, 티저, 경험 조각, 콘텐츠 조각, 세분화)를 제공합니다.
 
-* 대부분의 대화 상자 필드에서의 [Campaign 변수 삽입](https://github.com/adobe/aem-core-email-components/wiki/RTE-Personalization) 및 유연한 [세그먼테이션 구성 요소](https://github.com/adobe/aem-core-email-components/wiki/(기술 설명서))를 통해 고급 개인화 및 세그먼테이션 기능을 제공합니다.
+* 대부분의 대화 상자 필드에서의 [Campaign 변수 삽입](https://github.com/adobe/aem-core-email-components/wiki/RTE-Personalization) 및 유연한 [세분화 구성 요소](https://github.com/adobe/aem-core-email-components/wiki/(기술 설명서))를 통해 고급 개인화 및 세분화 기능을 제공합니다.
 
 * [CSS 스타일 인라이너](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation), [HTML 속성 인라이너](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation) 및 [HTML 삭제기](https://github.com/adobe/aem-core-email-components/wiki/HTML-sanitizing:-Technical-documentation)를 통해 이메일에 최적화된 HTML 출력을 제공합니다.
 
@@ -199,13 +199,13 @@ _[!DNL Sites]프리릴리스 채널에서 사용할 수 있는 새로운 기능_
 
 * [콘텐츠 조각 콘솔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=ko)에서는 사용자가 콘텐츠 조각과 관련된 총 언어 사본 수를 표시할 수 있는 옵션이 제공됩니다. 클릭 한 번으로 언어 사본을 모두 조회할 수도 있습니다. 사용자는 관심 있는 로케일로 테이블 보기를 필터링할 수도 있습니다.
 
-### Experience Manager [!DNL Assets] 로서의 [!DNL Cloud Service]
+### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
 
 _[!DNL Assets]_&#x200B;의 새로운 기능
 
 * 이제 [사용자가 MIME 유형에 따라 업로드할 수 있는 에셋 유형을 제한](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/configure-asset-upload-restrictions.html?lang=ko)하도록 Adobe Experience Manager Assets를 구성할 수 있습니다.
 
-### Experience Manager [!DNL Forms] 로서의 [!DNL Cloud Service]
+### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
 
 _새로운 기능_
 
@@ -258,8 +258,8 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 
 모든 Experience Manager 릴리스 정보는 다음 페이지에서 유지 관리됩니다.
 
-* [Adobe Experience Manager as a Cloud Service 릴리스 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
-* [최신 Adobe Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Adobe Experience Manager as a Cloud Service 릴리스 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=ko)
+* [최신 Adobe Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ko)
 * [Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ko-KR)
 * [Experience Manager Cloud Manager 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=ko-KR)
 * [Automated Forms Conversion Service 릴리스 정보](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=ko-KR)
@@ -280,20 +280,20 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 * [Experience Manager 6.4 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ko-KR)
 * [Experience Manager 6.3 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR)
 * [Experience Manager 6.2 학습 및 지원 홈](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR#previous-updates)
-* [이전 버전의 Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [이전 버전의 Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR#previous-updates)
 * [Dynamic Media Classic 도움말 홈](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ko-KR)
 * [Experience Manager 설명서: 최신 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ko-KR#aem-as-a-cloud-service)
 
 ## ![아이콘](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
 
-[!DNL Experience Manager Guides]는 AEM에 배포되는 애플리케이션입니다. Adobe Experience Manager의 기본 DITA 지원을 활성화하는 강력한 엔터프라이즈급 구성 요소 콘텐츠 관리 솔루션(CCMS)으로, AEM에서 DITA 기반 콘텐츠 생성 및 전달을 처리할 수 있도록 촉진합니다.
+[!DNL Experience Manager Guides]는 AEM에 배포되는 애플리케이션입니다. Adobe Experience Manager의 기본 DITA 지원을 활성화하는 강력한 엔터프라이즈급 구성 요소 콘텐츠 관리 솔루션(CCMS)으로, AEM에서 DITA 기반 콘텐츠 생성 및 게재를 처리할 수 있도록 촉진합니다.
 
 [[!DNL Experience Manager Guides]](https://www.adobe.com/kr/products/xml-documentation-for-experience-manager/features.html)에 대해 자세히 알아보십시오.
 
 ### 추가 리소스
 
 * [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html?lang=ko-KR) - Experience League의 튜토리얼
-* [[!DNL Experience Manager Guides] 학습 및 지원](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - 제품 설명서
+* [[!DNL Experience Manager Guides] 학습 및 지원](https://helpx.adobe.com/kr/support/xml-documentation-for-experience-manager.html) - 제품 설명서
 
 ## ![아이콘](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
@@ -359,9 +359,9 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 
 ### Campaign 도움말 리소스
 
-* Adobe Campaign v8: [설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [구현 안내서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
-* Adobe Campaign Standard: [Campaign Standard 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR) - [릴리스 계획](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ko-KR)
-* Adobe Campaign Classic: [Campaign Classic v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ko-KR)
+* Adobe Campaign v8: [설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ko-KR) - [구현 안내서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
+* Adobe Campaign Standard: [Campaign Standard 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR) - [릴리스 계획](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ko-KR)
+* Adobe Campaign Classic: [Campaign Classic v7 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ko-KR)
 * Adobe Campaign 제어판: [설명서](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ko-KR) - [방법 비디오](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=ko)에 대한 방법 비디오
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -386,8 +386,8 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 
 ### [!DNL Journey Optimizer]를 위한 추가 리소스
 
-* [Journey Optimizer 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR)
-* [의사 결정 관리 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ko-KR)
+* [Journey Optimizer 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ko-KR) - [방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ko-KR)
+* [의사 결정 관리 설명서](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ko-KR)
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -399,7 +399,7 @@ Experience Platform을 사용하여 모든 개인의 요구 사항을 실시간�
 
 #### [!DNL Journey Orchestration]를 위한 추가 리소스
 
-* [Journey Orchestration 설명서](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ko-KR)
+* [Journey Orchestration 설명서](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko-KR) - [릴리스 정보](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ko-KR) - [사용 방법 비디오](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ko-KR) - [최신 설명서 업데이트](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ko-KR)
 
 ## ![아이콘](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -465,24 +465,24 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud DSP]의 새로운 기능 {#adcloud-dsp}
 
-마지막 업데이트: **2022년 11월 23일**
+마지막 업데이트 날짜: **2022년 11월 23일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| 딜 | 다음 [!UICONTROL 인벤토리] > [!UICONTROL 딜] 이제 보기에 &quot;[!UICONTROL 거래 상태]&quot; 열은 각 비공개 거래의 상태 를 나타냅니다. &quot;[!UICONTROL 성공],&quot; &quot;[!UICONTROL 경고],&quot; &quot;[!UICONTROL 중요],&quot; 또는 &quot;[!UICONTROL 사용할 수 없음].&quot; 거래를 예상대로 수행하지 않거나 지출하지 않는 이유 및 잠재적인 문제를 해결하는 단계를 포함하여 상태를 클릭하여 자세한 내용을 볼 수 있습니다. |
+| 거래 | [!UICONTROL 인벤토리] > [!UICONTROL 거래] 보기에는 이제 각 비공개 거래의 상태(“[!UICONTROL 성공]”, “[!UICONTROL 경고]”, “[!UICONTROL 위험]” 또는 “[!UICONTROL 사용할 수 없음]”)를 나타내는 “[!UICONTROL 거래 상태]” 열이 포함됩니다. 상태를 클릭하면 거래가 예상대로 수행되지 않거나 지출되지 않는 이유, 잠재적인 문제를 해결하기 위한 단계를 포함하여 자세한 내용을 확인할 수 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
-마지막 업데이트: **2022년 11월 30일**
+마지막 업데이트 날짜: **2022년 11월 30일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) [!DNL Microsoft® Audience Network] 이제 베타 버전이 출시되었습니다.<ul><li>대상 캠페인(캠페인 유형 &quot;)의 상태를 생성, 편집 및 변경할 수 있습니다[!UICONTROL 대상(이미지)]&quot; 또는 &quot;[!UICONTROL 대상(피드)]&quot;), 광고 그룹(광고 그룹 유형 &quot;[!UICONTROL Audience]&quot;) 및 광고(광고 유형 &quot;[!UICONTROL 응답형 광고]&quot;) [!UICONTROL 캠페인] 일괄 시트를 보고 사용할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>향후 릴리스를 통해 최적화 지원을 사용할 수 있습니다. |
-|  | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) 멀티미디어 광고 지원은 이제 베타 버전이 아닙니다. 검색 캠페인에서 멀티미디어 광고를 만들고 관리할 수 있습니다 [!UICONTROL 캠페인] 일괄 시트 보기 및 사용 광고의 크리에이티브 유형은 “[!UICONTROL 멀티미디어 광고]”입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
-| [!UICONTROL 대상], [!UICONTROL 보고서] | ([!DNL Microsoft® Advertising] 계정; 11월 29일 릴리스) 다이내믹 리마케팅 대상에 대한 지원이 이제 베타 버전에서 제공됩니다.<ul><li>동적 리마케팅 대상은 동기화되고 [!UICONTROL 캠페인] > [!UICONTROL 대상] 사용 [!UICONTROL 대상 유형] &quot;[!UICONTROL 동적 리마케팅] &lt;*VisitorType*>&quot;(예: &quot;동적 리마케팅 과거 바이어&quot;) 동적 리마케팅 대상을 만들고, 업데이트하고, 삭제할 수도 있습니다.</li><li>대상을 캠페인 수준 및 광고 그룹 수준 광고 타겟 및 제외로 사용할 수 있습니다. Target에 입찰 수정자가 포함될 수 있습니다. **참고:** 동적 리마케팅 대상 타겟에 대한 입찰 수정자는 &quot;[!UICONTROL 입찰 조정값 자동 최적화]설정.</li><li>동적 리마케팅 대상자용 데이터는 [!UICONTROL 대상 Target 보고서].</li></ul> |
-| [!UICONTROL 캠페인 가져오기] | (11월 15일 릴리스) 가져오기를 위한 모든 옵션 [!DNL Google Ads] 캠페인 [!DNL Microsoft Advertising] 이제 베타 버전이 출시되었습니다.<ul><li>가져오기 [!DNL Google Display Network] 캠페인 [!DNL Microsoft Advertising] 대상 캠페인의 [!DNL Microsoft Audience Network].</li><li>가져오기 [!DNL Google Ads] 로컬 인벤토리 광고를 포함한 최대 캠페인 [!DNL Microsoft Advertising] 스마트 쇼핑 캠페인.</li><li>(이미 베타 버전 부족) 가져오기 [!DNL Google Ads] 캠페인을 검색하여 [!DNL Microsoft Advertising] 캠페인을 검색 및 표시합니다.</li></ul>캠페인을 가져오면 [!UICONTROL 검색] > [!UICONTROL 도구] > [!UICONTROL 캠페인 가져오기]로 가져오기 작업의 상태를 확인하고 오류 로그를 검토하고 가져오기 일정을 편집, 일시 중지 또는 삭제할 수 있습니다. |
+| 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) [!DNL Microsoft® Audience Network]에 대한 캠페인 지원은 더 이상 Beta 버전이 아닙니다.<ul><li>[!UICONTROL 캠페인] 보기에서, 그리고 Bulksheets를 사용해 대상자 캠페인(캠페인 유형 “[!UICONTROL 대상자(이미지)]” 또는 “[!UICONTROL 대상자(피드)]”), 광고 그룹(광고 그룹 유형 “[!UICONTROL 대상자]”) 및 광고(크리에이티브 유형 “[!UICONTROL 반응형 광고]”)의 상태를 만들고, 편집하고, 변경할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>향후 릴리스를 통해 최적화 지원을 사용할 수 있습니다. |
+|  | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) 멀티미디어 광고 지원은 더 이상 Beta 버전이 아닙니다. [!UICONTROL 캠페인] 보기의 캠페인 검색에서, 그리고 Bulksheets를 사용해 멀티미디어 광고를 만들고 관리할 수 있습니다. 광고의 크리에이티브 유형은 “[!UICONTROL 멀티미디어 광고]”입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
+| [!UICONTROL 대상자], [!UICONTROL 보고서] | ([!DNL Microsoft® Advertising] 계정; 11월 29일 릴리스) 동적 리마케팅 대상자에 대한 지원은 더 이상 Beta 버전이 아닙니다.<ul><li>동적 리마케팅 대상자가 동기화되어 [!UICONTROL 대상자 유형]이 “[!UICONTROL 동적 리마케팅] &lt;*방문자 유형*>”(예: “동적 리마케팅 과거 구매자”)인 [!UICONTROL 캠페인] > [!UICONTROL 대상자]에서 사용할 수 있습니다. 동적 리마케팅 대상자를 생성, 업데이트 및 삭제할 수도 있습니다.</li><li>캠페인 수준 및 광고 그룹 수준의 광고 대상 및 제외 대상으로 대상자를 사용할 수 있습니다. 대상에는 입찰 수정자가 포함될 수 있습니다. **참고**: 동적 리마케팅 대상자 타겟에 대한 입찰 수정자는 “[!UICONTROL 입찰 조정 값 자동 최적화”] 설정이 있는 포트폴리오에서 최적화되지 않습니다.</li><li>동적 리마케팅 대상자에 대한 데이터는 [!UICONTROL 대상자 타겟 보고서]에서 사용할 수 있습니다.</li></ul> |
+| [!UICONTROL 캠페인 가져오기] | (11월 15일 릴리스) [!DNL Google Ads] 캠페인을 [!DNL Microsoft Advertising]으로 가져오는 모든 옵션은 더 이상 Beta 버전이 아닙니다.<ul><li>[!DNL Microsoft Audience Network]의 [!DNL Microsoft Advertising] 대상자 캠페인으로 [!DNL Google Display Network] 캠페인을 가져옵니다.</li><li>[!DNL Google Ads] 성과 최대 캠페인(로컬 인벤토리 광고 포함)을 [!DNL Microsoft Advertising] 스마트 쇼핑 캠페인으로 가져올 수 있습니다.</li><li>(이미 Beta 버전이 종료됨) [!DNL Google Ads] 검색 및 디스플레이 캠페인을 [!DNL Microsoft Advertising] 검색 및 디스플레이 캠페인으로 가져올 수 있습니다.</li></ul>[!UICONTROL 검색] > [!UICONTROL 도구] > [!UICONTROL 캠페인 가져오기]에서 캠페인을 가져오면 가져오기 작업의 상태를 확인하고 오류 로그를 검토하며 가져오기 일정을 편집, 일시 중지 또는 삭제할 수 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
