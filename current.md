@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
+source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
 workflow-type: tm+mt
-source-wordcount: '4897'
-ht-degree: 94%
+source-wordcount: '4737'
+ht-degree: 92%
 
 ---
 
@@ -237,18 +237,14 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- | ------|
+| 2022년 12월 | [jQuery 및 Handlebars 코드 샘플 필터링](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 비디오 | jQuery 및 Handlebars를 사용하는 JavaScript 앱을 사용하여 데이터를 필터링하는 AEM Headless GraphQL API를 탐색합니다. 이 앱은 활동 유형별로 필터링 가능한 WKND 어드벤처 목록을 만듭니다. | AEM CS(헤드리스) |
+| 2022년 12월 | [URL 리디렉션](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | 비디오 | AEM에서 URL 리디렉션을 수행하는 다양한 옵션에 대해 알아봅니다. | AEM 학습 |
 | 2022년 11월 | [AEM 프로젝트에 서드파티 번들 포함](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | 비디오 | AEM 프로젝트에 서드파티 OSGi 번들을 포함하는 방법을 알아봅니다. | AEM Forms |
 | 2022년 11월 | [ECMA 스크립트를 사용하여 조각이 있는 PDF 문서 생성](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | 비디오 | 출력 서비스를 사용해 XDP 조각을 사용하여 PDF 파일을 생성하는 방법을 알아봅니다. | AEM Forms |
 | 2022년 11월 | [조각을 사용하여 PDF 문서 생성](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html) | 비디오 | 출력 서비스를 사용해 SDP 조각을 사용하여 PDF 파일을 생성하는 방법을 알아봅니다. | AEM Forms |
 | 2022년 11월 | [바인딩된 데이터를 추출하여 문자열 변수에 저장](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html) | 비디오 | 제출된 데이터를 이메일 본문에 포함하는 방법을 알아봅니다. | AEM Forms |
 | 2022년 11월 | [AEM-CIF 핵심 구성 요소 및 Experience Platform 통합](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html) | 비디오 | CIF - Experience Platform Connector를 사용하여 AEM 렌더링 제품 페이지에서 Experience Platform으로 상점 이벤트 데이터를 전송하는 방법을 알아봅니다. | AEM CS |
 | 2022년 10월 | [AEM Forms의 항목 로드 속성](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html) | 비디오 | 항목 로드 경로 속성을 사용하여 드롭다운 목록을 구성하고 채우는 방법에 대해 알아봅니다. | AEM Forms CS |
-| 2022년 10월 | [표준 AEM Project Archetype에 프론트엔드 파이프라인 사용](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html) | 비디오 | AEM Project Archetype을 사용하여 AEM WKND Sites 프로젝트를 활성화하여 CSS, JavaScript, 글꼴 및 아이콘과 같은 프론트엔드 리소스를 배포하고 프론트엔드 파이프라인을 사용하여 개발부터 배포까지의 주기를 단축하는 방법에 대해 알아봅니다. | AEM Sites |
-| 2022년 10월 | [Next.js 앱](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html) | 비디오 | 지속 쿼리를 사용하여 AEM의 GraphQL API를 사용하여 콘텐츠를 쿼리하는 방법에 대해 알아봅니다. JavaScript용 AEM Headless 클라이언트는 앱을 구동하는 GraphQL 지속 쿼리를 실행하는 데 사용됩니다. | AEM Sites |
-| 2022년 10월 | [제출된 양식 데이터에서 양식 첨부 파일 추출](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html) | 비디오 | Power Automate 워크플로에서 양식 첨부 파일을 추출하고 전자 메일로 첨부 파일을 전송하는 방법에 대해 알아봅니다. | AEM Forms CS |
-| 2022년 10월 | [DoR을 이메일 첨부 파일로 보내기](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html) | 비디오 | Power Automate 워크플로에서 DoR을 추출하고 이메일 첨부 파일로 전송합니다. | AEM Forms CS |
-| 2022년 10월 | [콘텐츠 조각 콘솔](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=ko) | 비디오 | AEM as a Cloud Service의 콘텐츠 조각 작성 콘솔의 기본 기능에 대해 알아봅니다. | AEM CS |
-| 2022년 10월 | [AEM as a Cloud Service 콘텐츠 마이그레이션 FAQ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html) | 비디오 | AEM as a Cloud Service로의 콘텐츠 마이그레이션에 대해 자주 묻는 질문에 대한 답변을 얻으십시오. | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
 
