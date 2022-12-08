@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
+source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
 workflow-type: tm+mt
-source-wordcount: '4737'
-ht-degree: 92%
+source-wordcount: '4816'
+ht-degree: 91%
 
 ---
 
@@ -237,7 +237,9 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022년 12월 | [jQuery 및 Handlebars 코드 샘플 필터링](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 비디오 | jQuery 및 Handlebars를 사용하는 JavaScript 앱을 사용하여 데이터를 필터링하는 AEM Headless GraphQL API를 탐색합니다. 이 앱은 활동 유형별로 필터링 가능한 WKND 어드벤처 목록을 만듭니다. | AEM CS(헤드리스) |
+| 2022년 12월 | [React 앱 코드 샘플 필터링](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | 비디오 | 컨텐츠 조각을 사용하여 모델링된 WKND 모험을 표시하는 간단한 React 앱입니다. | AEM Headless Developer Portal |
+| 2022년 12월 | [기본 React 앱](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | 비디오 | 지속 쿼리를 사용하여 AEM의 GraphQL API를 사용하여 콘텐츠를 쿼리하는 방법에 대해 알아봅니다. 이 응용 프로그램은 WKND Adventures의 필터링 가능 항목을 렌더링하고, 탐색을 선택하면 모험의 세부 사항이 표시됩니다. | AEM Headless Developer Portal |
+| 2022년 12월 | [jQuery 및 Handlebars 코드 샘플 필터링](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 비디오 | jQuery 및 Handlebars를 사용하는 JavaScript 앱을 사용하여 데이터를 필터링하는 AEM Headless GraphQL API를 탐색합니다. 이 앱은 활동 유형별로 필터링 가능한 WKND 어드벤처 목록을 만듭니다. | AEM Headless Developer Portal |
 | 2022년 12월 | [URL 리디렉션](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | 비디오 | AEM에서 URL 리디렉션을 수행하는 다양한 옵션에 대해 알아봅니다. | AEM 학습 |
 | 2022년 11월 | [AEM 프로젝트에 서드파티 번들 포함](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | 비디오 | AEM 프로젝트에 서드파티 OSGi 번들을 포함하는 방법을 알아봅니다. | AEM Forms |
 | 2022년 11월 | [ECMA 스크립트를 사용하여 조각이 있는 PDF 문서 생성](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | 비디오 | 출력 서비스를 사용해 XDP 조각을 사용하여 PDF 파일을 생성하는 방법을 알아봅니다. | AEM Forms |
