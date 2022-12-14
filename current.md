@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
+source-git-commit: d3ddc8b95ba69f19d3b7e5164a66793085ba5728
 workflow-type: tm+mt
-source-wordcount: '4816'
-ht-degree: 91%
+source-wordcount: '5055'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 이 페이지는 Experience Cloud 제품 릴리스 정보 페이지와 Experience League의 최신 튜토리얼, 교육 과정 및 이벤트에 대한 액세스를 제공합니다.
 
-최신 업데이트: **2022년 12월 7일**
+최신 업데이트: **2022년 12월 14일**
 
 * [[!DNL Experience League] events](#events) (업데이트됨) **12월 7일**)
 * [[!DNL Adobe System Status]](#status)
@@ -57,9 +57,10 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 예정된 이벤트:
 
-* [Adobe Target 웨비나](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **12월 8일** - _Automated Personalization이 방문마다 개인화된 동적 경험을 제공하는 방법_
-* [Adobe Workfront Q&amp;A 채팅](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 12일** - _전문가에게 문의: 변경 관리 탐색 웨비나 후속 조치_
+* [Adobe Workfront 고객 워크숍 - 연말 보고](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 15일** - _Workfront에서 보고서를 가장 잘 활용하여 연말 내역을 공유하는 방법에 대한 대화형 토론을 위해 실습 데모를 포함하여 우리와 함께 하십시오._
 * [Adobe Workfront 고객 워크숍](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12월 21일** - _고객 성공 팀에 참여하여 Workfront 커뮤니티의 트렌드 주제를 검토하여 1시간 간 알아보십시오._
+* [관리자 채팅: 마케팅 및 광고](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6년 1월** - _이 대화형 세션은 사용자와 다른 관리자를 연결하고 우수 사례와 사용자와 사용자를 위한 Workfront을 최대한 활용할 수 있는 팁과 기법을 토론합니다._
+* [CS 연결: 전략적 우수 사례 공유](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9년 1월** - _다른 고객과 교류하고 Workfront 기능에 대해 논의할 기회를 찾고 계십니까? CS Connections 시리즈에 참여하십시오! 조직의 중요한 주제를 논의하기 위해 매월 다른 고객과 소통할 수 있는 기회가 주어집니다._
 
 전체 이벤트 일정은 [Experience League의 이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr)를 참조하십시오.
 
@@ -237,6 +238,7 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- | ------|
+| 2022년 12월 | [지속 GraphQL 쿼리](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | 비디오 | 성능을 최적화하기 위해 Adobe Experience Manager as a Cloud Service에서 GraphQL 쿼리를 지속하는 방법을 알아봅니다. | AEM CS |
 | 2022년 12월 | [React 앱 코드 샘플 필터링](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | 비디오 | 컨텐츠 조각을 사용하여 모델링된 WKND 모험을 표시하는 간단한 React 앱입니다. | AEM Headless Developer Portal |
 | 2022년 12월 | [기본 React 앱](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | 비디오 | 지속 쿼리를 사용하여 AEM의 GraphQL API를 사용하여 콘텐츠를 쿼리하는 방법에 대해 알아봅니다. 이 응용 프로그램은 WKND Adventures의 필터링 가능 항목을 렌더링하고, 탐색을 선택하면 모험의 세부 사항이 표시됩니다. | AEM Headless Developer Portal |
 | 2022년 12월 | [jQuery 및 Handlebars 코드 샘플 필터링](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 비디오 | jQuery 및 Handlebars를 사용하는 JavaScript 앱을 사용하여 데이터를 필터링하는 AEM Headless GraphQL API를 탐색합니다. 이 앱은 활동 유형별로 필터링 가능한 WKND 어드벤처 목록을 만듭니다. | AEM Headless Developer Portal |
@@ -430,6 +432,7 @@ Experience League의 새로운 [!DNL Workfront] 교육 과정 및 튜토리얼 �
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022년 12월 | [ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS 표현식 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.html?lang=en) | 업데이트된 비디오 | Adobe Workfront의 계산된 필드에서 ADD 표현식을 사용하고 만드는 방법을 알아봅니다. |
 | 2022년 10월 | [보드에서 열 설정 추가 및 편집](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=ko) | 비디오 | 보드에서 열 설정을 추가하고 편집하는 방법에 대해 알아봅니다. |
 | 2022년 10월 | [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko) | 비디오 | API Explorer 및 텍스트 모드를 사용하여 보고 UI의 기능을 능가하는 고급 필터, 보기 및 그룹화를 만드는 방법에 대해 알아봅니다. |
 
