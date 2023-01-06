@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
+source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
 workflow-type: tm+mt
-source-wordcount: '4916'
-ht-degree: 92%
+source-wordcount: '4990'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 92%
 
 이 페이지는 Experience Cloud 제품 릴리스 정보 페이지와 Experience League의 최신 튜토리얼, 교육 과정 및 이벤트에 대한 액세스를 제공합니다.
 
-최신 업데이트: **2022년 12월 26일**
+최신 업데이트: **2022년 1월 6일**
 
-* [[!DNL Experience League] events](#events) (업데이트됨) **12월 7일**)
+* [[!DNL Experience League] events](#events) (업데이트됨) **6년 1월**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 중앙 인터페이스 구성 요소 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,8 +57,10 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 
 예정된 이벤트:
 
-* [관리자 채팅: 마케팅 및 광고](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6년 1월** - _이 대화형 세션은 사용자와 다른 관리자를 연결하고 우수 사례와 사용자와 사용자를 위한 Workfront을 최대한 활용할 수 있는 팁과 기법을 토론합니다._
-* [CS 연결: 전략적 우수 사례 공유](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9년 1월** - _다른 고객과 교류하고 Workfront 기능에 대해 논의할 기회를 찾고 계십니까? CS Connections 시리즈에 참여하십시오! 조직의 중요한 주제를 논의하기 위해 매월 다른 고객과 소통할 수 있는 기회가 주어집니다._
+* [관리자 채팅: 마케팅 및 광고](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6년 1월** - _이 대화형 세션은 다른 관리자와 연결되도록 하기 위해 마련되었으며, 최대한 활용할 수 있는 팁과 트릭 및 우수 사례를 토론합니다 [!DNL Workfront] 사용자 및 사용자._
+* [CS 연결: 전략적 우수 사례 공유](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9년 1월** - _다른 고객과 교류하고 토론할 기회를 찾고 있습니다. [!DNL Workfront] 기능? CS Connections 시리즈에 참여하십시오! 조직의 중요한 주제를 논의하기 위해 매월 다른 고객과 소통할 수 있는 기회가 주어집니다._
+* [의 새로운 기능 [!DNL Adobe Workfront] 23.1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **1월 10일** - _가입 [!DNL Adobe Workfront] 제품 팀에서는 최신 릴리스의 향후 기능 및 개선 사항에 대해 자세히 알아보십시오._
+* [온-프레미스 및 AMS 환경을 위한 AEM 우수 사례 분석기](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **1월 18일** - _AEM 온-프레미스 및 AMS 인스턴스와 관련된 분석 및 보고 기능을 제공하는 Adobe Experience Manager 우수 사례 분석기 도구에 대해 알아보십시오. AEM as a Cloud Service에는 적용되지 않습니다._
 
 전체 이벤트 일정은 [Experience League의 이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr)를 참조하십시오.
 
