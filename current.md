@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
+source-git-commit: 0b6455a86208c498304f7278c64b67e03d4ffc07
 workflow-type: tm+mt
-source-wordcount: '4990'
+source-wordcount: '4983'
 ht-degree: 91%
 
 ---
@@ -329,9 +329,6 @@ Workfront for Experience Manager 강화 커넥터의 [최신 1.9.3 버전으로 
 
 ## ![아이콘](/assets/target.png) [!DNL Adobe Target] {#target}
 
-마지막 업데이트: **2022년 10월 19일**
-
-다음 예정 릴리스: **10월 25~27일**
 * 이전 릴리스에 대한 자세한 내용은 [Adobe Target 프리릴리스](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ko-KR)를 참조하십시오.
 * 최신 릴리스에 대한 자세한 내용은 [Adobe Target 릴리스 정보](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ko)를 참조하십시오.
 
