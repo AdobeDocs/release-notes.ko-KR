@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dee94925c7872cf6108ec5c4fa4caaff774cf08b
+source-git-commit: 264148074acc579cb2f38a94a55c42a27730ca17
 workflow-type: tm+mt
-source-wordcount: '4986'
+source-wordcount: '4988'
 ht-degree: 90%
 
 ---
@@ -471,11 +471,11 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
 
-마지막 업데이트 날짜: **2022년 11월 30일**
+마지막 업데이트: **2022년 1월 10일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) [!DNL Microsoft® Audience Network]에 대한 캠페인 지원은 더 이상 Beta 버전이 아닙니다.<ul><li>[!UICONTROL 캠페인] 보기에서, 그리고 Bulksheets를 사용해 대상자 캠페인(캠페인 유형 “[!UICONTROL 대상자(이미지)]” 또는 “[!UICONTROL 대상자(피드)]”), 광고 그룹(광고 그룹 유형 “[!UICONTROL 대상자]”) 및 광고(크리에이티브 유형 “[!UICONTROL 반응형 광고]”)의 상태를 만들고, 편집하고, 변경할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>향후 릴리스를 통해 최적화 지원을 사용할 수 있습니다. |
+| 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) [!DNL Microsoft® Audience Network]에 대한 캠페인 지원은 더 이상 Beta 버전이 아닙니다.<ul><li>[!UICONTROL 캠페인] 보기에서, 그리고 Bulksheets를 사용해 대상자 캠페인(캠페인 유형 “[!UICONTROL 대상자(이미지)]” 또는 “[!UICONTROL 대상자(피드)]”), 광고 그룹(광고 그룹 유형 “[!UICONTROL 대상자]”) 및 광고(크리에이티브 유형 “[!UICONTROL 반응형 광고]”)의 상태를 만들고, 편집하고, 변경할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>대상 캠페인을 표준 또는 하이브리드 포트폴리오에 포함할 수 있습니다. |
 |  | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) 멀티미디어 광고 지원은 더 이상 Beta 버전이 아닙니다. [!UICONTROL 캠페인] 보기의 캠페인 검색에서, 그리고 Bulksheets를 사용해 멀티미디어 광고를 만들고 관리할 수 있습니다. 광고의 크리에이티브 유형은 “[!UICONTROL 멀티미디어 광고]”입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
 | [!UICONTROL 대상자], [!UICONTROL 보고서] | ([!DNL Microsoft® Advertising] 계정; 11월 29일 릴리스) 동적 리마케팅 대상자에 대한 지원은 더 이상 Beta 버전이 아닙니다.<ul><li>동적 리마케팅 대상자가 동기화되어 [!UICONTROL 대상자 유형]이 “[!UICONTROL 동적 리마케팅] &lt;*방문자 유형*>”(예: “동적 리마케팅 과거 구매자”)인 [!UICONTROL 캠페인] > [!UICONTROL 대상자]에서 사용할 수 있습니다. 동적 리마케팅 대상자를 생성, 업데이트 및 삭제할 수도 있습니다.</li><li>캠페인 수준 및 광고 그룹 수준의 광고 대상 및 제외 대상으로 대상자를 사용할 수 있습니다. 대상에는 입찰 수정자가 포함될 수 있습니다. **참고**: 동적 리마케팅 대상자 타겟에 대한 입찰 수정자는 “[!UICONTROL 입찰 조정 값 자동 최적화”] 설정이 있는 포트폴리오에서 최적화되지 않습니다.</li><li>동적 리마케팅 대상자에 대한 데이터는 [!UICONTROL 대상자 타겟 보고서]에서 사용할 수 있습니다.</li></ul> |
 | [!UICONTROL 캠페인 가져오기] | (11월 15일 릴리스) [!DNL Google Ads] 캠페인을 [!DNL Microsoft Advertising]으로 가져오는 모든 옵션은 더 이상 Beta 버전이 아닙니다.<ul><li>[!DNL Microsoft Audience Network]의 [!DNL Microsoft Advertising] 대상자 캠페인으로 [!DNL Google Display Network] 캠페인을 가져옵니다.</li><li>[!DNL Google Ads] 성과 최대 캠페인(로컬 인벤토리 광고 포함)을 [!DNL Microsoft Advertising] 스마트 쇼핑 캠페인으로 가져올 수 있습니다.</li><li>(이미 Beta 버전이 종료됨) [!DNL Google Ads] 검색 및 디스플레이 캠페인을 [!DNL Microsoft Advertising] 검색 및 디스플레이 캠페인으로 가져올 수 있습니다.</li></ul>[!UICONTROL 검색] > [!UICONTROL 도구] > [!UICONTROL 캠페인 가져오기]에서 캠페인을 가져오면 가져오기 작업의 상태를 확인하고 오류 로그를 검토하며 가져오기 일정을 편집, 일시 중지 또는 삭제할 수 있습니다. |
