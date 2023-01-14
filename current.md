@@ -6,9 +6,9 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 97ced2d9addab71d26dc94ba55af5e5f9e23f227
+source-git-commit: 0f238ebb4a330646e16379cbb61f959a37cd7c87
 workflow-type: tm+mt
-source-wordcount: '5417'
+source-wordcount: '5416'
 ht-degree: 60%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 60%
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Digital Experience 블루프린트 - 튜토리얼](#blueprints)
@@ -451,29 +451,29 @@ Experience League의 새로운 [!DNL Workfront] 교육 과정 및 튜토리얼 �
 
 모든 제품에 대한 최신 정보를 보려면 [[!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) 페이지를 참조하십시오.
 
-## ![아이콘](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
+## ![아이콘](/assets/advertising-cloud.png) Adobe 광고 {#advertising}
 
-[!DNL Adobe Advertising Cloud]의 릴리스 정보
+[!DNL Adobe Advertising]의 릴리스 정보
 
-<!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [ [!DNL Advertising Cloud DSP]의 새로운 기능](#adcloud-dsp)
-* [ [!DNL Advertising Cloud Search]의 새로운 기능](#adcloud-search)
-<!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
+<!-- * [New features across [!DNL Advertising]](#advertising-all) -->
+* [ [!DNL Advertising DSP]의 새로운 기능](#advertising-dsp)
+* [ [!DNL Advertising Search]의 새로운 기능](#advertising-search)
+<!-- * [New [!DNL Advertising] tutorials](#tutorials-advertising) -->
 
 <!--
-### New features across [!DNL Advertising Cloud] {#adcloud-all}
+### New features across [!DNL Advertising] {#advertising-all}
 
 Last updated: **August 9, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
+| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
 
 {style="table-layout:auto"}
 
 -->
 
-### [!DNL Advertising Cloud DSP]의 새로운 기능 {#adcloud-dsp}
+### [!DNL Advertising DSP]의 새로운 기능 {#advertising-dsp}
 
 마지막 업데이트 날짜: **2022년 11월 23일**
 
@@ -483,7 +483,7 @@ Last updated: **August 9, 2022**
 
 {style=&quot;table-layout:auto&quot;}
 
-### [!DNL Advertising Cloud Search]의 새로운 기능 {#adcloud-search}
+### [!DNL Advertising Search]의 새로운 기능 {#advertising-search}
 
 마지막 업데이트: **2022년 1월 10일**
 
