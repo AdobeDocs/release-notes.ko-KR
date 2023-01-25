@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5495'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -262,7 +262,7 @@ Experience Manager 고급 커넥터용 [!DNL Workfront]의 최신 버전에는 �
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2023년 1월 | [AEM [!UICONTROL 콘텐츠 조각 콘솔] 확장](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/content-fragments/overview.html) | 비디오(튜토리얼 랜딩 페이지) | AEM as a Cloud Service [!UICONTROL 콘텐츠 조각 콘솔] 확장으로 빌드하고 배포하는 방법에 대해 알아봅니다. | AEM CS |
+| 2023년 1월 | [AEM [!UICONTROL 콘텐츠 조각 콘솔] 확장](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/content-fragments/overview.html) | 비디오 (튜토리얼 랜딩 페이지) | AEM as a Cloud Service [!UICONTROL 콘텐츠 조각 콘솔] 확장으로 빌드하고 배포하는 방법에 대해 알아봅니다. | AEM CS |
 | 2023년 1월 | [어셈블러를 사용하여 xdp 문서를 연결하는 샘플 코드](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/xdp-stitching-using-assembler-service.html) | 문서 | AEM Forms 어셈블러 서비스를 사용하여 XDP 문서를 연결합니다. | AEM Forms |
 | 2023년 1월 | [사용자 정의 네임스페이스](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/custom-namespaces.html) | 비디오 | AEM as a Cloud Service에 사용자 정의 네임스페이스를 정의하고 배포하는 방법을 알아봅니다. | AEM CS |
 | 2023년 1월 | [시작 키트](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/welcome-kit/introduction.html) | 기사 | 제출된 양식 데이터를 기반으로 다양한 에셋을 다운로드할 수 있는 링크가 있는 AEM 페이지를 구성하는 방법을 알아봅니다. | AEM Forms |
@@ -343,7 +343,7 @@ Experience Manager 고급 커넥터용 [!DNL Workfront]의 최신 버전에는 �
 
 ## ![아이콘](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
-Adobe Campaign은 온라인 및 오프라인 마케팅 채널 간에 직관적이고, 자동화된 방식으로 일대일 메시지를 제공합니다. 이제 고객이 습관 및 선호도에 따라 결정된 작업 환경을 통해 원하는 사항을 예측할 수 있습니다.
+Adobe Campaign은 온라인 및 오프라인 마케팅 채널 간에 직관적이고, 자동화된 방식으로 일대일 메시지를 제공합니다. 이제 클라이언트가 습관 및 선호도에 따라 결정된 작업 환경을 통해 원하는 사항을 예측할 수 있습니다.
 
 ### 최신 Campaign 제품 릴리스
 
@@ -451,7 +451,7 @@ Experience League의 새로운 [!DNL Workfront] 교육 과정 및 튜토리얼 �
 
 모든 제품에 대한 최신 정보를 보려면 [[!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) 페이지를 참조하십시오.
 
-## ![아이콘](/assets/advertising-cloud.png) Adobe 광고 {#advertising}
+## ![아이콘](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
 
 [!DNL Adobe Advertising]의 릴리스 정보
 
@@ -489,7 +489,7 @@ Last updated: **August 9, 2022**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| 캠페인, 일괄 시트, 고급(ACM) | (1월 5일 릴리스) [!DNL Google Ads] 및 [!DNL Microsoft Advertising] 캠페인) 광고 네트워크의 편집기에서 광고 고객을 만든 경우 이제 의 응답형 검색 광고의 텍스트 필드에 속성을 사용할 수 있습니다 [!DNL Advertising Search]. 광고 헤드라인, 설명 및 디스플레이 URL의 첫 번째 및 두 번째 경로에서 다음 형식을 사용하여 광고 고객 지원자를 포함하십시오.<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>광고 제목의 광고 고객 지원기의 예: &quot;장화의 엄청난 재고량 `{CUSTOMIZER.Discount:10%}` 할인.&quot; |
+| 캠페인, Bulksheets, 고급 (ACM) | (1월 5일 릴리스: [!DNL Google Ads] 및 [!DNL Microsoft Advertising] 캠페인) 광고 네트워크의 편집기에서 광고 맞춤설정 도구를 만든 경우 [!DNL Advertising Search]의 반응형 검색 광고 텍스트 필드에서 해당 맞춤설정 도구를 속성으로 사용할 수 있습니다. 광고 제목, 설명 및 표시 URL의 첫 번째와 두 번째 경로 내에서 다음 형식을 사용하여 광고 맞춤설정 도구를 포함하십시오.<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>광고 제목에 포함된 광고 맞춤설정 도구의 예: “`{CUSTOMIZER.Discount:10%}` 할인된 장화 재고” |
 | 캠페인, Bulksheets, 보고서 | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) [!DNL Microsoft® Audience Network]에 대한 캠페인 지원은 더 이상 Beta 버전이 아닙니다.<ul><li>[!UICONTROL 캠페인] 보기에서, 그리고 Bulksheets를 사용해 대상자 캠페인(캠페인 유형 “[!UICONTROL 대상자(이미지)]” 또는 “[!UICONTROL 대상자(피드)]”), 광고 그룹(광고 그룹 유형 “[!UICONTROL 대상자]”) 및 광고(크리에이티브 유형 “[!UICONTROL 반응형 광고]”)의 상태를 만들고, 편집하고, 변경할 수 있습니다.</li><li>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 Adobe Analytics([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다.</li></ul>표준 또는 하이브리드 포트폴리오에 대상자 캠페인을 포함할 수 있습니다. |
 |  | ([!DNL Microsoft® Advertising] 계정; 11월 15일 릴리스) 멀티미디어 광고 지원은 더 이상 Beta 버전이 아닙니다. [!UICONTROL 캠페인] 보기의 캠페인 검색에서, 그리고 Bulksheets를 사용해 멀티미디어 광고를 만들고 관리할 수 있습니다. 광고의 크리에이티브 유형은 “[!UICONTROL 멀티미디어 광고]”입니다.<br><br>지출 전략을 사용하여 표준 포트폴리오 또는 하이브리드 포트폴리오에 멀티미디어 광고가 포함된 캠페인을 포함할 수 있습니다. 단, [!UICONTROL 타겟 노출 점유율] (하이브리드 포트폴리오에서는 아직 지원되지 않음)은 예외입니다.<br><br>[!UICONTROL 캠페인] 보기에서 표 및 추세 차트 형식으로 성과 데이터와 함께 대상자 캠페인을 볼 수 있습니다. 광고 수준 성과 데이터는 보고서 및 [!DNL Analytics] ([!DNL Analytics]를 통합한 광고주용)에서도 사용할 수 있습니다. |
 | [!UICONTROL 대상자], [!UICONTROL 보고서] | ([!DNL Microsoft® Advertising] 계정; 11월 29일 릴리스) 동적 리마케팅 대상자에 대한 지원은 더 이상 Beta 버전이 아닙니다.<ul><li>동적 리마케팅 대상자가 동기화되어 [!UICONTROL 대상자 유형]이 “[!UICONTROL 동적 리마케팅] &lt;*방문자 유형*>”(예: “동적 리마케팅 과거 구매자”)인 [!UICONTROL 캠페인] > [!UICONTROL 대상자]에서 사용할 수 있습니다. 동적 리마케팅 대상자를 생성, 업데이트 및 삭제할 수도 있습니다.</li><li>캠페인 수준 및 광고 그룹 수준의 광고 대상 및 제외 대상으로 대상자를 사용할 수 있습니다. 대상에는 입찰 수정자가 포함될 수 있습니다. **참고**: 동적 리마케팅 대상자 타겟에 대한 입찰 수정자는 “[!UICONTROL 입찰 조정 값 자동 최적화”] 설정이 있는 포트폴리오에서 최적화되지 않습니다.</li><li>동적 리마케팅 대상자에 대한 데이터는 [!UICONTROL 대상자 타겟 보고서]에서 사용할 수 있습니다.</li></ul> |
@@ -504,7 +504,7 @@ Adobe Document Cloud용으로 게시된 새로운 튜토리얼 및 교육 과정
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023년 1월 | [Microsoft® Purview 정보 민감도 레이블을 사용하여 PDF 보호](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels.html?lang=ko) | 비디오 | [!DNL Microsoft® Purview] 정보 민감도 레이블을 [!DNL Acrobat]에서 직접 추가, 편집, 사용자 정의 및 삭제하여 PDF를 보호하는 방법을 알아봅니다. | Acrobat |
-| 2023년 1월 | [Intesi Group에서 디지털 ID 받기(적격)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html) | 업데이트된 비디오 | Intesi Group에서 적격한 디지털 서명 인증서를 얻는 방법에 대해 알아봅니다. 등록되고 신원이 확인되면 Intesi Group에서 Acrobat Sign 클라우드 서명을 적용하는 데 사용되는 디지털 ID를 발급합니다. | Adobe Sign |
+| 2023년 1월 | [Intesi Group에서 디지털 ID 받기 (적격)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html) | 업데이트된 비디오 | Intesi Group에서 적격한 디지털 서명 인증서를 얻는 방법에 대해 알아봅니다. 등록되고 신원이 확인되면 Intesi Group에서 Acrobat Sign 클라우드 서명을 적용하는 데 사용되는 디지털 ID를 발급합니다. | Adobe Sign |
 | 2022년 12월 | [기한 및 알림 설정](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=ko) | 비디오 | 문서에 신속하게 서명할 수 있도록 정기적인 이메일 알림 및 기한을 전송하는 방법을 알아봅니다. | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
