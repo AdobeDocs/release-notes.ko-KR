@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: ht
-source-wordcount: '5495'
-ht-degree: 100%
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+workflow-type: tm+mt
+source-wordcount: '5497'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 이 페이지는 Experience Cloud 제품 릴리스 정보 페이지와 Experience League의 최신 튜토리얼, 교육 과정 및 이벤트에 대한 액세스를 제공합니다.
 
-최신 업데이트: **2023년 1월 18일**
+최종 업데이트: **2023년 2월 3일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP]의 새로운 기능 {#advertising-dsp}
 
-마지막 업데이트 날짜: **2022년 11월 23일**
+마지막 업데이트 날짜: **2023년 2월 3일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| 거래 | [!UICONTROL 인벤토리] > [!UICONTROL 거래] 보기에는 이제 각 비공개 거래의 상태(“[!UICONTROL 성공]”, “[!UICONTROL 경고]”, “[!UICONTROL 위험]” 또는 “[!UICONTROL 사용할 수 없음]”)를 나타내는 “[!UICONTROL 거래 상태]” 열이 포함됩니다. 상태를 클릭하면 거래가 예상대로 수행되지 않거나 지출되지 않는 이유, 잠재적인 문제를 해결하기 위한 단계를 포함하여 자세한 내용을 확인할 수 있습니다. |
+| [!UICONTROL 거래] | (1월 25일 릴리스) 인벤토리 > 거래 보기의 새로운 &quot;PG 노출 간격&quot; 비용 열이 보장된 거래의 경우 게재 > 게재 보기의 보고서에 대기 중입니다. |
+| [!UICONTROL 캠페인] | (1월 4일 릴리스) 이제 선택한 날짜 범위 동안의 변경 사항을 보여주는 변경 로그를 각 캠페인에 사용할 수 있습니다. 변경 로그는 이미 패키지 및 배치에 대해 사용할 수 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
