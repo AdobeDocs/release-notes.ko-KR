@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '5028'
+source-wordcount: '5006'
 ht-degree: 60%
 
 ---
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP]의 새로운 기능 {#advertising-dsp}
 
-마지막 업데이트 날짜: **2023년 2월 3일**
+마지막 업데이트 날짜: **2023년 2월 8일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 거래] | (1월 25일 릴리스) 인벤토리 > 거래 보기의 새로운 &quot;PG 노출 간격&quot; 비용 열이 보장된 거래의 경우 게재 > 게재 보기의 보고서에 대기 중입니다. |
-| [!UICONTROL 캠페인] | (1월 4일 릴리스) 이제 선택한 날짜 범위 동안의 변경 사항을 보여주는 변경 로그를 각 캠페인에 사용할 수 있습니다. 변경 로그는 이미 패키지 및 배치에 대해 사용할 수 있습니다. |
+| [!UICONTROL 캠페인] | (2) 2월 3일 릴리스 베타 기능) 이제 차트 양식에서 변경 로그를 보고 모든 항목에 메모를 추가할 수 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Search]의 새로운 기능 {#advertising-search}
 
-마지막 업데이트 날짜: **2022년 1월 18일**
+마지막 업데이트 날짜: **2023년 2월 8일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 캠페인], [!UICONTROL 일괄 시트], [!UICONTROL 고급(ACM)] | (1월 5일 릴리스: [!DNL Google Ads] 및 [!DNL Microsoft Advertising] campaigns) - 광고 네트워크의 편집기에서 광고 고객을 만든 경우 이제 의 응답형 검색 광고의 텍스트 필드에 있는 속성으로 사용할 수 있습니다 [!DNL Advertising Search]. 광고 제목, 설명 및 표시 URL의 첫 번째와 두 번째 경로 내에서 다음 형식을 사용하여 광고 맞춤설정 도구를 포함하십시오.<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>광고 제목에 포함된 광고 맞춤설정 도구의 예: “`{CUSTOMIZER.Discount:10%}` 할인된 장화 재고” |
-| [!UICONTROL 캠페인 가져오기] | (1월 5일 릴리스: [!DNL Google Ads] 및 [!DNL Microsoft Advertising] 캠페인) - 다음을 복제할 수 있습니다 [!DNL Google Ads] 광고 고객 [!DNL Microsoft Advertising] 캠페인 [!UICONTROL 검색] > [!UICONTROL 도구] > [!UICONTROL 캠페인 가져오기]. 가져오기 작업을 사용자 지정하지 않으면 자동으로 복제됩니다. 가져올 내용을 지정하여 가져오기 작업을 사용자 지정하는 경우 반드시 선택합니다 [!UICONTROL 피드 를 참조하십시오] > [!UICONTROL 광고 사용자 지정자 피드.] |
+| [!UICONTROL 캠페인] | (2) 2월 6일 릴리스 베타 기능) 이제 읽기 전용 동기화 지원을 사용할 수 있습니다 [!DNL Google Ads] 검색 캠페인. 검색 캠페인에는 [!UICONTROL 캠페인 유형] &quot;[!UICONTROL 검색],&quot; [!UICONTROL 광고 그룹 유형] &quot;[!UICONTROL 검색],&quot; 및 [!UICONTROL 크리에이티브 유형] &quot;[!UICONTROL 검색 광고]&quot; (단일 이미지 광고의 경우) 또는 &quot;[!UICONTROL 검색 캐러셀 광고]&quot; (다중 이미지 회전 광고) 표준 및 하이브리드 포트폴리오에 검색 캠페인을 포함할 수 있습니다.<br><br>검색 캠페인을 위한 광고 수준 데이터는 보고서에서 사용할 수 있습니다. Adobe Analytics 통합이 있는 광고주의 경우 광고 수준 데이터는 [!DNL Analytics]. 마찬가지로 [!DNL Analytics] 데이터는에서 사용할 수 있습니다. [!DNL Search]; 데이터는 업그레이드된 `s_kwcid` 추적 매개 변수 `s_kwcid` 일반적으로 계정에 사용하는 형식입니다. 일반적으로 이전 버전의 를 사용하는 경우 `s_kwcid`를 입력하면 클릭/비용 데이터 및 매출 데이터가 다른 `s_kwcids`그러나 두 데이터 세트는 모두 동일한 캠페인 및 계정에서 분류되고 집계됩니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
