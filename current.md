@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
+source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
 workflow-type: tm+mt
-source-wordcount: '5006'
+source-wordcount: '4983'
 ht-degree: 60%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 60%
 
 ## 제품 릴리스 업데이트 및 이벤트 - 2023년 2월
 
-최근 업데이트된 컨텐츠: **2023년 2월 8일**
+최근 업데이트된 컨텐츠: **2023년 2월 9일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -58,8 +58,6 @@ ht-degree: 60%
 Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
 * [!DNL Campaign Standard] - **2월 9일 | 오전 9:30 IST** 커뮤니티 커피 브레이크 - _Adobe [!DNL Campaign] 커뮤니티 Q&amp;A 커피 브레이크 - APAC_ - [세부 사항 및 등록](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9/td-p/568425)
-
-* [!DNL Campaign Standard] - **2월 9일 | 오전 9시(PST)** 커뮤니티 커피 브레이크 - _[!DNL Campaign]커뮤니티 Q&amp;A 커피 브레이크 - 미국/EMEA_ - [세부 사항 및 등록](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9am/td-p/568421)
 
 * [!DNL Workfront] - **2월 9일 | 오전 10시 MT** - _고객 패널 - 로깅 시간_ - [세부 사항 및 등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ApJEa7JdN0is2sG3HRpLDA,9brRsWkVcEahJAdD813wug,Xm1T4YtdIEGZaxxbANkVRg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
