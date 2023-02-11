@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
+source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 60%
+source-wordcount: '5082'
+ht-degree: 59%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 60%
 
 ## 제품 릴리스 업데이트 및 이벤트 - 2023년 2월
 
-최근 업데이트된 컨텐츠: **2023년 2월 9일**
+최근 업데이트된 컨텐츠: **2023년 2월 10일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -534,11 +534,13 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Search]의 새로운 기능 {#advertising-search}
 
-마지막 업데이트 날짜: **2023년 2월 8일**
+마지막 업데이트 날짜: **2023년 2월 10일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
 | [!UICONTROL 캠페인] | (2) 2월 6일 릴리스 베타 기능) 이제 읽기 전용 동기화 지원을 사용할 수 있습니다 [!DNL Google Ads] 검색 캠페인. 검색 캠페인에는 [!UICONTROL 캠페인 유형] &quot;[!UICONTROL 검색],&quot; [!UICONTROL 광고 그룹 유형] &quot;[!UICONTROL 검색],&quot; 및 [!UICONTROL 크리에이티브 유형] &quot;[!UICONTROL 검색 광고]&quot; (단일 이미지 광고의 경우) 또는 &quot;[!UICONTROL 검색 캐러셀 광고]&quot; (다중 이미지 회전 광고) 표준 및 하이브리드 포트폴리오에 검색 캠페인을 포함할 수 있습니다.<br><br>검색 캠페인을 위한 광고 수준 데이터는 보고서에서 사용할 수 있습니다. Adobe Analytics 통합이 있는 광고주의 경우 광고 수준 데이터는 [!DNL Analytics]. 마찬가지로 [!DNL Analytics] 데이터는에서 사용할 수 있습니다. [!DNL Search]; 데이터는 업그레이드된 `s_kwcid` 추적 매개 변수 `s_kwcid` 일반적으로 계정에 사용하는 형식입니다. 일반적으로 이전 버전의 를 사용하는 경우 `s_kwcid`를 입력하면 클릭/비용 데이터 및 매출 데이터가 다른 `s_kwcids`그러나 두 데이터 세트는 모두 동일한 캠페인 및 계정에서 분류되고 집계됩니다. |
+|  | ([!DNL Google Ads] 계정; 2월 11일 릴리스) 다음에 대한 지원 &quot;[!UICONTROL Target 노출 공유]이제 검색 네트워크의 캠페인에서만 입찰 전략을 사용할 수 있습니다. 이 입찰 전략에서는 [!DNL Google Ads] (아님) [!DNL Search])은 target 노출 공유 및 광고 위치를 달성하기 위해 입찰을 최적화합니다. 선택적으로 을 입력할 수 있습니다 [!UICONTROL Target 노출 공유] 백분율로, [!UICONTROL Target 광고 위치], 및 [!UICONTROL 최대 CPC] (클릭당 비용) 이 옵션은 아직 하이브리드 포트폴리오에서 지원되지 않습니다. |
+| [!UICONTROL Bulksheets] | ([!DNL Microsoft] 캠페인; 2월 11일 릴리스) 이제 일괄 시트에는 &quot;[!UICONTROL 클릭유도문안]&quot; 및 &quot;[!UICONTROL Call to Action Language]&quot; 멀티미디어 광고에 대한 열(응답형 광고 형식)로서, &quot;[!UICONTROL Creative(RSA 제외)]&quot; 행을 클릭합니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
