@@ -1,15 +1,15 @@
 ---
 description: 이 제품과 설명서의 사용에 관한 법적 문제를 이해하고 Adobe에 문의하는 데 도움이 되는 정보입니다.
-keywords: 다이내믹 태그 관리; 릴리스 노트
-seo-description: 이 제품과 설명서의 사용에 관한 법적 문제를 이해하고 Adobe에 문의하는 데 도움이 되는 정보입니다.
-seo-title: 연락처 및 법적 정보
+keywords: 다이내믹 태그 관리; 릴리스 정보
+seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
+seo-title: Contact and Legal Information
 title: 연락처 및 법적 정보
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: tm+mt
-source-wordcount: '258'
+workflow-type: ht
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Adobe Marketing Cloud 고객 지원 센터 팀은 고객 지원을 위해 구성되었으며 고객들이 참여할 수 있는 많은 메커니즘을 제공합니다.
 
-자세한 내용은 [Adobe 엔터프라이즈 지원에 문의](https://helpx.adobe.com/kr/contact/enterprise-support.ec.html)
+자세한 내용은 [Adobe 엔터프라이즈 지원에 문의](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 
 ## 서비스, 기능 및 과금 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
@@ -42,8 +42,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> 게시자: Adobe Systems Incorporated. </li> 
 </ul>
 
-[사용 약관](https://www.adobe.com/go/marketingcloud_terms_of_use) | [개인 정보 보호 센터](https://www.adobe.com/kr/privacy/policy.html)
+[사용 약관](https://www.adobe.com/go/marketingcloud_terms_of_use_kr) | [개인 정보 보호 센터](https://www.adobe.com/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. 업데이트된 정보/추가 타사 코드 정보는 [http://www.adobe.com/go/thirdparty_kr](https://www.adobe.com/kr/products/eula/third_party/)을 참조하십시오.
+All third-party trademarks are the property of their respective owners. 업데이트된 정보/추가 타사 코드 정보는 [http://www.adobe.com/go/thirdparty_kr](https://www.adobe.com/products/eula/third_party/)을 참조하십시오.
