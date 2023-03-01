@@ -6,7 +6,7 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
+source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
 workflow-type: tm+mt
 source-wordcount: '5139'
 ht-degree: 96%
@@ -27,11 +27,11 @@ ht-degree: 96%
 
 [Experience League](https://experienceleague.adobe.com/?lang=en#home)를 통해 성공적인 길을 시작해 보십시오. 사용자 도움말 [제품 설명서](https://experienceleague.adobe.com/docs/?lang=en) 및 안내형 [튜토리얼 비디오](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en)의 방대한 라이브러리를 찾아보십시오. 필요한 순간에 모든 수준과 역할에 대한 [교육 과정](https://experienceleague.adobe.com/?lang=en#courses)을 찾고, 동료 [온라인](https://experienceleaguecommunities.adobe.com/?profile.language=en) 커뮤니티에서 질문을 하고, 전문가의 [지원](https://experienceleague.adobe.com/?support-tab=home#support)을 받아보십시오.
 
-## Adobe Summit 2023
+## Adobe [!DNL Summit] 2023
 
 Las Vegas에 참여하여 기술을 확장하고 영감을 얻고 디지털 경제를 개인화할 수 있는 연결을 구축하십시오. 라스베가스에서 열리는 세계적인 행사에 참석할 수 없는 사람들을 위해, 사실상 어디서든 무료로 우리와 함께 해주십시오.
 
-[!BADGE Summit 등록]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Summit 등록"}
+[!BADGE 등록]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;등록 [!DNL Adobe Summit]&quot;}
 
 ## 제품 릴리스 업데이트 및 이벤트 - 2023년 2월
 
