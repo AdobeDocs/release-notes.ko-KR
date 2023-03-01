@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
+source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
 workflow-type: tm+mt
-source-wordcount: '5082'
-ht-degree: 97%
+source-wordcount: '5139'
+ht-degree: 96%
 
 ---
 
@@ -26,6 +26,12 @@ ht-degree: 97%
 **도움이 필요하십니까?**
 
 [Experience League](https://experienceleague.adobe.com/?lang=en#home)를 통해 성공적인 길을 시작해 보십시오. 사용자 도움말 [제품 설명서](https://experienceleague.adobe.com/docs/?lang=en) 및 안내형 [튜토리얼 비디오](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en)의 방대한 라이브러리를 찾아보십시오. 필요한 순간에 모든 수준과 역할에 대한 [교육 과정](https://experienceleague.adobe.com/?lang=en#courses)을 찾고, 동료 [온라인](https://experienceleaguecommunities.adobe.com/?profile.language=en) 커뮤니티에서 질문을 하고, 전문가의 [지원](https://experienceleague.adobe.com/?support-tab=home#support)을 받아보십시오.
+
+## Adobe Summit 2023
+
+Las Vegas에 참여하여 기술을 확장하고 영감을 얻고 디지털 경제를 개인화할 수 있는 연결을 구축하십시오. 라스베가스에서 열리는 세계적인 행사에 참석할 수 없는 사람들을 위해, 사실상 어디서든 무료로 우리와 함께 해주십시오.
+
+[!BADGE Summit 등록]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Summit 등록"}
 
 ## 제품 릴리스 업데이트 및 이벤트 - 2023년 2월
 
@@ -538,9 +544,9 @@ Last updated: **August 9, 2022**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 캠페인] | (2월 6일 릴리스, Beta 기능) 이제 [!DNL Google Ads] 검색 캠페인에 대해 읽기 전용 동기화 지원을 사용할 수 있습니다. 검색 캠페인에는 [!UICONTROL 캠페인 유형] &quot;[!UICONTROL 검색],&quot; [!UICONTROL 광고 그룹 유형] &quot;[!UICONTROL 검색],&quot; 및 [!UICONTROL 크리에이티브 유형] &quot;[!UICONTROL 검색 광고]&quot; (단일 이미지 광고의 경우) 또는 &quot;[!UICONTROL 검색 캐러셀 광고]&quot; (다중 이미지 회전 광고) 표준 및 하이브리드 포트폴리오에 검색 캠페인을 포함할 수 있습니다.<br><br>검색 캠페인에 대한 광고 수준 데이터는 보고서에서 사용할 수 있습니다. Adobe Analytics 통합을 사용하는 광고주는 [!DNL Analytics]에서 광고 수준 데이터를 사용할 수 있습니다. 마찬가지로 [!DNL Analytics] 데이터는 [!DNL Search]에서 사용할 수 있습니다. 데이터는 일반적으로 계정에 사용하는 `s_kwcid` 형식에 관계없이 업그레이드된 `s_kwcid` 추적 매개변수를 사용하여 전송됩니다. 일반적으로 `s_kwcid`의 이전 버전을 사용하는 경우 클릭/비용 데이터와 수익 데이터는 서로 다른 `s_kwcids`를 사용하여 추적되지만 두 데이터 집합 모두 동일한 캠페인 및 계정 하에 분류되고 집계됩니다. |
-|  | ([!DNL Google Ads] 계정; 2월 11일 릴리스) 다음에 대한 지원 &quot;[!UICONTROL Target 노출 공유]이제 검색 네트워크의 캠페인에서만 입찰 전략을 사용할 수 있습니다. 이 입찰 전략에서는 [!DNL Google Ads] (아님) [!DNL Search])은 target 노출 공유 및 광고 위치를 달성하기 위해 입찰을 최적화합니다. 선택적으로 을 입력할 수 있습니다 [!UICONTROL Target 노출 공유] 백분율로, [!UICONTROL Target 광고 위치], 및 [!UICONTROL 최대 CPC] (클릭당 비용) 이 옵션은 아직 하이브리드 포트폴리오에서 지원되지 않습니다. |
-| [!UICONTROL Bulksheets] | ([!DNL Microsoft] 캠페인; 2월 11일 릴리스) 이제 일괄 시트에는 &quot;[!UICONTROL 클릭유도문안]&quot; 및 &quot;[!UICONTROL Call to Action Language]&quot; 멀티미디어 광고에 대한 열(응답형 광고 형식)로서, &quot;[!UICONTROL Creative(RSA 제외)]&quot; 행을 클릭합니다. |
+| [!UICONTROL 캠페인] | (2월 6일 릴리스, Beta 기능) 이제 [!DNL Google Ads] 검색 캠페인에 대해 읽기 전용 동기화 지원을 사용할 수 있습니다. 검색 캠페인에 다음이 포함됨 [!UICONTROL 캠페인 유형] &quot;[!UICONTROL 검색],&quot; [!UICONTROL 광고 그룹 유형] &quot;[!UICONTROL 검색],&quot; 및 [!UICONTROL 크리에이티브 유형] &quot;[!UICONTROL 검색 광고]&quot;(단일 이미지 광고의 경우) 또는 &quot;[!UICONTROL 검색 캐러셀 광고]&quot;(다중 이미지 회전 광고). 표준 및 하이브리드 포트폴리오에 검색 캠페인을 포함할 수 있습니다.<br><br>검색 캠페인에 대한 광고 수준 데이터는 보고서에서 사용할 수 있습니다. Adobe Analytics 통합을 사용하는 광고주는 [!DNL Analytics]에서 광고 수준 데이터를 사용할 수 있습니다. 마찬가지로 [!DNL Analytics] 데이터는 [!DNL Search]에서 사용할 수 있습니다. 데이터는 일반적으로 계정에 사용하는 `s_kwcid` 형식에 관계없이 업그레이드된 `s_kwcid` 추적 매개변수를 사용하여 전송됩니다. 일반적으로 `s_kwcid`의 이전 버전을 사용하는 경우 클릭/비용 데이터와 수익 데이터는 서로 다른 `s_kwcids`를 사용하여 추적되지만 두 데이터 집합 모두 동일한 캠페인 및 계정 하에 분류되고 집계됩니다. |
+|  | ([!DNL Google Ads] 계정; 2월 11일 릴리스) &quot;에 대한 지원[!UICONTROL Target 노출 점유율]&quot;이제 검색 네트워크의 캠페인에만 입찰 전략을 사용할 수 있습니다. 이 입찰 전략의 경우 [!DNL Google Ads] (아님) [!DNL Search])는 타겟 노출 점유율 및 광고 위치를 달성하기 위해 입찰을 최적화합니다. 다음을 선택적으로 입력할 수 있습니다. [!UICONTROL Target 노출 점유율] 백분율로, [!UICONTROL Target 광고 위치], 및 [!UICONTROL 최대 CPC] (클릭당 비용) 이 옵션은 하이브리드 포트폴리오에서 아직 지원되지 않습니다. |
+| [!UICONTROL Bulksheets] | ([!DNL Microsoft] 캠페인; 2월 11일 릴리스) 이제 일괄 시트에 &quot;[!UICONTROL 클릭 유도 문안]&quot; 및 &quot;[!UICONTROL 클릭 유도 문안 언어]&quot;멀티미디어 광고용 열(반응형 광고 형식),&quot;[!UICONTROL 크리에이티브(RSA 제외)]&quot;행. |
 
 {style=&quot;table-layout:auto&quot;}
 
