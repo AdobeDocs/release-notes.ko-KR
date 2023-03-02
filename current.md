@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 96%
+source-wordcount: '5241'
+ht-degree: 93%
 
 ---
 
@@ -35,7 +35,7 @@ Las Vegas에 참여하여 기술을 확장하고 영감을 얻고 디지털 경�
 
 ## 제품 릴리스 업데이트 및 이벤트 - 2023년 2월
 
-마지막 콘텐츠 업데이트: **2023년 2월 10일**
+콘텐츠가 마지막으로 업데이트됨: **2023년 3월 2일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP]의 새로운 기능 {#advertising-dsp}
 
-마지막 업데이트: **2023년 2월 8일**
+마지막 업데이트: **2023년 3월 2일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 캠페인] | (2월 3일 릴리스, Beta 기능) 이제 차트 형식으로 변경 로그를 볼 수 있으며 모든 항목에 메모를 추가할 수 있습니다. |
+| [!UICONTROL 캠페인] | (2월 15일 릴리스) 이제 차트 양식에서 변경 로그를 볼 수 있으며 모든 항목에 메모를 추가할 수 있습니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Search]의 새로운 기능 {#advertising-search}
 
-마지막 업데이트: **2023년 2월 10일**
+마지막 업데이트: **2023년 3월 2일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 캠페인] | (2월 6일 릴리스, Beta 기능) 이제 [!DNL Google Ads] 검색 캠페인에 대해 읽기 전용 동기화 지원을 사용할 수 있습니다. 검색 캠페인에 다음이 포함됨 [!UICONTROL 캠페인 유형] &quot;[!UICONTROL 검색],&quot; [!UICONTROL 광고 그룹 유형] &quot;[!UICONTROL 검색],&quot; 및 [!UICONTROL 크리에이티브 유형] &quot;[!UICONTROL 검색 광고]&quot;(단일 이미지 광고의 경우) 또는 &quot;[!UICONTROL 검색 캐러셀 광고]&quot;(다중 이미지 회전 광고). 표준 및 하이브리드 포트폴리오에 검색 캠페인을 포함할 수 있습니다.<br><br>검색 캠페인에 대한 광고 수준 데이터는 보고서에서 사용할 수 있습니다. Adobe Analytics 통합을 사용하는 광고주는 [!DNL Analytics]에서 광고 수준 데이터를 사용할 수 있습니다. 마찬가지로 [!DNL Analytics] 데이터는 [!DNL Search]에서 사용할 수 있습니다. 데이터는 일반적으로 계정에 사용하는 `s_kwcid` 형식에 관계없이 업그레이드된 `s_kwcid` 추적 매개변수를 사용하여 전송됩니다. 일반적으로 `s_kwcid`의 이전 버전을 사용하는 경우 클릭/비용 데이터와 수익 데이터는 서로 다른 `s_kwcids`를 사용하여 추적되지만 두 데이터 집합 모두 동일한 캠페인 및 계정 하에 분류되고 집계됩니다. |
+| [!UICONTROL 캠페인] | (Google Ads 계정, Beta 열기 기능, 2월 23일 릴리스) [!DNL Google Ads] 검색 캠페인은 모든 광고주를 위한 beta 모드입니다.  검색 캠페인에 다음이 포함됨 [!UICONTROL 캠페인 유형] &quot;[!UICONTROL 검색],&quot; [!UICONTROL 광고 그룹 유형] &quot;[!UICONTROL 검색],&quot; 및 [!UICONTROL 크리에이티브 유형] &quot;[!UICONTROL 검색 광고]&quot;(단일 이미지 광고의 경우) 또는 &quot;[!UICONTROL 검색 캐러셀 광고]&quot;(다중 이미지 회전 광고). 표준 및 하이브리드 포트폴리오에 검색 캠페인을 포함할 수 있습니다.<br><br>검색 캠페인에 대한 광고 수준 데이터는 보고서에서 사용할 수 있습니다. Adobe Analytics 통합을 사용하는 광고주는 [!DNL Analytics]에서 광고 수준 데이터를 사용할 수 있습니다. 마찬가지로 [!DNL Analytics] 데이터는 [!DNL Search]에서 사용할 수 있습니다. 데이터는 일반적으로 계정에 사용하는 `s_kwcid` 형식에 관계없이 업그레이드된 `s_kwcid` 추적 매개변수를 사용하여 전송됩니다. 일반적으로 `s_kwcid`의 이전 버전을 사용하는 경우 클릭/비용 데이터와 수익 데이터는 서로 다른 `s_kwcids`를 사용하여 추적되지만 두 데이터 집합 모두 동일한 캠페인 및 계정 하에 분류되고 집계됩니다. |
 |  | ([!DNL Google Ads] 계정; 2월 11일 릴리스) &quot;에 대한 지원[!UICONTROL Target 노출 점유율]&quot;이제 검색 네트워크의 캠페인에만 입찰 전략을 사용할 수 있습니다. 이 입찰 전략의 경우 [!DNL Google Ads] (아님) [!DNL Search])는 타겟 노출 점유율 및 광고 위치를 달성하기 위해 입찰을 최적화합니다. 다음을 선택적으로 입력할 수 있습니다. [!UICONTROL Target 노출 점유율] 백분율로, [!UICONTROL Target 광고 위치], 및 [!UICONTROL 최대 CPC] (클릭당 비용) 이 옵션은 하이브리드 포트폴리오에서 아직 지원되지 않습니다. |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] 캠페인; 2월 11일 릴리스) 이제 일괄 시트에 &quot;[!UICONTROL 클릭 유도 문안]&quot; 및 &quot;[!UICONTROL 클릭 유도 문안 언어]&quot;멀티미디어 광고용 열(반응형 광고 형식),&quot;[!UICONTROL 크리에이티브(RSA 제외)]&quot;행. |
+| Google Manager 계정 | (2월 23일 릴리스) 새로운 기능 [!UICONTROL 관리자] > [!UICONTROL 관리자 계정] 기능을 사용하면 인증을 제공할 수 있습니다. [!DNL Google Ads] 계정 관리 [!DNL Search] 은(는) 계정 간 전환을 업로드합니다. a) 업로드를 원하는 경우 이 기능 사용 [!DNL Adobe]-추적된 교차 계정 전환 지표를 [!DNL Google Ads] 관리자 계정 또는 b) 계정 간 전환을 포함하는 포트폴리오 목표 업로드 [!DNL Google Ads] 하이브리드 최적화를 위해.<br><br>관리자 계정에 대한 자격 증명을 추가하고 나면 선택적 입니다.[!UICONTROL 계정 간 전환을 위한 관리자 계정]의 &quot; 열 [!UICONTROL 캠페인] > [!UICONTROL 계정] view는 각 하위 계정의 관리자 계정 ID를 나타내며 manager 계정이 인증되지 않은 경우 열에 오류가 표시됩니다. |
 
 {style=&quot;table-layout:auto&quot;}
 
