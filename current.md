@@ -31,7 +31,7 @@ ht-degree: 93%
 
 Las Vegas에 참여하여 기술을 확장하고 영감을 얻고 디지털 경제를 개인화할 수 있는 연결을 구축하십시오. 라스베가스에서 열리는 세계적인 행사에 참석할 수 없는 사람들을 위해, 사실상 어디서든 무료로 우리와 함께 해주십시오.
 
-[!BADGE 등록]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;등록 [!DNL Adobe Summit]&quot;}
+[!BADGE 등록]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other"; tooltip="등록 [!DNL Adobe Summit]"}
 
 ## 제품 릴리스 업데이트 및 이벤트 - 2023년 2월
 
