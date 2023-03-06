@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
+source-git-commit: c1a4ac7a30c7ba1a9021d2f2fd1052449bf0a1ee
 workflow-type: tm+mt
-source-wordcount: '5241'
+source-wordcount: '5200'
 ht-degree: 93%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 93%
 
 Las Vegas에 참여하여 기술을 확장하고 영감을 얻고 디지털 경제를 개인화할 수 있는 연결을 구축하십시오. 라스베가스에서 열리는 세계적인 행사에 참석할 수 없는 사람들을 위해, 사실상 어디서든 무료로 우리와 함께 해주십시오.
 
-[!BADGE 등록]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other"; tooltip="등록 [!DNL Adobe Summit]"}
+[!BADGE 등록]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;등록 [!DNL Adobe Summit]&quot;}
 
 ## 제품 릴리스 업데이트 및 이벤트 - 2023년 2월
 
@@ -88,7 +88,7 @@ Experience League 이벤트는 Adobe의 제품 전문가로부터 배우고, 상
 | 개선된 사용자 경험 및 버그 수정 사항 | <ul><li>취소된 유지 관리는 “완료됨”이 아닌 “취소됨”으로 올바르게 보고됩니다.</li><li>이메일 알림 버그가 수정 및 개선되었습니다.</li></ul> |
 | 제품 서비스 업데이트로 향상된 구독 | <ul><li>[구독 관리](https://status.adobe.com/proactive-notifications/manage) 페이지에서 세분화된 제품 제공 수준에서 [!DNL Adobe Campaign] 및 [!DNL Adobe Target]을 구독할 수 있습니다.</li></ul> |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 <!-- For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#status). -->
 
@@ -114,7 +114,7 @@ _2월에는 업데이트하지 않았습니다._
 | -----------| ---------- | ---------- | ---------- |
 | 2023년 2월 | [알 수 없는 ID 네임스페이스](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html) | 기술 자료 문서 | [!DNL Adobe Experience Platform](AEP) ID 사용자 인터페이스(UI)의 비표준 ID 네임스페이스가 있는 이유에 대해 알아봅니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Mobile] SDK
 
@@ -142,7 +142,7 @@ Adobe Analytics용으로 게시된 새로운 비디오 튜토리얼, 문서 또�
 | 2023년 2월 | [Analysis Workspace의 자유 형식 테이블 필터](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/freeform-table-filters.html) | 업데이트된 비디오 | 필터가 자유 형식 테이블에 공유되는 데이터 행에 대해 더욱 세밀한 제어를 제공하는 방법에 대해 알아봅니다. |
 | 2023년 2월 | [Analysis Workspace에서의 교차 판매 분석](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.html) | 업데이트된 비디오 | Analysis Workspace에서 [!UICONTROL 교차 판매] 보고서를 작성하고 이를 여러 값의 차원 또는 분류로 확장하는 방법에 대해 알아봅니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![아이콘](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
@@ -184,7 +184,7 @@ New videos, tutorials, or courses published for CJA.
 | 2023년 2월 | [유사 모델을 저장할 수 없음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html) | 신규 문서 | 유사 모델을 저장할 수 없는 경우에 대한 솔루션을 찾아보십시오. |
 | 2023년 2월 | [AEP ID 네임스페이스는 AAM 데이터 소스와 어떤 관련이 있습니까?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html) | 신규 문서 | AEP [!DNL Identity Namespaces]가 AAM [!DNL Data Sources]와 어떻게 관련되어 있는지 알아보십시오. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 자가 진단 리소스에 대한 자세한 내용은 Experience League에서 [Audience Manager 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/audience-manager.html?lang=ko-KR)을 참조하십시오.
 
@@ -295,7 +295,7 @@ Experience Manager 고급 커넥터용 [!DNL Workfront]의 최신 버전에는 �
 | 2023년 2월 | [Express 앱 필터링](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-express-pug-app.html?lang=en) | AEM Headless 개발자 포털 | Express 및 Pug 앱을 사용하여 데이터를 필터링할 수 있는 AEM Headless GraphQL API 기능을 살펴보십시오. 이 Express 앱은 활동 유형별로 필터링 가능한 WKND 모험 목록을 생성합니다. | AEM CS |
 | 2023년 2월 | [Assets Essentials의 내 작업 영역](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/my-workspace.html?lang=en) | 비디오 | 내 작업 영역의 사용자가 구성 가능한 위젯을 사용하여 보다 효율적으로 작업하는 방법에 대해 알아봅니다. | AEM Assets |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Experience Manager 릴리스 정보
 
@@ -326,7 +326,7 @@ Experience Manager 고급 커넥터용 [!DNL Workfront]의 최신 버전에는 �
 | 2023년 2월 | [수신 링크에 연결된 페이지 일부가 표시되지 않음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html) | 신규 문서 | 수신 링크에 연결된 페이지 일부가 표시되지 않는 문제에 대한 솔루션을 찾아보십시오. |
 | 2023년 2월 | [request.log 분석 예 \| AEP](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html) | 신규 문서 | [!DNL Adobe Experience Manager](AEM) `request.log`에 포함된 다양한 정보에 대해 알아보십시오. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Experience Manager용 기타 도움말 리소스
 
@@ -370,7 +370,7 @@ Experience Manager 고급 커넥터용 [!DNL Workfront]의 최신 버전에는 �
 | 2023년 2월 | [Developer App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.html?lang=en) | 비디오 | Developer App Builder에 대해 알아보고 프로세스 내 방법 없이도 Adobe Commerce 스토어에 고유한 사용자 정의 기능을 제공할 수 있는 방법에 대해 알아보십시오. |
 | 2023년 2월 | [Adobe Commerce용 App Builder 기능 데모](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.html) | 비디오 | 기술 데모를 통해 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아보십시오. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Commerce] 지원 기술 자료
 
@@ -380,7 +380,7 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 |---------|--------|---------|---------|
 | 2023년 2월 | [품질 패치 도구(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | 신규 문서 | QPT 1.1.24 및 QPT 1.1.25에서 사용할 수 있는 패치를 적용하는 방법에 대한 새로운 문서가 게시되었으며 해당 섹션에서 찾을 수 있습니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![아이콘](/assets/target.png) [!DNL Target] {#target}
 
@@ -403,7 +403,7 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023년 2월 | _마케터를 위한 Adobe Campaign 성공 모범 사례 10가지_ | 문서 | Adobe Campaign 실무자가 디지털 소비자 변화와 보다 우수한 고객 경험 제공을 시작하고 가속화하는 데 도움이 되는 10가지 모범 사례를 알아봅니다. | 다음을 참조하십시오. <ul><li>[Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/10-best-practices-for-marketers.html)<li>[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/strategy/10-best-practices-for-marketers.html)</li><li>[Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=en) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] 지원 기술 자료
 
@@ -414,7 +414,7 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 | 2023년 2월 | [V8 느린 게재 준비](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21226.html) | 신규 문서 | [!DNL Adobe Campaign Classic]의 V8 8.3.8 버전에서 느린 게재 준비에 대한 솔루션을 찾아보십시오. |
 | 2023년 2월 | [반복 게재가 실행될 때 시드 주소가 중복됨](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21292.html) | 신규 문서 | 반복 게재 실행 시 시드 주소가 중복되는 문제에 대한 해결 방법을 찾아보십시오. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] 도움말 리소스
 
@@ -435,7 +435,9 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 
 Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정
 
-|2023년 2월|[SMS API 자격 증명 및 채널 표면 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=en)|비디오 |Journey Optimizer를 SMS 서비스 공급업체에 연결하는 방법 및 SMS 채널 표면을 만드는 방법에 알아봅니다.|
+| 게시일 | 이름 | 유형 | 설명 |
+|---------|-------|--------|---------|
+| 2023년 2월 | [SMS API 자격 증명 및 채널 표면 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=en) | 비디오 | Journey Optimizer를 SMS 서비스 공급자에 연결하는 방법과 SMS 채널 표면을 만드는 방법을 알아봅니다. |
 
 ### [!DNL Journey Optimizer] 지원 기술 자료
 
@@ -447,7 +449,7 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 | 2023년 2월 | [Assets Essentials 액세스 거부됨](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html) | 신규 문서 | [!DNL Assets Essentials]에 대한 액세스가 거부되는 경우에 대한 솔루션을 찾아보십시오. |
 | 2023년 2월 | [테스트 모드에서 여정 게시 실패](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html) | 신규 문서 | 테스트 모드에서 여정 게시가 실패하는 경우에 대한 솔루션을 찾아보십시오. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Journey Optimizer]를 위한 추가 리소스
 
@@ -502,7 +504,7 @@ Experience League의 새로운 [!DNL Workfront] 교육 과정 및 튜토리얼 �
 | 2023년 2월 | [기존 Adobe Workfront 인스턴스 구현 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance.html?lang=en) | 비디오 | 새로운 시스템 또는 그룹 관리자로서 [!DNL Workfront] 인스턴스를 평가하고, 이해하고, 최적화하기 위한 주요 단계를 알아봅니다. |
 | 2023년 2월 | [레이아웃 템플릿을 사용하여 프로젝트 헤더 맞춤화](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.html) | 비디오 | 레이아웃 템플릿을 통해 프로젝트 헤더에서 필드를 추가하고 제거하는 방법에 대해 알아봅니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 모든 제품에 대한 최신 정보를 보려면 [[!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) 페이지를 참조하십시오.
 
@@ -536,7 +538,7 @@ Last updated: **August 9, 2022**
 | ------- | ----------- |
 | [!UICONTROL 캠페인] | (2월 15일 릴리스) 이제 차트 양식에서 변경 로그를 볼 수 있으며 모든 항목에 메모를 추가할 수 있습니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Advertising Search]의 새로운 기능 {#advertising-search}
 
@@ -549,7 +551,7 @@ Last updated: **August 9, 2022**
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] 캠페인; 2월 11일 릴리스) 이제 일괄 시트에 &quot;[!UICONTROL 클릭 유도 문안]&quot; 및 &quot;[!UICONTROL 클릭 유도 문안 언어]&quot;멀티미디어 광고용 열(반응형 광고 형식),&quot;[!UICONTROL 크리에이티브(RSA 제외)]&quot;행. |
 | Google Manager 계정 | (2월 23일 릴리스) 새로운 기능 [!UICONTROL 관리자] > [!UICONTROL 관리자 계정] 기능을 사용하면 인증을 제공할 수 있습니다. [!DNL Google Ads] 계정 관리 [!DNL Search] 은(는) 계정 간 전환을 업로드합니다. a) 업로드를 원하는 경우 이 기능 사용 [!DNL Adobe]-추적된 교차 계정 전환 지표를 [!DNL Google Ads] 관리자 계정 또는 b) 계정 간 전환을 포함하는 포트폴리오 목표 업로드 [!DNL Google Ads] 하이브리드 최적화를 위해.<br><br>관리자 계정에 대한 자격 증명을 추가하고 나면 선택적 입니다.[!UICONTROL 계정 간 전환을 위한 관리자 계정]의 &quot; 열 [!UICONTROL 캠페인] > [!UICONTROL 계정] view는 각 하위 계정의 관리자 계정 ID를 나타내며 manager 계정이 인증되지 않은 경우 열에 오류가 표시됩니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![아이콘](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
@@ -559,7 +561,7 @@ Last updated: **August 9, 2022**
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023년 2월 | [Acrobat Sign 시작하기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html) | 비디오 | Acrobat Sign을 처음 사용하십니까? 이 포괄적인 튜토리얼은 Acrobat Sign을 빠르게 시작하고 실행할 수 있게 해 주는 모든 기본 사항에 중점을 둔 아주 좋은 시작점입니다. | Acrobat Sign |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 [!DNL Document Cloud] 도움말은 다음을 참조하십시오.
 
