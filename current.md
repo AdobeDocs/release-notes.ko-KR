@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: cc637cf51aac23cf129fae75a7a7f63f9d678eb3
+source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
 workflow-type: tm+mt
-source-wordcount: '4641'
+source-wordcount: '4620'
 ht-degree: 46%
 
 ---
@@ -94,8 +94,6 @@ Experience League에서 무슨 일이 일어나고 있는지 알아보세요. Ad
 | Adobe 상태 API | <ul><li>Adobe 상태 API는 Adobe 클라우드 제품 및 서비스 중단, 중단 및 유지 관리 이벤트에 대한 자세한 정보와 실시간 업데이트를 제공합니다.</li><li>API를에서 설정해야 합니다. [Adobe Developer 콘솔](https://developer.adobe.com/console) 사용할 수 있으려면 먼저 사용하십시오. 조직에서 Adobe API에 액세스하려면 하나 이상의 Adobe 제품에 대한 권한을 보유해야 합니다. 올바른 권한을 가진 개발자 콘솔 계정이 필요합니다.</li><li>설명서를 확인하십시오. [여기](https://developer.adobe.com/adobe-status/) 안내서에 따라 설정하십시오.</li><li>설정이 완료되면 다음을 사용할 수 있습니다. [API 참조 문서](https://developer.adobe.com/adobe-status/api/) 사용 가능한 API 및 이를 호출할 서명을 봅니다.</li></ul> |
 
 {style="table-layout:auto"}
-
-최신 릴리스 정보는 Adobe 시스템 상태 [릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=ko-KR#status)를 참조하십시오.
 
 +++
 
