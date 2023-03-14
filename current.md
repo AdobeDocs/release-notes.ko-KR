@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
-workflow-type: ht
-source-wordcount: '4620'
-ht-degree: 100%
+source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
+workflow-type: tm+mt
+source-wordcount: '4607'
+ht-degree: 99%
 
 ---
 
@@ -115,7 +115,7 @@ _3월에는 업데이트하지 않았습니다._
 
 +++세부 사항
 
-* [Experience Platform 릴리스 정보](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ko) - 예정 릴리스 - **2023년 3월 29일**
+* [Experience Platform 릴리스 노트](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ko) - 예정된 릴리스 - **2023년 3월 29일**
 
 ### 새로운 [!DNL Experience Platform] 튜토리얼 및 교육 과정
 
@@ -481,7 +481,7 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
 | 2023년 3월 | [교육 샌드박스 구성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | 튜토리얼 | 교육용 샌드박스를 구성하는 방법에 대해 알아봅니다. 스키마를 구성하고, 샘플 데이터를 수집하고, 이벤트를 생성하는 데 필요한 단계를 설명합니다. |
-| 2023년 3월 | [Journey Optimizer 과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | 과제 | 과제는 시나리오 및 학습 내용을 실행하는 데 필요한 요구 사항을 제공합니다. 각 과제에서는 구현한 고유의 사용 사례를 해결합니다. <p>새로운 과제<ul><li>[여름 컬렉션 발표 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[주문 확인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li><li>[제품 재공급 알림 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul> |
+| 2023년 3월 | [Journey Optimizer 과제](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | 과제 | 과제는 시나리오 및 학습 내용을 실행하는 데 필요한 요구 사항을 제공합니다. 각 과제에서는 구현한 고유의 사용 사례를 해결합니다. <p>새로운 과제<ul><li>[여름 컬렉션 발표 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[주문 확인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul> |
 
 {style="table-layout:auto"}
 
