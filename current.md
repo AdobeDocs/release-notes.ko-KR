@@ -6,7 +6,7 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
+source-git-commit: 419494f5ae61e2c39d36efa15d00bf878a6a00dc
 workflow-type: tm+mt
 source-wordcount: '4607'
 ht-degree: 99%
@@ -31,7 +31,7 @@ ht-degree: 99%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 3월 8일**
+마지막 업데이트: **2023년 3월 15일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -616,7 +616,7 @@ Adobe Advertising의 최신 기능에 대해 알아봅니다.
 | 기능 | 설명 |
 | ------- | ----------- |
 | [!UICONTROL 캠페인] | (Google Ads 계정, 공개 Beta 기능, 2월 23일 릴리스) [!DNL Google Ads] 검색 캠페인에 대해 읽기 전용 동기화 지원은 모든 광고주에 위한 Beta 모드에서 사용할 수 있습니다. 검색 캠페인에는 [!UICONTROL 캠페인 유형] “[!UICONTROL 검색],” [!UICONTROL 광고 그룹 유형] “[!UICONTROL 검색]” 및 [!UICONTROL 크리에이티브 유형] “[!UICONTROL 검색 광고]“(단일 이미지 광고용) 또는 ”[!UICONTROL 검색 슬라이드 광고]”(다중 이미지 슬라이드 광고용)가 있습니다. 표준 및 하이브리드 포트폴리오에 검색 캠페인을 포함할 수 있습니다.<br><br>검색 캠페인에 대한 광고 수준 데이터는 보고서에서 사용할 수 있습니다. Adobe Analytics 통합을 사용하는 광고주는 [!DNL Analytics]에서 광고 수준 데이터를 사용할 수 있습니다. 마찬가지로 [!DNL Analytics] 데이터는 [!DNL Search]에서 사용할 수 있습니다. 데이터는 일반적으로 계정에 사용하는 `s_kwcid` 형식에 관계없이 업그레이드된 `s_kwcid` 추적 매개변수를 사용하여 전송됩니다. 일반적으로 `s_kwcid`의 이전 버전을 사용하는 경우 클릭/비용 데이터와 수익 데이터는 서로 다른 `s_kwcids`를 사용하여 추적되지만 두 데이터 집합 모두 동일한 캠페인 및 계정 하에 분류되고 집계됩니다. |
-|  | ([!DNL Google Ads] 계정; 2월 11일 릴리스) 현재 “[!UICONTROL 타겟 노출 점유율]” 입찰 전략 지원은 검색 네트워크의 캠페인에만 사용할 수 있습니다. 이 입찰 전략의 경우[!DNL Google Ads]는([!DNL Search] 아님) 타겟 노출 점유율과 광고 위치 확보를 위해 입찰을 최적화합니다. 선택적으로 [!UICONTROL 타겟 노출 점유율] 백분율로 [!UICONTROL 타겟 광고 위치], 그리고 [!UICONTROL 최대 CPC](클릭당 비용). 이 옵션은 아직 하이브리드 포트폴리오에서 지원되지 않습니다. |
+|  | ([!DNL Google Ads] 계정; 2월 11일 릴리스) 현재 “[!UICONTROL 타겟 노출 점유율]” 입찰 전략 지원은 검색 네트워크의 캠페인에만 사용할 수 있습니다. 이 입찰 전략의 경우[!DNL Google Ads]는([!DNL Search] 아님) 타겟 노출 점유율과 광고 위치 확보를 위해 입찰을 최적화합니다. 선택적으로 [!UICONTROL 타겟 노출 점유율] 백분율로 [!UICONTROL 타겟 광고 위치], 그리고 [!UICONTROL 최대 CPC] (클릭당 비용). 이 옵션은 아직 하이브리드 포트폴리오에서 지원되지 않습니다. |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] 캠페인; 2월 11일 릴리스) Bulksheets에는 이제 “[!UICONTROL 크리에이티브(RSA 제외)]” 행을 사용하는 (반응형 광고 형식)의 멀티미디어 광고용 “[!UICONTROL 콜 투 액션]” 및 “[!UICONTROL 콜 투 액션 언어]” 열이 포함됩니다. |
 | Google 관리자 계정 | (2월 23일 릴리스) 새로운 [!UICONTROL 관리자] > [!UICONTROL 관리자 계정] 기능을 사용하여 교차 계정 전환을 업로드하는 [!DNL Google Ads]관리자 계정[!DNL Search]을 인증할 수 있습니다. a) [!DNL Adobe] 추적된 교차 계정 전환 지표를 [!DNL Google Ads] 관리자 계정에 업로드하거나 하이브리드 최적화용으로 교차 계정 전환을 포함하는 포트폴리오 목표를 [!DNL Google Ads]에 업로드하려면 이 기능을 사용하십시오.<br><br>관리자 계정에 대한 자격 증명을 추가하면 [!UICONTROL 캠페인] > [!UICONTROL 계정] 보기의 선택 사항인 “[!UICONTROL 교차 계정 전환용 관리자 계정]” 열은 각 하위 계정의 관리자 계정 ID를 나타내고, 해당 열은 관리자 계정이 인증되지 않은 경우 오류를 표시합니다. |
 
