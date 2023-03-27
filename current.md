@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4500'
-ht-degree: 94%
+source-wordcount: '4534'
+ht-degree: 93%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 94%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 3월 20일**
+마지막 업데이트: **2023년 3월 27일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### [!DNL Advertising Search]의 새로운 기능 {#advertising-search}
 
-마지막 업데이트: **2023년 3월 2일**
+마지막 업데이트: **2023년 3월 27일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
 | [!UICONTROL 캠페인] | ([!DNL Microsoft Advertising] 대상 캠페인 공개 베타 기능 3월 18일 릴리스) 이제 대상 캠페인에서 향상된 CPC(eCPC) 입찰 전략으로 사용할 수 있습니다. 하위 광고 그룹 설정 내에서 입찰을 설정할 수 있습니다.<br><br>eCPC를 사용하는 대상 캠페인은 최적화를 위해 포트폴리오에 포함할 수 있습니다. |
+| [!UICONTROL 캠페인], [!UICONTROL Portfolio] | ([!DNL Google Ads] 계정; 오픈 베타 기능) 이제 최적화 지원을 사용할 수 있습니다 [!DNL Google Ads] 성능 최대 캠페인 및 하이브리드 포트폴리오에 추가할 수 있습니다. 입찰 전략 타겟 및 캠페인 예산은 캠페인 수준에서 설정됩니다. |
 | [!UICONTROL 캠페인], [!UICONTROL 보고서] | ([!DNL Google Ads] 및 [!DNL Microsoft Advertising] 계정; 3월 18일 릴리스) 다음의 새로운 가시성 지표를 캠페인 관리 보기 및 보고서에서 사용할 수 있습니다.<ul><li><p>[!UICONTROL 컨텐츠 IS]: 디스플레이/대상 네트워크의 광고에 대해 받은 노출 횟수를 수신할 수 있었던 예상 디스플레이 광고 노출 횟수로 나누었습니다.</p><p>이것과 다른 &quot;[!UICONTROL 컨텐츠]*&quot; 지표는 컨텐츠 광고와 관련된 엔티티 및 관련 기본 보고서에 대한 모든 캠페인 관리 보기에서 사용할 수 있습니다.  [!UICONTROL 검색 엔진], [!UICONTROL 검색 엔진 계정], [!UICONTROL 캠페인], [!UICONTROL 광고 그룹], 및 [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL 콘텐츠 손실 IS(예산)]: 일별 또는 월별 예산이 너무 낮아 디스플레이/대상 네트워크에서 광고를 받지 못한 예상 노출 비율입니다.<p></li><li><p>[!UICONTROL 콘텐츠 손실 IS(등급)]: 광고 등급이 낮아 디스플레이/대상 네트워크에 있는 광고가 표시되지 않은 예상 노출 비율입니다.</p></li><li><p>[!UICONTROL 정확히 일치하는 항목 IS 검색]: 키워드와 정확히 일치하는 검색에 대해 받은 노출 횟수를 수신할 수 있었던 예상 일치 노출 횟수로 나눈 값입니다.</p><p>이 지표는 검색 광고와 관련된 엔티티 및 관련 기본 보고서에 대한 모든 캠페인 관리 보기에서 사용할 수 있습니다.  [!UICONTROL 검색 엔진], [!UICONTROL 검색 엔진 계정], [!UICONTROL 캠페인], [!UICONTROL 광고 그룹], [!UICONTROL 키워드], [!UICONTROL 제품 그룹], 및 [!UICONTROL Portfolio]. 또한 [!UICONTROL 제한], [!UICONTROL 레이블 분류], 및 [!UICONTROL 레이블 값] 보고서.</p></li></ul> |
 
 {style="table-layout:auto"}
