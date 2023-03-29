@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
+source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
 workflow-type: tm+mt
-source-wordcount: '4534'
-ht-degree: 93%
+source-wordcount: '4471'
+ht-degree: 91%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 93%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 3월 27일**
+마지막 업데이트: **2023년 3월 29일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -59,17 +59,13 @@ Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe
 
 +++예정된 이벤트
 
-* **[!DNL Analytics]** | _Adobe Analytics로 시간을 단축하여 인사이트 확보_ | **3월 9일 @ 오전 8시(PT)** |  [등록](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* **[!DNL Marketo]** | _Adobe Marketo Engage은 규모가 클 수 있으며, 작은 팀이 인스턴스를 극대화하는 방법을 알아봅니다_ | **3월 30일 @ 오전 8:00 PT** |  [등록](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
 
-* **[!DNL Marketo Engage]** | _Marketo 및 Mochas: 전달성(1부)_ | **3월 9일 @ 오후 1시(ET)** | [등록](https://register.gotowebinar.com/register/6250682251177513567)
+* **[!DNL Workfront]** | _연결: 마케팅 및 크리에이티브 사용자를 위한 관리자 채팅_ | **3월 31일 @ 오전 10:00 MT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _연결: 전략적 관리자 채팅_ | **3월 13일 @ 오전 7시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Marketo 및 Mochas: 게재 가능성(2부)_ | **4월 5일 오후 1:00 동부시간** | [등록](https://register.gotowebinar.com/register/6818591002040103259)
 
-* **[!DNL Workfront]** | _System Admin Essentials: 인터페이스 디자인으로 사용자 경험 개선_ | **3월 15일 @ 오전 8시(PT)** | [등록](https://event.on24.com/wcc/r/4123271/D486841B3D743479F12BAC0C583C10ED?partnerref=exl)
-
-* **[!DNL Marketo Engage]** | _Marketo 커뮤니티 Q&amp;A 커피 브레이크_ | **3월 15일 @ 오전 08:00(PT)** | [등록](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_ME&amp;utm_content=230315)
-
-* **[!DNL Adobe Summit]** |_최적화된 경험. Vegas에 참여하여 기술을 습득하고 세계 최고의 브랜드로부터 배우고 영감을 얻습니다._ | **3월 19일 @ 오전 09:00(PT)** | [등록](https://summit.adobe.com/na/?promoid=2K4PC9V3&amp;mv=other)
+* **[!DNL Adobe Summit]** |_일년 내내 Summit를 다시 방문하세요!_ | **주문형** | [세부 사항](https://business.adobe.com/summit/adobe-summit.html)
 
 예정된 이벤트 및 온디맨드 이전 이벤트의 전체 일정은 [Experience League 이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr)를 참조하십시오.
 
