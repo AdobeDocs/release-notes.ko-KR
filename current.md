@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
+source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
 workflow-type: tm+mt
-source-wordcount: '4471'
-ht-degree: 91%
+source-wordcount: '4580'
+ht-degree: 89%
 
 ---
 
@@ -31,9 +31,10 @@ ht-degree: 91%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 3월 29일**
+최신 업데이트 일자: **2023년 4월 6일**
 
-* [[!DNL Experience League] 이벤트](#events)
+* [[!DNL Experience League] events](#events) (**업데이트 날짜: 2023년 4월 6일**)
+* [인증](#certification) (**새로운 기능이 있습니다. 2023년 4월 6일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 인터페이스 및 관리](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -59,15 +60,31 @@ Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe
 
 +++예정된 이벤트
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage은 규모가 클 수 있으며, 작은 팀이 인스턴스를 극대화하는 방법을 알아봅니다_ | **3월 30일 @ 오전 8:00 PT** |  [등록](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _연결: 전략적 관리자 채팅_ | **4월 10일 @ 8:00 AM CT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _연결: 마케팅 및 크리에이티브 사용자를 위한 관리자 채팅_ | **3월 31일 @ 오전 10:00 MT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Adobe Target 커뮤니티 Matthew Weillie 및 Georgia Frailey와 함께 커피 브레이크_ | **4월 12일 @ 오전 8:00 PT** |  [등록](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo 및 Mochas: 게재 가능성(2부)_ | **4월 5일 오후 1:00 동부시간** | [등록](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _학습: Adobe Workfront 23.2 릴리스 노트_ | **4월 12일 오후 12:30 CT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_일년 내내 Summit를 다시 방문하세요!_ | **주문형** | [세부 사항](https://business.adobe.com/summit/adobe-summit.html)
 
 예정된 이벤트 및 온디맨드 이전 이벤트의 전체 일정은 [Experience League 이벤트](https://experienceleague.adobe.com/events/?lang=ko-kr)를 참조하십시오.
+
++++
+
+## ![아이콘](/assets/certification-badge.png) 인증{#certification}
+
+모든 Adobe 인증 후보자들을 주목하십시오! Adobe은 새 Experience Cloud 시작을 알리게 되어 매우 기쁩니다 [인증](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) Experience League에 있는 사이트입니다.
+
++++세부 사항
+
+Certification Site는 모든 것을 위한 원스톱 샵입니다 [!DNL Experience Cloud] 다음을 포함한 인증 관련 컨텐츠
+
+* 사용 가능한 인증
+* Adobe 솔루션에 대한 인증 갱신
+* 인증 프로그램 업데이트
+
+등 다음 위치로 이동 [Adobe 인증](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) Experience League에서 인증 여정을 지금 시작하십시오!
 
 +++
 
