@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
+source-git-commit: fe9ee338ec6803e4f9fb2dde4748d751c47e0e47
 workflow-type: tm+mt
-source-wordcount: '4580'
-ht-degree: 89%
+source-wordcount: '4634'
+ht-degree: 88%
 
 ---
 
@@ -614,15 +614,13 @@ Last updated: **August 9, 2022**
 
 Adobe Advertising의 최신 기능에 대해 알아봅니다.
 
-<!--
-Last updated: **March 2, 2023**
+마지막 업데이트 일자: **2023년 4월 10일**
 
-| Feature | Description |
+| 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL 보고서] | (3월 릴리스) 새로운 [!UICONTROL 가족] 보고서는 장치/쿠키 수준이 아닌 IP 주소를 기반으로 가구 수준에서 다양한 차원에 대한 노출 횟수, 도달 범위 및 빈도를 표시합니다. 이 보고서에는 9개의 차원이 포함됩니다. [!UICONTROL 캠페인], [!UICONTROL 패키지], [!UICONTROL 배치], [!UICONTROL 사이트/앱], [!UICONTROL 미디어 유형], [!UICONTROL 장치], [!UICONTROL Audience], [!UICONTROL 광고 길이], 및 사용자가 만든 [!UICONTROL 태그]. |
 
 {style="table-layout:auto"}
--->
 
 ### [!DNL Advertising Search]의 새로운 기능 {#advertising-search}
 
