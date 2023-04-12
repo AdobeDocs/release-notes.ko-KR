@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1901183db80b397aebd80187b0e03dc422342a93
+source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
 workflow-type: tm+mt
-source-wordcount: '5969'
-ht-degree: 61%
+source-wordcount: '5815'
+ht-degree: 60%
 
 ---
 
@@ -90,25 +90,13 @@ Certification Site는 모든 것을 위한 원스톱 샵입니다 [!DNL Experien
 
 ## ![아이콘](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
->[!IMPORTANT]
->
->[!DNL Adobe System Status]의 최신 기능 및 업데이트에 대해 알아봅니다.
+[!DNL Adobe System Status]의 최신 기능 및 업데이트에 대해 알아봅니다.
 
 +++세부 사항
 
 [!DNL Adobe System Status]는 Adobe 제품 및 서비스 중단, 중단 및 유지 관리 이벤트에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. [status.adobe.com](https://status.adobe.com/)에서 관련 정보를 확인합니다.
 
-릴리스 일자: **2023년 2월 15일**
-
-**새로운 기능**
-
-* [!DNL Status]에는 Adobe 서버를 직접 호출하여 [status.adobe.com](https://status.adobe.com/) UI와 같은 이벤트를 쿼리하고 확인할 수 있는 API 지원이 추가되었습니다. 해당 API를 통해 모니터링 시스템 또는 대시보드에 통합하여 Adobe Status에서 실시간 이벤트를 확인할 수 있습니다. 이벤트는 제품, 제품 서비스, 지역, 환경(사용 가능한 경우), 로케일 및 이벤트 유형을 기반으로 필터링될 수 있습니다.
-
-| 기능 | 설명 |
-| ------- | -------|
-| Adobe Status API | <ul><li>Adobe Status API는 Adobe 클라우드 제품 및 서비스 중단, 중단 및 유지 관리 이벤트에 대한 자세한 정보와 실시간 업데이트를 제공합니다.</li><li>API는에서 설정해야 합니다. [Adobe Developer 콘솔](https://developer.adobe.com/console) 를 사용하기 전에 먼저 게시해야 합니다. 조직이 Adobe API에 액세스하려면 하나 이상의 Adobe 제품에 대한 권한을 가져야 합니다. 올바른 권한이 부여된 개발자 콘솔 계정이 필요합니다.</li><li>설명서를 확인하십시오 [여기](https://developer.adobe.com/adobe-status/) 및 를 클릭하여 설치하는 안내서를 따르십시오.</li><li>설정이 완료되면 [API 참조 문서](https://developer.adobe.com/adobe-status/api/)를 사용하여 호출에 사용할 수 있는 API와 서명을 확인할 수 있습니다.</li></ul> |
-
-{style="table-layout:auto"}
+자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=ko-KR#status) Adobe 상태에 대해 최신 업데이트를 확인합니다.
 
 +++
 
