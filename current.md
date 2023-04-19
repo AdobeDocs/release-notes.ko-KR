@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5717'
-ht-degree: 96%
+source-wordcount: '5765'
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 96%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-최신 업데이트 일자: **2023년 4월 12일**
+최신 업데이트 일자: **2023년 4월 18일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [Adobe에서의 인증](#certification)(**신규!**)
@@ -58,13 +58,23 @@ ht-degree: 96%
 
 Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
+업데이트됨: **2023년 4월 19일**
+
 +++예정된 이벤트
 
-* **[!DNL Workfront]** | _연결: 전략적 관리자 채팅_ | **4월 10일 @ 오전 8시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _전문가에게 문의: 자동화 웨비나 후속 작업을 통해 워크플로우 정리 진행_ | **4월 27일 @ 10:30 오전 MT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Matthew Baillie 및 Georgia Frailey와 함께 하는 Adobe Target 커뮤니티 Q&amp;A 커피 브레이크_ | **4월 12일 @ 오전 8시(PT)** |  [등록](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _AEM Sites 과급기 워크숍_ | **4월 25일 @ 8:00 PT** |  [등록](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _학습: Adobe Workfront 23.2 릴리스 요약_ | **4월 12일 @ 오후 12:30(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _몇 번의 클릭으로 데이터 수집 및 이벤트 전달을 시작하고 실행할 수 있습니다._ | **4월 25일 @ 오전 9:00 PT** | [등록](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo 챔피언 심층 해부: 이메일 교육_ | **4월 25일 @ 오전 10:00 PT** | [등록](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM 챔피언 운영 시간 - AEM as a Cloud Service_ | **4월 27일 @ 오전 7:30 PT** | [등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Adobe Analytics 전문가 팀 구축_ | **4월 27일 @ 오전 8:00 PT** | [등록](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target - 항상 개인화된 고객 경험을 제공합니다!_ | **4월 27일 @ 오전 9:00 BST** | [등록](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_한 해 동안 Summit을 다시 방문하세요!_ | **온디맨드** | [세부 사항](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Adobe Advertising의 최신 기능에 대해 알아봅니다.
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 캠페인] | ([!DNL Microsoft® Advertising] 대상 캠페인 4월 15일 릴리스) 이제 대상 캠페인에서 &quot;수동 CPM&quot; 입찰 전략으로 사용할 수 있습니다. 하위 광고 그룹 설정 내에서 입찰을 설정할 수 있습니다.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL 캠페인] | ([!DNL Microsoft® Advertising] 대상 캠페인 4월 15일 릴리스) 이제 대상 캠페인에서 &quot;수동 CPM&quot; 입찰 전략으로 사용할 수 있습니다. 하위 광고 그룹 설정 내에서 입찰을 설정할 수 있습니다.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL 권장 사항] | 6개 신규 ([!DNL Google Ads] 권장 사항은 [!UICONTROL 통찰력 및 보고서] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL 반응형 검색은 광고 강도를 개선합니다]: 응답형 검색 광고에 대한 광고 강도를 개선하기 위한 제안</li><li>[!UICONTROL 로컬 캠페인을 최대 성능으로 업그레이드]: 기존 로컬 캠페인을 성능 최대 캠페인으로 업그레이드</li><li>[!UICONTROL 스마트 쇼핑 캠페인을 최대 성능으로 업그레이드]: 레거시 스마트 쇼핑 캠페인을 성능 최대 캠페인으로 업그레이드</li><li>[!UICONTROL 예측 집합 Target ROAS]: 트래픽 증가를 위해 예측되는 계절적 이벤트 전에 예산을 증액하고 입찰 전략을 [!DNL Maximize Conversion Value] to [!DNL Target ROAS]</li><li>[!UICONTROL Target CPA 입찰이 너무 낮음]: 다음 [!DNL Target CPA] 전환이 거의 없거나 적으면 권장된 양만큼</li><li>[!UICONTROL 확장 옵트인 표시]: 디스플레이 확장을 사용하도록 캠페인을 업데이트하여 도달 범위를 확장합니다.</li></ul>자산을 추가 및 제거하고, 캠페인 유형을 변경하고, 예산과 입찰 전략을 변경하면 성능에 영향을 줄 수 있으므로, 올바른 결정을 내릴 수 있도록 Adobe 계정 팀과 각 추천의 장단점에 대해 논의할 것을 권장합니다. |
 
 {style="table-layout:auto"}
