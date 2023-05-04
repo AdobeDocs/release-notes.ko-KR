@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
+source-git-commit: f92a2fb6b52631169fcf61eb89789483ff124b49
 workflow-type: tm+mt
-source-wordcount: '5752'
+source-wordcount: '5771'
 ht-degree: 93%
 
 ---
@@ -71,6 +71,8 @@ Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe
 * **[!DNL Commerce]** | _상거래 및 커피: 고객 충성도 및 보존을 구축하는 7가지 방법_ | **5월 11일 오후 1:00 PT** | [등록](https://register.gotowebinar.com/#register/4149787110381957724)
 
 * **[!DNL Workfront]** | _연결: 전략적 관리자 채팅_ | **5월 15일 @ 8:00 AM CT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+이동 [이벤트](https://experienceleague.adobe.com/events/?lang=en) Experience League에서 이전 이벤트를 보고 다음 사항을 확인합니다.
 
 +++
 
