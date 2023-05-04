@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
+source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
 workflow-type: tm+mt
-source-wordcount: '5765'
-ht-degree: 94%
+source-wordcount: '5752'
+ht-degree: 93%
 
 ---
 
@@ -31,10 +31,10 @@ ht-degree: 94%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-최신 업데이트 일자: **2023년 4월 18일**
+마지막 업데이트: **2023년 5월 4일**
 
-* [[!DNL Experience League] 이벤트](#events)
-* [Adobe에서의 인증](#certification)(**신규!**)
+* [[!DNL Experience League] events](#events) (업데이트됨: **5월 4일**)
+* [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 인터페이스 및 관리](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -58,27 +58,19 @@ ht-degree: 94%
 
 Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-업데이트됨: **2023년 4월 19일**
+업데이트됨: **2023년 5월 4일**
 
 +++예정된 이벤트
 
-* **[!DNL Workfront]** | _전문가에게 문의: 자동화 웨비나 후속 작업을 통해 워크플로우 정리 진행_ | **4월 27일 @ 10:30 오전 MT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _연결: 마케팅 및 크리에이티브 사용자를 위한 관리자 채팅_ | **5월 5일 @ 10:00 오전 MT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,QZnzwwUzu0qWtspyd1Q-Ng,8nguBLkENEq0VpYFX3yJoA,D3ZwH_h7f0uQqBK-mZyEdQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Sites]** | _AEM Sites 과급기 워크숍_ | **4월 25일 @ 8:00 PT** |  [등록](https://adobe.ly/3ZV8gUG)
+* **[!DNL Campaign]** | _Adobe Campaign: 이메일 마케팅을 언제나 바로 이용할 수 있습니다!_ | **5월 11일 @ 오전 9:00 BST** |  [등록](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Experience Platform]** | _몇 번의 클릭으로 데이터 수집 및 이벤트 전달을 시작하고 실행할 수 있습니다._ | **4월 25일 @ 오전 9:00 PT** | [등록](https://engage.adobe.com/ExpLeagueLive-230425.html)
+* **[!DNL Workfront]** | _학습: Workfront에서 계산된 사용자 지정 필드_ | **5월 11일 @ 10:30 오전 MT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Marketo Engage]** | _Marketo 챔피언 심층 해부: 이메일 교육_ | **4월 25일 @ 오전 10:00 PT** | [등록](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+* **[!DNL Commerce]** | _상거래 및 커피: 고객 충성도 및 보존을 구축하는 7가지 방법_ | **5월 11일 오후 1:00 PT** | [등록](https://register.gotowebinar.com/#register/4149787110381957724)
 
-* **[!DNL Experience Manager as a Cloud Service]** | _AEM 챔피언 운영 시간 - AEM as a Cloud Service_ | **4월 27일 @ 오전 7:30 PT** | [등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
-
-* **[!DNL Analytics]** | _Adobe Analytics 전문가 팀 구축_ | **4월 27일 @ 오전 8:00 PT** | [등록](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
-
-* **[!DNL Target]** | _Adobe Target - 항상 개인화된 고객 경험을 제공합니다!_ | **4월 27일 @ 오전 9:00 BST** | [등록](https://adobetargetemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Adobe Summit]** |_한 해 동안 Summit을 다시 방문하세요!_ | **온디맨드** | [세부 사항](https://business.adobe.com/summit/adobe-summit.html)
-
-예정된 이벤트 및 온디맨드 이전 이벤트의 전체 일정은 [Experience League 이벤트](https://experienceleague.adobe.com/events/?lang=en)를 참조하십시오.
+* **[!DNL Workfront]** | _연결: 전략적 관리자 채팅_ | **5월 15일 @ 8:00 AM CT** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
