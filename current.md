@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b776f31ac5a97fea0f571597b9597f7e58f75799
+source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
 workflow-type: tm+mt
-source-wordcount: '5499'
+source-wordcount: '5500'
 ht-degree: 50%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 50%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 5월 8일**
+마지막 업데이트: **2023년 5월 9일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [Adobe에서의 인증](#certification)
@@ -60,7 +60,7 @@ ht-degree: 50%
 
 Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-업데이트됨: **2023년 5월 10일**
+업데이트됨: **2023년 5월 9일**
 
 +++예정된 이벤트
 
@@ -195,7 +195,7 @@ Adobe Analytics용으로 게시된 새로운 비디오 튜토리얼, 문서 또�
 
 +++세부 사항
 
-다음 릴리스: **2023년 5월 10일**
+릴리스 날짜: **2023년 5월 10일**
 
 * Customer Journey Analytics [릴리스 정보](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [제품 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -217,7 +217,7 @@ CJA용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정.
 
 ## ![아이콘](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-릴리스: **2023년 5월 10일**
+릴리스 날짜: **2023년 5월 10일**
 
 * [!DNL Streaming Media Analytics] [릴리스 정보](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [제품 설명서 및 튜토리얼](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
