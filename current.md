@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
+source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
 workflow-type: tm+mt
-source-wordcount: '5500'
-ht-degree: 50%
+source-wordcount: '5744'
+ht-degree: 49%
 
 ---
 
@@ -472,24 +472,18 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en) 및 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 릴리스 정보에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+### 새로운 [!DNL Campaign] 튜토리얼 및 교육 과정 {#tutorials-campaign}
 
-New videos, tutorials, or courses published for Adobe Campaign.
+Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정
 
-|Published|Name|Type|Description |Applications|
+| 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|April 2023|[Query data](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en)|Video |Learn how to query data using the query editor.|Campaign v8|
-|April 2023|[Add attachments to an email delivery](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en)|Video |Learn how to add attachments to an email delivery and how to configure different types of email attachments.|Campaign v8|
-|April 2023|[Configure deliveries for A/B testing](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html)|Video |Learn how to configure a delivery for A/B testing.|Campaign v8|
-|April 2023|[Configure Landing pages](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html)|Video |Learn how to create and configure landing pages.|Campaign v8|
-|April 2023|[Configure scheduler activities](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html)|Video |Learn how to configure a scheduler activity in a workflow.|Campaign v8|
-|April 2023|[Create a preference center](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html)|Video |Learn how to create a preference center using Adobe Campaign's web application editor.|Campaign v8|
-|April 2023|[Manage time zones](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html)|Video |Learn how to apply time zones to scheduled workflow activities.|Campaign v8|
-|April 2023|[Understand quarantine Management](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html)|Video |Understand how quarantine management works in Adobe Campaign and learn how to manage quarantined addresses.|Campaign v8|
-|April 2023|[Schedule messages](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html)|Video |Learn how to schedule an email delivery.|Campaign v8|
-|April 2023|[Send a proof for an email delivery](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html)|Video |Learn how to test an email message before sending it to the final recipients.|Campaign v8|
+| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 비디오 | Adobe Campaign Classic에서 설문 조사를 만드는 방법을 알아봅니다. | Campaign v8 |
+| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 비디오 | Adobe Campaign Classic에서 설문 조사를 만드는 방법을 알아봅니다. | Campaign Classic |
+| 2023년 5월 | [이메일 게재 콘텐츠 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 비디오 | 이메일 게재 콘텐츠를 구성, 개인화 및 테스트하는 방법을 알아봅니다. 템플릿 사용, 이미지 업로드, 이모티콘 추가, 포함 막대 코드 및 QR 코드 포함 방법을 알아봅니다. | Campaign Classic |
+| 2023년 5월 | [게재 모니터](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 비디오 | 메시지 로그, 작업 로그 및 게재 로그를 이해합니다. | Campaign Standard |
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] 지원 기술 자료
 
@@ -522,18 +516,17 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 [Journey Optimizer 릴리스 정보](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
 
-<!-- ### New [!DNL Journey Optimizer] tutorials and courses {#tutorials-ajo}
+### 새로운 [!DNL Journey Optimizer] 튜토리얼 및 교육 과정 {#tutorials-ajo}
 
-New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
+Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정
 
-|Published|Name|Type|Description |
+| 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-|April 2023|[Import and author HTML email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)|Updated video |Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.|
-|April 2023|[Decision Management - Frequency capping](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/frequency-capping.html)|Video |Understand how frequency capping for Offer Decisioning works. Learn how to configure frequency capping for a custom event and how to configure increments by defining the frequency.|
-|April 2023|[Create an in-app campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html)|Video |Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.|
-|April 2023|[Author an in-app message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html)|Video |Learn how to author and test an in-app message.|
+| 2023년 5월 | [웹 캠페인 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 비디오 | Journey Optimizer 캠페인에서 웹 시각적 편집기를 사용하여 웹 경험을 작성하는 방법을 알아봅니다. |
+| 2023년 5월 | [웹 캠페인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 비디오 | 웹 캠페인이 무엇인지 파악합니다. 웹 캠페인 속성을 구성하고, 검토하고, 게시하는 방법을 알아봅니다. |
+| 2023년 5월 | [클라우드 스토리지 위치로 데이터 세트 내보내기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 비디오 | 데이터 세트를 Journey Optimizer에서 Amazon S3 대상으로 내보내는 방법을 알아봅니다. |
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 <!--### [!DNL Journey Optimizer] support knowledge base
 
