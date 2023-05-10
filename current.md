@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
+source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
 workflow-type: tm+mt
-source-wordcount: '5744'
+source-wordcount: '5731'
 ht-degree: 49%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 49%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 5월 9일**
+마지막 업데이트: **2023년 5월 10일**
 
 * [[!DNL Experience League] 이벤트](#events)
 * [Adobe에서의 인증](#certification)
@@ -47,8 +47,8 @@ ht-degree: 49%
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Campaign]](#ac) (**5월 10일** 업데이트됨)
+* [[!DNL Journey Optimizer]](#journey-opt) (업데이트됨) **5월 10일**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -478,10 +478,10 @@ Adobe Campaign용으로 게시된 새로운 비디오, 튜토리얼 또는 교�
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 비디오 | Adobe Campaign Classic에서 설문 조사를 만드는 방법을 알아봅니다. | Campaign v8 |
-| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 비디오 | Adobe Campaign Classic에서 설문 조사를 만드는 방법을 알아봅니다. | Campaign Classic |
-| 2023년 5월 | [이메일 게재 콘텐츠 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 비디오 | 이메일 게재 콘텐츠를 구성, 개인화 및 테스트하는 방법을 알아봅니다. 템플릿 사용, 이미지 업로드, 이모티콘 추가, 포함 막대 코드 및 QR 코드 포함 방법을 알아봅니다. | Campaign Classic |
-| 2023년 5월 | [게재 모니터](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 비디오 | 메시지 로그, 작업 로그 및 게재 로그를 이해합니다. | Campaign Standard |
+| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 비디오 | 에서 설문 조사를 만드는 방법을 알아봅니다 [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
+| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 비디오 | 에서 설문 조사를 만드는 방법을 알아봅니다 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| 2023년 5월 | [이메일 게재 콘텐츠 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 비디오 | 이메일 게재 콘텐츠를 구성, 개인화 및 테스트하는 방법을 알아봅니다. 템플릿 사용, 이미지 업로드, 이모티콘 추가, 포함 막대 코드 및 QR 코드 포함 방법을 알아봅니다. | [!DNL Campaign Classic] |
+| 2023년 5월 | [게재 모니터](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 비디오 | 메시지 로그, 작업 로그 및 게재 로그를 이해합니다. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -522,9 +522,9 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023년 5월 | [웹 캠페인 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 비디오 | Journey Optimizer 캠페인에서 웹 시각적 편집기를 사용하여 웹 경험을 작성하는 방법을 알아봅니다. |
+| 2023년 5월 | [웹 캠페인 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 비디오 | 에서 웹 시각적 편집기를 사용하여 웹 경험을 작성하는 방법을 알아봅니다. [!DNL Journey Optimizer] 캠페인. |
 | 2023년 5월 | [웹 캠페인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 비디오 | 웹 캠페인이 무엇인지 파악합니다. 웹 캠페인 속성을 구성하고, 검토하고, 게시하는 방법을 알아봅니다. |
-| 2023년 5월 | [클라우드 스토리지 위치로 데이터 세트 내보내기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 비디오 | 데이터 세트를 Journey Optimizer에서 Amazon S3 대상으로 내보내는 방법을 알아봅니다. |
+| 2023년 5월 | [클라우드 스토리지 위치로 데이터 세트 내보내기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 비디오 | 데이터 세트를 내보내는 방법을 알아봅니다. [!DNL Journey Optimizer] 변환 후 [!DNL Amazon] S3 대상. |
 
 {style="table-layout:auto"}
 
