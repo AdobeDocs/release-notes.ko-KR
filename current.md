@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
+source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
 workflow-type: tm+mt
-source-wordcount: '5725'
-ht-degree: 49%
+source-wordcount: '5723'
+ht-degree: 50%
 
 ---
 
@@ -368,7 +368,7 @@ _알려진 문제_
 | 2023년 5월 | [대화형 커뮤니케이션에서 텍스트 편집기 사용자 정의](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | 비디오 | 대화형 커뮤니케이션에서 텍스트 편집기를 사용자 지정하여 사용자 정의 글꼴과 크기를 추가합니다. | AEM Forms |
 | 2023년 5월 | [AEM Forms 및 Acrobat Sign과 반응형 앱](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | 비디오 | 기본 React 앱에서 제출된 데이터로 대화형 통신 문서를 만들어 Acrobat Sign 위젯을 사용하여 서명할 최종 사용자에게 표시합니다 | AEM Forms |
 | 2023년 5월 | [Sharepoint와 Forms CS 통합](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | 비디오 | AEM Forms CS를 Microsoft® Sharepoint와 구성 및 통합하는 방법을 알아봅니다 | AEM Forms CS |
-| 2023년 5월 | [하나의 드라이브에 양식 제출 저장](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 비디오 | 양식 데이터를 한 드라이브에 저장하도록 적응형 양식을 구성합니다. | AEM Forms CS |
+| 2023년 5월 | [OneDrive에 양식 제출 저장](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 비디오 | 양식 데이터를 OneDrive에 저장하도록 적응형 양식을 구성합니다. | AEM Forms CS |
 | 2023년 5월 | [AEM Headless에서 최적화된 이미지를 사용하는 방법](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html) | 비디오 | AEM Headless에서 최적화된 이미지를 사용하는 방법을 알아봅니다. | AEM CS |
 | 2023년 5월 | [AEM Headless에서 큰 결과를 사용하여 작업하는 방법](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en) | 비디오 | AEM Headless를 사용하여 큰 결과 세트로 작업하는 방법을 알아봅니다. | AEM CS |
 
@@ -480,7 +480,7 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 비디오 | 에서 설문 조사를 만드는 방법을 알아봅니다 [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
 | 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 비디오 | 에서 설문 조사를 만드는 방법을 알아봅니다 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| 2023년 5월 | [이메일 게재 콘텐츠 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 비디오 | 이메일 게재 콘텐츠를 구성, 개인화 및 테스트하는 방법을 알아봅니다. 템플릿 사용, 이미지 업로드, 이모티콘 추가, 포함 막대 코드 및 QR 코드 포함 방법을 알아봅니다. | [!DNL Campaign Classic] |
+| 2023년 5월 | [이메일 게재 콘텐츠 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 비디오 | 이메일 게재 콘텐츠를 구성하고, 개인화하고, 테스트하는 방법을 알아봅니다. 템플릿을 사용하고 이미지를 업로드하며 이모티콘을 추가하고 바코드와 QR 코드를 넣는 방법을 파악합니다. | [!DNL Campaign Classic] |
 | 2023년 5월 | [게재 모니터](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 비디오 | 메시지 로그, 작업 로그 및 게재 로그를 이해합니다. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
@@ -523,8 +523,8 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
 | 2023년 5월 | [웹 캠페인 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 비디오 | 에서 웹 시각적 편집기를 사용하여 웹 경험을 작성하는 방법을 알아봅니다. [!DNL Journey Optimizer] 캠페인. |
-| 2023년 5월 | [웹 캠페인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 비디오 | 웹 캠페인이 무엇인지 파악합니다. 웹 캠페인 속성을 구성하고, 검토하고, 게시하는 방법을 알아봅니다. |
-| 2023년 5월 | [클라우드 스토리지 위치로 데이터 세트 내보내기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 비디오 | 데이터 세트를 내보내는 방법을 알아봅니다. [!DNL Journey Optimizer] 변환 후 [!DNL Amazon] S3 대상. |
+| 2023년 5월 | [웹 캠페인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 비디오 | 웹 캠페인이 무엇인지 이해합니다. 웹 캠페인 속성을 구성하고 검토하고 웹 캠페인을 게시하는 방법을 알아봅니다. |
+| 2023년 5월 | [데이터 세트를 클라우드 스토리지 위치로 내보내기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 비디오 | 데이터 세트를 내보내는 방법을 알아봅니다. [!DNL Journey Optimizer] 변환 후 [!DNL Amazon] S3 대상. |
 
 {style="table-layout:auto"}
 
@@ -680,7 +680,7 @@ Adobe Advertising의 최신 기능에 대해 알아봅니다.
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 캠페인] | ([!DNL Microsoft® Advertising] 대상 캠페인 4월 15일 릴리스) 이제 대상 캠페인에서 &quot;수동 CPM&quot; 입찰 전략으로 사용할 수 있습니다. 하위 광고 그룹 설정 내에서 입찰을 설정할 수 있습니다.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
+| [!UICONTROL 캠페인] | ([!DNL Microsoft® Advertising] 대상 캠페인 4월 15일 릴리스) 이제 대상 캠페인에서 &quot;수동 CPM&quot; 입찰 전략으로 사용할 수 있습니다. 하위 광고 그룹 설정 내에서 입찰을 설정할 수 있습니다.<br><br>CPM 캠페인에 최적화 지원을 사용할 수 없습니다. |
 | [!UICONTROL 권장 사항] | 6개 신규 ([!DNL Google Ads] 권장 사항은 [!UICONTROL 통찰력 및 보고서] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL 반응형 검색은 광고 강도를 개선합니다]: 응답형 검색 광고에 대한 광고 강도를 개선하기 위한 제안</li><li>[!UICONTROL 로컬 캠페인을 최대 성능으로 업그레이드]: 기존 로컬 캠페인을 성능 최대 캠페인으로 업그레이드</li><li>[!UICONTROL 스마트 쇼핑 캠페인을 최대 성능으로 업그레이드]: 레거시 스마트 쇼핑 캠페인을 성능 최대 캠페인으로 업그레이드</li><li>[!UICONTROL 예측 집합 Target ROAS]: 트래픽을 늘리기 위해 예측되는 계절적 이벤트 전에 예산을 올리고 입찰 전략을 [!DNL Maximize Conversion Value] to [!DNL Target ROAS]</li><li>[!UICONTROL Target CPA 입찰이 너무 낮음]: 다음 [!DNL Target CPA] 전환이 거의 없거나 적으면 권장된 양만큼</li><li>[!UICONTROL 확장 옵트인 표시]: 디스플레이 확장을 사용하도록 캠페인을 업데이트하여 도달 범위를 확장합니다.</li></ul>자산을 추가 및 제거하고, 캠페인 유형을 변경하고, 예산과 입찰 전략을 변경하면 성능에 영향을 줄 수 있으므로, 올바른 결정을 내릴 수 있도록 Adobe 계정 팀과 각 추천의 장단점에 대해 논의할 것을 권장합니다. |
 
 {style="table-layout:auto"}
