@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5725'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 94%
 
 마지막 업데이트: **2023년 5월 22일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **5월 22일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트&#x200B;**5월 22일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 인터페이스 및 관리](#ecloud)
@@ -48,7 +48,7 @@ ht-degree: 94%
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
 * [[!DNL Campaign]](#ac) (**5월 10일** 업데이트됨)
-* [[!DNL Journey Optimizer]](#journey-opt) (업데이트됨 **5월 10일**)
+* [[!DNL Journey Optimizer]](#journey-opt) (**5월 10일** 업데이트됨)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -62,7 +62,7 @@ Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe
 
 업데이트 날짜: **2023년 5월 22일**
 
-**Experience League에 대한 콘텐츠 검색 개선:** 소유한 제품에 대한 콘텐츠 검색 결과를 필터링하는 방법을 사용자 지정할 수 있습니다. 다음을 기반으로 결과 표시:
+**Experience League에서 향상된 콘텐츠 검색:** 소유한 제품에 대한 콘텐츠 검색 결과를 필터링하는 방법을 사용자 정의할 수 있습니다. 다음을 기준으로 결과 표시:
 
 * 튜토리얼
 * 교육 과정
@@ -71,19 +71,19 @@ Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe
 * 이벤트
 * 인증
 
-다음으로 이동 [Experience League](https://experienceleague.adobe.com/?lang=en#home) 확인해 봐!
+[Experience League](https://experienceleague.adobe.com/?lang=en#home)로 이동해서 확인!
 
 +++예정된 이벤트
 
 * **[!DNL Experience Manager]** | _Developer&#39;s Live: Composable Experiences - 라이브 세션 및 커뮤니티 네트워킹 기회를 제공하는 하루 동안의 가상 컨퍼런스._ | **5월 23일 @ 오전 8시(MDT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
 
-* **[!DNL Workfront]** | _학습: Adobe Workfront을 사용하여 스크럼 소개_ | **5월 23일 @ 오후 2시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]**|_학습: Adobe Workfront를 사용한 스크럼 소개_ |**5월 23일 @ 오후 2:00 CT** |[ 등록하기](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _데이터 기반 개인화를 제공하도록 조직에 비용 청구_ | **5월 24일 @ 오전 8시(PT)** | [등록](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Target]**|_데이터 기반 개인화를 위한 조직 강화_ |**5월 24일 @ 오전 8시 PT** |[등록하기](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _전문가에게 문의: 프로젝트 템플릿 기초 웨비나 후속 내용_ | **5월 24일 @ 오전 10시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]**|_전문가에게 묻기: 프로젝트 템플릿의 기초 웨비나 후속편_ |**5월 24일 @ 오전 10 CT** |[등록하기](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Assets]** | _에스프레소 및 Experience Manager - AEM Assets 마이그레이션_ | **5월 25일 @ 오후 1시(PT)** | [등록](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Experience Manager Assets]**|_Espressos &amp; Experience Manager - AEM Assets 마이그레이션_ |**5월 25일 @ 오후 1시 PT** |[등록하기](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
 등 이전 이벤트를 확인하고 예약된 작업을 보려면 Experience League의 [이벤트](https://experienceleague.adobe.com/events/?lang=en)로 이동합니다.
 
@@ -370,10 +370,10 @@ _알려진 문제_
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- | ------|
 | 2023년 5월 | [Experience Platform Web SDK 통합](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html#create-datastream---experience-platform) | 비디오 | AEM as a Cloud Service를 Experience Platform Web SDK와 통합하는 방법에 대해 알아봅니다. | AEM Sites |
-| 2023년 5월 | [인터랙티브 통신에서 텍스트 편집기 사용자 지정](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | 비디오 | 인터랙티브 통신에서 텍스트 편집기를 사용자 지정하여 맞춤형 글꼴 및 크기를 추가합니다. | AEM Forms |
+| 2023년 5월 | [인터랙티브 통신에서 텍스트 편집기 사용자 정의](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | 비디오 | 인터랙티브 통신에서 텍스트 편집기를 사용자 정의하여 맞춤형 글꼴 및 크기를 추가합니다. | AEM Forms |
 | 2023년 5월 | [AEM Forms 및 Acrobat Sign을 사용하는 React 앱](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | 비디오 | 기본 React 앱에서 제출된 데이터를 통해 인터랙티브 통신 문서를 생성하고, 최종 사용자가 Acrobat Sign 위젯을 사용하여 서명할 수 있도록 문서를 제공합니다. | AEM Forms |
 | 2023년 5월 | [Forms CS를 Sharepoint와 통합](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | 비디오 | AEM Forms CS를 구성하고 Microsoft® Sharepoint와 통합하는 방법에 대해 알아보기 | AEM Forms CS |
-| 2023년 5월 | [OneDrive에 양식 제출 저장](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 비디오 | OneDrive에 양식 데이터를 저장하도록 적응형 양식을 구성하세요. | AEM Forms CS |
+| 2023년 5월 | [OneDrive에 양식 제출 저장](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 비디오 | 적응형 양식을 구성하여 OneDrive에 양식 데이터를 저장합니다. | AEM Forms CS |
 | 2023년 5월 | [AEM Headless에서 최적화된 이미지를 사용하는 방법](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html) | 비디오 | AEM Headless에서 최적화된 이미지를 사용하는 방법에 대해 알아봅니다. | AEM CS |
 | 2023년 5월 | [AEM Headless에서 큰 결과로 작업하는 방법](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=ko) | 비디오 | AEM Headless를 통해 큰 결과 세트로 작업하는 방법에 대해 알아봅니다. | AEM CS |
 
@@ -389,7 +389,7 @@ _알려진 문제_
 | 2023년 4월 | [내부 라이브 카피에 대한 롤아웃 중에 참조가 업데이트되지 않음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21808.html) | 신규 문서 | 내부 라이브 카피에 대한 롤아웃 중에 참조가 업데이트되지 않는 문제를 해결하는 방법에 대해 알아봅니다. |
 | 2023년 4월 | [자산 폴더를 AEM Assets Web UI로 드래그 앤 드롭하지 못함](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21865.html) | 신규 문서 | 자산 폴더를 AEM Assets Web UI로 드래그 앤 드롭하지 못하는 문제에 대한 해결 방법을 찾아보십시오. |
 | 2023년 4월 | [[!UICONTROL 쿼리 빌더] API](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21884.html)로 게시된 페이지 나열 | 신규 문서 | AEM 작성자에 게시된 페이지를 나열하는 방법에 대해 알아봅니다. |
-| 2023년 4월 | [[!UICONTROL 게시 관리]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21885.html) 활성화 날짜의 시간 형식을 사용자 지정하는 방법 | 신규 문서 | [!UICONTROL 게시 관리] 활성화 날짜의 시간 형식을 사용자 지정하는 방법에 대해 알아봅니다. |
+| 2023년 4월 | [[!UICONTROL 게시 관리]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21885.html) 활성화 날짜의 시간 형식을 사용자 정의하는 방법 | 신규 문서 | [!UICONTROL 게시 관리] 활성화 날짜의 시간 형식을 사용자 정의하는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
@@ -483,9 +483,9 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 | 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 비디오 | 에서 설문 조사를 만드는 방법 알아보기 [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
-| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 비디오 | 에서 설문 조사를 만드는 방법 알아보기 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| 2023년 5월 | [이메일 게재 콘텐츠 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 비디오 | 이메일 게재 콘텐츠를 구성하고, 개인화하고, 테스트하는 방법을 알아봅니다. 템플릿을 사용하고 이미지를 업로드하며 이모티콘을 추가하고 바코드와 QR 코드를 넣는 방법을 파악합니다. | [!DNL Campaign Classic] |
+| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 비디오 | [!DNL Adobe Campaign] v8에서 설문 조사 만드는 방법에 대해서 알아봅니다. | [!DNL Campaign] v8 |
+| 2023년 5월 | [설문 조사 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 비디오 | [!DNL Adobe Campaign Classic]에서 설문 조사 만드는 방법에 대해서 알아봅니다. | [!DNL Campaign Classic] |
+| 2023년 5월 | [이메일 게재 콘텐츠 디자인](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 비디오 | 이메일 게재 콘텐츠를 구성하고, 개인화하고, 테스트하는 방법을 알아봅니다. 템플릿을 사용하고 이미지를 업로드하며 이모티콘을 추가하고 바코드와 QR 코드를 임베드하는 방법을 파악합니다. | [!DNL Campaign Classic] |
 | 2023년 5월 | [게재 모니터](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 비디오 | 메시지 로그, 작업 로그 및 게재 로그를 이해합니다. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
@@ -527,9 +527,9 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023년 5월 | [웹 캠페인 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 비디오 | 에서 웹 시각적 편집기 를 사용하여 웹 경험을 작성하는 방법에 대해 알아봅니다 [!DNL Journey Optimizer] 캠페인. |
+| 2023년 5월 | [웹 캠페인 작성](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 비디오 | [!DNL Journey Optimizer] 캠페인에서 웹 비주얼 편집기를 사용하여 웹 경험을 작성하는 방법을 알아봅니다. |
 | 2023년 5월 | [웹 캠페인 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 비디오 | 웹 캠페인이 무엇인지 이해합니다. 웹 캠페인 속성을 구성하고 검토하고 웹 캠페인을 게시하는 방법을 알아봅니다. |
-| 2023년 5월 | [데이터 세트를 클라우드 스토리지 위치로 내보내기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 비디오 | 데이터 세트를 내보내는 방법 알아보기 [!DNL Journey Optimizer] (으)로 [!DNL Amazon] S3 대상. |
+| 2023년 5월 | [데이터 세트를 클라우드 스토리지 위치로 내보내기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 비디오 | 데이터 세트를 [!DNL Journey Optimizer]에서 [!DNL Amazon] S3 대상으로 내보내는 방법을 알아봅니다. |
 
 {style="table-layout:auto"}
 
@@ -685,7 +685,7 @@ Adobe Advertising의 최신 기능에 대해 알아봅니다.
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 캠페인] | ([!DNL Microsoft® Advertising] 대상자 캠페인, 4월 15일 릴리스) 이제 대상자 캠페인에서 “수동 CPM” 입찰 전략을 사용할 수 있습니다. 하위 광고 그룹 설정 내에서 입찰을 설정할 수 있습니다.<br><br>CPM 캠페인에는 최적화 지원을 사용할 수 없습니다. |
+| [!UICONTROL 캠페인] | ([!DNL Microsoft® Advertising] 대상자 캠페인, 4월 15일 릴리스) 이제 대상자 캠페인에서 “수동 CPM” 입찰 전략을 사용할 수 있습니다. 하위 광고 그룹 설정 내에서 입찰을 설정할 수 있습니다.<br><br>최적화 지원은 CPM 캠페인에 대해 제공되지 않습니다. |
 | [!UICONTROL Recommendations] | 6가지 새 권장 사항([!DNL Google Ads] 권장 사항은 [!UICONTROL Insights &amp; Reports] > [!UICONTROL Recommendations]에서 사용 가능:<ul><li>[!UICONTROL 반응형 검색을 통해 Ad Strength 개선]: 반응형 검색 광고의 Ad Strength 개선을 위한 제안</li><li>[!UICONTROL 로컬 캠페인을 성과 최대로 업그레이드]: 기존 로컬 캠페인을 성과 최대 캠페인으로 업그레이드</li><li>[!UICONTROL 스마트 쇼핑 캠페인을 성과 최대로 업그레이드]: 기존 스마트 쇼핑 캠페인을 성과 최대 캠페인으로 업그레이드</li><li>[!UICONTROL 설정된 Target ROAS 예측]: 트래픽 증가가 예측되는 계절 이벤트에 앞서 예산을 늘리고 입찰 전략을 [!DNL Maximize Conversion Value]에서 [!DNL Target ROAS]로 변경</li><li>[!UICONTROL 너무 낮게 Target CPA 입찰가 제기]: 권장 가격이 너무 낮으면 [!DNL Target CPA]를 제기합니다. 전환율이 거의 없거나 전혀 없음</li><li>[!UICONTROL 디스플레이 확장 옵트인]: 캠페인을 업데이트하여 디스플레이 확장을 사용할 수 있도록 연결 확장</li></ul>자산 추가 및 제거, 캠페인 유형 변경, 예산 및 입찰 전략 변경이 성과에 영향을 미칠 수 있으므로 정보를 기반으로 결정을 내릴 수 있도록 Adobe 계정 팀과 각 권장 사항의 장단점에 대해 논의할 것을 권장합니다. |
 
 {style="table-layout:auto"}
