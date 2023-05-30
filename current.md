@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
-workflow-type: ht
-source-wordcount: '5725'
-ht-degree: 100%
+source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+workflow-type: tm+mt
+source-wordcount: '5609'
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 5월 22일**
+마지막 업데이트: **2023년 5월 30일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트&#x200B;**5월 22일**)
 * [Adobe에서의 인증](#certification)
@@ -52,7 +52,7 @@ ht-degree: 100%
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (**5월 30일** 업데이트됨)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -60,7 +60,7 @@ ht-degree: 100%
 
 Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-업데이트 날짜: **2023년 5월 22일**
+업데이트 날짜: **2023년 5월 30일**
 
 **Experience League에서 향상된 콘텐츠 검색:** 소유한 제품에 대한 콘텐츠 검색 결과를 필터링하는 방법을 사용자 정의할 수 있습니다. 다음을 기준으로 결과 표시:
 
@@ -75,17 +75,13 @@ Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe
 
 +++예정된 이벤트
 
-* **[!DNL Experience Manager]** | _Developer&#39;s Live: Composable Experiences - 라이브 세션 및 커뮤니티 네트워킹 기회를 제공하는 하루 동안의 가상 컨퍼런스._ | **5월 23일 @ 오전 8시(MDT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+* **[!DNL Experience Manager - Cloud Manager]** | _DAEM 챔피언 운영 시간 - AEM Cloud Manager_ | **5월 31일 @ 오전 7시 30분(PT)** | [등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
 
-* **[!DNL Workfront]**|_학습: Adobe Workfront를 사용한 스크럼 소개_ |**5월 23일 @ 오후 2:00 CT** |[ 등록하기](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Journey Optimizer]** | _Adobe Journey Optimizer 커뮤니티 Q&amp;A Coffee Break with Ivan Mironchuk Peter Fransen, Jason Hickey &amp; Sandra Hausmann_ | **5월 31일 @ 오전 8시(PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
 
-* **[!DNL Target]**|_데이터 기반 개인화를 위한 조직 강화_ |**5월 24일 @ 오전 8시 PT** |[등록하기](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Audience Manager]** | _Adobe Audience Manager을 통한 가치 극대화: 업계 변화 탐색 및 RTCDP로의 전환_ | **6월 1일 @ 오전 10시(PT)** | [등록](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
 
-* **[!DNL Workfront]**|_전문가에게 묻기: 프로젝트 템플릿의 기초 웨비나 후속편_ |**5월 24일 @ 오전 10 CT** |[등록하기](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Assets]**|_Espressos &amp; Experience Manager - AEM Assets 마이그레이션_ |**5월 25일 @ 오후 1시 PT** |[등록하기](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
-
-등 이전 이벤트를 확인하고 예약된 작업을 보려면 Experience League의 [이벤트](https://experienceleague.adobe.com/events/?lang=en)로 이동합니다.
+[자세히...](https://experienceleague.adobe.com/events/?lang=en)
 
 +++
 
@@ -671,11 +667,11 @@ Last updated: **August 9, 2022**
 
 Adobe Advertising의 최신 기능에 대해 알아봅니다.
 
-마지막 업데이트 일자: **2023년 4월 10일**
+마지막 업데이트: **2023년 5월 30일**
 
 | 기능 | 설명 |
 | ------- | ----------- |
-| [!UICONTROL 보고서] | (3월 릴리스) 새로운 [!UICONTROL 세대] 보고서는 디바이스/쿠키 수준이 아닌 IP 주소를 기준으로 다양한 차원의 노출 횟수, 도달률 및 빈도를 보여 줍니다. 보고서에 포함된 아홉 개의 차원은 [!UICONTROL 캠페인], [!UICONTROL 패키지], [!UICONTROL 배치], [!UICONTROL 사이트/앱], [!UICONTROL 미디어 유형], [!UICONTROL 디바이스], [!UICONTROL 대상자], [!UICONTROL Creative Length] 및 사용자가 생성한 [!UICONTROL 태그]입니다. |
+| [!UICONTROL 캠페인] | (5월 24일 릴리스) 이제 캠페인, 패키지 및 광고를 일시 중지하거나 활성화할 수 있습니다. 배치를 이미 일시 중지하고 활성화할 수 있습니다. |
 
 {style="table-layout:auto"}
 
