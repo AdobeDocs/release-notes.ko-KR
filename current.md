@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
 workflow-type: tm+mt
-source-wordcount: '5609'
-ht-degree: 98%
+source-wordcount: '5635'
+ht-degree: 97%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 98%
 * [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트&#x200B;**5월 22일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud] 인터페이스 및 관리](#ecloud)
+* [[!DNL Experience Cloud] 인터페이스 및 관리](#ecloud) (업데이트됨 **5월 25일**)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Analytics]](#analytics)
@@ -119,7 +119,9 @@ Experience Cloud 인터페이스 홈 페이지, 관리(제품 및 사용자 관�
 
 +++세부 사항
 
-_5월에는 업데이트하지 않았습니다._
+릴리스: **2023년 5월 25일**
+
+* Experience League 자습서 비디오, 제품 설명서 및 커뮤니티 게시물의 검색 결과를 포함하도록 도움말 메뉴를 업데이트했습니다. Experience League에서 결과를 볼 수 있습니다.
 
 도움말은 [Experience Cloud 인터페이스 및 관리 안내서](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ko)([!UICONTROL 고객 속성] 및 [!UICONTROL 대상자] 포함)를 참조하십시오.
 
