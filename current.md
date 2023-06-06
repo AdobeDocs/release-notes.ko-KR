@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
+source-git-commit: fef359d7640b8bbe1a35e750e7641e65a071d479
 workflow-type: tm+mt
-source-wordcount: '5517'
-ht-degree: 96%
+source-wordcount: '5647'
+ht-degree: 93%
 
 ---
 
@@ -75,11 +75,15 @@ Experience League의 최신 상황에 대해 알아봅니다. 이벤트는 Adobe
 
 +++예정된 이벤트
 
-* **[!DNL Experience Manager - Cloud Manager]** | _DAEM 챔피언 운영 시간 - AEM Cloud Manager_ | **5월 31일 @ 오전 7시 30분(PT)** | [등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
+* **[!DNL Workfront]** | _Connect: 마케팅 및 크리에이티브용 관리자 채팅_ | **6월 6일 @ 오후 3시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Journey Optimizer]** | _Adobe Journey Optimizer 커뮤니티 Q&amp;A Coffee Break with Ivan Mironchuk Peter Fransen, Jason Hickey &amp; Sandra Hausmann_ | **5월 31일 @ 오전 8시(PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
+* **[!DNL Marketo Engage]** | _Marketo 및 Mochas - 고객 여정 관리: 라이프사이클 모델링_ | **6월 8일 @ 오후 1시(ET)** | [등록](https://register.gotowebinar.com/register/8576570459027384151)
 
-* **[!DNL Audience Manager]** | _Adobe Audience Manager을 통한 가치 극대화: 업계 변화 탐색 및 RTCDP로의 전환_ | **6월 1일 @ 오전 10시(PT)** | [등록](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
+* **[!DNL Workfront]** | _전문가에게 문의: 무료 Adobe Workfront + Creative Cloud 통합 활용_ | **6월 8일 @ 오전 10시 30분(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Connect: Workfront Strategic Admin 채팅_ | **6월 12일 @ 오전 8시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _전문가에게 문의: Workfront 운영 시간의 리소스 관리_ | **6월 13일 @ 오후 2시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [자세히...](https://experienceleague.adobe.com/events/?lang=en)
 
@@ -141,7 +145,7 @@ New videos, tutorials, or courses published for Adobe Experience Platform.-->
 
 ### [!DNL Mobile] SDK
 
-업데이트:**2022년 11월 11일** - [!DNL Adobe Experience Platform] [!DNL Mobile SDKs]에 대한 [릴리스 정보 및 변경 로그](https://aep-sdks.gitbook.io/docs/release-notes)를 참조하십시오.
+다음을 참조하십시오 [릴리스 정보](https://developer.adobe.com/client-sdks/documentation/release-notes/) 대상: [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
 
 +++
 
