@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
+source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 51%
@@ -143,6 +143,8 @@ Adobe Experience Platform을 위해 게시된 새로운 비디오, 튜토리얼 
 | 2023년 6월 | [세그먼트 및 프로필 속성 활성화](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html) | 비디오 | 에서 세그먼트 및 프로필 속성을 활성화하는 방법을 알아봅니다 [!DNL Real-Time Customer Data Platform] 대상 Adobe [!DNL Target]. 웹 사이트, 모바일 앱 및 기타 디지털 속성에 개인화된 실시간 컨텐츠를 표시합니다. |
 | 2023년 6월 | [레이블을 사용하여 데이터 분류](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html) | 비디오 | 스키마 및 데이터 세트에 레이블을 적용하는 방법을 알아봅니다. 데이터 사용 레이블을 사용하면 기업 정책, 계약 의무, 규정 준수 요구 사항 및 지역 규정을 반영하도록 데이터에 태그를 지정하고 분류할 수 있습니다. [!DNL Experience Platform]. |
 | 2023년 6월 | [사용 [!DNL Real-Time CDP] Adobe의 프로필 속성 [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html) | 비디오 | 사용 방법 알아보기 [!DNL Real-Time Customer Data Platform] Adobe의 프로필 속성 [!DNL Target] 웹 사이트 및 모바일 앱에서 개인화된 경험을 제공할 수 있습니다. |
+
+{style="table-layout:auto"}
 
 +++
 
