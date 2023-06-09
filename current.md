@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
+source-git-commit: f5ea5fd49968d95b322127435b048b61ed8b2709
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 51%
@@ -620,7 +620,7 @@ Adobe Marketo에 게시된 새로운 비디오, 튜토리얼 또는 교육 과�
 | -----------| ---------- | ---------- | ---------- |
 | 2023년 6월 | [기본 프로그램](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html) | 비디오 | 첫 번째 를 만들고 측정하는 방법을 알아봅니다 [!UICONTROL 기본 프로그램]. |
 | 2023년 6월 | [이메일 프로그램](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | 비디오 | 이 단계별 자습서를 통해 A/B 테스트를 사용하여 이메일 프로그램을 만드는 방법을 알아보십시오. |
-| 2023년 6월 | [참여 프로그램](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html) | 비디오 | 이 단계별 자습서를 따라 첫 번째 참여 프로그램을 구축하십시오. |
+| 2023년 6월 | [참여 프로그램](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | 비디오 | 이 단계별 자습서를 따라 첫 번째 참여 프로그램을 구축하십시오. |
 | 2023년 6월 | [이벤트 프로그램](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | 비디오 | 이 비디오를 시청하여 기본 이해를 높이고 첫 번째 이벤트 프로그램을 구축하십시오. |
 | 2023년 6월 | [이벤트 프로그램 만들기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en) | 비디오 | 에서 사전 설치된 프로그램을 기반으로 하는 박람회 이벤트 프로그램을 만드는 방법을 알아봅니다 [!DNL Marketo]. |
 | 2023년 6월 | [보고 및 분석](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en) | 비디오 | 탐색 방법 알아보기 [!DNL Analytics] 및 [!UICONTROL 데이터베이스] 섹션에서 다른 기본 제공 보고서를 가져올 수 있습니다 [!DNL Marketo Engage]. |
@@ -738,7 +738,7 @@ Adobe Advertising의 최신 기능에 대해 알아봅니다.
 | 2023년 6월 | [PDF을 PowerPoint로 변환](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html) | 비디오 | 60초 길이의 이 비디오 튜토리얼에서는 PDF 파일을 완전히 편집 가능한 Microsoft PowerPoint 문서로 변환하는 방법을 알아봅니다. | Acrobat |
 | 2023년 6월 | [실시간으로 공동 작업](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html?lang=ko-KR) | 비디오 | 어디에서나 원격 작업을 수행할 경우 속도와 확장성을 갖춘 컨텐츠를 제공하기 위해서는 원활한 공동 작업이 필수적입니다. 언제 어디서나 실시간으로 문서에 대한 의견을 수집하고, 응답에 대한 공동 작업하고, 진행 상황을 추적하여 프로젝트를 진행할 수 있습니다. | Acrobat Sign |
 | 2023년 6월 | [양식 데이터 관리](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html) | 비디오 | 보고서나 Excel 스프레드시트에서 보고 관리할 수 있도록 문서의 양식 데이터를 통합하는 방법을 알아봅니다. | Acrobat Sign |
-| 2023년 6월 | [Acrobat Sign의 인증 방법](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | 비디오 | 문서에 서명하는 사람의 ID를 인증하기 위해 Acrobat Sign에서 사용할 수 있는 다양한 방법에 대해 알아봅니다. ID 인증은 사기를 줄이고 서명된 문서에 추가 보안 계층을 추가하는 데 도움이 됩니다. |  |
+| 2023년 6월 | [Acrobat Sign의 인증 방법](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | 비디오 | 문서에 서명하는 사람의 ID를 인증하기 위해 Acrobat Sign에서 사용할 수 있는 다양한 방법에 대해 알아봅니다. ID 인증은 사기를 줄이고 서명된 문서에 추가 보안 계층을 추가하는 데 도움이 됩니다. | |
 | 2023년 6월 | [사용자 추가](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) | 비디오 | Acrobat Sign 사용자를 추가하고 관리하는 방법을 알아봅니다. 사용자 관리는 Admin Console 내에서 수행됩니다. | Acrobat Sign |
 | 2023년 6월 | [사용자를 위한 보고서 옵션](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en) | 비디오 | Acrobat Sign 관리자는 사용자를 위한 보고서 옵션을 설정하는 방법을 알아봅니다. | Acrobat Sign |
 
