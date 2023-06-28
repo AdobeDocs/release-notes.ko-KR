@@ -527,7 +527,7 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 | 2023년 5월 | [Deco-mail 수신자로 인해 이메일 게재가 느려지는 것을 방지하는 방법은 무엇입니까?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21942.html) | 신규 문서 | [!UICONTROL Deco-mail] 수신자로 인해 이메일 게재가 느려지는 것을 방지하는 방법에 대해 알아봅니다. |
 | 2023년 5월 | [게재에서 추적 데이터가 수집되는 기간은 얼마나 지속됩니까?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html) | 신규 문서 | 추적 데이터가 서버에 저장되는 기간을 확인합니다. |
 | 2023년 5월 | [Adobe Campaign Classic과 SOCKS5 프록시 간의 호환성](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22075.html) | 신규 문서 | [!DNL Campaign Classic]에서 SOCKS5 프록시로 파일을 전송할 수 있는지 확인하십시오. |
-| 2023년 5월 | [스키마 정의를 찾을 수 없음 - 스키마 오류에서 생성할 수 없음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21964.html) | 신규 문서 | 사용자 지정 리소스를 다시 작성하고 게시할 수 없는 경우에 대한 솔루션을 찾아보십시오. |
+| 2023년 5월 | [스키마 정의를 찾을 수 없음 - 스키마 오류에서 생성할 수 없음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21964.html) | 신규 문서 | 사용자 정의 리소스를 다시 작성하고 게시할 수 없는 경우에 대한 솔루션을 찾아보십시오. |
 | 2023년 5월 | [게재에서 추적 데이터가 수집되는 기간은 얼마나 지속됩니까?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html) | 신규 문서 | 추적 데이터가 서버에 저장되는 기간을 확인합니다. |
 | 2023년 5월 | [_“대기 중인 메시지(연결 할당량 충족)”_ 오류로 게재 실패](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22154.html) | 신규 문서 | _“대기 중인 메시지(연결 할당량 충족)”_ 오류로 인한 게재 실패에 대한 솔루션을 찾아보십시오. |
 | 2023년 5월 | [여러 서버가 있는 경우 온프레미스 인스턴스에 대해 게시 업그레이드를 실행하는 방법](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22055.html) | 신규 문서 | 여러 서버가 있는 경우 온프레미스 인스턴스에 대해 게시 업그레이드를 실행하는 방법에 대해 알아봅니다. |
