@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: bf84dd7489440a296b62838a2b93d8d47fb61962
+source-git-commit: ff12c5a38af50a6cf7b44b0e6914cba6f3254b86
 workflow-type: tm+mt
-source-wordcount: '4318'
+source-wordcount: '4317'
 ht-degree: 52%
 
 ---
@@ -279,7 +279,7 @@ Experience Manager의 새로운 기능, 수정 내용 및 업데이트. Adobe는
 
 ### 최신 릴리스 개요 비디오
 
-[2023년 2월 릴리스 개요 비디오](https://video.tv.adobe.com/v/3416885)를 시청하여 2023.02.0(2023년 2월) 릴리스에 추가된 기능에 대한 간단한 요약을 살펴보십시오.
+시청 [2023년 6월 릴리스 개요 비디오](https://video.tv.adobe.com/v/3420971/) 2023.06.0 릴리스에 추가된 기능에 대한 간단한 요약을 제공합니다.
 
 <!-- ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
