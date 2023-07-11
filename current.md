@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dadca326d9e6a132beab1da488cb6675aa7ffc5
+source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
 workflow-type: tm+mt
-source-wordcount: '5809'
+source-wordcount: '5838'
 ht-degree: 46%
 
 ---
@@ -72,6 +72,8 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 * **[!DNL Analytics]** | _마케팅 채널의 가치 실현_ | **7월 18일 @ 오전 8시(PT)** | [등록](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL AEM as a Cloud Service]** | _Cloud Service의 효과적인 보안 전략_ | **7월 18일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Analytics]** | EXL Live: _표준 컨트롤을 사용하여 소스에서 한 곳에 실행 가능한 대상_ | **7월 20일 @ 오전 9시(PT)** ([이벤트 링크](https://www.youtube.com/watch?v=QaJy9Tp-vTE)) | [등록](https://engage.adobe.com/ExpLeagueLive-230720.html)
 
 * **[!DNL Workfront]** | _학습: Adobe Workfront 23.3 릴리스 요약_ | **7월 20일 @ 오전 11시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
