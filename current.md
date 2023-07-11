@@ -7,10 +7,10 @@ author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ff12c5a38af50a6cf7b44b0e6914cba6f3254b86
+source-git-commit: 0494b8a966761103756447351dc8171bb897bd34
 workflow-type: tm+mt
-source-wordcount: '4317'
-ht-degree: 52%
+source-wordcount: '5811'
+ht-degree: 46%
 
 ---
 
@@ -281,80 +281,124 @@ Experience Manager의 새로운 기능, 수정 내용 및 업데이트. Adobe는
 
 시청 [2023년 6월 릴리스 개요 비디오](https://video.tv.adobe.com/v/3420971/) 2023.06.0 릴리스에 추가된 기능에 대한 간단한 요약을 제공합니다.
 
-<!-- ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
+### [!DNL Experience Manager Sites] as a [!DNL Cloud Service]
 
-_New features_
+_새로운 기능_
 
-* Export content fragments from AEM as a cloud service to Adobe target as JSON offers. 
-* Support for GraphQL pagination and sorting, along with internal caching enhancements, now help improve the performance of decoupled client applications when fetching large content sets from AEM using complex GraphQL queries and filters. 
+* 이제 [콘텐츠 조각 콘솔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=ko#access-preview-service)을 사용하여 콘텐츠 조각 및 해당 참조를 [AEM 미리보기 서비스](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html)에 게시하게 되면 사용자는 시작하기 전에 분리된 미리보기 애플리케이션을 통해 최종 경험을 미리 볼 수 있습니다.
+* 이제 AEM GraphQL을 사용하여 Headless 시나리오에서 이미지를 웹 게재에 동적으로 최적화할 수 있습니다. [쿼리 변수](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables) 는 GraphQL 쿼리에서 정의하여 분리된 클라이언트 애플리케이션 요청이 AEM에서 최적화된 이미지를 제공하도록 할 수 있습니다.
+* 태그: [컨텐츠 조각 변형](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html) 는 이제 AEM GraphQL 콘텐츠 게재 API를 사용하여 JSON으로 출력할 수 있습니다.
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
-_New feature_
+_새로운 기능_
 
-* New protocol (DASH - Dynamic Adaptive Streaming over HTTP) support launched for Adaptive streaming in Dynamic Media video delivery (with CMAF enabled):
-  * Adaptive streaming (DASH/HLS) ensures better end user viewing experience for videos.
-  * DASH is the international standard protocol for adaptive video streaming and is widely adopted in the industry.
-  * Available in Asia-Pacific and North America; [enabled by way of a support ticket](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html#enable-dash). Coming soon in Europe-Middle East-Africa.
-* Added support for WebP images to automatically extract metadata, generate thumbnails and custom renditions. Smart Tag and Smart Crop capabilities are also now supported for these files.
+**신규 [!UICONTROL 에셋] 보기**
+
+새로운 [에셋 보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/assets-view-introduction.html?lang=en) 은 디지털 에셋을 쉽게 관리, 검색 및 배포할 수 있도록 해주는 간소화된 사용자 인터페이스를 제공합니다. 이 경험은 크리에이티브, 읽기 전용 에셋 소비자 및 경량 DAM 사용자를 대상으로 합니다.
+
+**향상된 검색 경험**
+
+[!DNL Experience Manager Assets] 이제 검색 결과 사용자 인터페이스에서 더 많은 작업을 수행할 수 있습니다. 다음을 수행할 수 있습니다.
+
+* [현재 저장소 위치에서 검색 수행](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html) 기본적으로, 는 전체 저장소에서 키워드를 검색합니다.
+
+* [폴더 위치로 이동](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?#aftersearch) 검색 결과에 표시되는 에셋의 경우
+
+**3D 자산의 썸네일 미리보기**
+
+[!DNL Experience Manager Assets] 이제에서 생성 [일반적인 3D 파일 형식에 대한 축소판 미리 보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/file-format-support.html), gLB, USDz, FBX, 3DS, OBJ 및 SBSAR 포함. 이러한 파일이 업로드되면 기본적으로 썸네일이 자동으로 생성됩니다.
+
+**링크 공유 구성**
+
+에 대한 새로운 향상된 사용자 경험 [링크 공유 만들기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/share-assets.html) 관리자가 사용자를 위해 이 기능의 기본 동작을 사용자 지정할 수 있는 새로운 구성 세트와 함께.
+
+**Dynamic Media: 이미지 프로필의 스마트 자르기 관련 필드를 업데이트했습니다**
+
+이미지 프로필의 일부 스마트 자르기 관련 필드에 대한 사용자 인터페이스가 이제 스마트 자르기를 정의하기 위한 현재 지침을 반영하도록 업데이트되었습니다. [자르기 옵션](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?#crop-options)을 참조하십시오.
+
+_자산 보기의 새로운 기능_
+
+**빠른 검색 경험을 위한 자산의 계층적 태그 지정**
+
+제어된 어휘의 단순 목록은 시간이 지남에 따라 관리하기 까다로워집니다. 이제 자산 보기에서 다음을 지원합니다. [계층적 태그 지정 구조](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/tagging-management-assets-view.html): 관련 메타데이터 적용, 에셋 분류, 검색 지원, 태그 재사용, 검색 기능 개선 등을 용이하게 합니다.
+
+**빠른 액세스를 위해 파일, 폴더 및 컬렉션 고정**
+
+이제 다음을 수행할 수 있습니다. [더 빠른 액세스를 위해 파일, 폴더 및 컬렉션 고정](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html) 나중에 필요할 때 이러한 항목을 추가합니다. 고정된 항목은 내 작업 영역의 빠른 액세스 섹션에 표시됩니다. 저장소 내에서 저장된 위치로 이동하는 대신 내 작업 영역을 사용하여 액세스할 수 있습니다.
+
+**휴지통 폴더의 자산 필터링**
+
+이제 에셋 보기를 사용하여 다음 작업을 수행할 수 있습니다. [휴지통 폴더에서 사용할 수 있는 자산 필터링](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/navigate-assets-view.html). 표준 또는 사용자 정의 필터를 적용하여 휴지통 폴더 내에서 적절한 자산을 검색해 복원하거나 영구적으로 삭제할 수 있습니다.
+
+**3D 자산의 썸네일 미리보기**
+
+이제 Assets 보기는 gLB, USDz, FBX, 3DS, OBJ 및 SBSAR을 포함한 일반적인 3D 파일 형식에 대한 썸네일 미리보기를 생성합니다. 이러한 파일이 에셋 보기에 업로드되면 기본적으로 시스템에 의해 썸네일이 자동으로 생성됩니다.
+
+**가장 많이 검색된 용어 보기**
+
+이제 자산 보기에서 보기를 지원합니다. [배포 내 인기 검색어](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html) 사용 **[!UICONTROL Insights]** 섹션 / **[!UICONTROL 내 작업 영역]**. 세부 인사이트로 이동하여 지난 30일 또는 12개월 동안의 인기 검색어를 볼 수도 있습니다.
+
+**메타데이터 양식 개선 사항**
+
+이제 에셋 보기를 사용하여 다음 작업을 수행할 수 있습니다. [다중 값 텍스트 및 드롭다운 목록 속성 구성 요소 추가](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/metadata-assets-view.html?#property-components) 메타데이터 양식을 작성합니다.
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
-_New features_
+_Forms에서 사용할 수 있는 새로운 기능_
 
-* **[Use data capture core components to build Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html)** &ndash; [Use Adaptive Forms editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html) to create forms based on standardized data capture components (Core Components). These components provide customization capabilities, reduced development time, and lower maintenance costs for your digital enrollment experiences.
-* **[Frontend pipeline support for styling core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html)** &ndash; Use standardized BEM-based themes for Core Components-based Adaptive Forms. You can deploy them with the Frontend Deployment pipeline to enhance the look and feel of your forms. It can also help align with your organization's brand approved design guidelines.
-* **[Generate Document of Record for core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html)** &ndash; Create a document of record containing submitted data for Adaptive Forms built using core components for archival or reference to end users, in print, or in the document format.
-* **[Efficient form-building with the Save an Adaptive Form as a template feature](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-an-adaptive-form-on-forms-cs/template-editor.html#save-an-adaptive-form-as-template-saving-adaptive-form-as-template)** &ndash; Expedite and standardize form development by saving existing brand approved forms as form templates for quick reuse.
-* **[Connect AEM Forms to JDBC-Supported databases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html#configure-relational-database-configure-relational-database)** &ndash; Connect to enterprise databases directly from AEM Cloud service using JDBC protocol, without the need to expose them over REST API.
-* **[Integrate with REST Endpoints Using Open API 3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** &ndash; Seamlessly integrate into systems of record which support Open API 3.0 to store and fetch data using form data models.
-* **[Share an Adaptive Form for review](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html)** &ndash; Use the Adaptive Forms review mechanism to allow one or more reviewers to review the form.
+* [AEM 페이지 편집기 및 경험 조각 내의 적응형 Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/create-or-add-an-adaptive-form-to-aem-sites-page.html): AEM을 사용할 수 있습니다 [!UICONTROL 페이지 편집기] 및 [!UICONTROL 경험 조각] 을 사용하여 여러 양식을 신속하게 만들어 AEM Sites 페이지에 추가할 수 있습니다. 이 기능을 통해 콘텐츠 작성자는 내에서 원활한 데이터 캡처 경험을 만들 수 있습니다 [!DNL Sites] 의 기능을 사용하는 페이지 [!UICONTROL 적응형 Forms] 동적 행동, 유효성 검사, 데이터 통합, 기록 문서 생성 및 비즈니스 프로세스 자동화를 포함한 구성 요소
 
-### Headless Adaptive Forms early adopter program
+* [AEM Forms에서 Acrobat Sign Solutions for Government(HIPPA 컴플레인) 사용](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/adobe-sign-integration-adaptive-forms.html): [!DNL AEM Forms] 이제 가 과 통합됨 [!DNL Acrobat Sign Solutions] 정부용. 이 통합은 공공기관 관련 계정(정부 부서 및 기관)에 대한 적응형 양식 제출과 함께 전자 서명의 고급 규정 준수 및 보안을 제공합니다.
 
-Use Headless Adaptive Forms to enable your developers to create, publish, and manage interactive forms that can be accessed and interacted with through APIs, rather than through a traditional graphical user interface. Headless adaptive forms help you:
+Adobe Acrobat Sign Solutions for Government와의 통합을 통해 Adobe 파트너 및 정부 고객은 에서 전자 서명을 사용할 수 있습니다 [!UICONTROL 적응형 Forms] 가장 미션 크리티컬하고 민감한 업무 분야의 일부입니다. 이 보안 계층이 추가되면 Adobe의 공공기관 고객들이 안심할 수 있도록 모든 전자 서명은 FedRAMP Moderate 규정을 완전히 준수해야 합니다.
 
-* Build high-quality multi-channel forms in the programming language of your choice.
-* Natively integrate forms to your desktop and mobile apps, websites, and chat applications
-* Reuse your proprietary UI components with forms applications
-* Use the power of Adobe Experience Manager Forms
+* [규칙 편집기의 사용자 지정 오류 처리기로 향상된 오류 처리](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): 이제 외부 서비스에서 반환한 오류에 대한 응답으로 사용자 지정 함수(클라이언트 라이브러리 사용)를 호출하고 최종 사용자에게 맞춤 응답을 제공할 수 있습니다. 서비스에서 반환된 오류에 대해 특정 작업을 수행할 수도 있습니다. 예를 들어 특정 오류 코드의 백엔드에서 사용자 정의 워크플로를 호출하거나 서비스가 중단되었음을 고객에게 알려 줄 수 있습니다.
 
-You can [send an email to aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID to join the early adopter program.
+이 기능을 통해 OOTB 오류 핸들러와 역으로 호환되는 표준 기반 오류 응답을 도입하여 보다 높은 유연성과 제어 기능을 제공함으로써 전체 오류 처리 기능을 개선할 수 있습니다.
+
+[양식 데이터 모델을 위한 향상된 인증 방법](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html): AEM Forms(양식 데이터 모델)을 호환되는 데이터 소스와 연결하기 위해 클라이언트 자격 증명 기반 인증이 도입되어 보안이 강화되었습니다. 이 향상된 기능을 통해 가장 또는 사용자 로그인이 필요 없으므로 데이터 보호가 강화됩니다.
+
+[반복 가능한 섹션이 포함된 적응형 Forms 만들기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html): 이제 적응형 양식에 기반한 핵심 구성 요소에서 아코디언, 마법사, 패널 및 수평 탭 구성 요소를 만들어 반복 가능한 섹션을 만들 수 있습니다.
+
+이러한 반복 가능한 섹션을 사용하면 고정 필드 개수 없이 항목의 수를 무제한으로 제공할 수 있습니다. 이 메서드는 필요한 데이터 인스턴스를 미리 알 수 없는 경우에 유용합니다. Forms 사용자는 섹션을 쉽게 추가하거나 제거할 수 있으므로 양식이 다양한 데이터 입력 시나리오에 맞게 조정될 수 있으며 동일한 데이터가 여러 번 발생하는 경우 간편하게 수집할 수 있습니다.
+
+[Microsoft® SharePoint 및 Microsoft® OneDrive에 적응형 Forms 제출](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/configure-submit-actions-and-metadata-submission/configuring-submit-actions.html): 이제 제출할 수 있습니다 [!UICONTROL 적응형 Forms] Microsoft® SharePoint Site 또는 Microsoft® OneDrive와 같은 일상적인 도구에 대한 데이터입니다.
+
+#### [!UICONTROL Headless 적응형 양식 얼리 어답터 프로그램]
+
+사용 [헤드리스 적응형 Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html) 을 사용하면 개발자가 기존의 그래픽 사용자 인터페이스가 아닌 API를 통해 액세스하고 상호 작용할 수 있는 대화형 양식을 만들고 게시하고 관리할 수 있습니다. [!UICONTROL 헤드리스 적응형 Forms] 도움말:
+
+* 선택한 프로그래밍 언어로 고품질 다중 채널 양식 작성
+* 양식을 데스크탑 및 모바일 앱, 웹 사이트 및 채팅 애플리케이션에 기본적으로 통합
+* 양식 애플리케이션과 함께 독점 UI 구성 요소 재사용
+* Adobe Experience Manager Forms의 기능 사용
+
+다음으로 이메일을 보낼 수 있습니다. [aem-forms-headless@adobe.com](mailto:certif@adobe.com) 얼리어답터 프로그램에 참여하려면 공식 이메일 ID에서 을(를) 전송하십시오.
 
 ### [!DNL Cloud Manager]
 
-_New features_
+_새로운 기능_
 
-* Product, functional, and user interface testing support is now extended to [non-production pipeline testing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/configuring-non-production-pipelines.html). 
-* In addition to enabling testing upstream, [user interface testing support is now extended to Cypress testing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/functional-testing/ui-testing.html).
-* [Self-service content copy](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html) is now available from a higher to a lower environment by way of the Cloud Manager user interface.
-* The pipeline run validation step is now enhanced to validate the state of the replication queues early in the run process. This ability ensures that the deployment steps are not affected by blocked queues that are addressed by AEM administrator users directly in the authoring environment.
+* 이제 Cloud Manager 랜딩 페이지의 카드에 [향상된 보안](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/programs/creating-production-programs.html) 이 해당 프로그램에 대해 활성화되어 있습니다.
+* 개발인 경우 [파이프라인](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html) 에는 테스트 단계가 포함되어 있지 않습니다. 이제 사용자는 테스트 단계를 포함할 수 있습니다. [파이프라인 시작](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/managing-pipelines.html?#running-pipelines).
+* 이 기능은 단계적으로 출시될 예정입니다.
+* 날짜 [실행 취소](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/managing-pipelines.html?#view-details)이제 파이프라인 실행 승인 단계에서 사용자에게 취소 이유를 입력하도록 요청합니다.
+* 이 기능은 단계적으로 출시될 예정입니다.
 
-**Bug fixes**
+_버그 수정_
 
-* Environment creation no longer fails when multi-byte characters are used in the environment's name. 
+* 에서 작성 UI로 이동 [!UICONTROL Cloud Manager] 로그인 후 더 이상 통합 쉘로 리디렉션하지 못합니다.
+* Go-Live 위젯을 통해 Go-Live 날짜를 편집하면 이제 로 이동합니다. **[!UICONTROL 실행]** 대신 tab 키를 누릅니다. **[!UICONTROL 향상된 보안]** 탭.
+* 복사 작업을 시작할 때 사용자는 복사 작업이 이미 호출된 환경을 더 이상 선택할 수 없습니다.
 
-### [!DNL Workfront for Experience Manager] enhanced connector
+### 커뮤니티
 
-The release date for the latest version 1.9.10 of Workfront for Experience Manager enhanced connector is May 18, 2023.
+**웨비나 녹화:** _기본 Experience Manager 기술 인증 : 준비, 준비, 인증 받기!_
 
-_Release highlights_
+모든 사용자가 웨비나 중에 공유되는 중요한 콘텐츠에 액세스할 수 있도록 녹화를 제공하게 되어 기쁘게 생각합니다. AEM 커뮤니티 스레드를에서 방문하여 편리한 시간에 녹화를 볼 수 있습니다. [Adobe Experience Manager Sites 등](https://adobe.ly/3p2CmbA)
 
-* Workfront returns a 409 HTTP response for duplicate event subscriptions based on a REST call from Experience Manager to Workfront, which leads to a null pointer exception. 
-
->[!IMPORTANT]
->
->Adobe recommends that you [upgrade to the latest 1.9.10 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html) of the Workfront for Experience Manager enhanced connector. 
-
-_Known issues_
-
-* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration. 
-* When you use the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
-
-### Community
-
-* The recordings for all sessions of _Developer Live 2023_ are now available in the [!DNL Experience Manager] Community's Contextual Threads. Gain access to these valuable resources and unlock a world of knowledge and inspiration. Ready to dive in? Here are the recordings: [https://adobe.ly/3LRFDDv](https://adobe.ly/3LRFDDv). 
- -->
+AEM as a Cloud Service [2023.6.0 - 릴리스 업데이트](https://adobe.ly/444zA4U)
 
 ### Experience Manager 릴리스 정보
 
