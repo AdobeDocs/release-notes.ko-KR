@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5838'
+source-wordcount: '5836'
 ht-degree: 46%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 46%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 7월 11일**
+마지막 업데이트: **2023년 7월 12일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
@@ -424,19 +424,19 @@ AEM as a Cloud Service [2023.6.0 - 릴리스 업데이트](https://adobe.ly/444z
 
 Experience Manager에 대해 게시된 새로운 비디오, 튜토리얼 또는 교육 과정입니다.
 
-| 게시일 | 이름 | 유형 | 설명 | 애플리케이션 |
+| 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2023년 7월 | [빠른 액세스](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | 비디오 | 방법 알아보기 [!UICONTROL 빠른 액세스] 의 개인 렌즈로 사용하여 생산성을 높이고 작업 과정을 간소화할 수 있습니다. [!DNL AEM Assets]. 이 기능을 사용하면 할당된 작업에 필요한 모든 자산을 손쉽게 유지할 수 있습니다. | [!DNL AEM Assets] |
-| 2023년 7월 | [표시 _감사합니다._ headless 양식 제출에 대한 메시지](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | 문서 | 표시 _감사합니다._ 성공적인 headless 양식 제출에 대한 메시지입니다. | [!DNL AEM Forms] |
-| 2023년 7월 | [북마클릿 미리 보기 - 코드 샘플](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 문서 | JavaScript 북마클릿 미리 보기를 만드는 방법을 알아봅니다.[!UICONTROL  App Builder 콘텐츠 조각] AEM 컨텍스트에서의 확장 [!UICONTROL 컨텐츠 조각] 페이지. | [!UICONTROL Content Fragments] |
-| 2023년 7월 | [XML로 콘텐츠 조각 내보내기](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 문서 | 사용자 지정 단추를에 추가할 수 있습니다 [!UICONTROL 콘텐츠 조각 편집기] 을 사용하는 헤더 메뉴 `headerMenu` 확장 점입니다. 이 예에서는 헤더 메뉴에 단추를 추가하는 방법과 클릭 이벤트를 처리하여 활성 항목을 내보내는 방법을 보여 줍니다 [!UICONTROL 컨텐츠 조각] XML 또는 CSV로 내보낼 때 시간별 세부기간이 작동하지 않는 문제를 해결했습니다. | [!UICONTROL Content Fragments] |
-| 2023년 7월 | [카드 클릭에 양식 표시](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | 문서 | 카드 보기에서 양식을 드릴다운합니다. | [!DNL AEM Forms] |
-| 2023년 7월 | [리치 텍스트 편집기(RTE)에 위젯 추가](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | 비디오 | AEM의 리치 텍스트 편집기(RTE)에 위젯을 추가하는 방법을 알아봅니다 [!UICONTROL 콘텐츠 조각 편집기]. | [!UICONTROL Content Fragments] |
-| 2023년 7월 | [리치 텍스트 편집기에 배지 추가](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | 비디오 | AEM에서 리치 텍스트 편집기(RTE)에 배지를 추가하는 방법을 알아봅니다 [!UICONTROL 콘텐츠 조각 편집기]. | [!UICONTROL Content Fragments] |
-| 2023년 7월 | [사용자 정의 격자 열](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | 비디오 | 사용자 지정 격자 열을 [!UICONTROL 콘텐츠 조각 콘솔]. | [!UICONTROL Content Fragments] |
-| 2023년 7월 | [3D 자산](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | 비디오 | 에서 3D 자산 지원에 대해 알아보기 [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| 2023년 7월 | [참조](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | 비디오 | AEM 콘텐츠 조각 콘솔 및 편집기를 사용하여 참조된 콘텐츠를 쉽게 이해하고 관리하는 방법에 대해 알아봅니다. | [!DNL AEM Sites] |
-| 2023년 7월 | [제출된 데이터를 기반으로 응답 사용자 정의](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | 비디오 | Headless 적응형 양식 제출을 처리하는 사용자 정의 제출 서비스를 만듭니다. | [!DNL AEM Forms] |
+| 2023년 7월 | [!DNL AEM Assets] | [빠른 액세스](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | 비디오 | 방법 알아보기 [!UICONTROL 빠른 액세스] 의 개인 렌즈로 사용하여 생산성을 높이고 작업 과정을 간소화할 수 있습니다. [!DNL AEM Assets]. 이 기능을 사용하면 할당된 작업에 필요한 모든 자산을 손쉽게 유지할 수 있습니다. |
+| 2023년 7월 | [!DNL AEM Assets] | [3D 자산](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | 비디오 | 에서 3D 자산 지원에 대해 알아보기 [!DNL AEM Assets as a Cloud Service]. |
+| 2023년 7월 | [!DNL AEM Forms] | [표시 _감사합니다._ headless 양식 제출에 대한 메시지](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | 문서 | 표시 _감사합니다._ 성공적인 headless 양식 제출에 대한 메시지입니다. |
+| 2023년 7월 | [!DNL AEM Forms] | [카드 클릭에 양식 표시](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | 문서 | 카드 보기에서 양식을 드릴다운합니다. |
+| 2023년 7월 | [!DNL AEM Forms] | [제출된 데이터를 기반으로 응답 사용자 정의](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | 비디오 | Headless 적응형 양식 제출을 처리하는 사용자 정의 제출 서비스를 만듭니다. |
+| 2023년 7월 | [!UICONTROL Content Fragments] | [북마클릿 미리 보기](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 문서 | JavaScript 북마클릿 미리 보기를 만드는 방법을 알아봅니다.[!UICONTROL  App Builder 콘텐츠 조각] AEM 컨텍스트에서의 확장 [!UICONTROL 컨텐츠 조각] 페이지. |
+| 2023년 7월 | [!UICONTROL Content Fragments] | [XML로 콘텐츠 조각 내보내기](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 문서 | 사용자 지정 단추를에 추가할 수 있습니다 [!UICONTROL 콘텐츠 조각 편집기] 을 사용하는 헤더 메뉴 `headerMenu` 확장 점입니다. 이 예에서는 헤더 메뉴에 단추를 추가하는 방법과 클릭 이벤트를 처리하여 활성 항목을 내보내는 방법을 보여 줍니다 [!UICONTROL 컨텐츠 조각] XML 또는 CSV로 내보낼 때 시간별 세부기간이 작동하지 않는 문제를 해결했습니다. |
+| 2023년 7월 | [!UICONTROL Content Fragments] | [리치 텍스트 편집기(RTE)에 위젯 추가](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | 비디오 | AEM의 리치 텍스트 편집기(RTE)에 위젯을 추가하는 방법을 알아봅니다 [!UICONTROL 콘텐츠 조각 편집기]. |
+| 2023년 7월 | [!UICONTROL Content Fragments] | [리치 텍스트 편집기에 배지 추가](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | 비디오 | AEM에서 리치 텍스트 편집기(RTE)에 배지를 추가하는 방법을 알아봅니다 [!UICONTROL 콘텐츠 조각 편집기]. |
+| 2023년 7월 | [!UICONTROL Content Fragments] | [사용자 정의 격자 열](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | 비디오 | 사용자 지정 격자 열을 [!UICONTROL 콘텐츠 조각 콘솔]. |
+| 2023년 7월 | [!DNL AEM Sites] | [참조](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | 비디오 | AEM 콘텐츠 조각 콘솔 및 편집기를 사용하여 참조된 콘텐츠를 쉽게 이해하고 관리하는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
