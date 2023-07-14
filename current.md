@@ -6,10 +6,10 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
+source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
 workflow-type: tm+mt
 source-wordcount: '5836'
-ht-degree: 46%
+ht-degree: 53%
 
 ---
 
@@ -133,7 +133,7 @@ Experience Cloud 중앙 인터페이스 구성 요소에 대한 도움말은 [Ex
 
 Adobe [!DNL Experience Platform]용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정
 
-| 유형 | 제품 기능 | 설명 |
+| 게시일 | 제품 기능 | 설명 |
 | -----------| ---------- |---------- |
 | 2023년 7월 | [샘플 데이터 가져오기 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=ko-KR) | 업데이트된 비디오 | 을(를) 설정하는 방법 알아보기 [!DNL Experience Platform] 샘플 데이터가 있는 샌드박스 환경. 사용 [!UICONTROL Postman] 컬렉션에서는 필드 그룹, 스키마, 데이터 세트를 만든 다음 샘플 데이터를 로 가져올 수 있습니다 [!DNL Experience Platform]. |
 | 2023년 7월 | [인증 및 액세스 [!DNL Experience Platform] API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=ko) | 업데이트된 비디오 | Adobe 시작 [!DNL Experience Platform] API. 이 튜토리얼에서는 인증 자격 증명을 만들고 만드는 과정을 안내합니다 [!DNL Experience Platform] API 요청. |
@@ -286,8 +286,8 @@ Experience Manager의 새로운 기능, 수정 내용 및 업데이트. Adobe는
 
 _새로운 기능_
 
-* 이제 [콘텐츠 조각 콘솔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=ko#access-preview-service)을 사용하여 콘텐츠 조각 및 해당 참조를 [AEM 미리보기 서비스](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html)에 게시하게 되면 사용자는 시작하기 전에 분리된 미리보기 애플리케이션을 통해 최종 경험을 미리 볼 수 있습니다.
-* 이제 AEM GraphQL을 사용하여 Headless 시나리오에서 이미지를 웹 게재에 동적으로 최적화할 수 있습니다. [쿼리 변수](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables) 는 GraphQL 쿼리에서 정의하여 분리된 클라이언트 애플리케이션 요청이 AEM에서 최적화된 이미지를 제공하도록 할 수 있습니다.
+* 이제 [콘텐츠 조각 콘솔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service)을 사용하여 콘텐츠 조각 및 해당 참조를 [AEM 미리보기 서비스](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html)에 게시하게 되면 사용자는 시작하기 전에 분리된 미리보기 애플리케이션을 통해 최종 경험을 미리 볼 수 있습니다.
+* 이제 AEM GraphQL을 사용하여 Headless 시나리오에서 웹 게재를 위해 이미지를 동적으로 최적화할 수 있습니다. GraphQL 쿼리에서 [쿼리 변수](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables)를 정의하여 분리된 클라이언트 애플리케이션으로 AEM에서 최적화된 이미지를 요청할 수 있습니다.
 * 태그: [컨텐츠 조각 변형](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html) 는 이제 AEM GraphQL 콘텐츠 게재 API를 사용하여 JSON으로 출력할 수 있습니다.
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
@@ -296,45 +296,45 @@ _새로운 기능_
 
 **신규 [!UICONTROL 에셋] 보기**
 
-새로운 [에셋 보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/assets-view-introduction.html?lang=en) 은 디지털 에셋을 쉽게 관리, 검색 및 배포할 수 있도록 해주는 간소화된 사용자 인터페이스를 제공합니다. 이 경험은 크리에이티브, 읽기 전용 에셋 소비자 및 경량 DAM 사용자를 대상으로 합니다.
+새로운 [에셋 보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/assets-view-introduction.html?lang=en) 은 디지털 에셋을 쉽게 관리, 검색 및 배포할 수 있도록 해주는 간소화된 사용자 인터페이스를 제공합니다. 이 경험은 크리에이티브, 읽기 전용 자산 소비자 및 더 가벼운 DAM 사용자를 대상으로 합니다.
 
-**향상된 검색 경험**
+**검색 경험 개선 사항**
 
 [!DNL Experience Manager Assets] 이제 검색 결과 사용자 인터페이스에서 더 많은 작업을 수행할 수 있습니다. 다음을 수행할 수 있습니다.
 
-* [현재 저장소 위치에서 검색 수행](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html) 기본적으로, 는 전체 저장소에서 키워드를 검색합니다.
+* [전체 저장소에서 키워드를 검색하는 대신 기본적으로 현재 저장소 위치 내에서 검색을 수행합니다.](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html)
 
-* [폴더 위치로 이동](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?#aftersearch) 검색 결과에 표시되는 에셋의 경우
+* [검색 결과에 표시되는 자산의 폴더 위치로 이동합니다.](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?#aftersearch)
 
 **3D 자산의 썸네일 미리보기**
 
-[!DNL Experience Manager Assets] 이제에서 생성 [일반적인 3D 파일 형식에 대한 축소판 미리 보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/file-format-support.html), gLB, USDz, FBX, 3DS, OBJ 및 SBSAR 포함. 이러한 파일이 업로드되면 기본적으로 썸네일이 자동으로 생성됩니다.
+[!DNL Experience Manager Assets] 이제에서 생성 [일반적인 3D 파일 형식에 대한 축소판 미리 보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/file-format-support.html), gLB, USDz, FBX, 3DS, OBJ 및 SBSAR 포함. 해당 파일을 업로드하면 기본적으로 썸네일이 자동 생성됩니다.
 
 **링크 공유 구성**
 
-에 대한 새로운 향상된 사용자 경험 [링크 공유 만들기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/share-assets.html) 관리자가 사용자를 위해 이 기능의 기본 동작을 사용자 지정할 수 있는 새로운 구성 세트와 함께.
+관리자가 사용자를 위해 이 기능의 기본 동작을 사용자 정의할 수 있는 새로운 구성 집합과 함께 [링크 공유를 만드는](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/share-assets.html) 향상된 새로운 사용자 환경입니다.
 
-**Dynamic Media: 이미지 프로필의 스마트 자르기 관련 필드를 업데이트했습니다**
+**Dynamic Media: 이미지 프로필의 업데이트된 스마트 자르기 관련된 필드**
 
 이미지 프로필의 일부 스마트 자르기 관련 필드에 대한 사용자 인터페이스가 이제 스마트 자르기를 정의하기 위한 현재 지침을 반영하도록 업데이트되었습니다. [자르기 옵션](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?#crop-options)을 참조하십시오.
 
-_자산 보기의 새로운 기능_
+_Assets 보기의 새로운 기능_
 
 **빠른 검색 경험을 위한 자산의 계층적 태그 지정**
 
-제어된 어휘의 단순 목록은 시간이 지남에 따라 관리하기 까다로워집니다. 이제 자산 보기에서 다음을 지원합니다. [계층적 태그 지정 구조](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/tagging-management-assets-view.html): 관련 메타데이터 적용, 에셋 분류, 검색 지원, 태그 재사용, 검색 기능 개선 등을 용이하게 합니다.
+제어된 어휘의 단순 목록은 시간이 지남에 따라 관리하기 까다로워집니다. 이제 Assets 보기는 관련 메타데이터의 적용, 자산 분류, 검색 지원, 태그 재사용, 검색 기능 개선 등을 용이하게 하는 [계층적 태그 지정 구조](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/tagging-management-assets-view.html)를 지원합니다.
 
 **빠른 액세스를 위해 파일, 폴더 및 컬렉션 고정**
 
-이제 다음을 수행할 수 있습니다. [더 빠른 액세스를 위해 파일, 폴더 및 컬렉션 고정](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html) 나중에 필요할 때 이러한 항목을 추가합니다. 고정된 항목은 내 작업 영역의 빠른 액세스 섹션에 표시됩니다. 저장소 내에서 저장된 위치로 이동하는 대신 내 작업 영역을 사용하여 액세스할 수 있습니다.
+이제 나중에 필요할 때 [파일, 폴더 및 컬렉션에 더 빠르게 액세스할 수 있도록 이러한 항목을 고정](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html)할 수 있습니다. 고정된 항목은 내 작업 영역의 빠른 액세스 섹션에 표시됩니다. 저장소 내에서 저장된 위치로 이동하는 대신 내 작업 영역을 사용하여 액세스할 수 있습니다.
 
 **휴지통 폴더의 자산 필터링**
 
-이제 에셋 보기를 사용하여 다음 작업을 수행할 수 있습니다. [휴지통 폴더에서 사용할 수 있는 자산 필터링](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/navigate-assets-view.html). 표준 또는 사용자 정의 필터를 적용하여 휴지통 폴더 내에서 적절한 자산을 검색해 복원하거나 영구적으로 삭제할 수 있습니다.
+Assets 보기에서는 이제 [휴지통 폴더에서 자산을 필터링](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/navigate-assets-view.html)할 수 있습니다. 표준 또는 사용자 정의 필터를 적용하여 휴지통 폴더 내에서 적절한 자산을 검색해 복원하거나 영구적으로 삭제할 수 있습니다.
 
 **3D 자산의 썸네일 미리보기**
 
-이제 Assets 보기는 gLB, USDz, FBX, 3DS, OBJ 및 SBSAR을 포함한 일반적인 3D 파일 형식에 대한 썸네일 미리보기를 생성합니다. 이러한 파일이 에셋 보기에 업로드되면 기본적으로 시스템에 의해 썸네일이 자동으로 생성됩니다.
+Assets 보기는 이제 gLB, USDz, FBX, 3DS, OBJ, SBSAR을 포함한 일반적인 3D 파일 형식에 대한 썸네일 미리보기를 생성합니다. 이러한 파일이 Assets 보기에 업로드되면 기본적으로 썸네일이 시스템에서 자동으로 생성됩니다.
 
 **가장 많이 검색된 용어 보기**
 
@@ -342,7 +342,7 @@ _자산 보기의 새로운 기능_
 
 **메타데이터 양식 개선 사항**
 
-이제 에셋 보기를 사용하여 다음 작업을 수행할 수 있습니다. [다중 값 텍스트 및 드롭다운 목록 속성 구성 요소 추가](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/metadata-assets-view.html?#property-components) 메타데이터 양식을 작성합니다.
+Assets 보기에서는 이제 [다중 값 텍스트 및 드롭다운 목록 속성 구성 요소](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/metadata-assets-view.html?#property-components)를 메타데이터 양식에 추가할 수 있습니다.
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
@@ -354,21 +354,21 @@ _Forms에서 사용할 수 있는 새로운 기능_
 
 Adobe Acrobat Sign Solutions for Government와의 통합을 통해 Adobe 파트너 및 정부 고객은 에서 전자 서명을 사용할 수 있습니다 [!UICONTROL 적응형 Forms] 가장 미션 크리티컬하고 민감한 업무 분야의 일부입니다. 이 보안 계층이 추가되면 Adobe의 공공기관 고객들이 안심할 수 있도록 모든 전자 서명은 FedRAMP Moderate 규정을 완전히 준수해야 합니다.
 
-* [규칙 편집기의 사용자 지정 오류 처리기로 향상된 오류 처리](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): 이제 외부 서비스에서 반환한 오류에 대한 응답으로 사용자 지정 함수(클라이언트 라이브러리 사용)를 호출하고 최종 사용자에게 맞춤 응답을 제공할 수 있습니다. 서비스에서 반환된 오류에 대해 특정 작업을 수행할 수도 있습니다. 예를 들어 특정 오류 코드의 백엔드에서 사용자 정의 워크플로를 호출하거나 서비스가 중단되었음을 고객에게 알려 줄 수 있습니다.
+* [규칙 편집기의 사용자 정의 오류 핸들러로 오류 처리 개선](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): 이제 외부 서비스에서 반환되는 오류에 따라 사용자 정의 함수(클라이언트 라이브러리 사용)를 호출하여 맞춤형 응답을 최종 사용자에게 제공할 수 있습니다. 서비스에서 반환된 오류에 대해 특정 작업을 수행할 수도 있습니다. 예를 들어 특정 오류 코드의 백엔드에서 사용자 정의 워크플로우를 호출하거나 서비스가 중단되었음을 고객에게 알려 줄 수 있습니다.
 
 이 기능을 통해 OOTB 오류 핸들러와 역으로 호환되는 표준 기반 오류 응답을 도입하여 보다 높은 유연성과 제어 기능을 제공함으로써 전체 오류 처리 기능을 개선할 수 있습니다.
 
-[양식 데이터 모델을 위한 향상된 인증 방법](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html): AEM Forms(양식 데이터 모델)을 호환되는 데이터 소스와 연결하기 위해 클라이언트 자격 증명 기반 인증이 도입되어 보안이 강화되었습니다. 이 향상된 기능을 통해 가장 또는 사용자 로그인이 필요 없으므로 데이터 보호가 강화됩니다.
+[양식 데이터 모델을 위한 향상된 인증 방법](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html): AEM Forms(양식 데이터 모델)을 호환되는 데이터 소스와 연결하기 위해 클라이언트 자격 증명 기반 인증이 도입되어 보안이 강화되었습니다. 이 향상된 기능을 통해 가장 또는 사용자 로그인을 사용하지 않고도 데이터 보호 기능을 강화합니다.
 
 [반복 가능한 섹션이 포함된 적응형 Forms 만들기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html): 이제 적응형 양식에 기반한 핵심 구성 요소에서 아코디언, 마법사, 패널 및 수평 탭 구성 요소를 만들어 반복 가능한 섹션을 만들 수 있습니다.
 
-이러한 반복 가능한 섹션을 사용하면 고정 필드 개수 없이 항목의 수를 무제한으로 제공할 수 있습니다. 이 메서드는 필요한 데이터 인스턴스를 미리 알 수 없는 경우에 유용합니다. Forms 사용자는 섹션을 쉽게 추가하거나 제거할 수 있으므로 양식이 다양한 데이터 입력 시나리오에 맞게 조정될 수 있으며 동일한 데이터가 여러 번 발생하는 경우 간편하게 수집할 수 있습니다.
+반복 가능한 이런 섹션을 사용하면 고정된 필드 수 없이 무제한의 항목을 제공할 수 있습니다. 필요한 데이터 인스턴스를 미리 알 수 없는 경우에 유용합니다. Forms 사용자는 섹션을 쉽게 추가하거나 제거할 수 있으므로, 양식을 다양한 데이터 입력 시나리오에 맞게 조정하고 동일한 데이터의 여러 항목 수집을 단순화할 수 있습니다.
 
 [Microsoft® SharePoint 및 Microsoft® OneDrive에 적응형 Forms 제출](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/configure-submit-actions-and-metadata-submission/configuring-submit-actions.html): 이제 제출할 수 있습니다 [!UICONTROL 적응형 Forms] Microsoft® SharePoint Site 또는 Microsoft® OneDrive와 같은 일상적인 도구에 대한 데이터입니다.
 
 #### [!UICONTROL Headless 적응형 양식 얼리 어답터 프로그램]
 
-사용 [헤드리스 적응형 Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html) 을 사용하면 개발자가 기존의 그래픽 사용자 인터페이스가 아닌 API를 통해 액세스하고 상호 작용할 수 있는 대화형 양식을 만들고 게시하고 관리할 수 있습니다. [!UICONTROL 헤드리스 적응형 Forms] 도움말:
+[Headless 적응형 양식](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html)을 사용하여 개발자가 기존의 그래픽 사용자 인터페이스가 아닌 API를 통해 액세스하고 상호 작용할 수 있는 대화형 양식을 만들고, 게시하고, 관리할 수 있습니다. [!UICONTROL 헤드리스 적응형 Forms] 도움말:
 
 * 선택한 프로그래밍 언어로 고품질 다중 채널 양식 작성
 * 양식을 데스크탑 및 모바일 앱, 웹 사이트 및 채팅 애플리케이션에 기본적으로 통합
