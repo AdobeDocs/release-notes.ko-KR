@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 94e567e767551992e794b8c8476307d441d77953
 workflow-type: tm+mt
 source-wordcount: '5503'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -72,7 +72,7 @@ Experience League에서 [Experience Cloud 애플리케이션을 위한 새로운
 
 +++다가오는 Experience League 이벤트
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _Connect - Workfront 전략 관리자 채팅_ |**8월 14일 @ 오전 7시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _Connect - Workfront 전략적 관리자 채팅_ |**8월 14일 오전 7시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER]** | Experience Makers | _The Skill Exchange for Adobe Experience Manager_ | **8월 17일 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -83,9 +83,9 @@ Experience League에서 [Experience Cloud 애플리케이션을 위한 새로운
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _Workfront로 학습 - 요청된 대기열_ | **8월 22일 오전 9시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE CLOUD]** | 웨비나 | _더 퍼펙트 블렌드: Adobe Analytics + Adobe Commerce_ | **8월 22일 @ 오전 11시(MT)** | [등록](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | 웨비나 | _The Perfect Blend: Adobe Analytics + Adobe Commerce_ | **8월 22일 오전 11시(MT)** | [등록](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
 
-* **[!DNL EXPERIENCE CLOUD]** | 웨비나 | _더 퍼펙트 블렌드: Marketo + Workfront_ | **8월 31일 @ 오전 11시(MT)** | [등록](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | 웨비나 | _The Perfect Blend: Marketo + Workfront_ | **8월 31일 오전 11시(MT)** | [등록](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
 
 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 모두 보거나 [이벤트 녹화](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)를 찾아보십시오. 이제 왼쪽 탐색을 사용하여 시리즈 유형 또는 애플리케이션을 기반으로 녹화된 이벤트를 찾아볼 수 있습니다.
 
