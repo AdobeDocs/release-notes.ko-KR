@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 18f0dfbf87fbd168537caa313c03b27e94c8203e
+source-git-commit: 3543720e4e115c18473596f4953f3a2cad88f997
 workflow-type: tm+mt
-source-wordcount: '7884'
+source-wordcount: '7881'
 ht-degree: 54%
 
 ---
@@ -67,7 +67,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023년 9월 | Experience Cloud | 고객 성공 웨비나 | [효과적인 Audience Activation 전략 설정](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | 이 세션에서는 데이터 관리 전략의 중요성, Adobe Audience Manager 개요 및 기능, Adobe Audience Manager 사용 사례, 데이터 관리 전략 설정을 위한 실행 계획을 다룹니다 |
+| 2023년 9월 | Experience Cloud | [효과적인 Audience Activation 전략 설정](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | 고객 성공 웨비나 | 데이터 관리 전략의 중요성, Adobe Audience Manager 개요 및 기능, Adobe Audience Manager 사용 사례, 데이터 관리 전략 설정을 위한 실행 계획에 대해 알아봅니다 |
 | 2023년 여름 | Experience Cloud | [Experience Cloud 애플리케이션을 위한 통합 튜토리얼 홈](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | 비디오 | 가장 일반적인 Experience Cloud 애플리케이션 통합에 대해 알아봅니다. [솔루션](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en) 또는 [애플리케이션](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en)으로 통합 튜토리얼을 탐색하십시오. 이 콘텐츠는 자주 업데이트되므로 자주 다시 확인하십시오. |
 
 {style="table-layout:auto"}
@@ -655,9 +655,9 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 * Campaign Standard: [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
-* Campaign Classic v7: [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+* Campaign Classic v7.3.4: [릴리스 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
-* 신규! 컨트롤 패널: [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
+* 컨트롤 패널: [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 
 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) 및 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 릴리스 정보에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
 
