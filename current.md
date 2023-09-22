@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
 workflow-type: tm+mt
 source-wordcount: '7132'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 98%
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
-* [[!DNL Adobe Pass]](#pass) (이전 [!DNL Adobe Primetime])
+* [[!DNL Adobe Pass]](#pass)(이전의 [!DNL Adobe Primetime])
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [고객 데이터 관리 - 음성](#voices)
@@ -68,7 +68,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023년 9월 | Experience Cloud | [효과적인 대상자 활성화 전략 설정](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=ko) | 고객 성공 웨비나 | 데이터 관리 전략의 중요성, Adobe Audience Manager 개요 및 기능, Adobe Audience Manager 사용 사례, 데이터 관리 전략 설정을 위한 실행 계획에 대해 알아봅니다 |
+| 2023년 9월 | Experience Cloud | [효과적인 Audience Activation 전략 설정](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=ko) | 고객 성공 웨비나 | 데이터 관리 전략의 중요성, Adobe Audience Manager 개요 및 기능, Adobe Audience Manager 사용 사례, 데이터 관리 전략 설정을 위한 작업 계획을 알아봅니다. |
 | 2023년 여름 | Experience Cloud | [Experience Cloud 애플리케이션에 대한 통합 튜토리얼 홈](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | 비디오 | 가장 일반적인 Experience Cloud 애플리케이션 통합에 대해 알아보십시오. [솔루션](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=ko) 또는 [애플리케이션](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=ko)으로 통합 튜토리얼을 탐색하십시오. 이 콘텐츠는 자주 업데이트되므로 자주 확인하십시오. |
 
 {style="table-layout:auto"}
@@ -772,13 +772,13 @@ Last updated: **August 9, 2022**
 
 ## ![아이콘](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
-[!DNL Adobe Pass] 는 방송국, 케이블 네트워크 및 서비스 공급자가 개인화된 시청 환경을 제공하며 수익을 창출할 수 있도록 도와주는 멀티스크린 TV 플랫폼입니다.
+[!DNL Adobe Pass]는 매력적이고 개인화된 시청 경험을 통해 수익을 창출할 수 있도록 방송사와 케이블 네트워크 및 서비스 제공업체를 지원하는 멀티스크린 TV 플랫폼입니다.
 
 >[!NOTE]
 >
->_[!DNL Adobe Primetime]_는 이제_[!DNL Adobe Pass]_ 입니다. 리브랜드 작업이 완료될 때까지 가까운 시일 내에 설명서에 두 브랜드 이름이 모두 표시될 수 있습니다.
+>_[!DNL Adobe Primetime]_는 이제_[!DNL Adobe Pass]_&#x200B;입니다. 브랜드 변경 작업이 완료될 때까지 한동안 설명서에서 두 브랜드 이름이 혼용될 수 있습니다.
 
-다음을 참조하십시오 [Adobe Pass 릴리스 노트](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html) 릴리스 관련 정보, 시스템 요구 사항, 제한 사항, 해결된 문제 및 알려진 문제를 찾으려면 .
+릴리스별 정보, 시스템 요구 사항, 제한 사항, 해결된 문제 및 알려진 문제는 [Adobe Pass 릴리스 정보](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)를 참조하십시오.
 
 ## ![아이콘](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
