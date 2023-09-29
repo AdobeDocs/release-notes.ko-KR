@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b889ad2ce5a36b05621fc206e62d5b365a6fb5a3
+source-git-commit: 4f55e03e4909e6e743c0ae97fac779c897dd87ef
 workflow-type: tm+mt
 source-wordcount: '7206'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -89,7 +89,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101: 사용자가 Workfront를 사용하도록 하기_ | **10월 17일 @ 오전 9시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** and **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: [!UICONTROL Edge Delivery Services], Headless 기능, 확장성, 결합성 및 생산성 도구에 대한 심화 세션_ | **11월 6일 오전 9시 (MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** 및 **[!DNL COMMERCE]** | 개발자 라이브 | _Content and Commerce: 딥 다이빙 세션 [!UICONTROL Edge 게재 서비스], 헤드리스 기능, 확장성, 구성 및 생산성 도구_ | **11월 6일 @ 오전 9시(MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 모두 보거나 [이벤트 녹화](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)를 찾아보십시오. 이제 왼쪽 탐색을 사용하여 시리즈 유형 또는 애플리케이션을 기반으로 녹화된 이벤트를 찾아볼 수 있습니다.
 
