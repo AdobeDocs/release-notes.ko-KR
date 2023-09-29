@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
+source-git-commit: b889ad2ce5a36b05621fc206e62d5b365a6fb5a3
 workflow-type: tm+mt
-source-wordcount: '7132'
-ht-degree: 100%
+source-wordcount: '7206'
+ht-degree: 97%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 100%
 
 ## 제품 릴리스 업데이트 및 이벤트
 
-마지막 업데이트: **2023년 9월 19일**
+마지막 업데이트: **2023년 9월 28일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨: **9월 28일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 인터페이스 및 관리](#ecloud)
@@ -50,7 +50,7 @@ ht-degree: 100%
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Journey Optimizer]](#journey-opt) (업데이트됨 **9월 28일**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -77,15 +77,13 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++다가오는 Experience League 이벤트
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101 - Workfront 시작하기_ | **9월 19일 @ 오전 10시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL ANALYTICS]** | 웨비나 | _Adobe Analytics을 통해 실행 가능한 통찰력 발견 및 전달_ | **10월 5일 @ 오전 9시(BST)** | [등록](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM Gems | _AEM as a Cloud Service용 New Relic APM의 기능 활용_ | **9월 20일 @ 오전 8시(PT)** | [등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
+* **[!DNL WORKFRONT]** | 웨비나 | _Adobe Workfront 23.10의 새로운 기능_ | **10월 5일 @ 오전 7시(PT)** | [등록](https://webinars.on24.com/adobe_workfront/whatsnewin2310?partnerref=EXL)
 
-* **[!DNL WORKFRONT]** | Q&amp;A 채팅 | _고객 패널에게 질문하기: Fusion의 이점 및 모범 사례_ | **9월 26일 @ 오전 11시(CT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wwMNpBFpyU6JRZ7t-hkIIQ,SV8DFIlim0ivqJp7uYE5zg,-iWPFBz0s0aNbozaOGyGsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER]** | 웨비나 | _에스프레소 및 Experience Manager: Dynamic Media으로 업그레이드_ | **10월 5일 @ 오후 1시(ET)** | [등록](https://attendee.gotowebinar.com/register/401473910088026710?source%3CExL)
 
-* **[!DNL EXPERIENCE MANAGER SITES]** | 동료로부터 배우기 | _AEM Sites의 도구에 대한 심층 분석_ | **9월 28일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
-
-* **[!DNL WORKFRONT]** | 동료로부터 배우기 | _AEM Sites의 도구에 대한 심층 분석_ | **9월 28일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _전문가에게 문의: Workfront Fusion을 사용하여 작업 프로세스 자동화_ | **10월 5일 @ 오전 11시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Connect: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | **10월 6일 오전 10시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -649,6 +647,11 @@ Adobe [!DNL Journey Optimizer]용으로 게시된 새로운 비디오, 튜토리
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
+| 2023년 9월 | [조각 관리, 작성, 사용](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html) | 비디오 | Adobe Journey Optimizer에서 조각을 관리, 작성, 사용하는 방법을 알아봅니다. |
+| 2023년 9월 | [웹 편집기에서 단일 페이지 애플리케이션(SPA) 지원](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | 비디오 | Journey Optimizer 웹 편집기에서 단일 페이지 애플리케이션(SPA)을 작성하는 방법을 알아봅니다. |
+| 2023년 9월 | [채널 수준 보고서](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | 비디오 | 채널 수준에서 보고서에 액세스, 탐색 및 내보내는 방법을 알아봅니다. |
+| 2023년 9월 | [CSV 형식으로 보고서 내보내기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | 비디오 | 보고서 및 단일 위젯에 대한 CSV 보고서를 다운로드하는 방법을 이해합니다. |
+| 2023년 9월 | [웹 편집기에서 단일 페이지 애플리케이션(SPA) 지원](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | 비디오 | Journey Optimizer 웹 편집기에서 단일 페이지 애플리케이션(SPA)을 작성하는 방법을 알아봅니다. |
 | 2023년 9월 | [여정의 인앱 메시지 만들기](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html) | 비디오 | 인앱 메시지가 무엇이며 여정에 어떻게 적용할 수 있는지 이해합니다. 여정에서 인앱 메시지를 만드는 방법과 여정을 테스트하고 게시하는 방법을 알아보십시오. |
 
 {style="table-layout:auto"}
