@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b3412fc88c958976a09a92056b29f55bc0cd2351
+source-git-commit: 7088f9b9644c7c555c3f1a061adf140c7f95e07a
 workflow-type: tm+mt
-source-wordcount: '7502'
+source-wordcount: '7500'
 ht-degree: 65%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 65%
 
 마지막 업데이트: **2023년 10월 4일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨: **9월 28일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
@@ -79,9 +79,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 * **[!DNL ANALYTICS]** | 웨비나 | _Adobe Analytics을 통해 실행 가능한 통찰력 발견 및 전달_ | **10월 5일 @ 오전 9시(BST)** | [등록](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL WORKFRONT]** | 웨비나 | _Adobe Workfront 23.10의 새로운 기능_ | **10월 5일 @ 오전 7시(PT)** | [등록](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** | 웨비나 | _Adobe Workfront 23.10의 새로운 기능_ | **10월 5일 @ 오전 10시(ET)** | [등록](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
 
-* **[!DNL EXPERIENCE MANAGER]** | 웨비나 | _에스프레소 및 Experience Manager: Dynamic Media으로 업그레이드_ | **10월 5일 @ 오후 1시(ET)** | [등록](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL EXPERIENCE MANAGER]** | 웨비나 | _에스프레소 및 Experience Manager: Dynamic Media으로 업그레이드_ | **10월 5일 @ 오후 11시 MDT** | [등록](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _전문가에게 문의: Workfront Fusion을 사용하여 작업 프로세스 자동화_ | **10월 5일 @ 오전 11시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -89,7 +89,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101: 사용자가 Workfront를 사용하도록 하기_ | **10월 17일 @ 오전 9시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** 및 **[!DNL COMMERCE]** | 개발자 라이브 | _Content and Commerce: 딥 다이빙 세션 [!UICONTROL Edge 게재 서비스], 헤드리스 기능, 확장성, 구성 및 생산성 도구_ | **11월 6일 @ 오전 9시(MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** 및 **[!DNL COMMERCE]** | 개발자 라이브 | _Content and Commerce: 딥 다이빙 세션 [!UICONTROL Edge 게재 서비스], 헤드리스 기능, 확장성, 구성 및 생산성 도구_ | **11월 6일 @ 오전 8시(MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 모두 보거나 [이벤트 녹화](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)를 찾아보십시오. 이제 왼쪽 탐색을 사용하여 시리즈 유형 또는 애플리케이션을 기반으로 녹화된 이벤트를 찾아볼 수 있습니다.
 
