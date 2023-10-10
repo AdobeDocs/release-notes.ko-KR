@@ -84,7 +84,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 * **[!DNL EXPERIENCE MANAGER]** | 웨비나 | _Espressos &amp; Experience Manager: Dynamic Media로 업그레이드_ | **10월 5일 오후 11시(MDT)** | [등록](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
 
-* **[!DNL WORKFRONT]** |고객 워크숍 | _}전문가에게 질문하기: Workfront Fusion을 통한 작업 프로세스 자동화_ | **10월 5일 오전 11시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** |고객 워크숍 | _전문가에게 질문하기: Workfront Fusion을 통한 작업 프로세스 자동화_ | **10월 5일 오전 11시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Connect: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | **10월 6일 오전 10시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -129,7 +129,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 | 기능 | 설명 |
 | ------- | ------- |
 | 도움말 메뉴 | <ul><li>둘러보기는 개요 페이지의 다양한 섹션 및 구성 요소에서 상황에 맞는 도움말을 제공합니다. 또한 사전 알림 구독과 같이 사용자가 수행할 수 있는 작업을 강조 표시합니다.</li><li>개발자 안내서는 [!DNL Status] Adobe Developer 포털의 API 설명서를 나타냅니다. 개발자가 [!DNL Status] API와 내부 대시보드를 통해 제공되는 정보를 통합하는 단계를 이해하는 데 도움이 될 수 있습니다.</li></ul> |
-| 개선 사항 | <ul><li>[!DNL Status] JWT 토큰이 더 이상 사용되지 않으므로 API 설명서는 기본 API 인증 방법인 Oath 2.0으로 업데이트되었습니다.</li><li>기본적으로 이벤트, 인시던트 및 유지 관리 API는 영어 메시지를 반환하고 현지화된 메시지의 로컬 매개 변수를 허용합니다.<ul><li>추가 API를 호출하여 이벤트와 해당 메시지를 가져올 필요가 없습니다. 이제 메시지 토큰과 로컬 지원이 이 API에 내장되어 있습니다.</li></ul></li></ul> |
+| 개선 사항 | <ul><li>[!DNL Status] JWT 토큰이 더 이상 사용되지 않으므로 API 설명서는 기본 API 인증 방법인 Oath 2.0으로 업데이트되었습니다.</li><li>기본적으로 이벤트, 인시던트 및 유지 관리 API는 영어 메시지를 반환하고 현지화된 메시지의 로컬 매개변수를 허용합니다.<ul><li>추가 API를 호출하여 이벤트와 해당 메시지를 가져올 필요가 없습니다. 이제 메시지 토큰과 로컬 지원이 이 API에 내장되어 있습니다.</li></ul></li></ul> |
 | 버그 수정 | <ul><li>이제 클라우드 페이지 배너에 정확한 유지 관리 개수가 표시됨<ul><li>[!DNL Status] 예정된 유지 관리만 있을 때 배너가 비어 있음으로 표시됨</li><li>배너에 진행 중인 유지 관리가 표시되지 않음</li></ul><li>인시던트가 종료되는 동시에 우선 순위가 주요에서 사소로 또는 사소에서 주요로 업데이트되면 종료된 이메일이 제대로 전송됩니다.</li><li>[!DNL Status] API - 중복 이벤트가 제거됨</li><li>모든 구독자가 필요한 이메일을 수신할 수 있도록 오래된 구독 데이터를 정리하고 구독 서비스를 수정했습니다. 이 수정으로 이메일 서비스의 안정성과 성능이 개선되었습니다.</li></ul> |
 
 최신 기능 업데이트는 다음 링크를 참조하십시오.
@@ -212,7 +212,7 @@ Adobe [!DNL Real-Time Customer Data Platform]용으로 게시된 새로운 비�
 
 +++세부 사항
 
-[!DNL Analytics] 릴리스 날짜: **2023년 10월 4일**
+[!DNL Analytics] 릴리스 일자: **2023년 10월 4일**
 
 * [!DNL Analytics] [릴리스 정보](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html)
 
@@ -230,7 +230,7 @@ Adobe [!DNL Analytics]용으로 게시된 새로운 비디오 튜토리얼, 문�
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023년 9월 | [막대 그래프를 사용하여 인사이트 확보: Analytics의 평균 이상](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/unlocking-insights-with-histograms.html?lang=ko) | 비디오 | 평균 이상의 인사이트를 얻기 위해 분석에서 막대 그래프의 영향을 알아봅니다. 막대 그래프는 고객 행동, 방문자 참여, 기술 성능 및 양식 오류의 데이터 패턴을 보여주므로 Adobe Workspace에서 더 깊은 통찰력을 얻고 정보에 입각한 결정을 내릴 수 있습니다. |
+| 2023년 9월 | [막대 그래프를 사용하여 인사이트 확보: Analytics의 평균 이상](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/unlocking-insights-with-histograms.html?lang=ko) | 비디오 | 평균 이상의 인사이트를 얻기 위해 분석에서 막대 그래프의 영향을 알아봅니다. 막대 그래프는 고객 행동, 방문자 참여, 기술 성능 및 양식 오류의 데이터 패턴을 보여 주므로 Adobe Workspace에서 더 깊은 통찰력을 얻고 정보에 입각한 결정을 내릴 수 있습니다. |
 | 2023년 9월 | [프로젝트 내부 또는 외부 링크](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.html) | 비디오 | [!UICONTROL Analysis Workspace] 프로젝트에서 내부 또는 외부 링크를 생성하는 방법에 대해 알아봅니다. |
 | 2023년 9월 | [계산된 지표에서 차원 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/using-dimensions-in-calculated-metrics.html) | 업데이트된 비디오 | [!UICONTROL 계산된 지표] 빌더에서 차원을 사용하는 방법에 대해 알아봅니다. [!UICONTROL 계산된 지표] 공식에 이를 추가하여 새 지표를 차원 또는 차원 값으로 제한할 수 있습니다. |
 
@@ -253,7 +253,7 @@ Adobe [!DNL Analytics]용으로 게시된 새로운 비디오 튜토리얼, 문�
 
 +++세부 사항
 
-[!DNL Customer Journey Analytics] 릴리스 날짜: **2023년 10월 4일**
+[!DNL Customer Journey Analytics] 릴리스 일자: **2023년 10월 4일**
 
 * [!DNL Customer Journey Analytics] [릴리스 정보](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
@@ -280,7 +280,7 @@ Adobe [!DNL Analytics]용으로 게시된 새로운 비디오 튜토리얼, 문�
 
 +++세부 사항
 
-[!DNL Analytics] 릴리스 날짜: **2023년 10월 4일**
+[!DNL Analytics] 릴리스 일자: **2023년 10월 4일**
 
 * [!DNL Streaming Media Analytics] [릴리스 정보](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
 
@@ -404,7 +404,7 @@ _얼리 어답터 프로그램_
 
 ### [!DNL Experience Manager] as a [!DNL Cloud Service Foundation]
 
-* **캠페인 관련 URL 매개 변수에 대한 새로운 CDN 캐싱 비헤이비어** – 기본적으로 새 환경에서 CDN은 마케팅 관련 쿼리 매개 변수를 제거하여 마케팅 캠페인 성과와 캐시 적중률을 높입니다. 기존 환경은 영향을 받지 않습니다. [자세히 알아보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=en#marketing-parameters).
+* **캠페인 관련 URL 매개변수에 대한 새로운 CDN 캐싱 비헤이비어** – 기본적으로 새 환경에서 CDN은 마케팅 관련 쿼리 매개변수를 제거하여 마케팅 캠페인 성과와 캐시 적중률을 높입니다. 기존 환경은 영향을 받지 않습니다. [자세히 알아보기](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=en#marketing-parameters).
 * **트래픽 필터 규칙(WAF 규칙 포함) 얼리 어답터 프로그램** – 다음을 기준으로 CDN에서 트래픽을 필터링할 수 있습니다.
 
    * 요청 헤더 및 속성(예: IP 주소)
@@ -535,7 +535,7 @@ Experience Manager에 대해 게시된 새로운 비디오, 튜토리얼 또는 
 |---------|--------|---------|---------|
 | 2023년 9월 | [수동 번역 작업이 “진행 중” 상태로 정지됨](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22846.html) | 신규 문서 | 번역된 콘텐츠를 가져온 후 번역 작업이 *진행 중* 상태로 정지되는 경우 문제에 대한 솔루션을 알아봅니다. |
 | 2023년 9월 | [권한이 AEM as a Cloud Service에서 예기치 않게 사라짐](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22839.html) | 신규 문서 | 권한이 AEM as a Cloud Service에서 예기치 않게 사라지는 문제에 대한 솔루션을 알아봅니다. |
-| 2023년 9월 | [게시/미리 보기에서 나머지 노드를 삭제하는 방법](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22828.html) | 신규 문서 | [!DNL AEM as a Cloud Service]의 [게시/미리보기]에서 나머지 노드를 삭제하는 방법에 대해 알아봅니다. |
+| 2023년 9월 | [게시/미리보기에서 나머지 노드를 삭제하는 방법](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22828.html) | 신규 문서 | [!DNL AEM as a Cloud Service]의 [게시/미리보기]에서 나머지 노드를 삭제하는 방법에 대해 알아봅니다. |
 | 2023년 9월 | [작성자를 수동으로 전환한 후 SSL 인증서가 원래대로 복구됨](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22814.html) | 신규 문서 | 작성자를 수동으로 전환한 후 SSL 인증서가 원래대로 복구되는 문제를 해결하는 방법에 대해 알아봅니다. |
 | 2023년 9월 | [작성자에서 DAM 자산 콘솔을 로드할 수 없음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22786.html) | 신규 문서 | `/assets.html/content/dam`을 사용하여 자산 AEM 콘솔에 액세스하는 동안 화면이 비어 있는 경우 문제에 대한 솔루션을 알아봅니다. |
 | 2023년 9월 | 사용자 정의 태그에 대한 [*스마트 트레이닝* 실패](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22781.html) | 신규 문서 | 사용자 정의 태그에 대한 *스마트 트레이닝*&#x200B;이 실패하는 경우 문제에 대한 솔루션을 알아봅니다. |
@@ -834,7 +834,7 @@ Last updated: **August 9, 2022**
 
 >[!NOTE]
 >
->_[!DNL Adobe Primetime]_는 이제_[!DNL Adobe Pass]_&#x200B;입니다. 브랜드 변경 작업이 완료될 때까지 한동안 설명서에서 두 브랜드 이름이 혼용될 수 있습니다.
+>_[!DNL Adobe Primetime]_은 이제_[!DNL Adobe Pass]_&#x200B;입니다. 브랜드 변경 작업이 완료될 때까지 한동안 설명서에서 두 브랜드 이름이 혼용될 수 있습니다.
 
 릴리스별 정보, 시스템 요구 사항, 제한 사항, 해결된 문제 및 알려진 문제는 [Adobe Pass 릴리스 정보](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)를 참조하십시오.
 
