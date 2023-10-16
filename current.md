@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 230040e579ffeedd77e493036bf23f0c1ea33d63
+source-git-commit: 3357c889fb9ab09031776b8f1293db451e090cc9
 workflow-type: tm+mt
-source-wordcount: '7515'
+source-wordcount: '7491'
 ht-degree: 99%
 
 ---
@@ -19,15 +19,11 @@ ht-degree: 99%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-**2023년 10월**
-
-이 페이지는 Experience League의 제품 릴리스 정보, 이벤트 및 학습 기회에 대한 최신 정보를 유지하는 데 도움이 됩니다. 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
-
-## 제품 릴리스 업데이트 및 이벤트
-
 [Experience League](https://experienceleague.adobe.com/#home)에 로그인하고 Adobe의 자가 진단 리소스 라이브러리에서 검색 환경을 사용자 정의하십시오. 모든 수준과 역할에 대한 [제품 설명서](https://experienceleague.adobe.com/docs/), [튜토리얼 비디오](https://experienceleague.adobe.com/docs/home-tutorials.html), [과정](https://experienceleague.adobe.com/#courses) 및 [이벤트](https://experienceleague.adobe.com/events/)를 찾아보십시오. 필요한 순간에 온라인 동료 [커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=en)에서 질문을 하고, 전문가 [지원](https://experienceleague.adobe.com/?support-tab=home#support)을 받아보십시오.
 
-업데이트됨: **2023년 10월 9일**
+이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
+
+**2023년 10월 9일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
