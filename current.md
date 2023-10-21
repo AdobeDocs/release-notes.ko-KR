@@ -6,10 +6,10 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3357c889fb9ab09031776b8f1293db451e090cc9
+source-git-commit: ed821b19b77e3aa2d99e5e15445929996db7381d
 workflow-type: tm+mt
-source-wordcount: '7491'
-ht-degree: 99%
+source-wordcount: '7449'
+ht-degree: 97%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 99%
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
-**2023년 10월 9일**
+**2023년 10월 20일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **10월 20일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
@@ -68,17 +68,17 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++다가오는 Experience League 이벤트
 
-* **[!DNL ANALYTICS]** | 웨비나 | _Adobe Analytics를 사용하여 실행 가능한 인사이트 검색 및 제공_ | **10월 5일 오전 9시(BST)** | [등록](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
+* **[!DNL Experience Manager as a Cloud Service]** | 실시간 스트리밍 | _Adobe Experience Manager에 대한 클라우드 기반 이벤트_ | **10월 24일 @ 오전 8시(PT)** | [등록](https://www.eventbrite.com/e/app-builder-live-cloud-native-events-for-adobe-experience-manager-tickets-694888017767?aff=exlg)
 
-* **[!DNL WORKFRONT]** | 웨비나 | _Adobe Workfront 23.10의 새로운 기능_ | **10월 5일 오전 10시(ET)** | [등록](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _전문가에게 문의: Workfront Fusion을 통한 시스템 및 애플리케이션 연결_ | **10월 24일 @ 오전 10시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,FBqPQ3xqdE2fRH684eBr1w,mDVfeVEOMU-j3LBMxIsx1A,0KtOWSQCkUunbvAhiNDxzA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER]** | 웨비나 | _Espressos &amp; Experience Manager: Dynamic Media로 업그레이드_ | **10월 5일 오후 11시(MDT)** | [등록](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL WORKFRONT]** | Coffee Break | _Workfront Coffee Break: 채택을 위한 커뮤니케이션 방법_ | **10월 26일 @ 오전 8시 30분 PTT** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
 
-* **[!DNL WORKFRONT]** |고객 워크숍 | _전문가에게 질문하기: Workfront Fusion을 통한 작업 프로세스 자동화_ | **10월 5일 오전 11시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Experience League 라이브 | _Workfront 릴리스 딥 다이브 - 새로운 Workfront 홈_ | **10월 26일 @ 오전 9시(PT)** | [등록](https://engage.adobe.com/ExpLeagueLive-231026.html)
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Connect: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | **10월 6일 오전 10시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe Workfront 2023년 4분기 릴리스 라운드업_ | **10월 31일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101: 사용자가 Workfront를 사용하도록 하기_ | **10월 17일 오전 9시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | 웨비나 | _리테일 분야의 옴니채널 과제 극복_ | **11월 1일 @ 오전 9시(PT)** | [등록](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
 * **[!DNL AEM]** 및 **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: [!UICONTROL Edge Delivery Services], Headless 기능, 확장성, 결합성 및 생산성 도구에 대한 심화 세션_ | **11월 6일 오전 8시 (MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
