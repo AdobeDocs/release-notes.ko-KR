@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ba91a6738c4adceafa590bd667829040b1532b3a
+source-git-commit: 790546c9672ac26887a54b6e7dfcc8de914bc79c
 workflow-type: tm+mt
-source-wordcount: '6776'
+source-wordcount: '6774'
 ht-degree: 69%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 69%
 
 마지막 업데이트: **2023년 10월 25일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **10월 20일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
