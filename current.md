@@ -1,15 +1,15 @@
 ---
 title: 최신 릴리스 정보
-description: Adobe [!DNL Experience Cloud] 제품 및 서비스에 대한 최신 릴리스 정보를 참조하십시오. Experience League에서 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud] 애플리케이션의 최신 튜토리얼 및 교육 과정을 살펴보십시오.
+description: Adobe에 대한 최신 릴리스 정보 찾기 [!DNL Experience Cloud] 제품 및 서비스. Experience League에서 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud] 애플리케이션의 최신 튜토리얼 및 교육 과정을 살펴보십시오.
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 790546c9672ac26887a54b6e7dfcc8de914bc79c
+source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
 workflow-type: tm+mt
-source-wordcount: '6774'
-ht-degree: 69%
+source-wordcount: '6940'
+ht-degree: 66%
 
 ---
 
@@ -17,28 +17,35 @@ ht-degree: 69%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-
 <!-- ![Banner](assets/release-notes-header.png) -->
 
+이 페이지는 Experience Cloud 및 Adobe 엔터프라이즈 애플리케이션에 대한 릴리스 정보를 찾는 데 도움이 됩니다. 최상의 자가 진단 경험을 얻으려면 로그인 [Experience League](https://experienceleague.adobe.com/#home) Adobe의 무료 자습 리소스 라이브러리에서 다음과 같은 검색 경험을 사용자 지정할 수 있습니다.
 
-[Experience League](https://experienceleague.adobe.com/#home)에 로그인하고 Adobe의 자가 진단 리소스 라이브러리에서 검색 환경을 사용자 정의하십시오. 모든 수준과 역할에 대한 [제품 설명서](https://experienceleague.adobe.com/docs/), [튜토리얼 비디오](https://experienceleague.adobe.com/docs/home-tutorials.html), [과정](https://experienceleague.adobe.com/#courses) 및 [이벤트](https://experienceleague.adobe.com/events/)를 찾아보십시오. 필요한 순간에 온라인 동료 [커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=en)에서 질문을 하고, 전문가 [지원](https://experienceleague.adobe.com/?support-tab=home#support)을 받아보십시오.
+* [제품 설명서](https://experienceleague.adobe.com/docs/)
+* [튜토리얼 비디오](https://experienceleague.adobe.com/docs/home-tutorials.html)
+* [교육 과정](https://experienceleague.adobe.com/#courses)
+* [Experience League 이벤트](https://experienceleague.adobe.com/events/)
+* [제품별 커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=en)
+* [애플리케이션 지원](https://experienceleague.adobe.com/?support-tab=home#support)
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
-**2023년 11월**
+<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
-마지막 업데이트: **2023년 10월 25일**
+## 2023년 11월
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+마지막 업데이트: **2023년 10월 27일**
+
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **10월 27일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
-* [[!DNL Adobe Experience Platform]](#platform)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Experience Platform]](#platform) (릴리스됨 **10월 25일**)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
+* [[!DNL Adobe Analytics]](#analytics) (릴리스됨 **10월 25일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (릴리스됨 **10월 25일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (릴리스됨 **10월 26일**)
 * [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -64,15 +71,23 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++다가오는 Experience League 이벤트
 
-* **[!DNL WORKFRONT]** | Coffee Break | _Workfront Coffee Break: 채택을 위한 커뮤니케이션 방법_ | **10월 26일 @ 오전 8시 30분 PTT** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
-
-* **[!DNL WORKFRONT]** | Experience League 라이브 | _Workfront 릴리스 딥 다이브 - 새로운 Workfront 홈_ | **10월 26일 @ 오전 9시(PT)** | [등록](https://engage.adobe.com/ExpLeagueLive-231026.html)
-
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe Workfront 2023년 4분기 릴리스 라운드업_ | **10월 31일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE PLATFORM]** | 웨비나 | _리테일 분야의 옴니채널 과제 극복_ | **11월 1일 @ 오전 9시(PT)** | [등록](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
+* **[!DNL CAMPAIGN]** | 웨비나 | _Adobe Campaign: 크로스채널 캠페인을 원활하게 오케스트레이션, 실행 및 측정할 수 있습니다_ | **11월 2일 @ 오전 9시(BST)** | [등록](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+
+* **[!DNL MARKETO]** 및 **[!DNL MARKETO ENGAGE]** | 동료로부터 학습 | _Marketo Engage 및 Dynamic Chat을 사용하여 사일로된 채널 및 데이터 문제 해결_ | **11월 2일 @ 오전 8시(pT)** | [등록](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+
+* **[!DNL ANALYTICS]** | 동료로부터 학습 | _Adobe Analytics의 영향력 있는 데이터 시각화의 예술과 과학_ | **11월 2일 @ 오전 11시(ET)** | [등록](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+
+* **[!DNL WORKFRONT]** | 동료로부터 학습 | _고객 패널에 문의 - 그룹 관리자 시작하기_ | **11월 2일 @ 오전 10시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _Connect: 마케팅 및 크리에이티브용 관리자 채팅_ | **11월 3일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL AEM]** 및 **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: [!UICONTROL Edge Delivery Services], Headless 기능, 확장성, 결합성 및 생산성 도구에 대한 심화 세션_ | **11월 6일 오전 8시 (MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+
+* **[!DNL EXPERIENCE MANAGER SITES]** | 웨비나 | _효율적인 콘텐츠 생성 및 관리_ | **11월 7일 @ 오전 8시(PT)** | [등록](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
 
 더 보기 [예정된 이벤트](https://experienceleague.adobe.com/events/) 또는 찾아보기 [이벤트 녹화본](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) Experience League.
 
@@ -141,7 +156,7 @@ Experience Cloud 중앙 인터페이스 구성 요소에 대한 도움말은 [Ex
 
 +++세부 사항
 
-* [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (**10월 25일**)
 
 * [[!DNL Experience Platform] Mobile SDK 릴리스 정보](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
