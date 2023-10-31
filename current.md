@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
 workflow-type: tm+mt
 source-wordcount: '6940'
-ht-degree: 66%
+ht-degree: 96%
 
 ---
 
@@ -71,9 +71,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++다가오는 Experience League 이벤트
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe Workfront 2023년 4분기 릴리스 라운드업_ | **10월 31일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe Workfront 2023년 4분기 릴리스 요약_ | **10월 31일 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | 웨비나 | _리테일 분야의 옴니채널 과제 극복_ | **11월 1일 @ 오전 9시(PT)** | [등록](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
+* **[!DNL EXPERIENCE PLATFORM]** | 웨비나 | _소매업 분야의 옴니채널 과제 극복하기_ | **11월 1일 오전 9시(PT)** | [등록](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
 * **[!DNL CAMPAIGN]** | 웨비나 | _Adobe Campaign: 크로스채널 캠페인을 원활하게 오케스트레이션, 실행 및 측정할 수 있습니다_ | **11월 2일 @ 오전 9시(BST)** | [등록](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
@@ -85,11 +85,11 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _Connect: 마케팅 및 크리에이티브용 관리자 채팅_ | **11월 3일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** 및 **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: [!UICONTROL Edge Delivery Services], Headless 기능, 확장성, 결합성 및 생산성 도구에 대한 심화 세션_ | **11월 6일 오전 8시 (MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** 및 **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: [!UICONTROL Edge Delivery Services], Headless 기능, 확장성, 결합성 및 생산성 도구에 대한 심화 세션_ | **11월 6일 오전 8시(MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 * **[!DNL EXPERIENCE MANAGER SITES]** | 웨비나 | _효율적인 콘텐츠 생성 및 관리_ | **11월 7일 @ 오전 8시(PT)** | [등록](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
 
-더 보기 [예정된 이벤트](https://experienceleague.adobe.com/events/) 또는 찾아보기 [이벤트 녹화본](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) Experience League.
+Experience League에서 더 많은 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [이벤트 녹화](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)를 검색하십시오.
 
 +++
 
@@ -99,7 +99,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-다음 [Experience Cloud 인증](https://experienceleague.adobe.com/docs/certification/program/overview.html) 사이트는 모든 사용자를 위한 원스톱 샵입니다. [!DNL Experience Cloud] 인증 관련 콘텐츠 및 가 다음과 같이 정기적으로 업데이트됩니다.
+[Experience Cloud 인증](https://experienceleague.adobe.com/docs/certification/program/overview.html) 사이트는 모든 [!DNL Experience Cloud] 인증 관련 콘텐츠에 대한 종합적인 정보를 제공하며 다음 항목을 포함하여 정기적으로 업데이트됩니다.
 
 * 사용 가능한 인증
 * Adobe 애플리케이션에 대한 인증 갱신
@@ -126,7 +126,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 | 기능 | 설명 |
 | ------- | ------- |
 | 도움말 메뉴 | <ul><li>둘러보기는 개요 페이지의 다양한 섹션 및 구성 요소에서 상황에 맞는 도움말을 제공합니다. 또한 사전 알림 구독과 같이 사용자가 수행할 수 있는 작업을 강조 표시합니다.</li><li>개발자 안내서는 [!DNL Status] Adobe Developer 포털의 API 설명서를 나타냅니다. 개발자가 [!DNL Status] API와 내부 대시보드를 통해 제공되는 정보를 통합하는 단계를 이해하는 데 도움이 될 수 있습니다.</li></ul> |
-| 개선 사항 | <ul><li>[!DNL Status] JWT 토큰이 더 이상 사용되지 않으므로 API 설명서는 기본 API 인증 방법인 Oath 2.0으로 업데이트되었습니다.</li><li>기본적으로 이벤트, 인시던트 및 유지 관리 API는 영어 메시지를 반환하고 현지화된 메시지의 로컬 매개변수를 허용합니다.<ul><li>이벤트를 가져오기 위해 추가 API를 호출할 필요가 없으며, 메시지(메시지 토큰 및 로케일 지원)가 이제 이러한 API에 기본 제공됩니다.</li></ul></li></ul> |
+| 개선 사항 | <ul><li>[!DNL Status] JWT 토큰이 더 이상 사용되지 않으므로 API 설명서는 기본 API 인증 방법인 Oath 2.0으로 업데이트되었습니다.</li><li>기본적으로 이벤트, 인시던트 및 유지 관리 API는 영어 메시지를 반환하고 현지화된 메시지의 로컬 매개변수를 허용합니다.<ul><li>추가 API를 호출하여 이벤트와 해당 메시지를 가져올 필요가 없습니다. 이제 메시지 토큰과 로컬 지원이 이 API에 내장되어 있습니다.</li></ul></li></ul> |
 | 버그 수정 | <ul><li>이제 클라우드 페이지 배너에 정확한 유지 관리 개수가 표시됨<ul><li>[!DNL Status] 예정된 유지 관리만 있을 때 배너가 비어 있음으로 표시됨</li><li>배너에 진행 중인 유지 관리가 표시되지 않음</li></ul><li>인시던트가 종료되는 동시에 우선 순위가 주요에서 사소로 또는 사소에서 주요로 업데이트되면 종료된 이메일이 제대로 전송됩니다.</li><li>[!DNL Status] API - 중복 이벤트가 제거됨</li><li>모든 구독자가 필요한 이메일을 수신할 수 있도록 오래된 구독 데이터를 정리하고 구독 서비스를 수정했습니다. 이 수정으로 이메일 서비스의 안정성과 성능이 개선되었습니다.</li></ul> |
 
 최신 기능 업데이트는 다음 링크를 참조하십시오.
@@ -166,8 +166,8 @@ Adobe [!DNL Experience Platform]용으로 게시된 새로운 비디오, 튜토�
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2023년 10월 | Marketo Engage | [Marketo Engage에서 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=ko-kr) | 비디오 | 두 개의 워크플로우를 사용하여 소스 커넥터를 사용하여 Marketo Engage의 데이터를 Real-time Customer Data Platform, B2B 에디션 및 Adobe Experience Platform으로 손쉽게 수집하는 방법에 대해 알아봅니다. |
-| 2023년 10월 | 샌드박스 | [샌드박스 간 개체 복사](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/copy-objects-between-sandboxes.html) | 비디오 | (Beta) 패키지를 사용하여 Experience Platform 샌드박스 간에 개체를 복사하는 방법을 알아봅니다. 샌드박스 전체에서 스키마, 데이터 세트, 여정 등을 손쉽게 복제하여 릴리스 프로세스 및 다중 지역/다중 브랜드 배포를 지원합니다. |
+| 2023년 10월 | Marketo Engage | [Marketo Engage에서 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=en) | 비디오 | 두 가지 워크플로를 사용하는 소스 커넥터를 사용하여 Marketo Engage의 데이터를 Real-Time Customer Data Platform, B2B Edition 및 Adobe Experience Platform으로 간편하게 수집하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | 샌드박스 | [샌드박스 간 오브젝트 복사](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/copy-objects-between-sandboxes.html) | 비디오 | (Beta) 패키지를 사용하여 Experience Platform 샌드박스 간에 오브젝트를 복사하는 방법에 대해 알아봅니다. 샌드박스 전체에서 스키마, 데이터 세트, 여정 등을 손쉽게 복제하여 릴리스 프로세스와 다중 지역/다중 브랜드 배포를 지원할 수 있습니다. |
 
 {style="table-layout:auto"}
 
@@ -223,9 +223,9 @@ Adobe [!DNL Analytics]용으로 게시된 새로운 비디오 튜토리얼, 문�
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023년 10월 | [세분화에서의 Dimension 모델](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/dimension-models-in-segmentation.html?lang=en) | 비디오 | Dimension 모델은 [!UICONTROL 속성 모델] 세분화에서의 모든 차원에 대한 (톱니바퀴 아이콘) 이러한 모델은 주로 순차적 세그먼테이션에 유용합니다. 차원의 지속된 값(기본값), 차원의 인스턴스 또는 비반복 인스턴스를 세그먼트화할 수 있습니다. |
-| 2023년 10월 | [개별 Dimension 카운트에 대한 세분화](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-on-distinct-dimension-counts.html?lang=en) | 비디오 | 세그먼트 빌더에서 개별 카운트 연산자를 사용하여 모든 차원 내에서 고유한 항목의 수를 기반으로 세그먼트를 만드는 방법을 알아봅니다. |
-| 2023년 10월 | [세그먼트의 롤링 기간](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/rolling-date-ranges-in-segments.html?lang=en) | 비디오 | 세그먼트에서 롤링 날짜 범위를 사용하는 방법을 알아보고, &quot;지난 주 내에 구매한 사람&quot; 또는 &quot;지난 60일 내에 내 사이트를 방문한 사람&quot;과 같은 세그먼트를 만들 수 있습니다. |
+| 2023년 10월 | [세분화에서의 차원 모델](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/dimension-models-in-segmentation.html?lang=en) | 비디오 | 세분화에서의 모든 차원에 대한 [!UICONTROL 속성 모델](기어 아이콘)을 통해 차원 모델을 사용할 수 있습니다. 이러한 모델은 주로 순차적 세분화에 유용합니다. 이를 통해 차원(기본값)의 지속 값, 인스턴스 또는 차원의 반복되지 않는 인스턴스를 세그먼트화할 수 있습니다. |
+| 2023년 10월 | [개별 차원 카운트에 대한 세분화](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-on-distinct-dimension-counts.html?lang=en) | 비디오 | 세그먼트 빌더의 개별 카운트 연산자를 사용하여 모든 차원에서 고유 항목 수에 따라 세그먼트를 만드는 방법에 대해 알아봅니다. |
+| 2023년 10월 | [세그먼트의 순환 날짜](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/rolling-date-ranges-in-segments.html?lang=en) | 비디오 | 세그먼트의 순환 날짜 범위를 사용하여 “지난 주에 구매한 사람” 또는 “지난 60일 이내에 내 사이트를 방문한 사람”과 같은 세그먼트를 만드는 방법에 대해 알아봅니다. |
 
 <!-- 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -254,8 +254,8 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023년 10월 | [Customer Journey Analytics의 통화 전환](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/currency-conversion.html) | 비디오 | 의 설정을 통해 Customer Journey Analytics에서 통화 변환 수행 [!UICONTROL 데이터 보기]. 이 기능을 사용하여 여러 통화로 표시할 여러 지표를 만들 수 있습니다. |
-| 2023년 10월 | [Customer Journey Analytics에서 개체 배열 사용](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/use-cases/complex-data/object-arrays-in-cja.html) | 비디오 | Customer Journey Analytics의 프로필 및 조회 데이터 세트에서 개체 배열을 사용하여 B2B 및 B2C 분석을 보강하는 방법에 대해 알아봅니다 [!UICONTROL 연결], 대상 [!UICONTROL 데이터 보기], 및 [!UICONTROL 작업 영역]. |
+| 2023년 10월 | [Customer Journey Analytics의 통화 전환](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/currency-conversion.html) | 비디오 | [!UICONTROL 데이터 보기]의 설정을 통해 Customer Journey Analytics에서 통화 전환을 수행할 수 있습니다. 이 기능을 사용하면 여러 지표를 만들어 다양한 통화로 표시할 수 있습니다. |
+| 2023년 10월 | [Customer Journey Analytics에서 오브젝트 배열 사용](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/use-cases/complex-data/object-arrays-in-cja.html) | 비디오 | Customer Journey Analytics의 프로필 및 조회 데이터 세트에서 오브젝트 배열을 사용하여 [!UICONTROL 연결]부터 [!UICONTROL 데이터 보기], [!UICONTROL 작업 영역]까지 B2B 및 B2C 분석을 보완할 수 있는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
@@ -318,9 +318,9 @@ Experience Manager의 새로운 기능, 수정 내용 및 업데이트. Adobe는
 
 ### 최신 릴리스 개요 비디오
 
-시청 [2023년 9월 릴리스 개요 비디오](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-9-0.html) 2023.09.0(2023년 9월) 릴리스에 추가된 기능에 대한 간단한 요약을 살펴보십시오.
+[2023년 9월 릴리스 개요 비디오](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-9-0.html)를 시청하여 2023.09.0(2023년 9월) 릴리스에 추가된 기능에 대한 간단한 요약을 살펴보십시오.
 
-### AEM as a Cloud Service Edge Delivery Services
+### AEM as a Cloud Service용 Edge Delivery Services
 
 Edge Delivery는 고객 상호 작용 시점에서 측정 가능한 비즈니스 결과를 도출하기 위해 콘텐츠가 미치는 영향을 극대화하는 데 역점을 둔 구성 가능한 새로운 서비스 세트입니다.
 
@@ -356,8 +356,8 @@ _New feature in prerelease channel_
 _새로운 기능_
 
 * **[Google reCAPTCHA Enterprise 지원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=en)** - 적응형 양식에서 Google reCAPTCHA Enterprise를 사용해 사기 행위 및 스팸 방지 기능을 강화하여 보다 안전한 사용자 환경을 제공합니다. 고급 위험 분석 및 원활한 통합을 통해 실제 사용자가 양식을 쉽게 제출할 수 있는 동시에 봇이 효과적으로 차단됩니다.
-* **[양식용 Experience Cloud 설정 자동화를 사용하는 Adobe Analytics](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/enable-adobe-analytics-adaptive-form-using-experience-cloud-setup-automation.html?lang=en)** - 이제 버튼 클릭 몇 번이면 Experience Cloud 설정 자동화를 사용하여 Adobe Analytics를 활성화할 수 있습니다. AEM에 연결할 수 있습니다 [!DNL Forms] as a Cloud Service Experience Platform 태그와 Adobe Analytics을 사용하여 게시된 양식에 대한 성능 지표를 캡처하고 추적할 수 있습니다.
-* **[적응형 Forms용 Adobe Analytics 보고서 템플릿](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/view-understand-aem-forms-analytics-reports.html?lang=en)** - [!DNL Forms as a Cloud Service] 는 이제 Adobe Analytics 보고서 OOTB를 제공합니다. 이렇게 하면 양식의 성능을 손쉽게 이해할 수 있습니다. 양식 수준 지표를 통해 렌디션, 방문자, 제출, 평균 채우기 시간 등 여러 주요 성과 지표(KPI)에서 양식이 어떻게 수행되는지에 대한 인사이트를 얻습니다. 사용자 행동 및 피드백을 추적하여 혼동을 주는 양식의 영역을 식별하고 양식의 디자인 및 기능을 개선할 수 있습니다.
+* **[양식용 Experience Cloud 설정 자동화를 사용하는 Adobe Analytics](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/enable-adobe-analytics-adaptive-form-using-experience-cloud-setup-automation.html?lang=en)** - 이제 버튼 클릭 몇 번이면 Experience Cloud 설정 자동화를 사용하여 Adobe Analytics를 활성화할 수 있습니다. 이를 통해 AEM [!DNL Forms] as a Cloud Service를 Experience Platform 태그 및 Adobe Analytics와 연결하여 게시된 양식에 대한 성능 지표를 캡처하고 추적할 수 있습니다.
+* **[적응형 양식용 Adobe Analytics 보고서 템플릿](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/view-understand-aem-forms-analytics-reports.html?lang=en)** - 이제 [!DNL Forms as a Cloud Service]는 Adobe Analytics 보고서를 기본 제공합니다. 이렇게 하면 양식의 성능을 손쉽게 이해할 수 있습니다. 양식 수준 지표를 통해 렌디션, 방문자, 제출, 평균 채우기 시간 등 여러 주요 성과 지표(KPI)에서 양식이 어떻게 수행되는지에 대한 인사이트를 얻습니다. 사용자 행동 및 피드백을 추적하여 혼동을 주는 양식의 영역을 식별하고 양식의 디자인 및 기능을 개선할 수 있습니다.
 * **[핵심 구성 요소 기반 적응형 양식의 양식 조각](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=ko)** – 양식 조각으로 양식 작성 경험을 높이면서 중복을 제거하고, 디지털 인벤토리를 최적화하고, 공동 작업을 개선합니다. 이러한 재사용 가능한 구성 요소는 여러 양식에 원활하게 통합되어 일관성 있게 전문가 수준의 양식 작성을 간소화합니다. 양식 조각의 “한번 변경하여 전체 반영” 기능을 통해 재사용성, 표준화와 브랜드 일관성을 보장합니다. 한 위치에서의 업데이트가 이러한 조각을 사용하는 모든 양식에 자동으로 전파되므로 유지 관리 가능성과 효율성이 개선됩니다.
 * **[개선된 Adobe Sign 워크플로 단계](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=ko#sign-document-step-sign-document-step)** – Adobe Sign 워크플로 단계는 다음을 포함하도록 개선되었습니다.
 
@@ -382,7 +382,7 @@ _얼리 어답터 프로그램_
    * 양식 애플리케이션과 함께 독점 사용자 인터페이스 구성 요소 재사용
    * AEM Forms의 기능 사용
 
-  다음으로 이메일 보내기 [aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) 얼리어답터 프로그램에 참여할 수 있도록 공식 이메일 ID에서.
+  공식 이메일 ID에서 [aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com)으로 이메일을 보내 얼리 어답터 프로그램에 참여할 수 있습니다.
 
 ### [!DNL Experience Manager] as a [!DNL Cloud Service Foundation]
 
@@ -400,54 +400,54 @@ _얼리 어답터 프로그램_
 
 _새로운 기능_
 
-* 개선 사항 [색인화](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html?lang=en) 새 인덱스를 배포할 때 파이프라인 지속 시간이 단축되었습니다.
+* [색인화](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html?lang=en) 개선으로 새 인덱스를 배포할 때 파이프라인 기간이 단축되었습니다.
    * 개선 사항은 콘텐츠 프로필에 따라 다릅니다.
-* 자동 [개발 환경에 대한 업데이트](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en#updating-environments) 새 프로그램에 대해 기본적으로 활성화되어 업데이트를 수동으로 실행해야 하는 시간을 절약할 수 있습니다.
-   * 이 업데이트는 단계적으로 배포됩니다.
-* Cloud Manager의 2023년 10월 릴리스부터 Java™ 버전이 단계적 롤아웃으로 업데이트됩니다.
-   * Java™ 8 및 11과 Maven의 부 버전이 업데이트되었으며 향후 2개월에 걸쳐 단계적으로 출시될 예정입니다. 새 버전에는 여러 보안 수정 사항 및 버그 수정 사항이 있습니다. 새 버전은 다음과 같습니다.
+* [개발 환경 자동 업데이트](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en#updating-environments)가 새 프로그램에 대해 기본적으로 활성화되어 있으므로 업데이트를 수동으로 실행하는 데 드는 시간을 절약할 수 있습니다.
+   * 이 업데이트는 단계적으로 출시됩니다.
+* Cloud Manager의 2023년 10월 릴리스에서는 Java™ 버전이 단계적 출시를 통해 업데이트되고 있습니다.
+   * Java™ 8 및 11과 Maven의 보조 버전이 업데이트되었으며 향후 2개월에 걸쳐 단계적으로 출시될 예정입니다. 새 버전에는 여러 보안 수정 사항과 버그 수정이 포함되어 있습니다. 새 버전은 다음과 같습니다.
       * Maven: 3.8.8
       * Java™ 8 버전: `/usr/lib/jvm/jdk1.8.0_371`
       * Java™ 11 버전: `/usr/lib/jvm/jdk-11.0.20`
-      * [OpenJDK 설명서를 참조하십시오](https://openjdk.org/groups/vulnerability/advisories/) 이러한 JDK 업데이트의 보안 및 버그 수정에 대한 자세한 내용을 알아보십시오.
+      * 이러한 JDK 업데이트의 보안 및 버그 수정에 대한 자세한 내용은 [OpenJDK 자문을 참조](https://openjdk.org/groups/vulnerability/advisories/)하십시오.
 
 _얼리 어답터 프로그램_
 
 Adobe의 얼리 어답터 프로그램에 참여하여 향후 기능을 테스트할 기회를 얻으십시오.
 
-* **사용자 지정 권한** - Cloud Manager 사용자 정의 권한을 사용하면 구성 가능한 권한이 있는 사용자 정의 권한 프로필을 만들어 Cloud Manager 사용자의 프로그램, 파이프라인 및 환경에 대한 액세스를 제한할 수 있습니다.
+* **사용자 정의 권한** - Cloud Manager 사용자 정의 권한을 사용하여 Cloud Manager 사용자의 프로그램, 파이프라인 및 환경에 대한 액세스를 제한하는 구성 가능한 권한으로 사용자 정의 권한 프로필을 생성할 수 있습니다.
 
-  이 새로운 기능을 테스트하고 피드백을 공유하는 데 관심이 있으십니까? 이메일 보내기 [Grp-CloudManager-custom-permissions@adobe.com](mailto:Grp-CloudManager-custom-permissions@adobe.com) (Adobe ID과 연계된 이메일 주소).
+  이 새로운 기능을 테스트하고 피드백을 공유하고 싶으십니까? Adobe ID와 연결된 이메일 주소에서 [Grp-CloudManager-custom-permissions@adobe.com](mailto:Grp-CloudManager-custom-permissions@adobe.com)으로 이메일을 보내 주십시오.
 
 * **셀프서비스 콘텐츠 복원** - [새로운 셀프서비스 콘텐츠 복원 기능](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/restore.html?lang=ko)에서 이제 최대 7일 동안 백업 복원이 제공되며 얼리 어답터는 평가 목적으로 다음 기능을 사용할 수 있습니다.
 
    * 이전 24시간 동안 특정 시점 백업 복원.
    * 최대 7일 동안 고정 시간 복원.
 
-  이 새로운 기능을 테스트하고 피드백을 공유하는 데 관심이 있으십니까? 다음으로 이메일 보내기 [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) Adobe ID과 연계된 이메일. 다음 사항에 유의하십시오.
+  이 새로운 기능을 테스트하고 피드백을 공유하고 싶으십니까? Adobe ID와 연결된 이메일에서 [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com)으로 이메일을 보내 주십시오. 다음 사항에 유의하십시오.
 
    * 얼리 어답터 프로그램은 개발 환경으로만 제한됩니다.
    * 이 기능에 대한 얼리 어답터 프로그램의 가용성은 제한적입니다.
    * 이 기능은 실수로 삭제된 콘텐츠를 복구하기 위한 것이며 재해 복구용이 아닙니다.
 
-* **경험 감사 대시보드** - [Cloud Manager 경험 감사 대시보드](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=ko-kr)에는 개선에 도움이 되는 인사이트 및 권장 사항과 함께 페이지 성능 점수의 트렌드 보기가 포함됩니다. 경험 감사는 Cloud Manager 프로덕션 파이프라인의 한 단계로 포함됩니다.
+* **경험 감사 대시보드** - [Cloud Manager 경험 감사 대시보드](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=ko)에는 개선에 도움이 되는 인사이트 및 권장 사항과 함께 페이지 성능 점수의 트렌드 보기가 포함됩니다. 경험 감사는 Cloud Manager 프로덕션 파이프라인의 한 단계로 포함됩니다.
 
   대시보드는 웹 앱의 품질을 개선하기 위한 오픈 소스 자동화 도구인 Google Lighthouse를 사용합니다. 공개 또는 인증이 필요한 모든 웹 페이지에 대해 실행할 수 있습니다. 성능, 접근성, 점진적 웹 앱, SEO 등에 대한 감사가 있습니다.
 
-  새 대시보드를 테스트해 보고 싶으십니까? 다음으로 이메일 보내기 [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com) Adobe ID과 연계된 이메일.
+  새 대시보드를 테스트해 보고 싶으십니까? Adobe ID와 연결된 이메일에서 [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com)으로 이메일을 보내 주십시오.
 
 ### [!DNL Workfront for Experience Manager] 강화 커넥터
 
-Workfront for Experience Manager 강화 커넥터의 최신 버전 1.9.14의 릴리스 날짜는 2023년 10월 13일입니다.
+Workfront for Experience Manager 강화 커넥터의 최신 버전 1.9.14의 릴리스 일자는 2023년 10월 13일입니다.
 
 _릴리스 하이라이트_
 
 Workfront for Experience Manager 강화 커넥터의 최신 버전에는 다음과 같은 업데이트가 포함되어 있습니다.
 
-* 다음에서 이벤트 구독이 비활성화되는 경우 [!UICONTROL 고급 설정], 다음과 같은 옵션을 선택할 수 있습니다. **문서 업데이트 이벤트에 가입하여 AEM 에셋 메타데이터 업데이트**, **프로젝트 완료 시 모든 프로젝트 에셋을 Brand Portal에 게시**, 및 **댓글 동기화 활성화**.
-* Experience Manager에 저장된 일부 에셋은 Workfront에서 미리 볼 때 적절하게 렌더링되지 않습니다.
-* Workfront과의 Experience Manager 연결을 다시 구성하는 동안 댓글 동기화 업데이트, 삭제, 문서 업데이트와 같은 이벤트 구독이 성공적으로 만들어지지 않습니다.
-* 연결된 폴더 만들기, 업데이트, 연결된 폴더 활성화, 댓글 동기화 활성화 및 비활성화, 커넥터에 설정 저장의 고급 설정에 대한 주요 API 성능 개선.
+* 이벤트 구독이 [!UICONTROL 고급 설정]에서 비활성화된 후에도 계속해서 **문서 업데이트 이벤트를 구독하여 AEM 자산 메타데이터를 업데이트**&#x200B;하고, **프로젝트가 완료되면 모든 프로젝트 자산을 Brand Portal에 게시**&#x200B;하고, **댓글 동기화를 활성화**&#x200B;할 수 있습니다.
+* Workfront에서 자산을 미리 볼 때 Experience Manager에 저장된 일부 자산이 제대로 렌더링되지 않습니다.
+* Experience Manager와 Workfront의 연결을 재구성하는 동안에는 댓글 동기화 업데이트, 삭제, 문서 업데이트 등 이벤트 구독이 제대로 생성되지 않습니다.
+* 연결 폴더 생성, 업데이트, 연결 폴더 활성화, 댓글 동기화 활성화 및 비활성화, 커넥터에 대한 고급 설정 저장에 대한 주요 API 성능이 개선되었습니다.
 
 >[!NOTE]
 >
@@ -464,26 +464,26 @@ _알려진 문제_
 
 ### 커뮤니티
 
-**AEM 릴리스**
+**AEM Release**
 AEM as a Cloud Service 2023.9.0 - 릴리스 업데이트: [https://adobe.ly/3rMScIU](https://adobe.ly/3rMScIU)
 
-**AEM 커뮤니티 테크 화요일**
-화요일 기술 바이트: 매주 AEM Insights 게시: [https://adobe.ly/46OzP5j](https://adobe.ly/46OzP5j)
+**AEM Community Tech Tuesdays**
+Tuesday Tech Bytes: 주별 AEM Insights 공개: [https://adobe.ly/46OzP5j](https://adobe.ly/46OzP5j)
 
-**Adobe Developer 라이브 - 2023년 11월**
-Adobe Developers Live: Content and Commerce, 2023년 11월 | 전체 AEM 세션 목록
+**Adobe Developer Live - 2023년 11월**
+Adobe Developers Live: Content 및 Commerce, 2023년 11월 | 전체 AEM 세션 목록
 
-* NA 및 APAC 모두에 대한 전체 세션 목록: [https://adobe.ly/46LEmFk](https://adobe.ly/46LEmFk)
+* NA 및 APAC의 전체 세션 목록: [https://adobe.ly/46LEmFk](https://adobe.ly/46LEmFk)
 
-모든 AEM 애호가를 호출합니다! 독점 AEM 통찰력 및 네트워킹을 위해 11월 6일(EMEA, LATAM, NA) 및 11월 15일(APAC)에 Adobe Developers Live에 참여하십시오. 최신 AEM 고급 기능을 살펴보고 업계 전문가와 교류하고 AEM 커뮤니티 내에서 연결을 구축하십시오. 전문성을 향상시킬 수 있는 이 기회를 놓치지 마십시오!
+모든 AEM 매니아를 불러 모으세요! 11월 6일(EMEA, LATAM, NA)과 11월 15일(APAC)에 Adobe Developers Live에 참여하면 독점적인 AEM 통찰력과 네트워킹을 얻을 수 있습니다. 최신 AEM 발전 사항을 살펴보고, 업계 전문가와 교류하고, AEM 커뮤니티 내에서 연결을 구축하십시오. 전문성을 높일 수 있는 기회를 놓치지 마십시오.
 
 * 지금 등록(EMEA, LATAM, NA) - 2023년 11월 6일: [https://adobe.ly/3rOtcBa](https://adobe.ly/3rOtcBa)
-* 지금 등록(APAC) - 2023년 11월 15일:  [https://adobe.ly/3PSyBil](https://adobe.ly/3PSyBil)
+* 지금 등록(APAC) - 2023년 11월 15일: [https://adobe.ly/3PSyBil](https://adobe.ly/3PSyBil)
 
 >[!NOTE]
 >
->* 시간대에 관계없이 이벤트 중 하나 또는 둘 다에 유연하게 등록할 수 있습니다.
->* 각 이벤트에서 제공되는 콘텐츠는 구별되어, 지역의 요구 사항과 선호도에 맞게 다양하고 풍부한 경험을 제공합니다.
+>* 시간대에 관계없이 이벤트 중 하나 또는 두 이벤트 모두 유연하게 등록할 수 있습니다.
+>* 각 이벤트에서 제공되는 독특한 콘텐츠는 지역의 요구와 선호도에 맞는 다양하고 풍부한 경험을 보장합니다.
 
 
 ### [!DNL Experience Manager] 릴리스 정보
@@ -511,22 +511,22 @@ Experience Manager에 대해 게시된 새로운 비디오, 튜토리얼 또는 
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2023년 10월 | AEM CS | [[!DNL AEM as a Cloud Service] 비디오 및 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html) | 업데이트된 비디오 | Adobe Experience Manager as a Cloud Service의 Edge Delivery Services을 포함하는 업데이트된 개요 비디오를 시청하십시오. |
+| 2023년 10월 | AEM CS | [[!DNL AEM as a Cloud Service] 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html) | 업데이트된 비디오 | Adobe Experience Manager as a Cloud Service에서 Edge Delivery Services가 포함된 업데이트된 개요 비디오를 시청하십시오. |
 | 2023년 10월 | AEM CS | [개인 인증서가 있는 내부 API 호출](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | 비디오 | 개인 또는 자체 서명된 인증서를 사용하여 AEM에서 웹 API로 HTTPS 호출을 수행하는 방법에 대해 알아봅니다. |
-| 2023년 10월 | AEM CS | [AEM Cloud Service란 무엇입니까?](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html?lang=ko-KR) | 업데이트된 비디오 | Experience Manager as a Cloud Service가 무엇인지, 다른 버전의 Adobe Experience Manager와 어떻게 다른지 살펴보십시오. |
-| 2023년 10월 | AEM CS | [AEM의 진화](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html?lang=ko-KR) | 업데이트된 비디오 | AEM 6.5부터 AEM as a Cloud Service, 그리고 마지막으로 Edge Delivery Services에 이르기까지 AEM 진화와 이 진화가 제공하는 가치에 대해 알아봅니다. |
-| 2023년 10월 | Content Fragments | [콘텐츠 조각 콘솔 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html) | 업데이트된 비디오 | 설명 |
-| 2023년 10월 | 보안 | [AEM의 mTLS(Mutual Transport Layer Security) 인증](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html) | 비디오 | mTLS(상호 전송 계층 보안) 인증이 필요한 웹 API로 AEM에서 HTTPS를 호출하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | AEM CS | [AEM Cloud Service란 무엇입니까?](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html) | 업데이트된 비디오 | Experience Manager as a Cloud Service가 무엇인지, 다른 버전의 Adobe Experience Manager와 어떻게 다른지 살펴보십시오. |
+| 2023년 10월 | AEM CS | [AEM의 발전](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html) | 업데이트된 비디오 | AEM 6.5에서 AEM as a Cloud Service, 그리고 마침내 Edge Delivery Services에 이르기까지 AEM의 발전과 AEM이 제공하는 가치에 대해 알아보십시오. |
+| 2023년 10월 | 콘텐츠 조각 | [콘텐츠 조각 콘솔 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html) | 업데이트된 비디오 | 설명 |
+| 2023년 10월 | 보안 | [AEM에서의 mTLS(상호 전송 계층 보안) 인증](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html) | 비디오 | AEM에서 mTLS(상호 전송 계층 보안) 인증이 필요한 웹 API로 HTTPS 호출을 수행하는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
-### 신규 [!DNL Experience Manager] 지원 기술 자료{#kb-aem}
+### 새 [!DNL Experience Manager] 지원 기술 자료{#kb-aem}
 
 [!DNL Experience Manager]에 대한 신규 문서 및 기존 문서 업데이트
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|--------|---------|---------|
-| 2023년 10월 | [저장소 브라우저에 전체 등록 정보 값이 표시되지 않음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23004.html) | 신규 문서 | 저장소 브라우저에 속성의 전체 값이 표시되지 않는 경우 이 문제에 대한 해결 방법을 알아봅니다. |
+| 2023년 10월 | [저장소 브라우저에 속성의 전체 값이 표시되지 않습니다.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23004.html) | 신규 문서 | 저장소 브라우저에 속성의 전체 값이 표시되지 않는 문제에 대한 해결 방법을 알아보십시오. |
 
 {style="table-layout:auto"}
 
@@ -572,25 +572,25 @@ Experience League의 새로운 [!DNL Adobe Commerce] 튜토리얼입니다.
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023년 10월 | [글로벌 참조 아키텍처](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/what-is-global-reference-architecture.html?lang=en) | 비디오 | 이 접근 방식에 대한 몇 가지 핵심 개념과 이점인 글로벌 참조 아키텍처(GRA)에 대해 알아봅니다. |
-| 2023년 10월 | [글로벌 참조 아키텍처 활용](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/how-do-you-leverage-global-reference-architecture.html?lang=en) | 비디오 | 사용에 대해 알아보기 [!UICONTROL 글로벌 참조 아키텍처]. 성공적인 구현을 위한 GRA를 보다 잘 준비하기 위해, Adobe 전문가들은 프로젝트의 다양한 단계에 대해 논의하고 발견 단계에 대해 자세히 살펴봅니다. |
-| 2023년 10월 | [GRA 설계](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/how-do-you-architect-global-reference-architecture.html?lang=en) | 비디오 | 별도의 패키지, 분할 git 및 모노레포를 사용한 코드 관리에 대한 자세한 토론을 시청하십시오. 성공적인 GRA 구현을 위해 설명서, 도구 및 인력 기대에 대한 다른 주제에서는 해당 부분을 자세히 설명합니다. |
-| 2023년 10월 | [글로벌 참조 아키텍처 구현](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/how-do-you-implement-global-reference-architecture.html?lang=en) | 비디오 | 글로벌 참조 아키텍처를 구현하는 방법에 대해 알아봅니다. 성공적인 GRA 설정에 도움이 되는 초기 결정에 대해 알아봅니다. 웹 사이트, 성공의 주요 요소 및 기능을 체계적으로 개발하기 위한 몇 가지 개념을 분리하는 방법에 대한 아이디어를 얻으십시오. |
+| 2023년 10월 | [글로벌 참조 아키텍처](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/what-is-global-reference-architecture.html?lang=en) | 비디오 | GRA(글로벌 참조 아키텍처)와 이러한 접근 방식의 몇 가지 핵심 개념 및 이점에 대해 알아봅니다. |
+| 2023년 10월 | [글로벌 참조 아키텍처 활용](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/how-do-you-leverage-global-reference-architecture.html?lang=en) | 비디오 | [!UICONTROL 글로벌 참조 아키텍처] 사용 방법에 대해 알아봅니다. GRA를 더 잘 준비하여 성공적인 구현을 완료하기 위해 Adobe 전문가는 프로젝트의 다양한 단계에 대해 논의하고 발견 단계에 대해 자세히 설명합니다. |
+| 2023년 10월 | [GRA 아키텍트](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/how-do-you-architect-global-reference-architecture.html?lang=en) | 비디오 | 개별 패키지, 분할 git 및 모노레포를 사용한 코드 관리에 대한 심층 토론을 시청하십시오. 성공적인 GRA 구현을 위해 문서, 도구 및 직원의 기대치와 관련된 기타 주제를 논의하여 해당 부분에 대해 자세히 설명합니다. |
+| 2023년 10월 | [글로벌 참조 아키텍처 구현](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/how-do-you-implement-global-reference-architecture.html?lang=en) | 비디오 | 글로벌 참조 아키텍처를 구현하는 방법에 대해 알아봅니다. 성공적인 GRA 설정에 도움이 되는 초기 의사 결정에 대해 알아보십시오. 웹 사이트를 분리하는 방법, 성공의 열쇠, 체계적인 기능 개발을 위한 몇 가지 개념에 대한 아이디어를 얻을 수도 있습니다. |
 | 2023년 10월 | [기업 크레딧 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-credit.html) | 비디오 | B2B 기업 계정 사용자가 허용된 크레딧 제한까지 자신의 계정에서 구매할 수 있는 방법에 대해 알아봅니다. |
 | 2023년 10월 | [콘텐츠 스테이징](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/content-staging.html) | 비디오 | 관리자로부터 직접 스토어에 대한 다양한 콘텐츠 업데이트를 생성하고, 미리 보고, 예약하는 방법에 대해 알아봅니다. |
 | 2023년 10월 | [기업 계정 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html) | 비디오 | 승인 대기 중인 요청을 포함하여 B2B 기업 계정을 관리하는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
-### 신규 [!DNL Commerce] 지원 기술 자료{#kb-commerce}
+### 새 [!DNL Commerce] 지원 기술 자료{#kb-commerce}
 
 Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|--------|---------|---------|
 | 2023년 10월 | [[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | 신규 문서 | [!DNL QPT] 1.1.37, [!DNL QPT] 1.1.38 및 [!DNL QPT] 1.1.39에서 사용할 수 있는 패치를 적용하는 방법에 대한 새로운 문서가 게시되었으며 해당 섹션에서 찾을 수 있습니다. |
-| 2023년 10월 | [[!DNL B2B] Adobe Commerce 2.4.6-p1 온프레미스에서 1.4.0 설치 실패](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/b2b-1.4.0-installation-fails-on-adobe-commerce-2.4.6-p1-on-premises.html) | 신규 문서 | 이 문서에서는 Adobe Commerce 2.4.6-p1 온-프레미스 문제에 대한 해결 방법을 제공합니다. [!DNL B2B] 버전 1.4.0 설치에 실패합니다. |
-| 2023년 10월 | [특정 제품을 찾을 때 수천 개의 결과 얻기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/getting-thousands-of-search-results-after-upgrading-to-2.4.5-p3.html) | 신규 문서 | 이 문서에서는 특정 제품을 찾을 때 수천 개의 검색 결과를 가져오는 문제에 대한 해결 방법을 제공합니다. |
+| 2023년 10월 | [[!DNL B2B] Adobe Commerce 2.4.6-p1 온프레미스에서 1.4.0 설치가 실패합니다.](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/b2b-1.4.0-installation-fails-on-adobe-commerce-2.4.6-p1-on-premises.html) | 신규 문서 | 이 문서에서는 [!DNL B2B] 버전 1.4.0 설치가 실패하는 Adobe Commerce 2.4.6-p1 온프레미스 문제에 대한 해결 방법을 제공합니다. |
+| 2023년 10월 | [특정 제품을 찾을 때 너무 많은 결과가 검색됩니다.](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/getting-thousands-of-search-results-after-upgrading-to-2.4.5-p3.html) | 신규 문서 | 이 문서에서는 특정 제품을 찾을 때 결과가 너무 많이 검색되는 문제에 대한 솔루션을 제공합니다. |
 
 {style="table-layout:auto"}
 
@@ -630,19 +630,19 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) 및 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 릴리스 정보에서 최신 기능, 개선 사항 및 수정 사항에 대해 알아봅니다.
 
 
-### 신규 [!DNL Campaign] 지원 기술 자료{#kb-campaign}
+### 새 [!DNL Campaign] 지원 기술 자료{#kb-campaign}
 
 [!DNL Campaign]에 대한 신규 문서 및 기존 문서 업데이트
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|----|----|-----------|
-| 2023년 10월 | [푸시 메시지의 전체 텍스트가 표시되지 않음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22980.html) | 신규 문서 | 이 문서는 의 구현을 추가하여 푸시 메시지에 전체 텍스트를 표시하는 빠른 솔루션으로 작동합니다. `FirebaseMessagingService` 앱에서. |
-| 2023년 10월 | [트랜잭션 이메일의 첨부 파일 차단](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22969.html) | 신규 문서 | 첨부 파일을 템플릿으로 사용하여 마케팅 인스턴스에 게재 템플릿을 구축하여 첨부 파일이 포함된 이메일을 보내는 방법을 알아봅니다. |
-| 2023년 10월 | [[!DNL OOTB] 워크플로우 `scheduledEnhancedMTATypologyRule` 에서 오류가 발생하여 일시 중단됩니다.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22926.html) | 신규 문서 | 다음과 같은 경우 해결 방법에 대해 알아봅니다. [!DNL OOTB] 워크플로우 `scheduledEnhancedMTATypologyRule` 이(가) 오류를 발생시켜 일시 중지됩니다. 삭제된 유형화에서 연결된 추가 레코드를 삭제하십시오. |
-| 2023년 10월 | [추적 데이터가 RT에서 MKT로 동기화되지 않음(온-프레미스)](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22897.html) | 신규 문서 | MKT의 동기화 워크플로우의 스케줄러 활동 빈도를 조정하여 추적 데이터가 실시간 메시징(RT) 인스턴스에서 올바르게 검색되지만 마케팅(MKT) 인스턴스로 다시 동기화되지 않는 경우를 해결하는 방법을 알아봅니다. |
-| 2023년 10월 | [이벤트 유형이 보류 중 상태에서 중단됨](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22901.html) | 신규 문서 | 인프라 문제, 장기 실행 쿼리가 없음에도 불구하고 이벤트 유형이 보류 중 상태로 전환되는 문제를 해결하는 방법에 대해 알아봅니다. [!DNL MTA] 정상적으로 작동. |
-| 2023년 10월 | [Adobe Campaign Classic v7: 관리자가 아닌 운영자가 핫 클릭 보고서에 액세스할 수 없음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22908.html) | 신규 문서 | 액세스 방법 알아보기 [!UICONTROL 핫 클릭] 관리자가 아닌 운영자로 보고합니다. |
-| 2023년 10월 | [주소가 임의로 격리됨](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22900.html) | 신규 문서 | 이유 또는 로그 정보 없이 주소가 격리되는 문제를 해결하는 방법을 알아봅니다. |
+| 2023년 10월 | [푸시 메시지의 일부 텍스트가 표시되지 않습니다.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22980.html) | 신규 문서 | 이 문서는 앱에서 `FirebaseMessagingService` 구현을 추가하여 푸시 메시지에 전체 텍스트를 표시할 수 있는 빠른 솔루션의 역할을 합니다. |
+| 2023년 10월 | [트랜잭션 이메일의 첨부 파일이 차단됩니다.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22969.html) | 신규 문서 | 첨부 파일을 템플릿으로 사용하고 마케팅 인스턴스에 게재 템플릿을 빌드하여 첨부 파일이 포함된 이메일을 보내는 방법에 대해 알아보십시오. |
+| 2023년 10월 | [[!DNL OOTB] 오류가 발생하여 `scheduledEnhancedMTATypologyRule` 워크플로가 중단됩니다.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22926.html) | 신규 문서 | 오류가 발생하여 [!DNL OOTB] `scheduledEnhancedMTATypologyRule` 워크플로가 중단되는 문제가 발생하는 경우 삭제된 토폴로지에서 추가로 연결된 레코드를 삭제하여 문제를 해결하는 방법에 대해 알아보십시오. |
+| 2023년 10월 | [추적 데이터가 RT에서 MKT로 동기화되지 않습니다(온프레미스).](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22897.html) | 신규 문서 | MKT 동기화 워크플로의 스케줄러 활동 빈도를 조정하여 실시간 메시징(RT) 인스턴스에서 추적 데이터가 올바르게 검색되었지만 마케팅(MKT) 인스턴스로 다시 동기화되지 않는 문제를 해결하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | [이벤트 유형이 보류 상태로 멈췄습니다.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22901.html) | 신규 문서 | 인프라 문제가 없고 장기 실행 쿼리가 없으며 [!DNL MTA]가 정상적으로 작동함에도 불구하고 이벤트 유형이 보류 상태로 전환되는 문제를 해결하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | [Adobe Campaign Classic v7: 관리자가 아닌 운영자가 핫 클릭 보고서에 액세스할 수 없습니다.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22908.html) | 신규 문서 | 관리자가 아닌 운영자가 [!UICONTROL 핫 클릭] 보고서에 액세스하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | [주소가 무작위로 격리됩니다.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22900.html) | 신규 문서 | 이유나 로그 정보 없이 주소가 격리되는 문제를 해결하는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
@@ -730,11 +730,11 @@ Adobe Marketo에 게시된 새로운 비디오, 튜토리얼 또는 교육 과�
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023년 10월 | [Marketo Measure Tutorials 홈](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/overview.html?lang=en) | 비디오 | Marketo Measure에 대해 최근에 추가된 모든 비디오 튜토리얼을 확인하십시오! |
-| 2023년 10월 | [상속된 Marketo Engage 인스턴스 감사를 위한 팁과 요령](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html) | 비디오 | Adobe Marketo Champions에서 가져온 이 튜토리얼은 새로운 관리자를 위한 단계별 지침을 제공합니다. 다운로드 가능한 감사 체크리스트와 템플릿을 함께 사용하여 상속된 인스턴스를 다시 시작할 수 있습니다. |
-| 2023년 10월 | [Salesforce 동기화 시작](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html?lang=en) | 비디오 | 및 Marketo Engage 방법 알아보기 [!DNL Salesforce] 함께 이동하여 판매 및 마케팅 데이터를 동기화하십시오. |
-| 2023년 10월 | [Microsoft® Dynamics 동기화 시작](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en) | 비디오 | 다음 방법을 알아봅니다. [!DNL Microsoft® Dynamics 365] 동기화는 작동하며 두 시스템이 서로 통신할 수 있도록 설정을 적절하게 구성합니다. |
-| 2023년 10월 | [Marketo Engage에서 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=en) | 비디오 | 두 개의 워크플로우를 사용하여 소스 커넥터를 사용하여 Marketo Engage의 데이터를 Real-time Customer Data Platform, B2B 에디션 및 Adobe Experience Platform으로 손쉽게 수집하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | [Marketo Measure 튜토리얼 홈](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/overview.html?lang=en) | 비디오 | Marketo Measure에 최근 추가된 비디오 튜토리얼을 모두 살펴보십시오. |
+| 2023년 10월 | [상속된 Marketo Engage 인스턴스 감사를 위한 팁과 요령](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html) | 비디오 | Adobe Marketo Champions에서 제공하는 이 튜토리얼은 신규 관리자를 위한 단계별 지침을 제공합니다. 상속된 인스턴스를 바로 시작하는 데 도움이 되는 다운로드 가능한 감사 체크리스트 및 템플릿이 함께 제공됩니다. |
+| 2023년 10월 | [Salesforce 동기화 시작하기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html?lang=en) | 비디오 | Marketo Engage와 [!DNL Salesforce]가 협력하여 판매 및 마케팅 데이터를 동기화하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | [Microsoft® Dynamics 동기화 시작하기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en) | 비디오 | [!DNL Microsoft® Dynamics 365] 동기화 작동 방식에 대해 알아보고 두 시스템이 서로 통신할 수 있도록 설정을 올바르게 구성하십시오. |
+| 2023년 10월 | [Marketo Engage에서 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=en) | 비디오 | 두 가지 워크플로를 사용하는 소스 커넥터를 사용하여 Marketo Engage의 데이터를 Real-Time Customer Data Platform, B2B Edition 및 Adobe Experience Platform으로 간편하게 수집하는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
@@ -758,13 +758,13 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼
 
 {style="table-layout:auto"}
 
-### 신규 [!DNL Workfront] 지원 기술 자료
+### 새 [!DNL Workfront] 지원 기술 자료
 
 [!DNL Workfront]에 대한 신규 문서 및 기존 문서 업데이트
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023년 10월 | [생성 중 오류 [!DNL Workfront] 티켓: &quot;조직 내에서 지원 권한이 있는 사용자가 아님&quot;](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22888.html) | 신규 문서 | &quot;조직 내에서 지원 권한이 있는 사용자가 아닙니다.&quot;라는 오류가 표시되는 경우의 해결 방법에 대해 알아봅니다. 추가적인 지원은 시스템 관리자에게 문의하십시오.&quot; 다음을 만들려고 할 때 [!DNL Workfront] 티켓, 다음에 로그인했는지 확인 [!DNL Experience League] (으)로 나열된 정확한 이메일 주소 [!DNL Workfront] 사용자 프로필. |
+| 2023년 10월 | [생성 중 오류 발생 [!DNL Workfront] 티켓: “지원 자격이 있는 조직 내 사용자가 아닙니다.”](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22888.html) | 신규 문서 | “지원 자격이 있는 조직 내 사용자가 아닙니다. 추가 지원이 필요하면 시스템 관리자에게 문의하십시오.”라는 오류가 [!DNL Workfront] 티켓을 만들 때 표시되는 경우, [!DNL Workfront] 사용자 프로필 목록에 기재된 정확한 이메일 주소로 [!DNL Experience League]에 로그인했는지 확인하여 문제를 해결하는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
@@ -778,8 +778,8 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼
 
 최신 정보는 다음 페이지를 참조하십시오.
 
-* 혼합 모델러 [릴리스 정보](https://experienceleague.adobe.com/docs/mix-modeler/using/releases/latest.html)
-* 혼합 모델러 [제품 설명서](https://experienceleague.adobe.com/docs/mix-modeler.html?lang=en)
+* Mix Modeler [릴리스 정보](https://experienceleague.adobe.com/docs/mix-modeler/using/releases/latest.html)
+* Mix Modeler [제품 설명서](https://experienceleague.adobe.com/docs/mix-modeler.html?lang=en)
 
 +++
 
@@ -834,9 +834,9 @@ Last updated: **August 9, 2022**
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023년 10월 | Acrobat Sign | [Power Automate를 사용하여 고급 워크플로우 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/advanced-workflow-power-automate.html?lang=en) | 비디오 | 조직의 비기술 회원이 Acrobat Sign에 무료로 포함된 사전 설치된 Microsoft® Power Automate 커넥터를 사용하여 다른 시스템에 연결하는 간단한 고급 워크플로를 수행하는 방법에 대해 알아봅니다. |
-| 2023년 10월 | Acrobat Sign | [Power Automate를 사용하여 간단한 워크플로 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/simple-workflow-power-automate.html?lang=en) | 비디오 | 조직의 비기술 회원이 Acrobat Sign에 무료로 포함된 사전 설치된 Microsoft® Power Automate 커넥터를 사용하여 다른 시스템에 연결하는 간단한 워크플로를 만드는 방법에 대해 알아봅니다. |
-| 2023년 10월 | Adobe Express | [이 PDF 스타일화](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html?lang=en) | 비디오 | 에서 사용하기 쉬운 통합 디자인 도구를 사용하여 전문가 수준의 PDF을 만드는 방법에 대해 알아봅니다. [!DNL Adobe Express]. |
+| 2023년 10월 | Acrobat Sign | [Power Automate를 사용하여 고급 워크플로 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/advanced-workflow-power-automate.html?lang=en) | 비디오 | 기술 전문가가 아닌 조직의 멤버가 무료 Acrobat Sign에 있는 사전 빌드된 Microsoft® Power Automate 커넥터를 사용하여 다른 시스템에 연결되는 고급 워크플로를 만들 수 있는 방법에 대해 알아봅니다. |
+| 2023년 10월 | Acrobat Sign | [Power Automate를 사용하여 간단한 워크플로 만들기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/simple-workflow-power-automate.html?lang=en) | 비디오 | 기술 전문가가 아닌 조직의 멤버가 무료 Acrobat Sign에 있는 사전 빌드된 Microsoft® Power Automate 커넥터를 사용하여 다른 시스템에 연결되는 간단한 워크플로를 만들 수 있는 방법에 대해 알아봅니다. |
+| 2023년 10월 | Adobe Express | [이 PDF에 스타일 지정](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html?lang=en) | 비디오 | [!DNL Adobe Express]의 사용하기 쉬운 통합 디자인 도구를 사용하여 전문가 수준의 PDF를 만드는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
@@ -850,15 +850,15 @@ Last updated: **August 9, 2022**
 
 ## ![아이콘](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
-의 애플리케이션용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정 [!DNL Adobe Creative Cloud for enterprise].
+[!DNL Adobe Creative Cloud for enterprise] 애플리케이션용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정.
 
 +++세부 사항
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023년 10월 | Adobe Express | [사진에 효과 및 조정을 추가하는 방법](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/image-effects.html) | 비디오 | 사진에 효과 및 조정을 추가하는 방법을 알아봅니다. |
-| 2023년 10월 | Adobe Express | [한 번의 클릭으로 사진에서 배경을 제거하는 방법](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/remove-background.html?lang=en) | 비디오 | 사진에서 배경을 제거하는 방법을 알아봅니다. |
-| 2023년 10월 | 애플리케이션 | [크리에이티브 효율성 활성화](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html?lang=en) | 비디오 | Adobe Photoshop 및 Illustrator의 생성 AI 기반 도구를 사용하여 콘텐츠 생성을 가속화하는 방법에 대해 알아봅니다. 이 자습서에서는 Adobe Illustrator 프리릴리스를 사용합니다. |
+| 2023년 10월 | Adobe Express | [사진에 효과 및 조정을 추가하는 방법](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/image-effects.html) | 비디오 | 사진에 효과 및 조정을 추가하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | Adobe Express | [한 번의 클릭으로 사진에서 배경을 제거하는 방법](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/remove-background.html?lang=en) | 비디오 | 사진에서 배경을 제거하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | 애플리케이션 | [크리에이티브 효율성 증대](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html?lang=en) | 비디오 | Adobe Photoshop 및 Illustrator의 생성형 AI 기반 도구를 사용하여 콘텐츠 제작을 가속화하는 방법에 대해 알아봅니다. 이 튜토리얼에서는 Adobe Illustrator 프리릴리스를 사용합니다. |
 
 최신 튜토리얼은 [Creative Cloud for enterprise 튜토리얼](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)을 참조하십시오.
 
