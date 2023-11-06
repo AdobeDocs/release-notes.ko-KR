@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
+source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
 workflow-type: tm+mt
-source-wordcount: '6940'
+source-wordcount: '6959'
 ht-degree: 96%
 
 ---
@@ -560,6 +560,7 @@ Experience League의 [!DNL Adobe Commerce]에 대한 릴리스 정보, 새로운
 +++세부 사항
 
 * 최신 정보는 [ [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)를 참조하십시오.
+* 다음을 참조하십시오 [Adobe Commerce 서비스 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) Commerce Services 릴리스 정보 및 설명서를 참조하십시오.
 * 개별 제품 릴리스 정보에 액세스하고 사용 가능 여부를 확인하려면 [제품 가용성](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html)을 참조하십시오.
 
 >[!NOTE]
@@ -578,7 +579,7 @@ Experience League의 새로운 [!DNL Adobe Commerce] 튜토리얼입니다.
 | 2023년 10월 | [글로벌 참조 아키텍처 구현](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/global-reference-architecture/how-do-you-implement-global-reference-architecture.html?lang=ko) | 비디오 | 글로벌 참조 아키텍처를 구현하는 방법에 대해 알아봅니다. 성공적인 GRA 설정에 도움이 되는 초기 의사 결정에 대해 알아보십시오. 웹 사이트를 분리하는 방법, 성공의 열쇠, 체계적인 기능 개발을 위한 몇 가지 개념에 대한 아이디어를 얻을 수도 있습니다. |
 | 2023년 10월 | [기업 크레딧 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-credit.html) | 비디오 | B2B 기업 계정 사용자가 허용된 크레딧 제한까지 자신의 계정에서 구매할 수 있는 방법에 대해 알아봅니다. |
 | 2023년 10월 | [콘텐츠 스테이징](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/content-staging.html) | 비디오 | 관리자로부터 직접 스토어에 대한 다양한 콘텐츠 업데이트를 생성하고, 미리 보고, 예약하는 방법에 대해 알아봅니다. |
-| 2023년 10월 | [기업 계정 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html) | 비디오 | 승인 대기 중인 요청을 포함하여 B2B 기업 계정을 관리하는 방법에 대해 알아봅니다. |
+| 2023년 10월 | [기업 계정 관리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html) | 비디오 | 보류 상태인 요청을 포함하여 B2B 기업 계정을 관리하는 방법에 대해 알아봅니다. |
 
 {style="table-layout:auto"}
 
