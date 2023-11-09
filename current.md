@@ -1,6 +1,6 @@
 ---
 title: 최신 릴리스 정보
-description: Adobe에 대한 최신 릴리스 정보 찾기 [!DNL Experience Cloud] 제품 및 서비스. Experience League에서 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud] 애플리케이션의 최신 튜토리얼 및 교육 과정을 살펴보십시오.
+description: Adobe  [!DNL Experience Cloud]  제품 및 서비스에 대한 최신 릴리스 정보를 살펴보십시오. Experience League에서 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud] 애플리케이션의 최신 튜토리얼 및 교육 과정을 살펴보십시오.
 doc-type: release notes
 last-update: November 2023
 author: mfrei
