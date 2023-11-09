@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
+source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
 workflow-type: tm+mt
-source-wordcount: '6959'
+source-wordcount: '6920'
 ht-degree: 96%
 
 ---
@@ -514,7 +514,6 @@ Experience Manager에 대해 게시된 새로운 비디오, 튜토리얼 또는 
 | 2023년 10월 | AEM CS | [[!DNL AEM as a Cloud Service] 비디오 및 튜토리얼](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html) | 업데이트된 비디오 | Adobe Experience Manager as a Cloud Service에서 Edge Delivery Services가 포함된 업데이트된 개요 비디오를 시청하십시오. |
 | 2023년 10월 | AEM CS | [개인 인증서가 있는 내부 API 호출](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | 비디오 | 개인 또는 자체 서명된 인증서를 사용하여 AEM에서 웹 API로 HTTPS 호출을 수행하는 방법에 대해 알아봅니다. |
 | 2023년 10월 | AEM CS | [AEM Cloud Service란 무엇입니까?](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html) | 업데이트된 비디오 | Experience Manager as a Cloud Service가 무엇인지, 다른 버전의 Adobe Experience Manager와 어떻게 다른지 살펴보십시오. |
-| 2023년 10월 | AEM CS | [AEM의 발전](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html) | 업데이트된 비디오 | AEM 6.5에서 AEM as a Cloud Service, 그리고 마침내 Edge Delivery Services에 이르기까지 AEM의 발전과 AEM이 제공하는 가치에 대해 알아보십시오. |
 | 2023년 10월 | 콘텐츠 조각 | [콘텐츠 조각 콘솔 비디오](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html) | 업데이트된 비디오 | 설명 |
 | 2023년 10월 | 보안 | [AEM에서의 mTLS(상호 전송 계층 보안) 인증](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html) | 비디오 | AEM에서 mTLS(상호 전송 계층 보안) 인증이 필요한 웹 API로 HTTPS 호출을 수행하는 방법에 대해 알아봅니다. |
 
