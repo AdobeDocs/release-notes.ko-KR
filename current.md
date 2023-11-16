@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
+source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
 workflow-type: tm+mt
-source-wordcount: '6902'
+source-wordcount: '6888'
 ht-degree: 95%
 
 ---
@@ -19,18 +19,9 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-이 페이지는 Experience Cloud 및 Adobe 엔터프라이즈 애플리케이션에 대한 릴리스 정보를 찾는 데 도움이 됩니다. 최상의 자가 진단 경험을 얻으려면 로그인 [Experience League](https://experienceleague.adobe.com/#home) Adobe의 무료 자습 리소스 라이브러리에서 다음과 같은 검색 경험을 사용자 지정할 수 있습니다.
-
-* [제품 설명서](https://experienceleague.adobe.com/docs/)
-* [튜토리얼 비디오](https://experienceleague.adobe.com/docs/home-tutorials.html)
-* [교육 과정](https://experienceleague.adobe.com/#courses)
-* [Experience League 이벤트](https://experienceleague.adobe.com/events/)
-* [제품별 커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=en)
-* [애플리케이션 지원](https://experienceleague.adobe.com/?support-tab=home#support)
+이 페이지는 Experience Cloud 및 Adobe 엔터프라이즈 애플리케이션에 대한 릴리스 정보를 찾는 데 도움이 됩니다. 최상의 자가 진단 경험을 얻으려면 로그인 [Experience League](https://experienceleague.adobe.com/#home) Adobe의 무료 라이브러리에서 검색 경험 사용자 정의 [설명서](https://experienceleague.adobe.com/docs/), [교육 과정](https://experienceleague.adobe.com/#courses), [events](https://experienceleague.adobe.com/events/), [커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/?profile.language=en), 및 [지원](https://experienceleague.adobe.com/?support-tab=home#support).
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
-
-<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
 ## 2023년 11월
 
