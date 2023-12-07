@@ -1,15 +1,15 @@
 ---
 title: 최신 릴리스 정보
-description: Adobe  [!DNL Experience Cloud]  제품 및 서비스에 대한 최신 릴리스 정보를 살펴보십시오. Experience League에서 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud] 애플리케이션의 최신 튜토리얼 및 교육 과정을 살펴보십시오.
+description: Adobe에 대한 최신 릴리스 정보 찾기 [!DNL Experience Cloud] 제품 및 서비스. Experience League에서 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud] 애플리케이션의 최신 튜토리얼 및 교육 과정을 살펴보십시오.
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
+source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
 workflow-type: tm+mt
-source-wordcount: '6888'
-ht-degree: 95%
+source-wordcount: '5582'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 95%
 
 ## 2023년 11월
 
-최신 업데이트: **2023년 11월 16일**
+최신 업데이트: **2023년 11월 16일 금요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **11월 16일**)
 * [Adobe에서의 인증](#certification)
@@ -37,7 +37,6 @@ ht-degree: 95%
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem) (릴리스됨 **10월 26일**)
-* [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -61,12 +60,6 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 ### Experience League 이벤트
 
 +++다가오는 Experience League 이벤트
-
-* **[!DNL JOURNEY OPTIMIZER]** | 웨비나 | _멀티채널 캠페인 최적화 마스터하기_ | **11월 28일 @ 오전 8시(PT)** | [등록](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
-
-* **[!DNL WORKFRONT]** | 질문 및 답변 | _전문가에게 문의: Workfront for Training &amp; Enablement 웨비나 후속 내용_ | **11월 29일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Connect: Adobe Workfront 커뮤니티 채팅_ | **12월 5일 @ 오전 10시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Connect: Workfront Strategic Admin 채팅_ | **12월 11일 @ 오전 6시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -415,7 +408,7 @@ Adobe의 얼리 어답터 프로그램에 참여하여 향후 기능을 테스�
    * 이 기능에 대한 얼리 어답터 프로그램의 가용성은 제한적입니다.
    * 이 기능은 실수로 삭제된 콘텐츠를 복구하기 위한 것이며 재해 복구용이 아닙니다.
 
-* **경험 감사 대시보드** - [Cloud Manager 경험 감사 대시보드](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=ko)에는 개선에 도움이 되는 인사이트 및 권장 사항과 함께 페이지 성능 점수의 트렌드 보기가 포함됩니다. 경험 감사는 Cloud Manager 프로덕션 파이프라인의 한 단계로 포함됩니다.
+* **경험 감사 대시보드** - [Cloud Manager 경험 감사 대시보드](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=en)에는 개선에 도움이 되는 인사이트 및 권장 사항과 함께 페이지 성능 점수의 트렌드 보기가 포함됩니다. 경험 감사는 Cloud Manager 프로덕션 파이프라인의 한 단계로 포함됩니다.
 
   대시보드는 웹 앱의 품질을 개선하기 위한 오픈 소스 자동화 도구인 Google Lighthouse를 사용합니다. 공개 또는 인증이 필요한 모든 웹 페이지에 대해 실행할 수 있습니다. 성능, 접근성, 점진적 웹 앱, SEO 등에 대한 감사가 있습니다.
 
