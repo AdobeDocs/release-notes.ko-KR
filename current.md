@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
+source-git-commit: deba7f42b2c1f34c67047c2e7caeeec7263ae1a1
 workflow-type: tm+mt
-source-wordcount: '5582'
-ht-degree: 97%
+source-wordcount: '5877'
+ht-degree: 92%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 97%
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
-## 2023년 11월
+## 2023년 11월/12월
 
-최신 업데이트: **2023년 11월 16일 금요일**
+마지막 업데이트: **2024년 1월 5일 토요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **11월 16일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **5년 1월**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
@@ -59,13 +59,27 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
+업데이트됨 **2024년 1월 5일**
+
 +++다가오는 Experience League 이벤트
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Connect: Workfront Strategic Admin 채팅_ | **12월 11일 @ 오전 6시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Connect: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 이 고객 중심 세션은 모범 사례와 팁과 요령에 대해 논의하기 위해 귀하를 다른 관리자와 연결합니다. | **1월 5일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101 - Workfront 질문 가져오기!_ | **12월 12일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: Workfront Collective_ | 다른 Workfront 고객과 함께 종합적인 문제 해결 및 성공 공유 세션을 진행하십시오! | **1월 8일 @ 오전 6시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: 연말 보고_ | **12월 19일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 웨비나 | _Workfront 24.1의 새로운 기능_ | Workfront 24.1 고객용 릴리스 웨비나 | **1월 11일 @ 오전 8시(MT)** | [등록](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
+
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101 - Workfront 시작하기_ | Workfront을 처음 사용하십니까? 이 이벤트는 새 시스템 관리자에게 리소스에 대한 소개, 시스템 탐색 드롭다운, 초기 설정에 대한 모범 사례를 제공합니다. | **1월 17일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | 동료로부터 학습 | _Marketo Engage을 통한 개인 채점 숙달: 글로벌 프레임워크에 현지화된 뉘앙스_ | 2024년 1월 18일에 이 웨비나에 참여하십시오. Marketo Engage 챔피언은 조직 전반에서 일관성을 잃지 않고 전역적으로 작업할 때 채점 모델에서 지역에 영향을 주는 방법을 공유합니다. | **1월 18일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
+
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe Workfront 24.1 릴리스 요약_ | 최신 릴리스 기능, 롤아웃 계획 및 변경 관리에 대한 이점 및 아이디어를 논의할 때 다른 Workfront 고객과 함께하십시오. | **1월 24일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _Connect: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 이 고객 중심 세션은 모범 사례와 팁과 요령에 대해 논의하기 위해 귀하를 다른 관리자와 연결합니다. | **2월 2일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101: 사용자가 Workfront을 사용하도록 설정_ | Workfront을 처음 사용하십니까? 새로운 관리자를 위한 월별 모임에 참여하십시오! 이번 달에는 사용자 채택을 위한 모범 사례에 대해 논의할 예정입니다. | **2월 14일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _Connect: 산업 분야 - 고등 교육_ | 2024년에 처음 문을 연 이 1차 업계 서클은 고등 교육 분야의 Workfront 관리자가 함께 모여 네트워크, 경험 공유, 학습 및 모범 사례를 공유하기 위해 고안된 비공식 원탁 토론입니다. | **2월 8일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League에서 더 많은 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [이벤트 녹화](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)를 검색하십시오.
 
