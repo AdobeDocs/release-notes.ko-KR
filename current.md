@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
+source-git-commit: b217f3525129a3c61af864334cc209da4193f242
 workflow-type: tm+mt
-source-wordcount: '6123'
-ht-degree: 89%
+source-wordcount: '6168'
+ht-degree: 88%
 
 ---
 
@@ -64,7 +64,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++다가오는 Experience League 이벤트
 
-* **[!DNL ANALYTICS and CJA]** | Experience League 라이브 | _Adobe Analytics 데이터 및 분석을 Customer Journey Analytics으로 가져오기_ | 자동화된 프로세스를 사용하여 Adobe Analytics에서 Customer Journey Analytics으로 데이터 및 분석을 이동하는 방법과 그 과정에서 고려해야 할 사항에 대해 알아봅니다. | **1월 17일 @ 오전 10시(PT)** | [등록](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL TARGET]** | 웨비나 | _Adobe Target 개인화 성숙도 시리즈_ | 브랜드는 비즈니스 영향력을 높이고 개인화 전략을 완성하기 위한 지능형 최적화에 대한 청사진을 찾고 있습니다. 3부로 구성된 웨비나 시리즈에서 AI와 자동화를 살펴보십시오! | **1월 16일 @ 오전 8시(PT)** | [등록](https://adobe-target-personalization-maturity-webinar-series-q1-2024.dxfieldmarketing.adobeevents.com/)
+
+* **[!DNL ANALYTICS]및 CJA** | Experience League 라이브 | _Adobe Analytics 데이터 및 분석을 Customer Journey Analytics으로 가져오기_ | 자동화된 프로세스를 사용하여 Adobe Analytics에서 Customer Journey Analytics으로 데이터 및 분석을 이동하는 방법과 그 과정에서 고려해야 할 사항에 대해 알아봅니다. | **1월 17일 @ 오전 10시(PT)** | [등록](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101 - Workfront 시작하기_ | Workfront을 처음 사용하십니까? 이 이벤트는 새로운 시스템 관리자에게 리소스에 대한 소개, 시스템 탐색 드롭다운, 초기 설정에 대한 모범 사례를 제공합니다. | **1월 17일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
