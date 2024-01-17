@@ -5,9 +5,9 @@ user-guide-title: Adobe Experience Cloud 릴리스 정보
 breadcrumb-title: 릴리스 정보
 user-guide-description: Adobe Experience Cloud 및 Experience Platform의 새로운 기능, 수정 사항 및 중요 공지 사항에 대해 알아봅니다.
 user-guide-url: https://www.adobe.com
-source-git-commit: 757942ae3d247fabd6e1056ea9ff3b1bc49ee4bb
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: 04b43454e3b3423940b99c2bbb678a87fb34b684
+workflow-type: tm+mt
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [현재 릴리스 정보](current.md)
 + 이전 릴리스 정보 {#previous}
    + 2023 {#2023}
+      + [2023년 11월](c-legacy-releases/2023/10252023.md)
       + [2023년 10월](c-legacy-releases/2023/10042023.md)
       + [2023년 9월](c-legacy-releases/2023/09132023.md)
       + [2023년 8월](c-legacy-releases/2023/08092023.md)
