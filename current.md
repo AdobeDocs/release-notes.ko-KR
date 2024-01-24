@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6259'
+source-wordcount: '6300'
 ht-degree: 39%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 39%
 
 마지막 업데이트: **2024년 1월 24일 목요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **1월 24일**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **신규!**
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ ht-degree: 39%
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (업데이트됨 **1월 24일**)
 * [고객 데이터 관리 - 음성](#voices)
 * [Digital Experience 블루프린트](#blueprints)
 * [Adobe 제품 보안 취약점](https://helpx.adobe.com/kr/security.html)
@@ -826,7 +826,13 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼
 
 [!DNL Adobe Creative Cloud for enterprise] 애플리케이션용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정.
 
+업데이트됨 **2024년 1월 24일**
+
 +++세부 사항
+
+| 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 2024년 1월 | [!DNL Adobe Express] | [Adobe Express Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | 비디오 | 에서 제공하는 생성 AI가 돋보이는 놀라운 작업을 만들어 보십시오. [!DNL Adobe Firefly]. 다음을 사용하여 전단지, TikToks, 이력서 및 릴을 디자인합니다. [!DNL Adobe Express]. |
 
 최신 튜토리얼은 [Creative Cloud for enterprise 튜토리얼](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)을 참조하십시오.
 
