@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7dc09a68ae460dccf8b2633a5093b7a47516441
+source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
 workflow-type: tm+mt
-source-wordcount: '6284'
+source-wordcount: '6259'
 ht-degree: 39%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 39%
 * 릴리스 노트 및 제품 설명서
 * 기술 자료 문서 지원
 * Experience League 시 예정된 이벤트
-* 최신 비디오 튜토리얼 및 교육 과정
+* 최신 비디오 자습서
 
 최상의 자가 진단 경험을 얻으려면 로그인 [Experience League](https://experienceleague.adobe.com/#home) Adobe의 무료 라이브러리에서 검색 경험 사용자 정의 [설명서](https://experienceleague.adobe.com/docs/), [교육 과정](https://experienceleague.adobe.com/#courses), [events](https://experienceleague.adobe.com/events/), [커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/?profile.language=en), 및 [지원](https://experienceleague.adobe.com/?support-tab=home#support).
 
@@ -32,7 +32,7 @@ ht-degree: 39%
 
 ## 2024년 1월
 
-마지막 업데이트: **2024년 1월 17일 목요일**
+마지막 업데이트: **2024년 1월 24일 목요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [[!DNL Adobe GenStudio]](#genstudio) - **신규!**
@@ -68,15 +68,15 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
+업데이트됨 **2024년 1월 24일**
+
 +++다가오는 Experience League 이벤트
 
-* **[!DNL ANALYTICS]및[!DNL Customer Journey Analytics]** | Experience League 라이브 | _가져오기 [!DNL Adobe Analytics] 데이터 및 분석 대상[!DNL Customer Journey Analytics]_ | 자동화된 프로세스를 사용하여 Adobe Analytics에서 로 데이터 및 분석을 이동하는 방법에 대해 알아봅니다. [!DNL Customer Journey Analytics], 뿐만 아니라 그 과정에서 고려해야 할 사항들도 있습니다. | **1월 17일 @ 오전 10시(PT)** | [등록](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL WORKFRONT]** | 웨비나 | _Marketo 및 Mochas: 속성 대시보드의 기본 사항_ | 중요한 성능 지표를 손쉽게 활용할 수 있도록 속성 모델과 MPI 대시보드를 구성합니까? Adobe 전문가와 함께 이러한 도구를 사용하여 마케팅 팀의 성공을 이끄는 방법에 대해 알아보십시오. | **1월 25일 @ 오후 1시(ET)** | [등록](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101 - 시작하기 [!DNL Workfront_] | 새로 만들기 [!DNL Workfront]? 이 이벤트는 새로운 시스템 관리자에게 리소스에 대한 소개, 시스템 탐색 드롭다운, 초기 설정에 대한 모범 사례를 제공합니다. | **1월 17일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER SITES]** | 웨비나 | _효율적인 콘텐츠 생성 및 관리_ | Adobe Experience Manager Sites 경험 조각을 사용하여 콘텐츠 속도를 향상시키는 방법을 알아봅니다. 모든 채널에서 규모에 맞게 다양하고 개인화된 경험을 제공하는 데 대한 팁을 얻을 수 있습니다. | **2월 1일 @ 오전 9시 00분 GMT** | [등록](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
-* **[!DNL MARKETO ENGAGE]** | 동료로부터 학습 | _다음을 포함한 개인 채점 숙달 [!DNL Marketo Engage]: 전역 프레임워크에서 현지화된 뉘앙스_ | 2024년 1월 18일에 이 웨비나에 다음으로 참여 [!DNL Marketo Engage] 챔피언은 조직 전체에서 일관성을 잃지 않고 전역적으로 작업할 때 채점 모델에서 지역에 영향을 주는 방법을 공유합니다. | **1월 18일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe [!DNL Workfront] 24.1 릴리스 요약_ | 다른 항목 가입 [!DNL Workfront] 최신 릴리스 기능, 롤아웃 계획 및 변경 관리에 대한 이점 및 아이디어를 논의하는 고객. | **1월 24일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL COMMERCE]** | 웨비나 | _Commerce &amp; Coffee: AI를 통한 eCommerce 경험 개인화_ | 개별 고객을 위해 전자 상거래 경험을 개인화하는 것이 더 쉬웠던 적은 없습니다. Adobe의 코리 젤라토에 참여하여 AI가 어떻게 Adobe Commerce의 제품, 이메일 및 웹 사이트를 손쉽게 맞춤화하는지 알아보십시오. | **2월 1일 @ 오후 1시(ET)** | [등록](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _Connect: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 이 고객 중심 세션은 모범 사례와 팁과 요령에 대해 논의하기 위해 사용자를 다른 관리자와 연결합니다. | **2월 2일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
