@@ -9,8 +9,8 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.ko-KR
 index: true
 source-git-commit: b81b4c2b163849709da81c6ee7c461f32a6d3236
-workflow-type: tm+mt
-source-wordcount: '153'
+workflow-type: ht
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ metadata.md 파일에는 저장소의 사용 안내서 TOC.md 파일에 전달�
 
 | 메타데이터 | 기능 |
 |--- |--- |
-| solution-title | 문서 헤더에 링크로 사용됨. 짧게 유지하십시오. |
+| solution-title | 문서 헤더에 링크로 사용됩니다. 짧게 유지하십시오. |
 | solution-hub-url | Helpx Hub 페이지 열기 |
 | solution-icon | 솔루션 제목 옆에 솔루션 아이콘이 표시됩니다. 아직 구현되지 않음 |
 | getting-started-title | 튜토리얼이 적절하지 않을 때 거의 사용되지 않음 |
