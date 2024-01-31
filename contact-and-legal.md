@@ -9,7 +9,7 @@ internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: ht
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -24,11 +24,11 @@ ht-degree: 100%
 
 Adobe Marketing Cloud 고객 지원 센터 팀은 고객 지원을 위해 구성되었으며 고객들이 참여할 수 있는 많은 메커니즘을 제공합니다.
 
-자세한 내용은 [Adobe 엔터프라이즈 지원에 문의](https://helpx.adobe.com/contact/enterprise-support.ec.html)
+자세한 내용은 [Adobe 엔터프라이즈 지원에 문의](https://helpx.adobe.com/kr/contact/enterprise-support.ec.html)
 
 ## 서비스, 기능 및 과금 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
-솔루션 구성에 따라 이 설명서에서 설명하는 일부 선택 사항을 사용하지 못할 수 있습니다. 각 계정이 고유하므로 가격 책정, 기한 및 약관은 해당 계약을 참조하십시오. 서비스 수준을 높이거나 변경하려는 경우, 또는 현재 서비스에 대한 질문이 있는 경우에는 계정 관리자에게 문의하십시오.
+솔루션 구성에 따라 이 설명서에서 설명하는 일부 선택 사항을 사용하지 못할 수 있습니다. 각 계정이 고유하므로 가격 책정, 기한 및 약관은 해당 계약을 참조하십시오. 서비스 수준을 높이거나 변경하려는 경우 또는 현재 서비스에 대한 질문이 있는 경우에는 계정 관리자에게 문의하십시오.
 
 <!--
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
@@ -42,8 +42,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> 게시자: Adobe Systems Incorporated. </li> 
 </ul>
 
-[사용 약관](https://www.adobe.com/go/marketingcloud_terms_of_use_kr) | [개인 정보 보호 센터](https://www.adobe.com/privacy/policy.html)
+[사용 약관](https://www.adobe.com/go/marketingcloud_terms_of_use_kr) | [개인 정보 보호 센터](https://www.adobe.com/kr/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. 업데이트된 정보/추가 타사 코드 정보는 [http://www.adobe.com/go/thirdparty_kr](https://www.adobe.com/products/eula/third_party/)을 참조하십시오.
+All third-party trademarks are the property of their respective owners. 업데이트된 정보/추가 서드파티 코드 정보는 [http://www.adobe.com/go/thirdparty_kr](https://www.adobe.com/products/eula/third_party/)을 참조하십시오.
