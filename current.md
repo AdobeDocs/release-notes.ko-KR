@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
+source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6394'
+ht-degree: 95%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 ## 2024년 1월
 
-마지막 업데이트: **2024년 1월 29일 화요일**
+마지막 업데이트: **2024년 2월 1일 금요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **1월 29일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **2월 1일**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **신규!**
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,13 +68,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-**2024년 1월 29일 화요일** 업데이트됨
+업데이트됨 **2024년 2월 1일**
 
 +++다가오는 Experience League 이벤트
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | 웨비나 | _효율적인 콘텐츠 생성 및 관리_ | Adobe Experience Manager Sites 경험 조각을 사용하여 콘텐츠 속도를 향상시키는 방법을 알아봅니다. 모든 채널에서 규모에 맞게 다양하고 개인화된 경험을 제공하는 데 대한 팁을 얻을 수 있습니다. | **2월 1일 @ 오전 9시 00분 GMT** | [등록](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
-
-* **[!DNL COMMERCE]** | 웨비나 | _Commerce &amp; Coffee: AI를 통한 eCommerce 경험 개인화_ | 개별 고객을 위해 전자 상거래 경험을 개인화하는 것이 더 쉬웠던 적은 없습니다. Adobe의 코리 젤라토에 참여하여 AI가 어떻게 Adobe Commerce의 제품, 이메일 및 웹 사이트를 손쉽게 맞춤화하는지 알아보십시오. | **2월 1일 @ 오후 1시(ET)** | [등록](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자입니까? 고객이 주도하는 이 세션은 다른 관리자와 연결하여 모범 사례와 팁 및 요령에 대해 논의합니다. | **2월 2일 오전 9시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
