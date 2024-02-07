@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6394'
-ht-degree: 95%
+source-wordcount: '6393'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
 * 릴리스 정보 및 제품 설명서
 * 지원 기술 자료 기사
 * 다가오는 Experience League 이벤트
-* 최신 비디오 자습서
+* 최신 비디오 튜토리얼
 
 최고의 자가 진단 경험을 위해 [Experience League](https://experienceleague.adobe.com/#home)에 로그인한 다음 Adobe 무료 라이브러리의 [설명서](https://experienceleague.adobe.com/docs/), [과정](https://experienceleague.adobe.com/#courses), [이벤트](https://experienceleague.adobe.com/events/), [커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/?profile.language=en) 및 [지원](https://experienceleague.adobe.com/?support-tab=home#support)에서 검색 환경을 사용자 정의합니다.
 
@@ -32,9 +32,9 @@ ht-degree: 95%
 
 ## 2024년 1월
 
-마지막 업데이트: **2024년 2월 1일 금요일**
+마지막 업데이트: **2024년 2월 7일 목요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **2월 1일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **2월 7일**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **신규!**
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ ht-degree: 95%
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem) (업데이트됨 **1월 29일**)
+* [[!DNL Adobe Experience Manager]](#aem)(**1월 29일** 업데이트됨)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -57,7 +57,7 @@ ht-degree: 95%
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (업데이트됨 **1월 24일**)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)(**1월 24일** 업데이트됨)
 * [고객 데이터 관리 - 음성](#voices)
 * [Digital Experience 블루프린트](#blueprints)
 * [Adobe 제품 보안 취약점](https://helpx.adobe.com/kr/security.html)
@@ -68,27 +68,27 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-업데이트됨 **2024년 2월 1일**
+**2024년 2월 7일 목요일** 업데이트됨
 
 +++다가오는 Experience League 이벤트
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자입니까? 고객이 주도하는 이 세션은 다른 관리자와 연결하여 모범 사례와 팁 및 요령에 대해 논의합니다. | **2월 2일 오전 9시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Experience League 라이브 | _사용 사례 플레이북: 몇 번의 클릭으로 사용 사례를 배포하기 위한 셀프서비스 템플릿_ | 사용 사례 플레이북을 통해 몇 번의 클릭만으로 마케팅 목표를 구현 개체로 번역할 수 있는 방법에 대해 알아봅니다. | **2월 8일 오전 9시 (PT)** | [등록](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _연결: 업계 서클 - 고급화된 교육_ | 2024년에 새롭게 시작된 이 첫 번째 업계 서클은 고급화된 교육의 [!DNL Workfront] 관리자를 위한 네트워크, 공유 경험, 학습 및 모범 사례를 논의할 수 있는 비공식적인 원탁 회의입니다. | **2월 8일 오전 9시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** | 웨비나 | _데이터 드립: 마케팅 채널 및 속성 모델링_ | 고객 상호 작용이 전환에 미치는 영향을 알고 있습니까? Adobe 전문가가 Adobe Analytics에서 마케팅 채널을 구성하고 AI를 활용하여 사용자 지정 속성 모델을 구축하는 방법을 알려면 참여하십시오. | **2월 8일 @ 오후 1시 (ET)** | [등록](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+* **[!DNL ANALYTICS]** | 웨비나 | _데이터 드립: 마케팅 채널 및 속성 모델링_ | 고객 상호 작용이 전환에 미치는 영향을 알고 계십니까? Adobe 전문가와의 만남에 참여하여 마케팅 채널을 구성하고 Adobe Analytics에서 AI를 활용하여 맞춤형 속성 모델을 빌드하는 방법에 대해 알아보십시오. | **2월 8일 오후 1시(ET)** | [등록](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Workfront 콜렉티브_ | 다른 Workfront 고객과 함께 월별 집단 문제 해결 및 성공 공유 세션을 진행하십시오! | **2월 12일 @ 오전 6시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Workfront Collective_ | 다른 Workfront 고객과 함께 월간 집단적 문제 해결 및 성공 경험 공유 세션에 참여하십시오. | **2월 12일 오전 6시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL DATA COLLECTION]** | 웨비나 | _데이터 스트림 우선 순위 지정_ | Campaign 오케스트레이션을 위해 데이터 스트림 우선 순위를 관리하여 조직에서 데이터 기반 개인화를 실행할 수 있는 능력을 강화하는 방법을 알아봅니다. | **2월 13일 @ 오전 9시 30분(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL DATA COLLECTION]** | 웨비나 | _데이터 스트림 우선 순위 지정_ | 캠페인 오케스트레이션을 위한 데이터 스트림 우선 순위를 관리하여 조직의 데이터 기반 개인화 실행 능력을 강화하는 방법에 대해 알아봅니다. | **2월 13일 오전 9시 30분(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101: 사용자가[!DNL Workfront]_&#x200B;를 사용하도록 하기 | [!DNL Workfront]를 처음 사용하십니까? 새로운 관리자를 위한 월간 모임에 참여하십시오! 이번 달에는 사용자 채택을 위한 모범 사례에 대해 논의합니다. | **2월 14일 오전 8시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | 웨비나 | _전략적 리더십 출시: 경영진 후원의 힘_ | 전략적 영향력을 통해 조직 목표를 효과적으로 달성하기 위한 전술을 습득한다. 이 세션은 경영진 후원을 향상시키려는 경영진에게 힘을 실어주기 위해 마련되었습니다. | **2월 15일 @ 오전 10시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | 웨비나 | _전략적 리더십 발휘: 경영 후원의 힘_ | 전략적 영향력을 통해 조직의 목표를 효과적으로 달성하기 위한 전술을 습득합니다. 본 세션은 후원을 개선하고자 하는 경영진을 지원하기 위해 마련되었습니다. | **2월 15일 오전 10시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | 웨비나 | _희박한 팀의 장점: 능률적인 성공을 위한 기능의 잠금을 해제합니다._ | 제품 통합으로 디지털 워크플로를 간소화하고 팀 효율성을 높이고 비즈니스 프로세스를 확장하는 방법을 알아봅니다. 낮은 팀과의 협업을 향상하여 생산성을 극대화하는 방법에 대해 알아봅니다. | **2월 20일 @ 오전 10시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | 웨비나 | _Lean 팀의 장점: 능률적인 성공을 위한 역량 발휘_ | 제품 통합을 통해 어떻게 디지털 워크플로를 간소화하고 팀 효율성을 향상하며 비즈니스 프로세스를 확장할 수 있는지 알아봅니다. 생산성을 극대화하기 위해 Lean 팀 내에서 협업을 개선하는 기술에 대해 알아보십시오. | **2월 20일 오전 10시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Q &amp; A 채팅 | _고객 지원에 문의 - 일반적인 레이아웃 템플릿 문제 해결 및 문제 보기_ | Workfront 고객 지원 팀에 &quot;전문가에게 문의&quot; 유형 세션에 참여하여 레이아웃 템플릿 및 보기에 초점을 맞춘 모범 사례 및 문제 해결 팁을 알아보십시오. | **2월 22일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Q&amp;A 채팅 | _고객 지원 팀에 질문하기 - 일반적인 레이아웃 템플릿 및 보기 문제 해결_ | Workfront 고객 지원 팀에 참여하여 “전문가에게 질문하기” 유형 세션에 참여하여 레이아웃 템플릿 및 보기에 초점을 맞춘 모범 사례와 문제 해결 팁에 대해 알아봅니다. | **2월 22일 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League에서 더 많은 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [이벤트 녹화](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)를 검색하십시오.
 
@@ -352,7 +352,7 @@ Experience Manager의 새로운 기능, 수정 내용 및 업데이트. Adobe는
 
 ### 최신 릴리스 개요 비디오
 
-시청 [2024년 1월 릴리스 개요 비디오](https://video.tv.adobe.com/v/3427041?quality=12") 2024.01.0(2024년 1월) 릴리스에 추가된 기능 요약을 위한 것입니다.
+[2024년 1월 릴리스 개요 비디오](https://video.tv.adobe.com/v/3427041?quality=12")를 시청하여 2024.01.0(2024년 1월) 릴리스에 추가된 기능에 대한 간단한 요약을 살펴봅니다.
 
 ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service]
 
@@ -824,7 +824,7 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Adobe Acrobat API 튜토리얼](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=ko)
-* [Document Cloud 학습 및 지원](https://helpx.adobe.com/kr/support//document-cloud.html)
+* [Document Cloud 학습 및 지원](https://helpx.adobe.com/kr/support/document-cloud.html)
 
 +++
 
@@ -832,13 +832,13 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼
 
 [!DNL Adobe Creative Cloud for enterprise] 애플리케이션용으로 게시된 새로운 비디오, 튜토리얼 또는 교육 과정.
 
-**2024년 1월 24일 목요일** 업데이트됨
+**2024년 1월 24일** 업데이트됨
 
 +++세부 사항
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2024년 1월 | [!DNL Adobe Express] | [Adobe Express Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | 비디오 | 에서 제공하는 생성 AI가 돋보이는 놀라운 작업을 만들어 보십시오. [!DNL Adobe Firefly]. 다음을 사용하여 전단지, TikToks, 이력서 및 릴을 디자인합니다. [!DNL Adobe Express]. |
+| 2024년 1월 | [!DNL Adobe Express] | [Adobe Express 튜토리얼](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=ko) | 비디오 | [!DNL Adobe Firefly]에서 지원하는 생성형 AI로 눈에 띄는 놀라운 작품을 만들어 보십시오. [!DNL Adobe Express]를 사용하여 전단지, TikToks, 이력서, Reels를 디자인해 보십시오. |
 
 최신 튜토리얼은 [Creative Cloud for enterprise 튜토리얼](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)을 참조하십시오.
 
