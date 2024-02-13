@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6393'
+source-wordcount: '6207'
 ht-degree: 99%
 
 ---
@@ -70,17 +70,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 **2024년 2월 7일 목요일** 업데이트됨
 
-+++다가오는 Experience League 이벤트
-
-* **[!DNL EXPERIENCE PLATFORM]** | Experience League 라이브 | _사용 사례 플레이북: 몇 번의 클릭으로 사용 사례를 배포하기 위한 셀프서비스 템플릿_ | 사용 사례 플레이북을 통해 몇 번의 클릭만으로 마케팅 목표를 구현 개체로 번역할 수 있는 방법에 대해 알아봅니다. | **2월 8일 오전 9시 (PT)** | [등록](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _연결: 업계 서클 - 고급화된 교육_ | 2024년에 새롭게 시작된 이 첫 번째 업계 서클은 고급화된 교육의 [!DNL Workfront] 관리자를 위한 네트워크, 공유 경험, 학습 및 모범 사례를 논의할 수 있는 비공식적인 원탁 회의입니다. | **2월 8일 오전 9시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | 웨비나 | _데이터 드립: 마케팅 채널 및 속성 모델링_ | 고객 상호 작용이 전환에 미치는 영향을 알고 계십니까? Adobe 전문가와의 만남에 참여하여 마케팅 채널을 구성하고 Adobe Analytics에서 AI를 활용하여 맞춤형 속성 모델을 빌드하는 방법에 대해 알아보십시오. | **2월 8일 오후 1시(ET)** | [등록](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Workfront Collective_ | 다른 Workfront 고객과 함께 월간 집단적 문제 해결 및 성공 경험 공유 세션에 참여하십시오. | **2월 12일 오전 6시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | 웨비나 | _데이터 스트림 우선 순위 지정_ | 캠페인 오케스트레이션을 위한 데이터 스트림 우선 순위를 관리하여 조직의 데이터 기반 개인화 실행 능력을 강화하는 방법에 대해 알아봅니다. | **2월 13일 오전 9시 30분(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++세부 사항
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _Admin 101: 사용자가[!DNL Workfront]_&#x200B;를 사용하도록 하기 | [!DNL Workfront]를 처음 사용하십니까? 새로운 관리자를 위한 월간 모임에 참여하십시오! 이번 달에는 사용자 채택을 위한 모범 사례에 대해 논의합니다. | **2월 14일 오전 8시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
