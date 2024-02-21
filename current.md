@@ -22,7 +22,7 @@ ht-degree: 100%
 이 페이지를 통해 Experience Cloud 및 Adobe 엔터프라이즈 애플리케이션에 대한 다음과 같은 자가 진단 리소스를 찾을 수 있습니다.
 
 * 릴리스 정보 및 제품 설명서
-* 지원 기술 자료 기사
+* 지원 기술 자료 문서
 * 다가오는 Experience League 이벤트
 * 최신 비디오 튜토리얼
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## 2024년 2월
 
-마지막 업데이트: **2024년 2월 14일 목요일**
+마지막 업데이트: **2024년 2월 14일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [[!DNL Adobe GenStudio]](#genstudio)
@@ -41,8 +41,8 @@ ht-degree: 100%
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)(릴리스 날짜: **2월 14일**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)(릴리스 날짜: **2월 14일**)
+* [[!DNL Adobe Analytics]](#analytics)(릴리스 일자: **2월 14일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)(릴리스 일자: **2월 14일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,11 +67,11 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-**2024년 2월 14일 목요일** 업데이트됨
+**2024년 2월 14일** 업데이트됨
 
 +++세부 사항
 
-* **[!DNL WORKFRONT]** | Q&amp;A 채팅 | _고객 지원 팀에 질문하기 - 일반적인 레이아웃 템플릿 및 보기 문제 해결_ | Workfront 고객 지원 팀에 참여하여 “전문가에게 질문하기” 유형 세션에 참여하여 레이아웃 템플릿 및 보기에 초점을 맞춘 모범 사례와 문제 해결 팁에 대해 알아봅니다. | **2월 22일 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Q&amp;A 채팅 | _고객 지원 팀에 질문하기 - 일반적인 레이아웃 템플릿 및 보기 문제 해결_ | Workfront 고객 지원 팀에 참여하여 “전문가에게 질문하기” 유형 세션에 참여하여 레이아웃 템플릿 및 보기에 초점을 맞춘 모범 사례와 문제 해결 팁에 대해 알아봅니다. | **2월 22일 오전 9시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience 컨퍼런스 | _기술을 확장하고, 최신 트렌드를 발견하고, 경험 주도 성장의 미래를 탐색해 보십시오._ | 업계 최고 브랜드에서 배우고, 생성형 AI의 미래를 발견하며, 경험 주도 성장을 준비하십시오. | **3월 25~28일(라스베이거스) 및 온라인** | [등록](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
@@ -117,7 +117,7 @@ Experience League에서 더 많은 [예정된 이벤트](https://experienceleagu
 
 [!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/)에서 관련 정보를 확인합니다.
 
-릴리스 일자: **2024년 1월 30일 수요일**
+릴리스 일자: **2024년 1월 30일**
 
 **새로운 기능**
 
@@ -309,7 +309,7 @@ UI 확장 기능을 구성하여 AEM 설정을 개인화하려면 [AEM Sites의 
 
 AEM Sites의 Extension Manager를 사용하면 개발자와 실무자가 AEM Sites의 기능을 향상시키기 위해 [Adobe 애플리케이션 빌더](https://developer.adobe.com/app-builder/)로 빌드된 [UI 확장 기능](https://developer.adobe.com/uix/docs/)에 액세스하고, 관리하고, 사용자 정의할 수 있습니다.
 
-Extension Manager를 사용하면 다음을 수행할 수 있습니다.
+Extension Manager를 사용하면 다음과 같은 작업을 수행할 수 있습니다.
 
 * 각 인스턴스별로 확장 기능을 활성화하거나 비활성화합니다.
 * 확장 기능 매개변수를 구성합니다.
@@ -333,7 +333,7 @@ _Assets 보기의 새로운 기능_
 
 _얼리 어답터 프로그램_
 
-Adobe의 조기 채택 프로그램에 참여하여 향후 기능을 테스트할 기회를 얻으십시오.
+Adobe의 얼리 어답터 프로그램에 참여하여 향후 기능을 테스트할 기회를 얻으십시오.
 
 * **[Adobe Workfront Fusion 시나리오에 적응형 양식 제출](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=ko-KR)** - Forms as a Cloud Service는 적응형 양식을 Adobe Workfront와 쉽게 연결할 수 있는 기본 옵션을 제공합니다. 이를 통해 적응형 양식을 Adobe Workfront 시나리오에 제출하는 프로세스가 단순화되며, 적응형 양식 제출 시 Workfront Fusion 시나리오를 트리거할 수 있습니다.
 
@@ -362,7 +362,7 @@ _새로운 기능_
 
 _얼리 어답터 프로그램_
 
-Adobe의 조기 채택 프로그램에 참여하여 향후 기능을 테스트할 기회를 얻으십시오.
+Adobe의 얼리 어답터 프로그램에 참여하여 향후 기능을 테스트할 기회를 얻으십시오.
 
 * **실제 사용자 모니터링(RUM)을 통한 클라이언트측 컬렉션** – [실제 사용자 모니터링(RUM) 데이터 서비스](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/content-requests.html?lang=ko-KR#cliendside-collection)를 사용하여 AEM as a Cloud Service에 대한 클라이언트측 컬렉션을 활성화할 수 있습니다.
 
@@ -472,7 +472,7 @@ Experience Manager에 대해 게시된 새로운 비디오, 튜토리얼 또는 
 | 2024년 2월 | AEM CS | [AEM 이벤트](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html?lang=ko-KR) | 여러 비디오 | AEM 이벤트는 물론 AEM 이벤트의 정의, 사용 이유, 시기, 예에 대해 알아보십시오 |
 | 2024년 2월 | AEM Forms | [AEM Forms의 출력 및 Forms 서비스를 사용하여 개발](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/output-and-forms-services-article-develop.html) | 비디오 | AEM Forms의 출력 및 Forms 서비스 API를 사용한 개발에 대해 알아보십시오. |
 | 2024년 2월 | AEM Assets | [차단된 태그](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/blocked-tags.html) | 비디오 | 문화적으로 민감하거나 관련이 없거나 논쟁의 여지가 있는 스마트 태그의 적용을 방지하기 위해 차단된 태그를 사용하여 AEM에서 자산 관리를 향상하는 방법에 대해 알아보십시오. |
-| 2024년 2월 | AEM Headless | [대량 속성 업데이트 예시 확장](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-bulk-property-update.html) | 비디오 | 콘텐츠 조각의 속성을 대량으로 업데이트하는 AEM 콘텐츠 조각 콘솔 확장의 예입니다. |
+| 2024년 2월 | AEM Headless | [대량 속성 업데이트 예시 확장](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-bulk-property-update.html) | 비디오 | 콘텐츠 조각의 속성을 대량으로 업데이트하는 AEM 콘텐츠 조각 콘솔 확장 기능의 예입니다. |
 | 2024년 2월 | AEM Headless | [OpenAI를 사용한 AEM 이미지 자산 생성](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-image-generation-and-image-upload.html) | 비디오 | OpenAI 또는 DALL·E 2를 사용하여 이미지를 생성하고, 콘텐츠 속도를 위해 AEM DAM에 업로드하는 방법에 대해 알아보십시오. |
 
 {style="table-layout:auto"}
@@ -488,8 +488,8 @@ Experience Manager에 대해 게시된 새로운 비디오, 튜토리얼 또는 
 | 2024년 1월 | [[!UICONTROL 경험 조각]을 이동할 수 없음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23391.html) | 신규 문서 | 누군가 [!DNL Adobe Experience Manager 6.5]의 [!UICONTROL 콘텐츠 조각]을 이동하려고 할 때 [!DNL UI]가 회전하고 이동 작업이 완전히 처리되지 않는 문제에 대한 솔루션을 알아보십시오. |
 | 2024년 1월 | [사용자 정의 콘솔의 *[!DNL org.apache.sling.api.request.TooManyCallsException]* 오류](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23463.html) | 신규 문서 | 사용자 정의 콘솔의 *[!DNL org.apache.sling.api.request.TooManyCallsException]* 오류를 해결하는 방법을 알아보십시오. |
 | 2024년 1월 |  [!DNL AEMaaCS]에서 차단된 [[!UICONTROL 복제 대기열]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23465.html) | 신규 문서 | [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)]의 [!UICONTROL 복제 대기열]이 차단되었을 때 문제에 대한 솔루션을 알아보십시오. |
-| 2024년 1월 | [[!UICONTROL 타겟 모드]는 [!UICONTROL Sites]에 표시되지 않음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23485.html) | 신규 문서 | [!UICONTROL 타켓 모드]가 [!UICONTROL Sites]에 표시되지 않을 때 [!DNL AEMaaCS] 문제에 대한 솔루션을 알아보십시오. |
-| 2024년 1월 | [ [!DNL AEM as a Cloud Service]의 삭제된 콘텐츠 경로를 복원하는 방법](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23505.html) | 신규 문서 | [!DNL Adobe Experience Manager as a Cloud Service]의 특정 콘텐츠 경로를 복원하는 다양한 방법을 알아봐야 하는 경우의 문제에 대한 솔루션을 알아보십시오. |
+| 2024년 1월 | [[!UICONTROL 타겟 모드]가 [!UICONTROL Sites]에 표시되지 않음](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23485.html) | 신규 문서 | [!UICONTROL 타겟 모드]가 [!UICONTROL Sites]에 표시되지 않을 때 [!DNL AEMaaCS] 문제에 대한 솔루션을 알아보십시오. |
+| 2024년 1월 | [ [!DNL AEM as a Cloud Service]의 삭제된 콘텐츠 경로를 복원하는 방법](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23505.html) | 신규 문서 | [!DNL Adobe Experience Manager as a Cloud Service]의 특정 콘텐츠 경로를 복원하는 다양한 방법을 알아보아야 하는 경우의 문제에 대한 솔루션을 알아보십시오. |
 
 {style="table-layout:auto"}
 
@@ -518,7 +518,7 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 
 ## ![아이콘](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
-Experience League의 [!DNL Adobe Commerce] 에 대한 릴리스 정보, 새로운 튜토리얼과 Knowledge BASE 문서를 이용할 수 있습니다.
+Experience League의 [!DNL Adobe Commerce]에 대한 릴리스 정보, 새로운 튜토리얼과 Knowledge BASE 문서를 이용할 수 있습니다.
 
 +++세부 사항
 
