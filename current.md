@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
 workflow-type: tm+mt
-source-wordcount: '5447'
-ht-degree: 100%
+source-wordcount: '5457'
+ht-degree: 98%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 100%
 
 ## 2024년 2월
 
-마지막 업데이트: **2024년 2월 14일**
+마지막 업데이트: **2024년 2월 26일 화요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)  (업데이트됨 **2월 26일**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,11 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-**2024년 2월 14일** 업데이트됨
+**2024년 2월 26일 화요일** 업데이트됨
 
 +++세부 사항
 
-* **[!DNL WORKFRONT]** | Q&amp;A 채팅 | _고객 지원 팀에 질문하기 - 일반적인 레이아웃 템플릿 및 보기 문제 해결_ | Workfront 고객 지원 팀에 참여하여 “전문가에게 질문하기” 유형 세션에 참여하여 레이아웃 템플릿 및 보기에 초점을 맞춘 모범 사례와 문제 해결 팁에 대해 알아봅니다. | **2월 22일 오전 9시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | 질문 및 답변 | _고객 패널에 문의: Workfront으로 경력 향상_ | Workfront 전문 지식을 활용해 성공적인 커리어를 쌓은 Workfront 고객 3명에게 영감을 주는 2024년 첫 번째 패널이 시작된다. 성공에 필요한 기술을 배우기 위해 1시간 동안 토론에 참여하십시오. | **2월 27일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience 컨퍼런스 | _기술을 확장하고, 최신 트렌드를 발견하고, 경험 주도 성장의 미래를 탐색해 보십시오._ | 업계 최고 브랜드에서 배우고, 생성형 AI의 미래를 발견하며, 경험 주도 성장을 준비하십시오. | **3월 25~28일(라스베이거스) 및 온라인** | [등록](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
