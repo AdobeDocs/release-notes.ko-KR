@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
+source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
 workflow-type: tm+mt
-source-wordcount: '5771'
-ht-degree: 98%
+source-wordcount: '5582'
+ht-degree: 99%
 
 ---
 
@@ -71,17 +71,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **EXPERIENCE MANAGER** | 웨비나 | _EMEA AEM 커뮤니티 이벤트_ | 콘텐츠 공급망에 대한 대화형 세션을 통해 목표, 지금까지의 성과, 당면한 과제 및 해결 방법에 대해 논의할 예정입니다. | **2월 29일 오후 3시 (GMT)** | [등록](https://registration.adobe.com/AdobeAEM24/)
+* **CAMPAIGN(V7, V8)** | 휴식 시간 | _Adobe Campaign 커뮤니티 Q&amp;A 커피 브레이크_ | Adobe Campaign 제품 팀과 함께 새로운 Adobe Campaign 웹 사용자 인터페이스에 대해 1시간 동안의 채팅 세션에 참여하십시오. | **3월 7일 @ 오전 8시(PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
-* **관리자 및 캠페인** | Experience League 라이브 | _새로운 Adobe Campaign Web User Interface의 발전_ | 2월 29일에 참여하여 새로운 Adobe Campaign 웹 사용자 인터페이스를 사용하여 크로스 채널 전략을 계획, 실행 및 측정하는 방법을 배우고 새로운 Generative AI 기능을 미리 볼 수 있습니다. | **2월 29일 오전 8시 (PT)** | [등록](https://engage.adobe.com/ExpLeagueLive-240229.html)
-
-* **EXPERIENCE MANAGER** | 실시간 스트리밍 | _App Builder가 10.0으로 돌아감_ | App Builder 엔지니어링 팀에 참여하여 최신 CLI 릴리스의 새로운 기능과 디버깅 작업을 보다 쉽고 간편하게 할 수 있는 몇 가지 새로운 접근 방식 등 현재 진행 중인 기능을 알아보십시오. | **2월 29일 오전 9시 (PT)** | [등록](https://streamyard.com/watch/i7TEbhnR73h9)
-
-* **WORKFRONT** | 고객 워크숍 | _학습: 법률 및 규정 준수를 위한 Workfront_ | 법률 및 규정 준수 팀과 협력하는 방법을 알아보는 워크숍에 참여하십시오. 프로세스를 간소화하고 Workfront 플랫폼을 조직의 더 많은 대상자로 확장하고 채택률을 높일 수 있습니다. | **2월 29일 오전 9시 30분 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 이 고객 중심 세션은 모범 사례와 팁과 요령에 대해 논의하기 위해 사용자를 다른 관리자와 연결합니다. | **3월 1일 오전 9시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | 웨비나 | _Workfront로 개선: 리소스 관리_ | Workfront의 가장 영향력 있는 사용 사례 중 하나인 리소스 관리를 살펴보십시오. Adobe의 Workfront 비즈니스 어드바이저가 블루프린트를 사용하여 요구 사항에 맞춰 발전하는 작업 관리 시스템을 손쉽게 만드는 방법을 안내합니다. | **3월 7일 오후 1시 (ET)** | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **WORKFRONT** | 웨비나 | _Workfront로 개선: 리소스 관리_ | Workfront의 가장 영향력 있는 사용 사례 중 하나인 리소스 관리를 살펴보십시오. Adobe의 Workfront 비즈니스 어드바이저가 블루프린트를 사용하여 요구 사항에 맞춰 발전하는 작업 관리 시스템을 손쉽게 만드는 방법을 안내합니다. | **3월 7일 오후 1시 (ET)** | [등록](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | 커뮤니티 이벤트 | _연결: Workfront Collective_ | 다른 Workfront 고객들과 함께 공통적인 문제 해결 및 성공 경험을 공유할 수 있는 세션에 참여하십시오! | **3월 11일 오전 6시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
