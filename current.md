@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5582'
+source-wordcount: '5499'
 ht-degree: 99%
 
 ---
@@ -70,10 +70,6 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 **2024년 2월 28일** 업데이트됨
 
 +++세부 사항
-
-* **CAMPAIGN(V7, V8)** | 휴식 시간 | _Adobe Campaign 커뮤니티 Q&amp;A 커피 브레이크_ | Adobe Campaign 제품 팀과 함께 새로운 Adobe Campaign 웹 사용자 인터페이스에 대해 1시간 동안의 채팅 세션에 참여하십시오. | **3월 7일 @ 오전 8시(PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | 웨비나 | _Workfront로 개선: 리소스 관리_ | Workfront의 가장 영향력 있는 사용 사례 중 하나인 리소스 관리를 살펴보십시오. Adobe의 Workfront 비즈니스 어드바이저가 블루프린트를 사용하여 요구 사항에 맞춰 발전하는 작업 관리 시스템을 손쉽게 만드는 방법을 안내합니다. | **3월 7일 오후 1시 (ET)** | [등록](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | 커뮤니티 이벤트 | _연결: Workfront Collective_ | 다른 Workfront 고객들과 함께 공통적인 문제 해결 및 성공 경험을 공유할 수 있는 세션에 참여하십시오! | **3월 11일 오전 6시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
