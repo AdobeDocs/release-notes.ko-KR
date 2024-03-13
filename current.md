@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6152'
+source-wordcount: '6115'
 ht-degree: 64%
 
 ---
@@ -605,7 +605,6 @@ Adobe Campaign용으로 게시된 새로운 비디오 튜토리얼 또는 업데
 | 2024년 2월 | Campaign Web 사용자 인터페이스 | [대상자 관리 및 구축](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | 비디오 | 대상을 빌드 및 관리하고, 게재할 대상을 선택하고, 컨트롤 그룹을 정의하는 방법에 대해 알아봅니다. |
 | 2024년 2월 | Campaign Web 사용자 인터페이스 | [타겟팅 워크플로우 만들기](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | 비디오 | 워크플로우의 작동 방식과 타겟팅 워크플로우를 만드는 방법을 이해합니다. |
 | 2024년 2월 | Campaign Web 사용자 인터페이스 | [이메일 게재를 만들기](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | 비디오 | 이메일 게재를 처음부터 새로 만들고, 대상자를 정의하고, 콘텐츠를 디자인하고, 미리 보기를 시뮬레이션하고, 증명을 보내는 방법을 알아봅니다. |
-| 2024년 2월 | Campaign Web 사용자 인터페이스 | [처음부터 이메일 콘텐츠 디자인](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | 비디오 | 이메일 디자이너를 탐색하는 방법을 이해합니다. 이메일의 구조를 처음부터 만들고 디자인하는 방법, 이메일을 개인화하고 테스트하는 방법에 대해 알아봅니다. |
 | 2024년 2월 | Campaign 웹 사용자 인터페이스, Experience Platform | [Experience Platform으로 대상자 만들기](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | 비디오 | Adobe Campaign에서 Experience Platform 대상자를 사용할 대상을 만드는 방법을 알아봅니다. |
 | 2024년 2월 | Campaign Web 사용자 인터페이스 | [HTML을 업로드하여 이메일 만들기](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | 비디오 | HTML을 업로드하여 이메일을 만드는 방법, 이메일 디자이너와 호환되도록 하는 방법 및 템플릿으로 변환하는 방법에 대해 알아봅니다. |
 | 2024년 2월 | Campaign Web 사용자 인터페이스 | [Dos 및 Don&#39;t 구독 취소](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | 문서 | 구독 취소를 관리할 때 수행할 작업과 피해야 할 작업 목록을 사용하십시오. |
