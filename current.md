@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
+source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
 workflow-type: tm+mt
-source-wordcount: '6115'
+source-wordcount: '6023'
 ht-degree: 64%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 64%
 
 ## 2024년 3월
 
-마지막 업데이트: **2024년 3월 13일 목요일**
+마지막 업데이트: **2024년 3월 15일 토요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
@@ -40,8 +40,8 @@ ht-degree: 64%
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (릴리스됨 **3월 13일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (릴리스됨 **3월 13일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,15 +67,11 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-업데이트됨 **2024년 3월**
+업데이트 날짜: **2024년 3월 15일 토요일**
 
 +++세부 사항
 
-* **WORKFRONT** | 고객 워크숍 | _Admin 101: Workfront 데이터 가져오기_ | Workfront을 처음 사용하십니까? &quot;새로운 관리자&quot; 월별 모임에 참여하여 질문을 하고, 리소스 및 권장 사항을 얻고, 다른 새로운 관리자를 만나고, 이 세션을 위해 Workfront의 모든 사항 보고에 대한 모범 사례를 알아보십시오. | **3월 13일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **EXPERIENCE MANAGER** | AEM GEMS | _AEM 제작 및 Edge Delivery Services 시작하기_ | AEM GEM 웨비나에 참여하여 Edge Delivery Services으로 AEM 작성을 시작합니다. AEM Cloud Service를 사용하여 WYSIWYG 작성과 함께 AEM 지원 프로젝트 개발을 만드는 방법을 알아봅니다. | **3월 13일 @ 오전 9시(PT)** | [등록](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
-
-* **EXPERIENCE MANAGER** | 웨비나 | _Espressos &amp; Experience Manager: AEM이 클라우드에서 더욱 강력한 이유_ | Adobe의 전문가들과 함께 Best Practice Analyzer 및 Cloud Acceleration Manager와 같은 도구를 사용하여 콘텐츠 평가 및 마이그레이션 계획을 통해 클라우드로 원활하게 전환하는 방법에 대해 논의해 보십시오. | **3월 14일 오후 1시 (ET)** | [등록](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **WORKFRONT** | 고객 워크숍 | _Admin 101 - Workfront 질문 가져오기_ | 이전 관리자 101 세션을 놓쳤거나 여전히 질문이 있습니까? 1시간 동안의 후속 작업에 참여하여 세션을 요약하고 Q&amp;A를 시작합니다. | **3월 20일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience 컨퍼런스 | _기술을 확장하고, 최신 트렌드를 발견하고, 경험 주도 성장의 미래를 탐색해 보십시오._ | 업계 최고 브랜드에서 배우고, 생성형 AI의 미래를 발견하며, 경험 주도 성장을 준비하십시오. | **3월 25~28일(라스베이거스) 및 온라인** | [등록](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
