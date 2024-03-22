@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
+source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
 workflow-type: tm+mt
-source-wordcount: '5974'
+source-wordcount: '6002'
 ht-degree: 99%
 
 ---
@@ -714,6 +714,12 @@ Adobe Marketo에 게시된 새로운 비디오, 튜토리얼 또는 교육 과�
 
 +++세부 사항
 
+### [!DNL Adobe Workfront] 업데이트
+
+* 다음을 참조하십시오. [Adobe Workfront 제품 릴리스](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) Workfront 릴리스 일정 정보 및 릴리스 정보에 대한 페이지입니다.
+
+* 다음을 참조하십시오. [Adobe Workfront Fusion 릴리스 활동 개요](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) 를 참조하십시오.
+
 ### 새로운 Adobe [!DNL Workfront] 교육 과정 및 튜토리얼 {#tutorials-workfront}
 
 Experience League의 새로운 [!DNL Workfront] 튜토리얼
@@ -741,7 +747,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 -->
 
-모든 제품에 대한 최신 정보를 보려면 [[!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=ko-KR) 페이지를 참조하십시오.
+최신 제품 설명서는 다음을 참조하십시오. [Adobe [!DNL Workfront] 설명서 홈 페이지](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
