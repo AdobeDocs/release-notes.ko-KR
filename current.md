@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
+source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
 workflow-type: tm+mt
-source-wordcount: '6023'
+source-wordcount: '5974'
 ht-degree: 99%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024년 3월
 
-마지막 업데이트: **2024년 3월 15일 토요일**
+마지막 업데이트: **2024년 3월 22일 토요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
@@ -70,8 +70,6 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 업데이트 날짜: **2024년 3월 15일 토요일**
 
 +++세부 사항
-
-* **WORKFRONT** | 고객 워크숍 | _Admin 101 - Workfront 질문 가져오기_ | 이전 관리자 101 세션을 놓쳤거나 여전히 질문이 있습니까? 1시간 동안의 후속 작업에 참여하여 세션을 요약하고 Q&amp;A를 시작합니다. | **3월 20일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience 컨퍼런스 | _기술을 확장하고, 최신 트렌드를 발견하고, 경험 주도 성장의 미래를 탐색해 보십시오._ | 업계 최고 브랜드에서 배우고, 생성형 AI의 미래를 발견하며, 경험 주도 성장을 준비하십시오. | **3월 25~28일(라스베이거스) 및 온라인** | [등록](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
