@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
+source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
 workflow-type: tm+mt
-source-wordcount: '6002'
-ht-degree: 99%
+source-wordcount: '6053'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 99%
 
 ## 2024년 3월
 
-마지막 업데이트: **2024년 3월 22일 토요일**
+마지막 업데이트: **2024년 3월 29일 토요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트됨 **3월 29일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
@@ -67,23 +67,25 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-업데이트 날짜: **2024년 3월 15일 토요일**
+업데이트 날짜: **2024년 3월 29일 토요일**
 
 +++세부 사항
 
-* **ADOBE SUMMIT** | Digital Experience 컨퍼런스 | _기술을 확장하고, 최신 트렌드를 발견하고, 경험 주도 성장의 미래를 탐색해 보십시오._ | 업계 최고 브랜드에서 배우고, 생성형 AI의 미래를 발견하며, 경험 주도 성장을 준비하십시오. | **3월 25~28일(라스베이거스) 및 온라인** | [등록](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
-
-* **ANALYTICS** | Experience Makers: Skill Exchange | _Adobe Analytics를 위한 Adobe Summit Skill Exchange_ | 2024년 3월 28일 라스베이거스 Summit에서 Adobe Analytics Skill Exchange가 열립니다. 지금 사전 등록하여 Analytics 고객과 챔피언이 말하는 팁, 요령 및 모범 사례를 알아보십시오. | **3월 28일 오전 9시(PT)** | [등록](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=952%20953)
-
-* **EXPERIENCE MANAGER** | Experience Makers: Skill Exchange | _AEM을 위한 Adobe Summit Skill Exchange_ | 2024년 3월 28일 라스베이거스 Summit에서 AEM Skill Exchange가 열립니다. 지금 사전 등록하여 AEM 고객과 챔피언이 말하는 팁, 요령 및 모범 사례를 알아보십시오. | **3월 28일 오전 9시(PT)** | [등록](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=950%20951)
-
-* **EXPERIENCE MANAGER** | Experience Makers: Skill Exchange | _Marketo Engage를 위한 Adobe Summit Skill Exchange_ | 2024년 3월 28일 라스베이거스 Summit에서 Marketo Engage Skill Exchange가 열립니다. 지금 사전 등록하여 Marketo Engage 고객과 챔피언이 말하는 팁, 요령 및 모범 사례를 알아보십시오. | **3월 28일 오전 9시(PT)** | [등록](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=954%20955)
-
-* **WORKFRONT** | Experience Makers: Skill Exchange | _Workfront를 위한 Adobe Summit Skill Exchange_ | 2024년 3월 28일 라스베이거스 Summit에서 Adobe Workfront Skill Exchange가 열립니다. 지금 사전 등록하여 Workfront 고객이 말하는 팁, 요령 및 모범 사례를 알아보십시오. | **3월 28일 오전 9시(PT)** | [등록](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=956%20957)
-
 * **WORKFRONT** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **4월 5일 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **WORKFRONT** | 고객 워크숍 | _Admin 101: Workfront 시작하기_ | Workfront을 처음 사용하십니까? 질문하고, 리소스를 얻고, 모범 사례를 배우고, 다른 새로운 관리자를 만나려면 Admin 101 월별 모임에 참여하십시오. 이 세션은 초기 설정 및 구성에 중점을 둡니다. | **4월 10일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | 고객 워크숍 | _학습: Adobe Workfront 2024년 2분기 릴리스 요약_ | 2024년 2분기 릴리스에 포함된 최신 개선 사항을 검토하려면 다른 Workfront 시스템 관리자에 참여하십시오. 이점, 롤아웃 계획 및 변경 관리에 대해 설명합니다. | **4월 16일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO ENGAGE** | 동료로부터 학습 | _강력한 워크플로 자동화 잠금 해제: Marketo Engage REST API의 실용적인 응용 프로그램_ | 실시간으로 참여하여 REST API를 사용하여 리드를 대량으로 병합하고, UTM 추적 프로그램을 만들고, ChatGPT를 활용하여 전송 시간을 최적화하는 등 워크플로를 간소화하는 방법에 대한 실제 사용 사례에서 영감을 얻으십시오. | **4월 17일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+
+* **WORKFRONT** | 고객 워크숍 | _학습: Adobe Workfront의 10가지 텍스트 모드 팁_ | 텍스트 모드로 보고 지식을 확장하시겠습니까? 더 이상 보지 마세요! 이 워크숍에서는 텍스트 모드 기본 사항과 API 탐색기에 대한 간략한 소개와 Adobe Workfront의 10가지 텍스트 모드 팁이 제공됩니다. | **4월 18일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 Experience League에서 더 많은 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [이벤트 녹화](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ko-KR)를 검색하십시오.
+
+* **WORKFRONT** | 커뮤니티 이벤트 | _연결: Workfront Collective_ | 최신 업데이트 및 모범 사례에 대해 논의하는 이 월별 공동 브레인스토밍 및 공유 세션에 동료 Workfront 시스템 관리자에 참여하십시오. | **4월 22일 @ 오전 6시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | 질문 및 답변 | _질문: Adobe 비즈니스 플랫폼으로 마이그레이션_ | 기술 지원 엔지니어와의 Q&amp;A에 참여하여 Adobe 비즈니스 플랫폼 마이그레이션에 대한 기대 사항과 가장 적합한 준비 방법을 알아보십시오. | **4월 23일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
