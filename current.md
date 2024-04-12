@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
+source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
 workflow-type: tm+mt
-source-wordcount: '6053'
+source-wordcount: '5962'
 ht-degree: 94%
 
 ---
@@ -71,10 +71,6 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **WORKFRONT** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **4월 5일 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | 고객 워크숍 | _Admin 101: Workfront 시작하기_ | Workfront을 처음 사용하십니까? 질문하고, 리소스를 얻고, 모범 사례를 배우고, 다른 새로운 관리자를 만나려면 Admin 101 월별 모임에 참여하십시오. 이 세션은 초기 설정 및 구성에 중점을 둡니다. | **4월 10일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **WORKFRONT** | 고객 워크숍 | _학습: Adobe Workfront 2024년 2분기 릴리스 요약_ | 2024년 2분기 릴리스에 포함된 최신 개선 사항을 검토하려면 다른 Workfront 시스템 관리자에 참여하십시오. 이점, 롤아웃 계획 및 변경 관리에 대해 설명합니다. | **4월 16일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **MARKETO ENGAGE** | 동료로부터 학습 | _강력한 워크플로 자동화 잠금 해제: Marketo Engage REST API의 실용적인 응용 프로그램_ | 실시간으로 참여하여 REST API를 사용하여 리드를 대량으로 병합하고, UTM 추적 프로그램을 만들고, ChatGPT를 활용하여 전송 시간을 최적화하는 등 워크플로를 간소화하는 방법에 대한 실제 사용 사례에서 영감을 얻으십시오. | **4월 17일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
@@ -91,7 +87,7 @@ Experience League에서 더 많은 [예정된 이벤트](https://experienceleagu
 
 ## ![아이콘](/assets/experience-league.png) Adobe 콘텐츠 공급망 {#content-supply-chain}
 
-[콘텐츠 공급망](https://business.adobe.com/solutions/adobe-genstudio.html)에 대해 알아보십시오. 생성형 AI 및 지능형 자동화를 통해 콘텐츠 공급망을 가속화하고 단순화하는 Adobe의 엔드 투 엔드 솔루션입니다.
+다음에 대해 알아보기 [콘텐츠 공급망](https://business.adobe.com/solutions/adobe-genstudio.html), 생성 AI 및 지능형 자동화를 통해 콘텐츠를 가속화하고 단순화하는 Adobe의 엔드 투 엔드 솔루션입니다.
 
 +++세부 사항
 
