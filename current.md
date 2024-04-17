@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
+source-git-commit: 71091a1c41425c3fc5109753a96028aea1765388
 workflow-type: tm+mt
-source-wordcount: '5962'
-ht-degree: 94%
+source-wordcount: '5857'
+ht-degree: 96%
 
 ---
 
@@ -70,10 +70,6 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 업데이트 날짜: **2024년 3월 31일 월요일**
 
 +++세부 사항
-
-* **WORKFRONT** | 고객 워크숍 | _학습: Adobe Workfront 2024년 2분기 릴리스 요약_ | 2024년 2분기 릴리스에 포함된 최신 개선 사항을 검토하려면 다른 Workfront 시스템 관리자에 참여하십시오. 이점, 롤아웃 계획 및 변경 관리에 대해 설명합니다. | **4월 16일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **MARKETO ENGAGE** | 동료로부터 학습 | _강력한 워크플로 자동화 잠금 해제: Marketo Engage REST API의 실용적인 응용 프로그램_ | 실시간으로 참여하여 REST API를 사용하여 리드를 대량으로 병합하고, UTM 추적 프로그램을 만들고, ChatGPT를 활용하여 전송 시간을 최적화하는 등 워크플로를 간소화하는 방법에 대한 실제 사용 사례에서 영감을 얻으십시오. | **4월 17일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
 
 * **WORKFRONT** | 고객 워크숍 | _학습: Adobe Workfront의 10가지 텍스트 모드 팁_ | 텍스트 모드로 보고 지식을 확장하시겠습니까? 더 이상 보지 마세요! 이 워크숍에서는 텍스트 모드 기본 사항과 API 탐색기에 대한 간략한 소개와 Adobe Workfront의 10가지 텍스트 모드 팁이 제공됩니다. | **4월 18일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
