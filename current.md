@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7832bcbd5c8454d0553578b76b7fec79fd1bd453
+source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
 workflow-type: tm+mt
-source-wordcount: '6293'
-ht-degree: 50%
+source-wordcount: '6240'
+ht-degree: 51%
 
 ---
 
@@ -67,11 +67,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-업데이트 일자: **2024년 4월 12일 토요일**
+업데이트 일자: **2024년 4월 19일 토요일**
 
 +++세부 사항
-
-* **WORKFRONT** | 고객 워크숍 | _학습: Adobe Workfront의 10가지 텍스트 모드 팁_ | 텍스트 모드로 보고 지식을 확장하시겠습니까? 더 이상 보지 마세요! 이 워크숍에서는 텍스트 모드 기본 사항과 API 탐색기에 대한 간략한 소개와 Adobe Workfront의 10가지 텍스트 모드 팁이 제공됩니다. | **4월 18일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | 커뮤니티 이벤트 | _연결: Workfront Collective_ | 최신 업데이트 및 모범 사례에 대해 논의하는 이 월별 공동 브레인스토밍 및 공유 세션에 동료 Workfront 시스템 관리자에 참여하십시오. | **4월 22일 @ 오전 6시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
