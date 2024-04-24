@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
+source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
 workflow-type: tm+mt
-source-wordcount: '6240'
+source-wordcount: '6106'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## 2024년 4월
 
-최신 업데이트 일자: **2024년 4월 17일**
+최신 업데이트 일자: **2024년 4월 24일 목요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
@@ -70,13 +70,6 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 업데이트 일자: **2024년 4월 19일 토요일**
 
 +++세부 사항
-
-* **WORKFRONT** | 커뮤니티 이벤트 | _Connect: Workfront Collective_ | 최신 업데이트와 모범 사례에 대해 논의하는 월간 집단적 문제 해결 및 성공 경험 공유 세션에 다른 Workfront 고객과 함께 참여하십시오. | **4월 22일 오전 6시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Q&amp;A 채팅 | _질문: Adobe 비즈니스 플랫폼으로 마이그레이션_ | 기술 지원 엔지니어와의 Q&amp;A에 참여하여 Adobe Business Platform 마이그레이션에 대해 예상되는 사항과 최선의 준비 방법을 알아보십시오. | **4월 23일 오전 8시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-
-* **WORKFRONT** | 동료로부터 배우기 | _시스템 관리자 실무 인력 배치_ | Workfront를 지원하려면 몇 명의 관리자가 필요합니까? 상황에 따라 다릅니다. 4월 25일에 Dell 및 Adobe의 동료들로부터 지금 적합한 관리자를 고용하면 향후 비용이 많이 드는 실수를 피하는 데 어떻게 도움이 되는지 들어보실 수 있습니다. | **4월 23일 오전 8시 (PT)** | [등록](https://webinars.on24.com/adobe_workfront/AdoptionStaffingAdmin?partnerref=exl)
 
 * **WORKFRONT** | 전문가에게 질문하기: Fusion 작업 | _시스템 관리자 실무 인력 배치_ | 전문가 Andy Hess와 함께 Adobe Workfront Fusion의 작업을 수량화하는 방법과 시나리오에서 사용을 최적화하기 위한 팁과 요령을 포함하여 작업에 대해 자세히 알아봅니다. | **4월 30일 오전 10시 30분 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
