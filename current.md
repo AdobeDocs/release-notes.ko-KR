@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
+source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
 workflow-type: tm+mt
-source-wordcount: '6106'
-ht-degree: 100%
+source-wordcount: '6189'
+ht-degree: 98%
 
 ---
 
@@ -74,6 +74,10 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 * **WORKFRONT** | 전문가에게 질문하기: Fusion 작업 | _시스템 관리자 실무 인력 배치_ | 전문가 Andy Hess와 함께 Adobe Workfront Fusion의 작업을 수량화하는 방법과 시나리오에서 사용을 최적화하기 위한 팁과 요령을 포함하여 작업에 대해 자세히 알아봅니다. | **4월 30일 오전 10시 30분 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | 커피 브레이크 | _Adobe Journey Optimizer 커뮤니티 Q&amp;A 커피 브레이크_ | Adobe Journey Optimizer 전문가와 함께 Journey Optimizer의 새로운 코드 기반 경험 채널에 대해 질문하고 대화를 나누십시오. | **5월 8일 오전 8시 (PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
+
+* **COMMERCE** | 웨비나 | _Commerce 및 커피: Ecommerce Essentials 마스터링_ | Commerce 전략 컨설턴트인 Correy Gelato가 개인 맞춤화된 고객 프로모션, 충성도 프로그램, 최적화된 결제 및 배송 프로세스를 포함하여 성공을 위한 전자 상거래 필수 사항을 공유함에 따라 참여해 보십시오. | **5월 2일 @ 오전 10시(PT)** | [등록](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
+
+* **COMMERCE** | 고객 워크숍 | _Admin 101: 사용자가 Workfront을 사용하도록 설정_ | Workfront으로 이동하시겠습니까? 질문하고, 리소스를 얻고, 모범 사례를 배우고, 다른 새로운 관리자를 만나려면 Admin 101 월별 모임에 참여하십시오. 이번 달에는 사용자 채택에 대해 논의하겠습니다! | **5월 8일 오전 8시 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League에서 더 많은 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [이벤트 녹화](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
@@ -458,7 +462,7 @@ Experience Manager에 대해 게시된 새로운 비디오, 튜토리얼 또는 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|--------|---------|---------|
 | 2024년 3월 | [기본 `OOTB` 관리자 그룹 이름 변경 및 관리자 권한 상실](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23602) | 신규 문서 | 기본 `OOTB` 관리자 그룹의 이름을 변경하고 관리자 권한을 상실한 경우 제품 프로필을 다시 생성하는 방법에 대해 알아봅니다. |
-| 2024년 3월 | [ [!DNL AEM] Cloud의 간헐적인 속도 저하](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23840) | 신규 문서 | [!DNL Adobe Experience Manager as a Cloud Service] ([!DNL AEM] Cloud) 내에서 실행을 처리하기 위해 권장되는 접근 방식에 대해 알아봅니다. |
+| 2024년 3월 | [ [!DNL AEM] Cloud의 간헐적인 속도 저하](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23840) | 신규 문서 | [!DNL Adobe Experience Manager as a Cloud Service]([!DNL AEM] Cloud) 내에서 실행을 처리하기 위해 권장되는 접근 방식에 대해 알아봅니다. |
 | 2024년 3월 | [[!UICONTROL CTT(콘텐츠 전송 도구)]가 클라우드 인스턴스 간에 작동합니까?](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23865) | 신규 문서 | 이 문서에서는 [!DNL AEM as a Cloud Service]에서 [!UICONTROL CTT(Content Transfer Tool)]가 클라우드 인스턴스 간에 기존 콘텐츠를 마이그레이션할 수 있는지 여부를 다룹니다. |
 | 2024년 3월 | [콘텐츠 작성자는 프로젝트에서 [!UICONTROL 번역 구성]을 선택할 수 없습니다.](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23880) | 신규 문서 | 이 문서에서는 [!DNL AEM] 프로젝트에서 “[!UICONTROL 클라우드 구성]”을 선택할 수 없는 콘텐츠 작성자가 경험하는 문제에 대한 심층 분석을 제공합니다. |
 | 2024년 3월 | [[!DNL Adobe Experience Manager]: 실행 페이지의 링크 조정](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23939) | 신규 문서 | 실행 페이지 내에 배치된 크로스 링크를 `/content/launches` 아래의 경로에 다시 작성해야 하지만 다시 작성되지 않는 경우 [!DNL AEM]이 시작 페이지의 링크를 조정하는 방법에 대해 알아봅니다. |
@@ -471,13 +475,13 @@ Experience Manager에 대해 게시된 새로운 비디오, 튜토리얼 또는 
 | 2024년 3월 | [잘못된 [!UICONTROL 자산 성능] 테스트 구성으로 인한 파이프라인 오류 수정](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23839) | 신규 문서 | 이 문서에서는 [!UICONTROL 자산 성능] 테스트가 [!UICONTROL Cloud Manager] 구성에 잘못 포함될 때 발생하는 파이프라인 오류에 대한 솔루션을 제공합니다. |
 | 2024년 3월 | [코드 빌드를 통해 복제 구성을 배포해야 합니다.](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23882) | 신규 문서 | 이 문서에서는 코드 빌드를 통해 복제 구성을 배포해야 하는 문제를 해결하는 단계를 제공합니다. 콘텐츠 패키지를 사용하여 이러한 구성을 관리해야 합니다. |
 | 2024년 3월 | [[!DNL Adobe Experience Manager]: [!DNL AEM] Cloud Service의 [!UICONTROL 프론트엔드 파이프라인에서 `BUILD_NPM_AUDIT_ERROR`를 해결하는 방법]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23895) | 신규 문서 | 내부 오류로 인해 프론트엔드 파이프라인의 첫 번째 실행이 실패하는 경우 문제를 해결하는 방법에 대해 알아봅니다. |
-| 2024년 3월 | [`client_secret`[!UICONTROL IMS] 구성에서 설정이 해제되었습니다.](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23909) | 신규 문서 | 일부 [!DNL Adobe Experience Manager] ([!DNL AEM]) 환경, 특히 이전 버전에서 업그레이드된 환경에서 관리자가 [!DNL AEM]을 다시 시작한 후 [!UICONTROL IMS] 구성이 실패하는 문제가 발생할 수 있는 경우 문제를 해결하는 방법에 대해 알아보십시오. |
+| 2024년 3월 | [`client_secret`[!UICONTROL IMS] 구성에서 설정이 해제되었습니다.](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23909) | 신규 문서 | 일부 [!DNL Adobe Experience Manager]([!DNL AEM]) 환경, 특히 이전 버전에서 업그레이드된 환경에서 관리자가 [!DNL AEM]을 다시 시작한 후 [!UICONTROL IMS] 구성이 실패하는 문제가 발생할 수 있는 경우 문제를 해결하는 방법에 대해 알아보십시오. |
 | 2024년 3월 | [ [!DNL ZIP] 압축 포맷의 [!DNL Tiff] 파일을 [!DNL AEM Assets]에 업로드하면 변환이 생성되지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23916) | 신규 문서 | 생성된 변환과 함께 [!DNL ZIP] 압축 포맷의 [!DNL Tiff] 파일을 [!DNL AEM Assets]에 업로드하는 방법에 대해 알아봅니다. |
-| 2024년 3월 | [[!DNL AEM Dynamic Media] 비디오 시청자가 임베드를 공유하지만 [!DNL URL] 이 표시되지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23941) | 신규 문서 | 이 도움말에서는 [!DNL Adobe Experience Manager] ([!DNL AEM Dynamic Media]) 비디오 시청자가 임베드 공유했지만 [!DNL URL]이 표시되지 않는 문제에 대한 해결 방법을 제공합니다. |
+| 2024년 3월 | [[!DNL AEM Dynamic Media] 비디오 시청자가 임베드를 공유하지만 [!DNL URL] 이 표시되지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23941) | 신규 문서 | 이 도움말에서는 [!DNL Adobe Experience Manager]([!DNL AEM Dynamic Media]) 비디오 시청자가 임베드 공유했지만 [!DNL URL]이 표시되지 않는 문제에 대한 해결 방법을 제공합니다. |
 | 2024년 3월 | [기본 [!DNL GraphQL Query Executor] 구성 옵션](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-23945) | 신규 문서 | 최신 [!DNL Denial of Service] 업데이트의 기본 파서 옵션으로 인해 발생한 [!DNL GraphQL] 쿼리 [!DNL GraphQL Java] 오류를 해결하는 방법에 대해 알아봅니다. |
 | 2024년 3월 |  [!DNL AEM]에서 사용자 및 그룹을 마이그레이션할 때 [`javax.jcr.nodetype.ConstraintViolationException: OakConstraint0027` 오류 발생](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23947) | 신규 문서 | 사용자 및 그룹을 패키징할 때 문제를 해결하는 방법에 대해 알아보고, 관리자 및 익명 사용자를 포함한 [!DNL out-of-the-box] 사용자를 패키징하지 않아야 합니다. |
 | 2024년 3월 | [ [!DNL Live Copy] 롤아웃 시 태그 상속 문제](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23961) | 신규 문서 | [!DNL Blueprint] 사이트의 [!UICONTROL 페이지 속성] 대화 상자를 통해 태그를 추가할 때 문제를 해결하는 방법에 대해 알아보고 정규 표현식에 `tags`를 추가하여 롤아웃 시 [!DNL Live Copies]로 롤아웃되는지 확인합니다. |
-| 2024년 3월 | [새 필터를 생성할 때 [!UICONTROL 패키지 관리자]에서 하위 디렉터리를 볼 수 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23975) | 신규 문서 | 하위 디렉터리를 포함하는 패키지를 생성해야 하는 사용자를 위한 해결 방법에 대해 알아봅니다. [!DNL Adobe Experience Manager] ([!DNL AEM])에서 관리자가 [!UICONTROL 패키지 관리자 UI]에서 새 필터를 추가하려고 할 때 하위 디렉터리가 표시되지 않는 문제가 발생합니다. |
+| 2024년 3월 | [새 필터를 생성할 때 [!UICONTROL 패키지 관리자]에서 하위 디렉터리를 볼 수 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23975) | 신규 문서 | 하위 디렉터리를 포함하는 패키지를 생성해야 하는 사용자를 위한 해결 방법에 대해 알아봅니다. [!DNL Adobe Experience Manager]([!DNL AEM])에서 관리자가 [!UICONTROL 패키지 관리자 UI]에서 새 필터를 추가하려고 할 때 하위 디렉터리가 표시되지 않는 문제가 발생합니다. |
 
 {style="table-layout:auto"}
 
