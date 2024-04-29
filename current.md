@@ -6,7 +6,7 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5604d5e7d8efd1845844f352cc1186eb191ba2f3
+source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
 workflow-type: tm+mt
 source-wordcount: '6236'
 ht-degree: 97%
@@ -67,7 +67,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-업데이트 일자: **2024년 4월 29일 화요일**
+업데이트 일자: **2024년 4월 30일 수요일**
 
 +++세부 사항
 
