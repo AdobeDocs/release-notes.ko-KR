@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
+source-git-commit: 850bd90d2ecf012068c90278c10958e119fc7438
 workflow-type: tm+mt
-source-wordcount: '6236'
+source-wordcount: '6188'
 ht-degree: 97%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 97%
 
 ## 2024년 4월
 
-최신 업데이트 일자: **2024년 4월 24일 목요일**
+마지막 업데이트: **2024년 5월 1일 목요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
@@ -67,11 +67,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-업데이트 일자: **2024년 4월 30일 수요일**
+**2024년 5월 1일 목요일** 업데이트됨
 
 +++세부 사항
-
-* **WORKFRONT** | 전문가에게 질문하기: Fusion 작업 | _시스템 관리자 실무 인력 배치_ | 전문가 Andy Hess와 함께 Adobe Workfront Fusion의 작업을 수량화하는 방법과 시나리오에서 사용을 최적화하기 위한 팁과 요령을 포함하여 작업에 대해 자세히 알아봅니다. | **4월 30일 오전 10시 30분 (PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | 커피 브레이크 | _Adobe Journey Optimizer 커뮤니티 Q&amp;A 커피 브레이크_ | Adobe Journey Optimizer 전문가와 함께 Journey Optimizer의 새로운 코드 기반 경험 채널에 대해 질문하고 대화를 나누십시오. | **5월 8일 오전 8시 (PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
 
