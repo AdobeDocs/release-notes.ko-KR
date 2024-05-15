@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 270b9743ab0d3da4ccf830e512c881d536787b8e
+source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
 workflow-type: tm+mt
-source-wordcount: '6443'
+source-wordcount: '6445'
 ht-degree: 53%
 
 ---
@@ -77,7 +77,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 * **WORKFRONT** | 휴식 시간 | _Adobe Workfront 커뮤니티 Q&amp;A Coffee Break: Adobe 비즈니스 플랫폼 마이그레이션_ | 커뮤니티의 Workfront 전문가와 함께 Adobe 비즈니스 플랫폼, 조직의 Adobe Admin Console 마이그레이션 등에 대해 궁금한 점을 질문해 보십시오. | **5월 29일 @ 오전 8시(PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
-Experience League에서 더 많은 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [이벤트 녹화](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
+더 보기 [예정된 이벤트](https://experienceleague.adobe.com/events/) 또는 찾아보기 [이전 이벤트 녹화본](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) Experience League.
 
 +++
 
