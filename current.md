@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
+source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
 workflow-type: tm+mt
-source-wordcount: '6449'
+source-wordcount: '6457'
 ht-degree: 53%
 
 ---
@@ -71,7 +71,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **WORKFRONT** | Q &amp; A 채팅 | _전문가에게 질문하기: 관리자 모범 사례 - 웨비나 후속 조치_ | Dell의 동료 및 전문가와 함께 웨비나 후속 이벤트에 대한 Adobe을 통해 관리자 실무 인력 충원에 대한 대화를 계속하십시오. | **5월 16일 @ 오전 8시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **REAL-TIME CUSTOMER DATA PLATFORM 및 TARGET** | 웨비나 | _The Perfect Blend: RTCDP, Target 및 친구_ | 선임 솔루션 컨설턴트인 Josh Kimball과 함께 RTCDP가 크로스 채널 데이터를 고객 프로필에 통합하고 Adobe Target에 원활하게 연결하여 이러한 세그먼트에 대한 개인화된 전략을 활성화하는 방법에 대해 설명합니다. | **5월 23일 @ 오전 1시(ET)** | [등록](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | 커뮤니티 이벤트 | _Adobe Workfront Industry Circle: 소매_ | 리테일의 Workfront 고객이고 집단 문제 해결 및 다른 관리자와 학습 공유에 관심이 있는 경우 DSW 및 Nordstrom의 관리자가 주도하는 1시간 공개 토론에 참여하십시오. | **5월 23일 @ 오전 11시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
