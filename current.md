@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
+source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
 workflow-type: tm+mt
-source-wordcount: '6457'
-ht-degree: 53%
+source-wordcount: '6546'
+ht-degree: 52%
 
 ---
 
@@ -67,7 +67,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-**2024년 5월 15일 목요일** 업데이트됨
+**2024년 5월 17일 토요일** 업데이트됨
 
 +++세부 사항
 
@@ -76,6 +76,10 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 * **WORKFRONT** | 커뮤니티 이벤트 | _Adobe Workfront Industry Circle: 소매_ | 리테일의 Workfront 고객이고 집단 문제 해결 및 다른 관리자와 학습 공유에 관심이 있는 경우 DSW 및 Nordstrom의 관리자가 주도하는 1시간 공개 토론에 참여하십시오. | **5월 23일 @ 오전 11시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | 휴식 시간 | _Adobe Workfront 커뮤니티 Q&amp;A Coffee Break: Adobe 비즈니스 플랫폼 마이그레이션_ | 커뮤니티의 Workfront 전문가와 함께 Adobe 비즈니스 플랫폼, 조직의 Adobe Admin Console 마이그레이션 등에 대해 궁금한 점을 질문해 보십시오. | **5월 29일 @ 오전 8시(PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+
+* **WORKFRONT** | 웨비나 | _Workfront에서 일어나기: 환경 최적화 및 유지 관리_ | Adobe의 비즈니스 어드바이저가 정리 및 교육 전략, 구현 계획 및 지속적인 개선 사례를 통해 Adobe Workfront에서 작업 관리 환경을 최적화하는 통찰력을 공유하면 참여하십시오. | **6월 6일 @ 오후 1시(ET)** | [등록](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **6월 7일 @ 오전 9시(PT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 더 보기 [예정된 이벤트](https://experienceleague.adobe.com/events/) 또는 찾아보기 [이전 이벤트 녹화본](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) Experience League.
 
