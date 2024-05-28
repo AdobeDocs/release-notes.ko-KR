@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7aac2cd48bd037c3f860328e3418d7af6ad58d7d
+source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '4957'
+ht-degree: 98%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024년 5월
 
-마지막 업데이트: **2024년 5월 16일**
+마지막 업데이트: **2024년 5월 28일 수요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [Adobe에서의 인증](#certification)
@@ -40,8 +40,8 @@ ht-degree: 99%
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)(**5월 15일** 릴리스)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)(**5월 15일** 릴리스)
+* [[!DNL Adobe Analytics]](#analytics) (릴리스됨 **5월 15일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (릴리스됨 **5월 15일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,10 +67,11 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-**2024년 5월 24일 토요일** 업데이트됨
+**2024년 5월 28일 수요일** 업데이트됨
 
 +++세부 사항
 
+* **귀하가 제공한 경험** | 비디오 | _귀하가 제공한 경험_ 는 Adobe DX 솔루션을 통해 수준 높은 전문 지식과 영향력을 얻은 일반 사용자가 만든 콘텐츠를 제공합니다. 제품 전문 지식을 향상하는 데 필요한 영감을 찾아보십시오. | [온디맨드로 제공](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 * **WORKFRONT** | 커피 브레이크 | _Adobe Workfront 커뮤니티 Q&amp;A 커피 브레이크: Adobe Business Platform 마이그레이션_ | 커뮤니티의 Workfront 전문가들에게 Adobe Business Platform, Adobe Admin Console로의 조직 마이그레이션 등에 대해 질문하실 수 있습니다. | **5월 29일 오전 8시(PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **Workfront** | 웨비나 | _Workfront로 개선하기: 최적화 및 환경 유지_ | 정리 및 교육 전략, 구현 계획, 지속적인 개선 사례를 통해 Adobe Workfront의 작업 관리 환경을 최적화하기 위한 통찰력을 공유하는 Adobe의 비즈니스 어드바이저에 참여하십시오. | **6월 6일 오후 1시 (ET)** | [등록](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
