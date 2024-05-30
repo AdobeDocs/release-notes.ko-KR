@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
+source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
 workflow-type: tm+mt
-source-wordcount: '4957'
-ht-degree: 98%
+source-wordcount: '5007'
+ht-degree: 96%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 98%
 
 ## 2024년 5월
 
-마지막 업데이트: **2024년 5월 28일 수요일**
+마지막 업데이트: **2024년 5월 30일 금요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (**5월 30일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
@@ -67,16 +67,19 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-**2024년 5월 28일 수요일** 업데이트됨
+**2024년 5월 30일 금요일** 업데이트됨
 
 +++세부 사항
 
 * **귀하가 제공한 경험** | 비디오 | _귀하가 제공한 경험_ 는 Adobe DX 솔루션을 통해 수준 높은 전문 지식과 영향력을 얻은 일반 사용자가 만든 콘텐츠를 제공합니다. 제품 전문 지식을 향상하는 데 필요한 영감을 찾아보십시오. | [온디맨드로 제공](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
-* **WORKFRONT** | 커피 브레이크 | _Adobe Workfront 커뮤니티 Q&amp;A 커피 브레이크: Adobe Business Platform 마이그레이션_ | 커뮤니티의 Workfront 전문가들에게 Adobe Business Platform, Adobe Admin Console로의 조직 마이그레이션 등에 대해 질문하실 수 있습니다. | **5월 29일 오전 8시(PT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **Workfront** | 웨비나 | _Workfront로 개선하기: 최적화 및 환경 유지_ | 정리 및 교육 전략, 구현 계획, 지속적인 개선 사례를 통해 Adobe Workfront의 작업 관리 환경을 최적화하기 위한 통찰력을 공유하는 Adobe의 비즈니스 어드바이저에 참여하십시오. | **6월 6일 오후 1시 (ET)** | [등록](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **6월 7일 오전 9시 (PT)** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **COMMERCE** | 웨비나 | _브루: Adobe Commerce 인텔리전스 (fka MBI)_ | 사용자 정의 대시보드 및 보고서를 통해 eCommerce 데이터를 실행 가능한 통찰력으로 전환하도록 설계된 강력한 도구인 Adobe Commerce Intelligence(이전 Magento Business Intelligence)에 대해 자세히 알아보십시오. | **6월 11일 @ 오후 1시(ET)** | [등록](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
+
+* **MARKETO ENGAGE** | 휴식 시간 | _Adobe Dynamic Chat을 위한 생성 AI 기능_ | 이 기회를 놓치지 말고 전문가에게 챗봇에서 자유 형식, 양방향 대화 등을 가능하게 하는 Adobe Dynamic Chat을 위해 새롭게 추가된 기능에 대해 모두 질문해 보십시오! | **6월 12일 @ 오전 8시(PT)** | [등록](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
 
 Experience League에서 더 많은 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
