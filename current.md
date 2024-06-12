@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 40%
@@ -652,7 +652,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| -----------|---------- | ---------- | ---------- |
 | 2024년 5월 | [!DNL Firefly] | [상품을 위한 재사용 가능한 장면 만들기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | 비디오 | 핸드백, 액세서리 등의 상품에 대해 재사용 가능한 장면을 만드는 방법을 알아봅니다. 재사용 가능한 장면을 만들면 계절에 따라 또는 원할 때마다 웹 사이트 상품을 새로 단장할 수 있어 디지털 머천다이징이 가속화됩니다. |
-| 2024년 5월 | [!DNL Firefly] | [창의적 아이디어 생성 가속화](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | 비디오 | 아이디어를 빠르게 시각화하고 비즈니스 캠페인의 개념을 탐색하는 방법을 알아봅니다. 창의적인 아이디어 생성을 가속화하면 조직에서 빠른 속도로 고품질 콘텐츠를 생산할 수 있습니다. |
+| 2024년 5월 | [!DNL Firefly] | [창의적 아이디어 생성 가속화](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | 비디오 | 비즈니스 캠페인에 대한 아이디어를 시각화하고 개념을 탐색하는 방법을 알아봅니다. 창의적인 아이디어 생성을 가속화하면 조직에서 빠른 속도로 고품질 콘텐츠를 생산할 수 있습니다. |
 
 최신 튜토리얼은 [Creative Cloud for enterprise 튜토리얼](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)을 참조하십시오.
 
