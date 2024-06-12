@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3e248cbbf78e9379263d6f76a6c8078fd28ff93f
+source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 40%
@@ -122,12 +122,12 @@ Experience League에 대한 최신 튜토리얼은 [콘텐츠 공급망](https:/
 
 최근 릴리스 정보는 다음을 참조하십시오.
 
-* [2024년 5월 15일](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024)
-* [2024년 1월 30일](https://experienceleague.adobe.com/ko/docs/release-notes/experience-cloud/previous/2024/02142024)
-* [2023년 10월](https://experienceleague.adobe.com/ko/docs/release-notes/experience-cloud/previous/2023/10042023)
-* [2023년 8월](https://experienceleague.adobe.com/ko/docs/release-notes/experience-cloud/previous/2023/08092023)
-* [2023년 3월](https://experienceleague.adobe.com/ko/docs/release-notes/experience-cloud/previous/2023/03082023)
-* [2023년 1월](https://experienceleague.adobe.com/ko/docs/release-notes/experience-cloud/previous/2023/02082023)
+* [2024년 5월 15일](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
+* [2024년 1월 30일](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
+* [2023년 10월](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
+* [2023년 8월](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status)
+* [2023년 3월](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status)
+* [2023년 1월](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status)
 
 +++
 
