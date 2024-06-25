@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
-workflow-type: ht
-source-wordcount: '4006'
-ht-degree: 100%
+source-git-commit: 4c32968c3fe0e49e367b9b6130f681dd246541a7
+workflow-type: tm+mt
+source-wordcount: '4031'
+ht-degree: 95%
 
 ---
 
@@ -32,16 +32,16 @@ ht-degree: 100%
 
 ## 2024년 6월
 
-마지막 업데이트: **2024년 6월 12일**
+마지막 업데이트: **2024년 6월 25일 수요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**5월 30일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (**6월 25일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)(**6월 12일** 출시)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)(**6월 12일** 출시)
+* [[!DNL Adobe Analytics]](#analytics) (릴리스됨 **6월 12일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (릴리스됨 **6월 12일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,17 +67,19 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-**2024년 6월 12일**&#x200B;에 업데이트됨
+**2024년 6월 25일 수요일**&#x200B;에 업데이트됨
 
 +++세부 사항
 
-* **Creative Cloud, Experience Manager 및 Workfront** | Q&amp;A 채팅 | _질문: Workfront, Creative Cloud 및 AEM을 사용하여 콘텐츠 공급망 구축_ | Adobe 고객 성공 팀 및 City National Bank과 함께 Workfront, Creative Cloud 및 AEM 통합을 통한 모범 사례, 이점 및 가치 창출에 대한 1시간 인터뷰식 토론을 즐겨보십시오. | **6월 18일 오전 10시 30분 (PT)** | [등록하기](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Creative Cloud** | Adobe Developers Live | _Adobe Express 및 Creative Cloud용 Adobe Developers Live_ | Adobe Express 또는 Creative Cloud용 추가 기능, 플러그인 또는 통합을 개발하는 모든 개발자를 위한 2일간의 가상 회의에 실시간으로 참여하여 2024년의 주요 개발자 우선 순위와 로드맵에 대해 알아보십시오. | **6월 19일 오전 9시 15분 (MT)** | [등록하기](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.ringcentral.com%2Fevents%2Fadobe-developers-live-adobe-express-creative-cloud-2024%3Futm_source%3DExperienceleague%2520Events%26utm_campaign%3DExperienceleague%2520Events&amp;data=05%7C02%7Cieichel%40adobe.com%7C350e6e0f78514d018ff708dc8998551f%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638536534560540136%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=l%2BVrnbrZ8BBlfl3v3UGMozKCOcF%2BtoN89bWgOsLokQo%3D&amp;reserved=0)
-
-* **Marketo Measure** | 웨비나 | _Marketo Measure 및 Mochas: 활동 및 사용자 정의 모델_ | Adobe Marketo Measure 전문가와 함께 사용자 정의 기여도 모델 및 활동 기여도를 활용하여 CRM 활동 기록에서 직접 터치 포인트를 사용하여 판매 및 마케팅 데이터를 조정하는 방법을 공유해 보십시오. | **6월 20일 오후 1시 (ET)** | [등록하기](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
 * **Workfront** | 고객 워크숍 | _학습: Workfront에서 작업의 우선 순위 지정 및 작업을 전략적으로 계획하기_ | Workfront 고객 성공 팀과 함께 연간 계획을 위한 모범 사례, 우선 순위 지정을 위한 공식적인 프로세스를 만드는 방법, 프로젝트 데이터를 표시하여 전반적인 일관성을 확인하기 위한 권장 보기에 대해 알아보십시오. | **6월 25일 오전 9시 30분 (PT)** | [등록하기](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | 고객 워크숍 | _Admin 101: Workfront 질문 가져오기_ | 관리자 101 세션 중에 놓친 것이 있습니까? 1시간 동안 진행된 Q&amp;A 세션에 참여하여 이전 이벤트를 정리한 다음 일반적인 토론 및 질문을 할 수 있습니다. | **6월 26일 @ 오전 9시(MT)** | [등록](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,s9AzVDbQGkujSdPhs9lVDw,_ptlrrxSw0uslhILWOmKGg,C_k9EDSbrk652sjpeJ13Dw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | 웨비나 | _24.7의 새로운 기능_ | 6월 26일 오전 10시(EST) Adobe Workfront 제품 팀에 참여하여 24.7 릴리스의 향후 기능 및 개선 사항에 대해 알아보십시오. | **6월 27일 @ 오전 8시(MT)** | [등록](https://webinars.on24.com/adobe_workfront/whatsnewin247?partnerref=ExperienceLeagueEvents)
+
+* **JOURNEY OPTIMIZER** | 질문 및 답변 | _경력 탐색 웨비나 - Adobe Journey Optimizer_ | 이 웨비나에서는 게스트 패널로부터 Adobe Journey Optimizer에서의 작업 및 전문 지식에 대해 알아보고 새로운 경력 기회를 시작하는 방법을 알아봅니다. | **6월 28일 @ 오전 8시(MT)** | [등록](https://event.adobe.com/careerdiscovery)
+
+* **WORKFRONT** | 고객 워크숍 | _Admin 101 - Workfront 시작하기_ | Workfront을 처음 사용하십니까? &quot;새로운 관리자&quot; 월별 모임에 참여하여 질문을 하고, 리소스 및 권장 사항을 얻고, 다른 새로운 관리자를 만나고, 이 세션을 위해 Workfront 환경 설정을 위한 모범 사례를 알아보십시오. | **7월 9일 @ 오전 9시(MT)** | [등록]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 +++
