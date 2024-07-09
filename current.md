@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a534185e2781addbf6004cef41a613a6e368c417
+source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
 workflow-type: tm+mt
 source-wordcount: '3853'
 ht-degree: 98%
@@ -34,14 +34,14 @@ ht-degree: 98%
 
 마지막 업데이트: **2024년 6월 25일 수요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (**6월 25**&#x200B;일)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events) (**6월 25일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (출시됨 **6월 12**&#x200B;일)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (출시됨 **6월 12**&#x200B;일)
+* [[!DNL Adobe Analytics]](#analytics) (릴리스됨 **6월 12일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (릴리스됨 **6월 12일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -71,7 +71,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **워크프론트** | 고객 워크샵 | _Admin 101 - Workfront_ 시작 | Workfront에 새로 만들기? &quot;새로 만들기 관리자&quot; 월간 모임에 가입 하여 질문하고, 리소스 및 권장 사항을 얻고, 다른 새로운 관리자를 만나고, 이 세션에서는 Workfront 환경 설정에 대한 모범 사례를 알아보십시오. | **7 월 9 @ 9:00 AM MT** | [회원가입 https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1])
+* **WORKFRONT** | 고객 워크숍 | _Admin 101 - Workfront 시작하기_ | Workfront을 처음 사용하십니까? &quot;새로운 관리자&quot; 월별 모임에 참여하여 질문을 하고, 리소스 및 권장 사항을 얻고, 다른 새로운 관리자를 만나고, 이 세션을 위해 Workfront 환경 설정을 위한 모범 사례를 알아보십시오. | **7월 9일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 +++
