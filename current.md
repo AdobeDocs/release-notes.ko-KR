@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
+source-git-commit: 38946bebc2e663fc6ac9e03e200d179f0916b433
 workflow-type: tm+mt
-source-wordcount: '3853'
-ht-degree: 98%
+source-wordcount: '4011'
+ht-degree: 95%
 
 ---
 
@@ -71,9 +71,15 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **WORKFRONT** | 고객 워크숍 | _Admin 101 - Workfront 시작하기_ | Workfront을 처음 사용하십니까? &quot;새로운 관리자&quot; 월별 모임에 참여하여 질문을 하고, 리소스 및 권장 사항을 얻고, 다른 새로운 관리자를 만나고, 이 세션을 위해 Workfront 환경 설정을 위한 모범 사례를 알아보십시오. | **7월 9일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **7월 12일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
+* **WORKFRONT** | 커피 브레이크 | _커피 브레이크 경품: Creative Brief Intakes 및 모범 사례_ | Creative Brief 모범 사례에 대한 두 번째 Coffee Break 경품 행사에 참여하십시오! 새로운 전략을 발견하고 통찰력을 공유하십시오. Workfront 스와그를 우승할 기회에 대한 질문, 댓글 또는 팁을 제출하십시오. 놓치지 마세요! | **7월 16일 @ 오전 11시(MT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+
+* **WORKFRONT** | 고객 워크숍 | _학습: Adobe Workfront 2024년 3분기 릴리스 요약 + 환경 프로모션_ | 분기별 릴리스 검토 세션에 참여하여 최신 릴리스 기능과 각각의 이점에 대해 논의합니다. 이 세션에서는 매우 기대되는 &#39;환경 홍보&#39; 기능에 대해서도 논의합니다. | **7월 18일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER, EXPERIENCE MANAGER ASSETS 및 EXPERIENCE MANAGER SITES** | 웨비나 | _에스프레소 및 Experience Manager: AEM을 통한 디지털 민첩성_ | AEM을 CMS 공간에서 가장 일반적인 문제에 대한 솔루션으로 만드는 AEM Sites 및 Assets의 최신 혁신에 대해 알아봅니다. 유니버설 편집기, 헤드리스 및 문서 기반 작성 및 Assets UI를 살펴봅니다. | **7월 18일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+
+등 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 +++
 
 ## ![아이콘](/assets/experience-league.png) Adobe 콘텐츠 공급망 {#content-supply-chain}
