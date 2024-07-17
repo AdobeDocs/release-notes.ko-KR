@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
+source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
 workflow-type: tm+mt
-source-wordcount: '3640'
-ht-degree: 41%
+source-wordcount: '3577'
+ht-degree: 40%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 41%
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [고객 데이터 관리 - 음성](#voices)
 * [Digital Experience 블루프린트](#blueprints)
-* [Adobe에서의 인증](#certification)
+* [Adobe의 인증](https://experienceleague.adobe.com/ko/docs/certification/program/overview)
 * [Adobe 제품 보안 취약점](https://helpx.adobe.com/kr/security.html)
 
 ## ![아이콘](/assets/experience-league.png) [!DNL Experience League] 이벤트 및 업데이트 {#events}
@@ -150,6 +150,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |April 2024|[[!DNL AEP - Adobe Experience Platform] Use Case [!UICONTROL Playbooks] menu is missing](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24108)|New article| Learn about the solution for when the [!UICONTROL Playbooks] menu is missing from your [!UICONTROL sandbox].|
 
 {style="table-layout:auto"} -->
+
 +++
 
 ## ![아이콘](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
@@ -643,18 +644,18 @@ Experience League에 대한 최신 튜토리얼은 [콘텐츠 공급망](https:/
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/overview)는 전략을 다루고 기존 비즈니스 문제를 빠르게 해결하기 위한 반복 가능한 구현입니다. 각 블루프린트는 고가치 비즈니스 문제, 아키텍처, 구현 단계, 기술 고려 사항 및 관련 문서 링크를 설명하는 일련의 아티팩트를 제공합니다.
 
-## ![아이콘](/assets/certification-badge.png) 인증{#certification}
+<!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-모든 Adobe 인증 후보자에게 주목하십시오! Experience League의 Experience Cloud [인증](https://experienceleague.adobe.com/ko/docs/certification/program/overview) 사이트를 방문합니다.
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
-+++세부 사항
++++Details
 
-[Experience Cloud 인증](https://experienceleague.adobe.com/ko/docs/certification/program/overview) 사이트는 모든 [!DNL Experience Cloud] 인증 관련 콘텐츠에 대한 종합적인 정보를 제공하며 다음 항목을 포함하여 정기적으로 업데이트됩니다.
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
-* 사용 가능한 인증
-* Adobe 애플리케이션에 대한 인증 갱신
-* 인증 프로그램 업데이트
+* Available certifications
+* Certification renewals for Adobe applications
+* Certification program updates
 
-등 Experience League의 [Adobe 인증](https://experienceleague.adobe.com/ko/docs/certification/program/overview)으로 이동하여 지금 바로 인증 여정을 시작하십시오!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++
++++ -->
