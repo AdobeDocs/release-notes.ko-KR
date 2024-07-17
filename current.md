@@ -34,14 +34,14 @@ ht-degree: 95%
 
 마지막 업데이트: **2024년 6월 25일 수요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (**6월 25일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**6월 25일**)
 * [Adobe에서의 인증](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (릴리스됨 **6월 12일**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (릴리스됨 **6월 12일**)
+* [[!DNL Adobe Analytics]](#analytics)(**6월 12일** 릴리스)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)(**6월 12일** 릴리스)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -73,7 +73,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 * **WORKFRONT** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **7월 12일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | 커피 브레이크 | _커피 브레이크 경품: Creative Brief Intakes 및 모범 사례_ | Creative Brief 모범 사례에 대한 두 번째 Coffee Break 경품 행사에 참여하십시오! 새로운 전략을 발견하고 통찰력을 공유하십시오. Workfront 스와그를 우승할 기회에 대한 질문, 댓글 또는 팁을 제출하십시오. 놓치지 마세요! | **7월 16일 @ 오전 11시(MT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+* **WORKFRONT** | 커피 브레이크 | _커피 브레이크 경품 행사: Creative Brief 구매 및 우수 사례_ | Creative Brief 모범 사례에 대한 두 번째 Coffee Break 경품 행사에 참여하십시오! 새로운 전략을 발견하고 통찰력을 공유하십시오. Workfront 스와그를 우승할 기회에 대한 질문, 댓글 또는 팁을 제출하십시오. 놓치지 마세요! | **7월 16일 @ 오전 11시(MT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
 
 * **WORKFRONT** | 고객 워크숍 | _학습: Adobe Workfront 2024년 3분기 릴리스 요약 + 환경 프로모션_ | 분기별 릴리스 검토 세션에 참여하여 최신 릴리스 기능과 각각의 이점에 대해 논의합니다. 이 세션에서는 매우 기대되는 &#39;환경 홍보&#39; 기능에 대해서도 논의합니다. | **7월 18일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
