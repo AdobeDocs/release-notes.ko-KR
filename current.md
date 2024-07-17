@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 936f9884f1a75fbd55abdcfbbfa0fdbaa2415e44
+source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
 workflow-type: tm+mt
-source-wordcount: '3681'
-ht-degree: 44%
+source-wordcount: '3640'
+ht-degree: 41%
 
 ---
 
@@ -71,17 +71,17 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe Workfront 2024년 3분기 릴리스 요약 + 환경 프로모션_ | 분기별 릴리스 검토 세션에 참여하여 최신 릴리스 기능과 각각의 이점에 대해 논의합니다. 이 세션에서는 매우 기대되는 &#39;환경 홍보&#39; 기능에 대해서도 논의합니다. | **7월 18일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe [!DNL Workfront] 2024년 3분기 릴리스 요약 + 환경 프로모션_ | 분기별 릴리스 검토 세션에 참여하여 최신 릴리스 기능과 각각의 이점에 대해 논의합니다. 이 세션에서는 매우 기대되는 &#39;환경 홍보&#39; 기능에 대해서도 논의합니다. | **7월 18일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] 및[!DNL EXPERIENCE MANAGER SITES]** | 웨비나 | _에스프레소 및 Experience Manager: AEM을 통한 디지털 민첩성_ | AEM을 CMS 공간에서 가장 일반적인 문제에 대한 솔루션으로 만드는 AEM Sites 및 Assets의 최신 혁신에 대해 알아봅니다. 유니버설 편집기, 헤드리스 및 문서 기반 작성 및 Assets UI를 살펴봅니다. | **7월 18일 @ 오전 11시(MT)** | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] 및[!DNL EXPERIENCE MANAGER SITES]** | 웨비나 | _에스프레소 및 [!DNL Experience Manager:]: AEM을 통한 디지털 민첩성_ | AEM을 CMS 공간에서 가장 일반적인 문제에 대한 솔루션으로 만드는 AEM Sites 및 Assets의 최신 혁신에 대해 알아봅니다. 유니버설 편집기, 헤드리스 및 문서 기반 작성 및 Assets UI를 살펴봅니다. | **7월 18일 @ 오전 11시(MT)** | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: Workfront 집합_ | 다른 고객과 소통하고, Workfront 기능에 대해 논의하고, 아이디어를 공유하고, 공통된 문제를 해결하기 위해 함께 브레인스토밍하도록 설계된 월간 Workfront Collective Meetup에 참여하십시오. | **7월 22일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: [!DNL Workfront] 집합체_ | 다른 고객과 소통하고, [!DNL Workfront]가지 기능에 대해 논의하고, 아이디어를 공유하고, 브레인스토밍을 통해 일반적인 문제를 해결할 수 있도록 고안된 월간 월요일 [!DNL Workfront] 단체 모임에 참여하십시오. | **7월 22일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _고객과 함께 알아보기: Workfront을 사용하여 재구성_ | 고객과 이전 고객이 Workfront을 사용하여 조직 개조의 구조적 및 프로세스 변경을 돕는 방법에 대한 경험과 권장 사항을 공유하는 1시간 프레젠테이션에 참여하십시오. | **7월 23일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _고객과 함께 알아보기: 보고에 [!DNL Workfront]을(를) 사용_ | 고객 및 이전 고객이 조직 개조의 구조적 및 프로세스 변경에 도움이 되도록 [!DNL Workfront]을(를) 사용하는 방법에 대한 경험과 권장 사항을 공유할 때 1시간 프레젠테이션에 참여하십시오. | **7월 23일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | 웨비나 | _Marketo 및 Mochas: 기초 마련 - 완성도 부분 1_ | Adobe의 비즈니스 어드바이저에 참여하여 조직의 Marketo 사용을 가장 잘 개발하는 방법을 알아보십시오. 인스턴스 거버넌스부터 프로그램 빌드를 시작하는 여러 프로그램을 호스팅하는 프로그램 라이브러리까지 모든 것을 검토합니다. | **7월 25일 @ 오전 11시(MT)** | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | 웨비나 | _Workfront 고객 지원 센터에 문의 - 계산된 식 문제 해결_ | 계산된 표현식에서 Workfront 고객 지원 팀에 1시간 동안 참여합니다. 일반적인 예, 문제 해결 팁, 주요 학습 및 라이브 데모 중에서 이 세션은 놓치지 말아야 할 세션은 아닙니다. | **7월 31일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 웨비나 | _고객 지원 센터 [!DNL Workfront]에 문의 - 계산된 식 문제 해결_ | 계산된 표현식에 대해 1시간 동안 [!DNL Workfront] 고객 지원 팀에 참여하십시오. 일반적인 예, 문제 해결 팁, 주요 학습 및 라이브 데모 중에서 이 세션은 놓치지 말아야 할 세션은 아닙니다. | **7월 31일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 등 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
@@ -247,9 +247,9 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 +++
 
-## ![아이콘](/assets/aem.png) Adobe Experience Manager {#aem}
+## ![아이콘](/assets/aem.png) Adobe [!DNL Experience Manager:] {#aem}
 
-Experience Manager의 새로운 기능, 수정 내용 및 업데이트. Adobe는 안정성, 보안 및 성능 향상을 위해 최신 패치를 배포하려는 고객의 경우 온프레미스 배포를 사용할 것을 권장합니다.
+[!DNL Experience Manager:]의 새로운 기능, 수정 내용 및 업데이트. Adobe는 안정성, 보안 및 성능 향상을 위해 최신 패치를 배포하려는 고객의 경우 온프레미스 배포를 사용할 것을 권장합니다.
 
 +++세부 사항
 
@@ -257,19 +257,19 @@ Experience Manager의 새로운 기능, 수정 내용 및 업데이트. Adobe는
 
 모든 [!DNL Experience Manager] 릴리스 정보는 다음 페이지에서 유지 관리됩니다.
 
-* [Experience Manager 릴리스 업데이트 및 로드맵](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/home) - Experience Manager 릴리스 로드맵, 이전 릴리스 업데이트 및 설명서 업데이트에 대해 알아봅니다.
-* [최신 Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Experience Manager 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)
-* [Experience Manager Cloud Manager 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [[!DNL Experience Manager:] 릴리스 업데이트 및 로드맵](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/home) - [!DNL Experience Manager:] 릴리스 로드맵, 이전 릴리스 업데이트 및 설명서 업데이트에 대해 알아봅니다.
+* [최신 릴리스 정보 [!DNL Experience Manager:] as a Cloud Service](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [[!DNL Experience Manager:] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager:] Cloud Manager 릴리스 노트](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Automated Forms Conversion Service 릴리스 정보](https://experienceleague.adobe.com/ko/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [Experience Manager Assets Dynamic Media 릴리스 정보](https://experienceleague.adobe.com/ko/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [Experience Manager Brand Portal 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [Experience Manager 데스크탑 앱 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-desktop-app/using/release-notes)
-* [Experience Manager Dispatcher 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-dispatcher/using/getting-started/release-notes)
+* [[!DNL Experience Manager:] Assets Dynamic Media 릴리스 노트](https://experienceleague.adobe.com/ko/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager:] Brand Portal 릴리스 노트](https://experienceleague.adobe.com/ko/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager:] 데스크톱 앱 릴리스 노트](https://experienceleague.adobe.com/ko/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager:] Dispatcher 릴리스 노트](https://experienceleague.adobe.com/ko/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
 ### 새로운 [!DNL Experience Manager] 튜토리얼 {#tutorials-aem}
 
-Experience Manager에 새로운 [!DNL Experience Manager] 튜토리얼이 게시되었습니다.
+[!DNL Experience Manager:]에 [!DNL Experience Manager]용으로 게시된 새로운 튜토리얼입니다.
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
@@ -513,9 +513,9 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 ### [!DNL Adobe Workfront] 업데이트
 
-* Workfront 릴리스 일정 정보 및 릴리스 정보는 [Adobe Workfront 제품 릴리스 페이지](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/product-releases)를 참조하십시오.
+* 릴리스 일정 정보 및 릴리스 정보는 [Adobe [!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/product-releases) 페이지를 참조하세요.[!DNL Workfront]
 
-* Fusion에 대한 최신 정보는 [Adobe Workfront Fusion 릴리스 활동 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity)를 참조하십시오.
+* Fusion에 대한 최신 정보는 [Adobe [!DNL Workfront] Fusion 릴리스 활동 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity)를 참조하십시오.
 
 ### 새로운 Adobe [!DNL Workfront] 튜토리얼 {#tutorials-workfront}
 
@@ -523,13 +523,13 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼 및 이벤트
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024년 7월 | [계획되지 않은 작업 처리](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | 비디오 | Adobe Workfront을 사용하여 계획되지 않은 작업을 처리하는 방법에 대해 알아봅니다. |
+| 2024년 7월 | [계획되지 않은 작업 처리](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | 비디오 | Adobe [!DNL Workfront]을(를) 사용하여 계획되지 않은 작업을 처리하는 방법에 대해 알아봅니다. |
 | 2024년 7월 | [프로젝트 세부 정보 입력](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details) | 비디오 | 프로젝트를 만들 때 필요한 가장 일반적인 프로젝트 설정에 대해 알아봅니다. |
 | 2024년 7월 | [작업 순서 지정 방법 알아보기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks) | 비디오 | 전임 작업이 무엇이며 프로젝트에서 작업 순서를 어떻게 지정하는지 알아봅니다. 그런 다음 지속 시간 및 전임 작업을 사용하여 타임라인을 만드는 방법을 알아봅니다. |
 | 2024년 7월 | [계획된 시간 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours) | 비디오 | 계획된 시간이 무엇인지, 계획된 시간이 프로젝트에 중요한 이유는 무엇인지, 계획된 시간을 작업에 추가하는 방법을 알아봅니다. |
 | 2024년 7월 | [요청](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/make-a-request) | 비디오 | 요청 영역을 찾아 요청하는 방법을 알아봅니다. 그런 다음 제출된 요청 및 초안 요청을 보는 방법을 알아봅니다. |
-| 2024년 7월 | [요청 업데이트](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | 비디오 | 제출한 요청을 찾고 Workfront에서 해당 요청을 업데이트하는 방법에 대해 알아봅니다. |
-| 2024년 7월 | [모범 사례 - 일정](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | 비디오 | Workfront 일정 설정, 관리 및 사용에 대한 Adobe Workfront 전문가의 모범 사례 권장 사항을 살펴보십시오. |
+| 2024년 7월 | [요청 업데이트](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | 비디오 | 제출한 요청을 찾아 [!DNL Workfront]에서 해당 요청을 업데이트하는 방법을 알아봅니다. |
+| 2024년 7월 | [모범 사례 - 일정](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | 비디오 | [!DNL Workfront] 일정 설정, 관리 및 사용에 대한 Adobe [!DNL Workfront] 전문가의 모범 사례 권장 사항을 살펴봅니다. |
 
 {style="table-layout:auto"}
 
