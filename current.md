@@ -32,7 +32,7 @@ ht-degree: 93%
 
 ## 2024년 7월
 
-마지막 업데이트: **2024년 7월 23일 수요일**
+최신 업데이트: **2024년 7월 23일 수요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [[!DNL Adobe System Status]](#status)
