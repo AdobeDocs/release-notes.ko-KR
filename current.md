@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
+source-git-commit: 261f4a4a4ee24f61415febb87e95d9ffb4359ab7
 workflow-type: tm+mt
-source-wordcount: '3621'
-ht-degree: 93%
+source-wordcount: '3491'
+ht-degree: 94%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 93%
 
 ## 2024년 7월
 
-최신 업데이트: **2024년 7월 23일 수요일**
+마지막 업데이트: **2024년 8월 2일 토요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -67,15 +67,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League 이벤트
 
-업데이트 일자: **2024년 7월 26일 토요일**
+**2024년 8월 2일 토요일** 업데이트됨
 
 +++세부 사항
-
-* **[!DNL WORKFRONT]** | 웨비나 | _[!DNL Workfront] 고객 지원에 문의 - 계산된 표현식 문제 해결_ | [!DNL Workfront] 고객 지원팀과 함께 1시간 동안 계산된 표현식에 대해 알아보십시오. 일반적인 예, 문제 해결 팁, 주요 학습 내용, 라이브 데모가 포함된 이 세션을 놓치지 마세요! | **7월 31일 오전 9시 (MT)** | [등록하기](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | 웨비나 | _Commerce 및 커피: B2B 전자 상거래 성공 전략_ | 가장 영향력 있는 B2B 전자 상거래 트렌드 중 일부를 강조 표시하고 고객이 Adobe Commerce 내에서 활용할 수 있는 전략을 검토하는 Commerce 전략 컨설턴트 Correy Gelato와 함께하십시오. | **8월 1일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **8월 2일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _관리자 101: 사용자가 Workfront을 사용하도록 설정_ | Workfront을 처음 사용하십니까? 질문하고, 리소스를 얻고, 모범 사례를 배우고, 다른 새로운 관리자를 만나려면 Admin 101 월별 모임에 참여하십시오. 이번 달에는 사용자 채택에 대해 논의하겠습니다! | **8월 6일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
