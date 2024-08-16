@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
+source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
 workflow-type: tm+mt
-source-wordcount: '3097'
+source-wordcount: '3099'
 ht-degree: 49%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 49%
 
 ## 2024년 8월
 
-마지막 업데이트: **2024년 8월 14일 목요일**
+마지막 업데이트: **2024년 8월 16일 토요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)(업데이트됨: **8월 16일**)
 * [[!DNL Adobe System Status]](#status)
@@ -72,7 +72,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 [재생 목록](https://experienceleague.adobe.com/en/playlists) 비디오가 Experience League에 새로 추가되었습니다. 재생 목록은 원하는 기술과 지식을 빠르게 얻을 수 있도록 설계된 선별된 비디오 컬렉션입니다.
 
-재생 목록을 탐색하려면 **[!UICONTROL 학습]** > **[!UICONTROL 재생 목록]**&#x200B;으로 이동하십시오.
+재생 목록을 찾아보려면 **[!UICONTROL 학습]** > **[!UICONTROL 모든 재생 목록 찾아보기]**&#x200B;로 이동하십시오.
 
 >[!NOTE]
 >
