@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
+source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
 workflow-type: tm+mt
-source-wordcount: '3185'
-ht-degree: 90%
+source-wordcount: '3155'
+ht-degree: 91%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 90%
 
 ## 2024년 8월
 
-마지막 업데이트: **2024년 8월 20일 수요일**
+마지막 업데이트: **2024년 8월 22일 금요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(업데이트됨: **8월 20일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(업데이트됨: **8월 22일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +68,22 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ### Experience League의 재생 목록(새로운 기능!)
 
-업데이트: **2024년 8월 16일**
+업데이트: **2024년 8월 22일**
 
-[재생 목록](https://experienceleague.adobe.com/en/playlists) 비디오가 Experience League에 새로 추가되었습니다. 재생 목록은 원하는 기술과 지식을 빠르게 얻을 수 있도록 설계된 선별된 비디오 컬렉션입니다.
+Experience League에서 새 비디오 [재생 목록](https://experienceleague.adobe.com/en/playlists)을 사용할 수 있습니다. 재생 목록은 원하는 기술과 지식을 빠르게 얻을 수 있도록 설계된 선별된 비디오 컬렉션입니다.
+
+재생 목록 기능은 다음과 같습니다.
+
+* 자동 재생 비디오
+* 챕터 선택 및 재생 속도
+* 중단한 지점에서 다시 시작
+* 비디오 트랜스크립트
 
 재생 목록을 찾아보려면 **[!UICONTROL 학습]** > **[!UICONTROL 모든 재생 목록 찾아보기]**&#x200B;로 이동하십시오.
 
 >[!NOTE]
 >
->**과정**&#x200B;이(가) Experience League에서 중단됩니다. 과정에 대한 책갈피가 있는 경우 해당 재생 목록으로 리디렉션됩니다.
-
-재생 목록 또는 도움말 문제에 대한 피드백을 Experience League에 제출하려면 각 페이지 하단에 있는 피드백 팝업을 사용하십시오.
+>**과정**&#x200B;이(가) Experience League에서 중단됩니다. 과정을 책갈피로 표시한 경우, 해당 재생 목록이 있는 경우 해당 재생 목록으로 리디렉션됩니다. 경우에 따라 찾고 있는 주제를 다루는 새 재생 목록으로 이동해야 할 수 있습니다.
 
 ### Experience League 이벤트
 
@@ -86,13 +91,11 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 * **[!DNL EXPERIENCE CLOUD]** | 커뮤니티 이벤트 | _2025 Adobe Experience Maker Awards_ | 이제 2025 Adobe Experience Maker Awards에 대한 제출 사항이 공개되었습니다. 특별한 것은 시작에 불과합니다. 대담한 선각자들. 탁월한 고객 경험. | **해당 없음** | [지금 적용](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: 접수 프로세스에 Workfront 요청 큐 사용_ | 조직의 작업을 추적, 구성 및 보고하기 위한 Workfront 요청 대기열의 이점 및 모범 사례에 대한 논의를 위해 초대합니다. | **8월 21일 @ 오전 9시 30분(MT)** | [등록](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | 커뮤니티 이벤트 | _데이터 드립: Adobe Analytics 기본 사항 및 이상_ | 작업 영역을 구성하고, Adobe Analytics의 초보자를 위한 학습 경로를 탐색하고, 이를 타사 데이터 시각화 도구와 연결하는 모범 사례를 안내하면서 Adobe Analytics 전문가와 함께 하십시오. | **8월 22일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Workfront Fusion 사례 만들기_ | 고객 지원 팀과 함께 Deloitte 및 Adobe Workfront 통합 컨설팅과 1시간 동안 진행되는 대화형 워크숍을 통해 시간 절약 효과를 수치화하고 Workfront Fusion의 강력한 비즈니스 사례를 구축하는 방법에 대해 알아보십시오. | **8월 27일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | 휴식 시간 | _Adobe Journey Optimizer 커뮤니티 Q&amp;A Coffee Break_ | 3가지 Journey Optimizer 전문가와 Journey Optimizer 여정 실험, 빈도 제한 및 다국어 메시징의 기능을 시도해야 하는 1시간 분량의 AMA 유사 채팅 세션입니다. | **9월 4일 @ 오전 9시(MT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **9월 6일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 등 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
