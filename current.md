@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
+source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
 workflow-type: tm+mt
-source-wordcount: '3155'
-ht-degree: 91%
+source-wordcount: '3186'
+ht-degree: 90%
 
 ---
 
@@ -28,13 +28,19 @@ ht-degree: 91%
 
 최고의 자가 진단 경험을 위해 [Experience League](https://experienceleague.adobe.com/#home)에 로그인한 다음 Adobe 무료 라이브러리의 [설명서](https://experienceleague.adobe.com/ko/docs), [과정](https://experienceleague.adobe.com/#courses), [이벤트](https://experienceleague.adobe.com/events/), [커뮤니티 포럼](https://experienceleaguecommunities.adobe.com/?profile.language=en) 및 [지원](https://experienceleague.adobe.com/?support-tab=home#support)에서 검색 환경을 사용자 정의합니다.
 
+**피드백 남기기**
+
+**_을(를) 찾으십시오. 이 내용이 유용했습니까?각 페이지 하단에_**&#x200B;개의 팝업이 있습니다. 피드백은 선별되어 콘텐츠 작성자에게 전달됩니다.
+
+**알림 받기**
+
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
 ## 2024년 8월
 
-마지막 업데이트: **2024년 8월 22일 금요일**
+마지막 업데이트: **2024년 8월 28일 목요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(업데이트됨: **8월 22일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(업데이트됨: **8월 28일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -91,9 +97,9 @@ Experience League에서 새 비디오 [재생 목록](https://experienceleague.a
 
 * **[!DNL EXPERIENCE CLOUD]** | 커뮤니티 이벤트 | _2025 Adobe Experience Maker Awards_ | 이제 2025 Adobe Experience Maker Awards에 대한 제출 사항이 공개되었습니다. 특별한 것은 시작에 불과합니다. 대담한 선각자들. 탁월한 고객 경험. | **해당 없음** | [지금 적용](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Workfront Fusion 사례 만들기_ | 고객 지원 팀과 함께 Deloitte 및 Adobe Workfront 통합 컨설팅과 1시간 동안 진행되는 대화형 워크숍을 통해 시간 절약 효과를 수치화하고 Workfront Fusion의 강력한 비즈니스 사례를 구축하는 방법에 대해 알아보십시오. | **8월 27일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | 휴식 시간 | _Adobe Journey Optimizer 커뮤니티 Q&amp;A Coffee Break_ | 3가지 Journey Optimizer 전문가와 Journey Optimizer 여정 실험, 빈도 제한 및 다국어 메시징의 기능을 시도해야 하는 1시간 분량의 AMA 유사 채팅 세션입니다. | **9월 4일 @ 오전 9시(MT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _AEM용 신속한 개발 환경의 새로운 기능_ | RDE를 사용하여 개발 전환 시간을 줄이고 코드 변경에 대한 즉각적인 피드백을 얻는 방법에 대해 알아보려면 참여하십시오. 개선된 로깅, 프론트엔드 지원 등과 같은 최신 기능을 소개합니다. | **9월 4일 @ 오전 9시(MT)** | [등록](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **9월 6일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
