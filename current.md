@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3186'
+source-wordcount: '3215'
 ht-degree: 90%
 
 ---
@@ -38,11 +38,11 @@ ht-degree: 90%
 
 ## 2024년 8월
 
-마지막 업데이트: **2024년 8월 28일 목요일**
+마지막 업데이트: **2024년 9월 3일 수요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(업데이트됨: **8월 28일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
+* [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)(업데이트됨: **9월 3일**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (릴리스 날짜: **8월 14일**)
@@ -132,7 +132,11 @@ Experience League에서 새 비디오 [재생 목록](https://experienceleague.a
 
 +++세부 사항
 
-업데이트되지 않았습니다.
+릴리스: **2024년 9월 2일**
+
+| 기능 | 설명 |
+| -----------| ---------- |
+| Slack 알림 | Slack에게 Experience Cloud 알림을 전송하도록 계정 환경 설정을 구성할 수 있습니다. 자세한 내용은 [Slack 환경 설정 및 알림](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) 도움말의 _계정 알림_&#x200B;을 참조하세요. |
 
 Experience Cloud 중앙 인터페이스 구성 요소에 대한 도움말은 [Experience Cloud 인터페이스 및 관리 안내서](https://experienceleague.adobe.com/ko/docs/core-services/interface/experience-cloud)([!UICONTROL 고객 속성], [!DNL Experience Cloud Assets] 및 [!UICONTROL 대상자] 포함)를 참조하십시오.
 
