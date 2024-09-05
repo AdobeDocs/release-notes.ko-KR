@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
+source-git-commit: 94b28700a1b4281fa99e9b47f2421960b085c519
 workflow-type: tm+mt
-source-wordcount: '3215'
-ht-degree: 90%
+source-wordcount: '3186'
+ht-degree: 89%
 
 ---
 
@@ -406,11 +406,13 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 ### [!DNL Campaign] 도움말 리소스
 
-* [!DNL Campaign] Web Interface: [새로운 기능](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/whats-new) - [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
-* [!DNL Campaign] v8: [설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home) - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/new/whats-new) - [구현 안내서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/config/implement/implement)
-* [!DNL Campaign] Standard: [Campaign Standard 설명서](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/campaign-standard-home) - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes) - [사용 방법 비디오](https://experienceleague.adobe.com/ko/docs/campaign-standard-learn/tutorials/overview) - [릴리스 계획](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-planning) - [최신 설명서 업데이트](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/documentation-updates)
-* [!DNL Campaign] Classic: [Campaign Classic v7 설명서](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/campaign-classic-home) - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/latest-release) - [사용 방법 비디오](https://experienceleague.adobe.com/ko/docs/campaign-classic-learn/tutorials/overview) - [최신 설명서 업데이트](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/documentation-updates)
-* [!DNL Campaign] 컨트롤 패널: [설명서](https://experienceleague.adobe.com/ko/docs/control-panel/using/control-panel-home) - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/control-panel/using/release-notes/release-notes) - [사용 방법 비디오](https://experienceleague.adobe.com/ko/docs/control-panel-learn/tutorials/control-panel-overview)
+* [!DNL Web User Interface]: **9월 3일** - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
+
+* [!DNL Campaign] v8: **9월 3일** - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/releases/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home)
+
+* [!DNL Campaign Classic] v7: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/latest-release) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/campaign-classic-home)
+
+* [!DNL Campaign Standard]: **2024년 8월** - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/campaign-standard-home)
 
 +++
 
