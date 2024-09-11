@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94b28700a1b4281fa99e9b47f2421960b085c519
+source-git-commit: de974e36ac2eb38f78a065a000913e6dc13e6420
 workflow-type: tm+mt
-source-wordcount: '3186'
-ht-degree: 89%
+source-wordcount: '3442'
+ht-degree: 82%
 
 ---
 
@@ -38,11 +38,11 @@ ht-degree: 89%
 
 ## 2024년 8월
 
-마지막 업데이트: **2024년 9월 3일 수요일**
+마지막 업데이트: **2024년 9월 10일 수요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(업데이트됨: **9월 10일**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)(업데이트됨: **9월 3일**)
+* [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)(업데이트됨: **9월 10일**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (릴리스 날짜: **8월 14일**)
@@ -95,13 +95,21 @@ Experience League에서 새 비디오 [재생 목록](https://experienceleague.a
 
 +++세부 사항
 
-* **[!DNL EXPERIENCE CLOUD]** | 커뮤니티 이벤트 | _2025 Adobe Experience Maker Awards_ | 이제 2025 Adobe Experience Maker Awards에 대한 제출 사항이 공개되었습니다. 특별한 것은 시작에 불과합니다. 대담한 선각자들. 탁월한 고객 경험. | **해당 없음** | [지금 적용](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
+* **[!DNL MARKETO ENGAGE]** | 커뮤니티 이벤트 | _Marketo 및 Mochas: Marketo 사용 최적화(완성도 Pt 2)_ | Marketo 완성도 시리즈의 2부에서 Marketo 사용을 최적화하는 방법을 알아보십시오. 이 세션은 데이터 관리, 통합 및 향상된 개인화를 위한 프로그램 최적화에 대한 모범 사례에 중점을 둡니다. | **9월 12일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
 
-* **[!DNL JOURNEY OPTIMIZER]** | 휴식 시간 | _Adobe Journey Optimizer 커뮤니티 Q&amp;A Coffee Break_ | 3가지 Journey Optimizer 전문가와 Journey Optimizer 여정 실험, 빈도 제한 및 다국어 메시징의 기능을 시도해야 하는 1시간 분량의 AMA 유사 채팅 세션입니다. | **9월 4일 @ 오전 9시(MT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: Adobe 제품이 있는 Workfront 보드로 돌아가기_ | Workfront 보드를 사용하는 새롭고 창의적인 방법을 찾고 계십니까? 제품 관리자와 함께 보드 모범 사례와 이 기능을 사용하여 채택률을 향상시키는 방법에 대해 알아보십시오. | **9월 12일 @ 오후 12시(MT)** | [등록](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _AEM용 신속한 개발 환경의 새로운 기능_ | RDE를 사용하여 개발 전환 시간을 줄이고 코드 변경에 대한 즉각적인 피드백을 얻는 방법에 대해 알아보려면 참여하십시오. 개선된 로깅, 프론트엔드 지원 등과 같은 최신 기능을 소개합니다. | **9월 4일 @ 오전 9시(MT)** | [등록](https://adobe.ly/4cwc5W4)
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: Workfront 집합_ | 월간 월요일에 열리는 Workfront Collective 이벤트에 참여하여 다른 고객과 소통하고 Workfront 기능에 대해 논의하며, 일반적인 문제를 해결하기 위해 함께 브레인스토밍합니다. | **9월 16일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 고객이 주도하는 이 세션은 다른 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **9월 6일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _관리자 101: Workfront 질문 가져오기_ | Workfront을 처음 사용하십니까? 이전 관리 101 세션 중에 누락된 것이 있습니까? 요약 세션에 참여하여 질문을 하고, 리소스 및 권장 사항을 얻고, 다른 새로운 관리자를 만나보십시오. | **9월 17일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | 웨비나 | _다중 스트림 참여 프로그램을 통한 복잡한 고객 여정 기본_ | Adobe Marketo Engage Champion Max Garrett와 함께 여정의 모든 단계에서 멀티 터치 및 멀티 스트림 참여 프로그램을 통해 고객 관계를 체계적으로 참여하고 육성하는 방법을 살펴보십시오. | **9월 17일 @ 오전 9시(MT)** | [등록](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
+
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: 가치 실현 - Workfront 활용_ | Workfront의 노력으로 가장 큰 가치를 창출하는 방법에 대한 지침을 찾고 계십니까? 수석 고객 성공 관리자인 Kait Winchell과 함께 Workfront을 최대한 활용하기 위한 업계 모범 사례를 공유합니다. | **9월 19일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | 웨비나 | _Commerce 및 커피: 성수기 준비_ | Corey Gelato와 함께 매년 성수기에 사이트를 준비하는 방법에 대한 개요를 살펴보십시오. 웹 사이트 성능을 최적화하고, 인벤토리를 관리하고, 주문을 이행하고, 능동적으로 램프 업(ramp up) 지원을 수행하는 방법에 대해 알아봅니다. | **9월 19일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
+
+* **[!DNL DYNAMIC MEDIA CLASSIC],[!DNL EXPERIENCE MANAGER ASSETS]** | 웨비나 | _Dynamic Media 환경: 최신 혁신 기술 공개_ | 이제 AEM Dynamic Media의 새로운 혁신을 통해 고객 경험을 향상시킬 수 있습니다! 가치에 초점을 맞춘 개요와 최신 기술을 기반으로 구축된 매력적인 사용자 경험에 대해 살펴보십시오. | **9월 25일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 등 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
@@ -114,6 +122,17 @@ Experience League에서 새 비디오 [재생 목록](https://experienceleague.a
 +++세부 사항
 
 [!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/)에서 관련 정보를 확인합니다.
+
+릴리스 날짜: **2024년 8월 19일 화요일**
+
+**새로운 기능**
+
+* 제품 기반 유지 관리 알림, 버그 수정 및 개선 사항
+
+| 기능 | 설명 |
+| ------- | ------- |
+| 제품 기반 유지 관리 | <ul><li>유지 관리별 대신 제품별 UI 및 알림이 개선되었습니다.</li><li>각 업데이트의 영향 속성은 영향의 제품별 세부 정보를 제공합니다.</li></ul> |
+| 버그 수정 및 개선 사항 | <ul><li>_구독하는 방법_ 도움말 페이지 현지화</li><li>Slack 설정 지침 페이지에 지원 연락처 정보를 추가했습니다.</li><li>상태 API를 사용하여 이벤트 상태별로 올바르게 필터링되지 않은 인시던트의 버그를 수정했습니다.</li></ul> |
 
 최근 릴리스 정보는 다음을 참조하십시오.
 
@@ -132,11 +151,11 @@ Experience League에서 새 비디오 [재생 목록](https://experienceleague.a
 
 +++세부 사항
 
-릴리스: **2024년 9월 2일**
+릴리스: **2024년 9월 10일**
 
 | 기능 | 설명 |
 | -----------| ---------- |
-| Slack 알림 | Slack에게 Experience Cloud 알림을 전송하도록 계정 환경 설정을 구성할 수 있습니다. 자세한 내용은 [Slack 환경 설정 및 알림](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) 도움말의 _계정 알림_&#x200B;을 참조하세요. |
+| Slack 알림 | Slack에게 Experience Cloud 알림을 전송하도록 계정 환경 설정을 구성할 수 있습니다. 자세한 내용은 [Slack 알림 구독](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences)을 참조하세요. |
 
 Experience Cloud 중앙 인터페이스 구성 요소에 대한 도움말은 [Experience Cloud 인터페이스 및 관리 안내서](https://experienceleague.adobe.com/ko/docs/core-services/interface/experience-cloud)([!UICONTROL 고객 속성], [!DNL Experience Cloud Assets] 및 [!UICONTROL 대상자] 포함)를 참조하십시오.
 
