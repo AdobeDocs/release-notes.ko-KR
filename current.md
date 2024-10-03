@@ -6,14 +6,14 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
+source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
 workflow-type: tm+mt
-source-wordcount: '3845'
+source-wordcount: '3847'
 ht-degree: 97%
 
 ---
 
-# Experience Cloud 릴리스 노트 - 2024년 10월
+# Experience Cloud 릴리스 노트 - 2024년 9월/10월
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ ht-degree: 97%
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
-## 2024년 10월
+## 2024년 9월 - 10월
 
 마지막 업데이트: **2024년 10월 3일 금요일**
 
