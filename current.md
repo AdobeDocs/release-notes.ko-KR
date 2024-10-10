@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: ht
+source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
+workflow-type: tm+mt
 source-wordcount: '3847'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -38,9 +38,9 @@ ht-degree: 100%
 
 ## 2024년 9월 ~ 10월
 
-마지막 업데이트: **2024년 10월 3일**
+마지막 업데이트: **2024년 10월 10일 금요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트 일자: **9월 10일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(업데이트됨: **10월 10일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -93,9 +93,9 @@ Experience League에서 새로운 비디오 [재생 목록](https://experiencele
 
 +++세부 사항
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 고객이 주도하는 이 세션에서는 다른 Workfront 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **10월 4일 오전 10시 (MT)** | [등록](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: Workfront 집합_ | 다른 Workfront 관리자와 연결하고, 최신 기능을 살펴보고, 아이디어를 공유하고, 일반적인 문제에 대한 솔루션을 브레인스토밍하기 위해 고안된 월요일 오전 공개 토론에 고객 지원 팀에 참여하십시오. | **10월 14일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Admin 101: Workfront 시작하기_ | Workfront를 처음 사용하십니까? 3부로 구성된 Admin 101 시리즈의 첫 번째 세션에 참여하십시오. 시스템 설정 및 탐색과 관련된 모범 사례와 권장 사항은 물론 반드시 필요한 리소스에 대해서도 알아볼 수 있습니다. | **10월 8일 오전 9시 (MT)** | [등록](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: 효율성 향상 - Cognizant가 프로젝트 우수성을 위해 Adobe Workfront을 활용하는 방법_ | Cognizant가 우수한 프로젝트를 위해 시스템과 프로세스를 최적화하여 효율성을 높인 방법을 공유하면서 Sujatha T S, Creative Operations 수석 관리자 및 Global Brand and Creative 시스템 관리자와 함께하십시오. | **10월 17일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 등 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
