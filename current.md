@@ -7,13 +7,13 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3847'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Experience Cloud 릴리스 노트 - 2024년 9월/10월
+# Experience Cloud 릴리스 정보 - 2024년 9월/10월
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,17 +36,17 @@ ht-degree: 97%
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
-## 2024년 9월 - 10월
+## 2024년 9월 ~ 10월
 
-마지막 업데이트: **2024년 10월 3일 금요일**
+마지막 업데이트: **2024년 10월 3일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events) (업데이트 일자: **9월 10일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)(릴리스: **10월 2일**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)(릴리스: **10월 2일**)
+* [[!DNL Adobe Analytics]](#analytics) (릴리스: **10월 2일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (릴리스: **10월 2일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,9 +93,9 @@ Experience League에서 새로운 비디오 [재생 목록](https://experiencele
 
 +++세부 사항
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 이 고객 중심 세션은 모범 사례와 팁과 요령에 대해 논의하기 위해 귀하를 다른 Workfront 관리자와 연결합니다. | **10월 4일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _연결: 마케팅 및 크리에이티브를 위한 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자이십니까? 고객이 주도하는 이 세션에서는 다른 Workfront 관리자들과 함께 모범 사례와 팁 및 요령에 대해 논의하게 됩니다. | **10월 4일 오전 10시 (MT)** | [등록](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _관리자 101: Workfront 시작_ | Workfront을 처음 사용하십니까? 3부로 구성된 Admin 101 시리즈의 첫 번째 세션에 참여하십시오. 시스템 설정 및 탐색과 관련된 모범 사례와 권장 사항은 물론 필수 리소스를 가지고 있음을 예상할 수 있습니다. | **10월 8일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 커뮤니티 이벤트 | _Admin 101: Workfront 시작하기_ | Workfront를 처음 사용하십니까? 3부로 구성된 Admin 101 시리즈의 첫 번째 세션에 참여하십시오. 시스템 설정 및 탐색과 관련된 모범 사례와 권장 사항은 물론 반드시 필요한 리소스에 대해서도 알아볼 수 있습니다. | **10월 8일 오전 9시 (MT)** | [등록](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 등 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
@@ -196,7 +196,7 @@ Experience League에서 [!DNL Real-Time Customer Data Platform]에 대한 최신
 
 +++세부 사항
 
-[!DNL Analytics] 릴리스 일자: **2024년 10월 2일 목요일**
+[!DNL Analytics] 릴리스 일자: **2024년 10월 2일**
 
 * [!DNL Analytics] [릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest) <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
@@ -235,7 +235,7 @@ Experience League에 새로운 Adobe [!DNL Analytics] 튜토리얼이 게시되�
 
 +++세부 사항
 
-[!DNL Customer Journey Analytics] 릴리스 일자: **2024년 10월 2일 목요일**
+[!DNL Customer Journey Analytics] 릴리스 일자: **2024년 10월 2일**
 
 * [!DNL Customer Journey Analytics] [릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
