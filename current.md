@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
+source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
 workflow-type: tm+mt
-source-wordcount: '3969'
-ht-degree: 94%
+source-wordcount: '3921'
+ht-degree: 95%
 
 ---
 
@@ -93,11 +93,9 @@ Experience League에서 새로운 비디오 [재생 목록](https://experiencele
 
 +++세부 사항
 
-* **[!DNL WORKFRONT]** | 고객 워크숍 | _학습: 효율성 향상 - Cognizant가 프로젝트 우수성을 위해 Adobe Workfront을 활용하는 방법_ | Cognizant가 우수한 프로젝트를 위해 시스템과 프로세스를 최적화하여 효율성을 높인 방법을 공유하면서 Sujatha T S, Creative Operations 수석 관리자 및 Global Brand and Creative 시스템 관리자와 함께하십시오. | **10월 17일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | 웨비나 | _최신 정보: Commerce 상점 최적화_ | 상점을 효율적으로 유지 관리하고 최적화할 수 있는 전략을 찾고 계십니까? 일반적인 데이터 차단기를 방지하는 방법, 보트 활동을 완화하는 전략, 디스크 공간 및 데이터베이스 크기에 대한 계획에 대해 알아보십시오. | **10월 17일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Q &amp; A 채팅 | _학습: Adobe Workfront 채택에 대한 Qualcomm의 여정_ | Qualcomm의 인증 기술 Adobe Workfront 리드인 Becky Barus가 Adobe Workfront의 사용자 채택을 크게 향상시키는 데 활용한 전략적 접근 방식에 대해 알아보십시오. | **10월 23일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 산호세에 있는 Adobe 본사에서 직접 Adobe Developers Live에 참여해 보세요! AEM 및 Commerce 개발자와 연결하여 최신 혁신 기술을 살펴보고 모범 사례를 알아보십시오. 11월 12일, 방문 또는 온라인 지금 등록하십시오! | **11월 12일 @ 오전 9시(MT)** | [등록][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 그리고 더 많이! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
