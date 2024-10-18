@@ -6,9 +6,9 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
+source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
 workflow-type: tm+mt
-source-wordcount: '3921'
+source-wordcount: '3907'
 ht-degree: 95%
 
 ---
@@ -142,7 +142,7 @@ Experience League에서 새로운 비디오 [재생 목록](https://experiencele
 | 릴리스 날짜 | 기능 | 설명 |
 | -----------| -----------| ---------- |
 | 9월 10일 | [!DNL Experience Cloud]의 [!DNL Slack] 알림 | [!DNL Experience Cloud] 알림이 Slack으로 전송되도록 계정 환경 설정을 구성할 수 있습니다. 자세한 내용은 [Slack 알림 구독](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/account-preferences)을 참조하십시오. |
-| 10월 2일 | 사용자 정의 가능 홈 | Experience Cloud 랜딩 페이지에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다. [!UICONTROL 편집] 모드를 사용하면 위젯 라이브러리 및 사용자 지정 배경에 액세스하여 Experience Cloud 홈 페이지를 개인화할 수 있습니다. [!UICONTROL 편집] 모드는 일괄 작업 및 레이아웃 조정을 포함하여 위젯을 이동, 크기 조정 및 관리할 수 있는 매끄럽고 직관적인 컨트롤을 제공하여 보다 심미적이고 맞춤화된 경험을 제공합니다.위젯 라이브러리 및 사용자 지정 배경에 액세스하여 Experience Cloud 홈 페이지를 현실화하십시오. |
+| 10월 2일 | 사용자 정의 가능 홈 | Experience Cloud 랜딩 페이지에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다. [!UICONTROL 편집] 모드를 사용하면 위젯 라이브러리 및 사용자 지정 배경에 액세스하여 Experience Cloud 홈 페이지를 개인화할 수 있습니다. [!UICONTROL 편집] 모드는 일괄 작업 및 레이아웃 조정을 포함하여 위젯을 이동, 크기 조정 및 관리할 수 있는 매끄럽고 직관적인 컨트롤을 제공하여 심미적이고 맞춤화된 환경을 제공합니다. |
 
 [!DNL Experience Cloud] 중앙 인터페이스 구성 요소에 대한 도움말은 [Experience Cloud 인터페이스 및 관리 안내서](https://experienceleague.adobe.com/ko/docs/core-services/interface/experience-cloud)([!UICONTROL 고객 속성], [!DNL Experience Cloud Assets] 및 [!UICONTROL 대상자] 포함)를 참조하십시오.
 
