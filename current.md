@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
+source-git-commit: 1a51bbbeef7022125cd7498e6863f9ad367198a4
 workflow-type: tm+mt
-source-wordcount: '3907'
-ht-degree: 95%
+source-wordcount: '3952'
+ht-degree: 94%
 
 ---
 
@@ -95,7 +95,9 @@ Experience League에서 새로운 비디오 [재생 목록](https://experiencele
 
 * **[!DNL WORKFRONT]** | Q &amp; A 채팅 | _학습: Adobe Workfront 채택에 대한 Qualcomm의 여정_ | Qualcomm의 인증 기술 Adobe Workfront 리드인 Becky Barus가 Adobe Workfront의 사용자 채택을 크게 향상시키는 데 활용한 전략적 접근 방식에 대해 알아보십시오. | **10월 23일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 산호세에 있는 Adobe 본사에서 직접 Adobe Developers Live에 참여해 보세요! AEM 및 Commerce 개발자와 연결하여 최신 혁신 기술을 살펴보고 모범 사례를 알아보십시오. 11월 12일, 방문 또는 온라인 지금 등록하십시오! | **11월 12일 @ 오전 9시(MT)** | [등록][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Q &amp; A 채팅 | _Adobe Experience League Live: Experience Ecosystem의 대상 조화 - Experience Platform의 Federated Audience 구성_ | Federated Audience Composition이 Real-Time CDP 및 Journey Optimizer을 통해 대상 큐레이션 및 활성화에 대한 포괄적인 접근 방식을 제공하는 방법에 대해 알아봅니다. | **10월 24일 @ 오전 8시 30분(MT)** | [등록](https://engage.adobe.com/ExpLeagueLive-241024.html)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 산호세에 있는 Adobe 본사에서 직접 Adobe Developers Live에 참여해 보세요! AEM 및 Commerce 개발자와 연결하여 최신 혁신 기술을 살펴보고 모범 사례를 알아보십시오. 11월 12일, 방문 또는 온라인 지금 등록하십시오! | **11월 12일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 그리고 더 많이! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
