@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
+source-git-commit: 719336060311e774db7799c3357946dc2568ac67
 workflow-type: tm+mt
-source-wordcount: '4608'
-ht-degree: 98%
+source-wordcount: '4484'
+ht-degree: 99%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 98%
 
 ## 2024년 11월
 
-최신 업데이트: **11월 4일**
+최신 업데이트: **11월 8일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,7 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 
 +++세부 사항
 
-* **[!DNL Workfront]** | 고객 워크숍 | _학습: 변경 관리를 Workfront 여정에 적용_ | Keri Amundson 수석 고객 성공 관리자와 함께 Workfront 여정에서 변화를 이끄는 데 도움이 되는 변경 관리 모범 사례를 공유합니다. | **11월 7일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | 고객 워크숍 | _학습: 변경 관리를 Workfront 여정에 적용_ | Keri Amundson 수석 고객 성공 관리자와 함께 Workfront 여정에서 변화를 이끄는 데 도움이 되는 변경 관리 모범 사례를 공유합니다. | **11월 7일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud](다중 제품)** | Adobe Developers Live | _Adobe Developers Live 2024_ | 산호세의 Adobe 본사에서 열리는 Adobe Developers Live에 직접 참여하십시오! AEM 및 Commerce 개발자와 소통하고, 최신 혁신을 살펴보고 모범 사례를 알아봅니다. 11월 12일, 직접 또는 온라인. 지금 등록 | **11월 12일 오전 9시 (MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 산호세의 Adobe 본사에서 열리는 Adobe Developers Live에 직접 참여하십시오! AEM 및 Commerce 개발자와 소통하고, 최신 혁신을 살펴보고 모범 사례를 알아봅니다. 11월 12일, 직접 또는 온라인. 지금 등록 | **11월 12일 오전 9시 (MT)** | [등록](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
