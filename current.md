@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 719336060311e774db7799c3357946dc2568ac67
+source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
 workflow-type: tm+mt
-source-wordcount: '4484'
-ht-degree: 99%
+source-wordcount: '4614'
+ht-degree: 97%
 
 ---
 
@@ -93,7 +93,13 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 
 +++세부 사항
 
+* **[!DNL Workfront]** | 커뮤니티 이벤트 | _연결: Workfront 집합_ | 다른 고객과 소통하고, Workfront 기능에 대해 논의하고, 아이디어를 공유하고, 공통된 문제를 해결하기 위해 함께 브레인스토밍하기 위해 고안된 월간 월요일의 Workfront 집단 이벤트에 참여하십시오. | **11월 11일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | 고객 워크숍 | _관리자 101: 사용자가 Workfront을 사용하도록 설정_ | Workfront을 처음 사용하십니까? 3부로 구성된 Admin 101 시리즈의 두 번째 세션에 참여하여 사용자 채택과 관련된 모든 사항에 대해 논의하십시오. 질문을 준비하세요! | **11월 12일 오전 9시 (MT)** | [등록](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL Experience Cloud](다중 제품)** | Adobe Developers Live | _Adobe Developers Live 2024_ | 산호세의 Adobe 본사에서 열리는 Adobe Developers Live에 직접 참여하십시오! AEM 및 Commerce 개발자와 소통하고, 최신 혁신을 살펴보고 모범 사례를 알아봅니다. 11월 12일, 직접 또는 온라인. 지금 등록 | **11월 12일 오전 9시 (MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+
+* **[!DNL Experience Platform and Real-Time CDP]** | Experience League 라이브 | _Real-Time CDP의 마케터를 위한 Audiences를 위한 AI Assistant 소개_ | Adobe 제품 전문가와 함께 Adobe Real-Time CDP에 곧 출시될 대상을 위한 AI Assistant를 살펴보고 대상 인사이트 및 작업을 미리 충전하십시오. Adobe 제품 전문가로부터 질문에 대한 답변을 얻으십시오! | **11월 13일 @ 오전 10시(MT)** | [등록](https://engage.adobe.com/ExpLeagueLive-241113.html)
 
 기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
