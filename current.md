@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
+source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
 workflow-type: tm+mt
-source-wordcount: '4614'
-ht-degree: 97%
+source-wordcount: '4710'
+ht-degree: 95%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 97%
 
 ## 2024년 11월
 
-최신 업데이트: **11월 8일**
+최신 업데이트: **11월 12일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,13 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 
 +++세부 사항
 
-* **[!DNL Workfront]** | 커뮤니티 이벤트 | _연결: Workfront 집합_ | 다른 고객과 소통하고, Workfront 기능에 대해 논의하고, 아이디어를 공유하고, 공통된 문제를 해결하기 위해 함께 브레인스토밍하기 위해 고안된 월간 월요일의 Workfront 집단 이벤트에 참여하십시오. | **11월 11일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | 고객 워크숍 | _관리자 101: 사용자가 Workfront을 사용하도록 설정_ | Workfront을 처음 사용하십니까? 3부로 구성된 Admin 101 시리즈의 두 번째 세션에 참여하여 사용자 채택과 관련된 모든 사항에 대해 논의하십시오. 질문을 준비하세요! | **11월 12일 오전 9시 (MT)** | [등록](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud](다중 제품)** | Adobe Developers Live | _Adobe Developers Live 2024_ | 산호세의 Adobe 본사에서 열리는 Adobe Developers Live에 직접 참여하십시오! AEM 및 Commerce 개발자와 소통하고, 최신 혁신을 살펴보고 모범 사례를 알아봅니다. 11월 12일, 직접 또는 온라인. 지금 등록 | **11월 12일 오전 9시 (MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 * **[!DNL Experience Platform and Real-Time CDP]** | Experience League 라이브 | _Real-Time CDP의 마케터를 위한 Audiences를 위한 AI Assistant 소개_ | Adobe 제품 전문가와 함께 Adobe Real-Time CDP에 곧 출시될 대상을 위한 AI Assistant를 살펴보고 대상 인사이트 및 작업을 미리 충전하십시오. Adobe 제품 전문가로부터 질문에 대한 답변을 얻으십시오! | **11월 13일 @ 오전 10시(MT)** | [등록](https://engage.adobe.com/ExpLeagueLive-241113.html)
+
+* **[!DNL Marketo]** | Marketo Engage 챔피언 | _2024년 11월 Marketo Engage 챔피언 운영 시간_ | 11월 14일 목요일, Alsyha Khan이 중재하는 챔피언 Miray Vu, Maria Cruz, AJ Navarro, Lucas Goncalves Machado와 함께 11월 Marketo 챔피언 오피스 아워에 참여하십시오. | **11월 14일 @ 오전 9시(MT)** | [등록](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
+
+* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud 기술 세션 | _Adobe Customer Journey Analytics 제품 혁신: 분기별 개요 - 2025년 4분기_ | Adobe Analytics 제품 전문가와 함께 Adobe Customer Journey Analytics의 혁신적인 최신 기능을 살펴보십시오. 2025년 4분기 세션이 곧 시작되므로 지금 등록하여 원하는 날짜를 확인하십시오. | **11월 14일 @ 오전 10시(MT)** | [등록](https://event.adobe.com/customerjourneyanalytics)
 
 기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
@@ -321,6 +321,9 @@ Experience League의 새로운 [!DNL Adobe Commerce] 튜토리얼입니다.
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
+| 2024년 11월 | [구성 값](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | 비디오 | `core_config_data`, XML 파일 및 관리 설정을 사용하여 Adobe Commerce에서 구성 값을 찾고, 확인하고, 관리하는 방법에 대해 알아봅니다. |
+| 2024년 11월 | [일반적인 오류 해결](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | 비디오 | 사이트를 로드할 수 없는 두 가지 일반적인 Adobe 클라우드 프로젝트 오류를 해결합니다. |
+| 2024년 11월 | [만료된 SSL 인증서](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl) | 비디오 | 만료된 SSL 인증서를 식별한 다음 Adobe Commerce Cloud 통합 또는 기타 개발 환경에 대해 SSL 인증서를 다시 생성하는 방법을 알아봅니다. |
 | 2024년 10월 | [Adobe Commerce](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze) | 여러 비디오 | Commerce 시장 구조, 글로벌 게재 모델, 관리자 역할, 상점 옵션 등에 대한 새로운 비디오를 확인할 수 있습니다. |
 | 2024년 10월 | [Adobe Commerce로 마이그레이션](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview) | 비디오 | Adobe Commerce로 마이그레이션할 때 준비, 사용자 정의 코드, QA, 성능 및 보안을 다루는 개요. |
 | 2024년 10월 | [cli를 사용하여 관리자 URI 재설정](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/admin/reset-admin-uri) | 비디오 | Adobe Commerce Cloud cli 명령을 사용하여 관리자 URI를 재설정하는 방법을 알아봅니다. 관리자 URL이 관리자에서 변경되었지만 실수가 발생하여 더 이상 관리자에 액세스할 수 없는 경우 유용합니다. |
