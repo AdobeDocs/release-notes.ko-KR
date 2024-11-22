@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
+source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
 workflow-type: tm+mt
-source-wordcount: '4710'
+source-wordcount: '4660'
 ht-degree: 95%
 
 ---
@@ -38,15 +38,15 @@ ht-degree: 95%
 
 ## 2024년 11월
 
-최신 업데이트: **11월 12일**
+최신 업데이트: **11월 22일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**11월 24일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (릴리스: **10월 23일**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (릴리스: **10월 23일**)
+* [[!DNL Adobe Analytics]](#analytics)(릴리스 날짜: **10월 23일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)(릴리스 날짜: **10월 23일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -57,7 +57,7 @@ ht-degree: 95%
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) (**신규!**)
+* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
@@ -71,6 +71,17 @@ ht-degree: 95%
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] 이벤트 및 업데이트 {#events}
 
 Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
+
+### 목차 개선 사항
+
+업데이트: **2024년 11월 22일**
+
+Experience League의 각 목차가 다음과 같이 업데이트되었습니다.
+
+* **[!UICONTROL 모든 섹션 확장]**: Experience League 가이드에 전체 목차를 표시합니다. (이 토글은 페이지 로드 후 꺼집니다. 이 문제는 향후 업데이트에서 수정됩니다.) **[!UICONTROL 자세히 보기]** 및 **[!UICONTROL 간단히 보기]** 옵션이 제거되었습니다.
+* **스크롤**: 긴 목차를 스크롤할 수 있습니다.
+* **[!UICONTROL 키워드별로 필터링]**: 키워드를 입력하여 목차 항목을 필터링할 수 있습니다. 드롭다운에 관련 결과가 표시되며 **[!UICONTROL 지우기]**&#x200B;를 클릭하여 필터를 지울 수 있습니다.
+* **활성 페이지 가시성**: 목차에서 활성 페이지가 항상 강조 표시됩니다.
 
 ### Experience League의 재생목록
 
@@ -93,15 +104,7 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 
 +++세부 사항
 
-* **[!DNL Experience Cloud](다중 제품)** | Adobe Developers Live | _Adobe Developers Live 2024_ | 산호세의 Adobe 본사에서 열리는 Adobe Developers Live에 직접 참여하십시오! AEM 및 Commerce 개발자와 소통하고, 최신 혁신을 살펴보고 모범 사례를 알아봅니다. 11월 12일, 직접 또는 온라인. 지금 등록 | **11월 12일 오전 9시 (MT)** | [등록](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL Experience Platform and Real-Time CDP]** | Experience League 라이브 | _Real-Time CDP의 마케터를 위한 Audiences를 위한 AI Assistant 소개_ | Adobe 제품 전문가와 함께 Adobe Real-Time CDP에 곧 출시될 대상을 위한 AI Assistant를 살펴보고 대상 인사이트 및 작업을 미리 충전하십시오. Adobe 제품 전문가로부터 질문에 대한 답변을 얻으십시오! | **11월 13일 @ 오전 10시(MT)** | [등록](https://engage.adobe.com/ExpLeagueLive-241113.html)
-
-* **[!DNL Marketo]** | Marketo Engage 챔피언 | _2024년 11월 Marketo Engage 챔피언 운영 시간_ | 11월 14일 목요일, Alsyha Khan이 중재하는 챔피언 Miray Vu, Maria Cruz, AJ Navarro, Lucas Goncalves Machado와 함께 11월 Marketo 챔피언 오피스 아워에 참여하십시오. | **11월 14일 @ 오전 9시(MT)** | [등록](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
-
-* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud 기술 세션 | _Adobe Customer Journey Analytics 제품 혁신: 분기별 개요 - 2025년 4분기_ | Adobe Analytics 제품 전문가와 함께 Adobe Customer Journey Analytics의 혁신적인 최신 기능을 살펴보십시오. 2025년 4분기 세션이 곧 시작되므로 지금 등록하여 원하는 날짜를 확인하십시오. | **11월 14일 @ 오전 10시(MT)** | [등록](https://event.adobe.com/customerjourneyanalytics)
-
-기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
+Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
 +++
 
@@ -130,6 +133,10 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 [!DNL Experience Cloud] 중앙 인터페이스 구성 요소 및 관리에 대해 알아봅니다. 제품 및 사용자를 관리하고, 프로필 설정 및 환경 설정을 구성하고, Experience Cloud 오브젝트를 검색하고, 쿠키를 관리합니다.
 
 +++세부 사항
+
+Experience Cloud 제품 사용 데이터 환경 설정을 보다 쉽게 제어할 수 있도록 Experience Cloud 환경 설정 페이지를 간소화하여 중복 옵션을 제거했습니다. 간결성을 위해 현재 사용자 환경 설정을 유지하고 있으며 언제든지 https://experience.adobe.com/preferences에서 환경 설정을 업데이트할 수 있습니다.
+
+
 
 | 릴리스 날짜 | 기능 | 설명 |
 | -----------| -----------| ---------- |
