@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 **2024년 11월**
 
-최신 업데이트: **2024년 11월 22일 토요일**
+최신 업데이트: **2024년 11월 24일 월요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)(**11월 24일**)
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ ht-degree: 94%
 * [Adobe에서의 인증](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 제품 보안 취약점](https://helpx.adobe.com/kr/security.html)
 
-## [!DNL Experience League] 이벤트 및 업데이트 {#events}
+## [!DNL Experience League]개의 업데이트 및 이벤트 {#events}
 
 Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-+++세부 사항
+### Experience League 업데이트
 
-### 목차 개선 사항
++++세부 사항
 
 업데이트: **2024년 11월 22일**
 
-Experience League의 각 목차가 다음과 같이 업데이트되었습니다.
+**목차 업데이트:** Experience League의 각 목차가 다음과 같이 업데이트되었습니다.
 
 * **[!UICONTROL 모든 섹션 확장]**: Experience League 가이드에 전체 목차를 표시합니다. (이 토글은 페이지 로드 후 꺼집니다. 이 문제는 향후 업데이트에서 수정됩니다.) **[!UICONTROL 자세히 보기]** 및 **[!UICONTROL 간단히 보기]** 옵션이 제거되었습니다.
 * **스크롤**: 긴 목차를 스크롤할 수 있습니다.
