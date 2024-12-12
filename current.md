@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4639'
-ht-degree: 94%
+source-wordcount: '4720'
+ht-degree: 93%
 
 ---
 
@@ -34,15 +34,15 @@ ht-degree: 94%
 
 **2024년 11월**
 
-최신 업데이트: **2024년 11월 24일 월요일**
+마지막 업데이트: **2024년 12월 11일 목요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**11월 24일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**12월 11일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)(릴리스 날짜: **10월 23일**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)(릴리스 날짜: **10월 23일**)
+* [[!DNL Adobe Analytics]](#analytics)(최신 릴리스: **10월 23일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)(최신 릴리스: **10월 23일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -103,6 +103,10 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 ### Experience League 이벤트
 
 +++세부 사항
+
+* **[!DNL Workfront]** | 커뮤니티 이벤트 | _연결: Workfront 집합_ | 다른 고객과 소통하고, Workfront 기능에 대해 논의하고, 아이디어를 공유하고, 공통된 문제를 해결하기 위해 함께 브레인스토밍하기 위해 고안된 월간 월요일의 Workfront 집단 이벤트에 참여하십시오. | **12월 16일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | 질문 및 답변 | _관리자 101: Workfront 질문 가져오기_ | Workfront을 처음 사용하십니까? 이전 Admin 101 세션을 놓치셨나요? 요약 세션에 참여하여 질문하고, 리소스와 권장 사항을 확인하고, 다른 새 관리자를 만나십시오. | **12월 17일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
