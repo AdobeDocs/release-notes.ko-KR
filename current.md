@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
+source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
 workflow-type: tm+mt
-source-wordcount: '4720'
-ht-degree: 93%
+source-wordcount: '4775'
+ht-degree: 92%
 
 ---
 
@@ -32,11 +32,11 @@ ht-degree: 93%
 
 **알림 받기:** 이 페이지의 업데이트에 대한 월별 이메일 알림을 받으려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)에 가입하세요.
 
-**2024년 11월**
+**2024년 11월/12월**
 
-마지막 업데이트: **2024년 12월 11일 목요일**
+마지막 업데이트: **2024년 12월 16일 화요일**
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**12월 11일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**12월 16일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -104,9 +104,11 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 
 +++세부 사항
 
-* **[!DNL Workfront]** | 커뮤니티 이벤트 | _연결: Workfront 집합_ | 다른 고객과 소통하고, Workfront 기능에 대해 논의하고, 아이디어를 공유하고, 공통된 문제를 해결하기 위해 함께 브레인스토밍하기 위해 고안된 월간 월요일의 Workfront 집단 이벤트에 참여하십시오. | **12월 16일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | 질문 및 답변 | _관리자 101: Workfront 질문 가져오기_ | Workfront을 처음 사용하십니까? 이전 Admin 101 세션을 놓치셨나요? 요약 세션에 참여하여 질문하고, 리소스와 권장 사항을 확인하고, 다른 새 관리자를 만나십시오. | **12월 17일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Adobe Workfront 1분기 릴리스 웨비나_ | Jeremy Flores(수석 제품 관리자)와 공동으로 주최하는 이 웨비나는 다음 주에 2025년 1분기 릴리스에서 릴리스될 예정인 최신 Adobe Workfront 기능 개선 사항을 강조 표시합니다. | **1월 9일 @ 오전 10시 30분** | [등록](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 천주교 구제 서비스와 협력하여 진행되는 이 고객 중심 세션은 모범 사례와 무료 질문 시간을 제공합니다. | **1월 10일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
