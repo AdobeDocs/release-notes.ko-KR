@@ -6,14 +6,14 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
+source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
 workflow-type: tm+mt
-source-wordcount: '4775'
-ht-degree: 92%
+source-wordcount: '4855'
+ht-degree: 89%
 
 ---
 
-# Experience Cloud 릴리스 정보 - 2024년 11월
+# Experience Cloud 릴리스 노트 - 2024년 11월/12월
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -34,15 +34,15 @@ ht-degree: 92%
 
 **2024년 11월/12월**
 
-마지막 업데이트: **2024년 12월 16일 화요일**
+마지막 업데이트: **2024년 1월 9일 수요일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)(**12월 16일**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
+* [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)(**1월 9일**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)(최신 릴리스: **10월 23일**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)(최신 릴리스: **10월 23일**)
+* [[!DNL Adobe Analytics]](#analytics)(다음 릴리스: **1월 22일**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)(다음 릴리스: **1월 22일**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -104,8 +104,6 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 
 +++세부 사항
 
-* **[!DNL Workfront]** | 질문 및 답변 | _관리자 101: Workfront 질문 가져오기_ | Workfront을 처음 사용하십니까? 이전 Admin 101 세션을 놓치셨나요? 요약 세션에 참여하여 질문하고, 리소스와 권장 사항을 확인하고, 다른 새 관리자를 만나십시오. | **12월 17일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Workfront | _Adobe Workfront 1분기 릴리스 웨비나_ | Jeremy Flores(수석 제품 관리자)와 공동으로 주최하는 이 웨비나는 다음 주에 2025년 1분기 릴리스에서 릴리스될 예정인 최신 Adobe Workfront 기능 개선 사항을 강조 표시합니다. | **1월 9일 @ 오전 10시 30분** | [등록](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | Workfront | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 천주교 구제 서비스와 협력하여 진행되는 이 고객 중심 세션은 모범 사례와 무료 질문 시간을 제공합니다. | **1월 10일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -144,7 +142,9 @@ Experience Cloud 제품 사용 데이터 환경 설정을 보다 쉽게 제어�
 
 | 릴리스 날짜 | 기능 | 설명 |
 | -----------| -----------| ---------- |
-| 10월 2일 | 사용자 정의 가능한 홈 | Experience Cloud 랜딩 페이지에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다. [!UICONTROL 편집] 모드를 사용하면 위젯 라이브러리와 사용자 정의 배경에 액세스하여 Experience Cloud 홈 페이지를 개인화할 수 있습니다. [!UICONTROL 편집] 모드는 위젯 이동, 크기 조정 및 관리를 위한 원활하고 직관적인 제어 기능을 제공합니다. 이 기능에는 대량 작업 및 레이아웃 조정이 포함되어 있어 보다 미적이고 맞춤화된 경험을 제공합니다. 위젯 라이브러리 및 사용자 정의 배경에 액세스하여 Experience Cloud 홈 페이지를 사용자 정의할 수 있습니다. |
+| **1월 9일** | 제품 사용 데이터 | Experience Cloud 제품 사용 데이터 환경 설정을 보다 쉽게 제어할 수 있도록 중복 옵션을 제거하기 위해 [환경 설정](https://experienceleague.adobe.com/docs/core-services/interface/features/account-preferences.html#product-usage-data) Experience Cloud을 간소화했습니다. 이를 통해 현재 사용자 환경 설정이 유지되었으며 [Experience Cloud 환경 설정](https://experience.adobe.com/preferences)에서 언제든지 환경 설정을 업데이트할 수 있습니다. |
+| **1월 30일**(릴리스 예정일) | 스펙트럼 2 | 헤더 막대와 헤더 막대에서 액세스한 구성 요소를 포함하는 Experience Cloud 응용 프로그램 프레임과 특정 응용 프로그램의 왼쪽 탐색 레일은 Adobe의 최신 디자인 시스템인 Spectrum 2로 업데이트됩니다. 이렇게 새로 고침된 설계에는 업데이트된 도상학이 포함되지만 동일한 기능이 포함됩니다. 그러나 헤더의 여러 요소는 다른 Adobe 사이트 및 애플리케이션과 일치하도록 위치가 조정됩니다. |
+| **10월 2일** | 사용자 정의 가능한 홈 | Experience Cloud 랜딩 페이지에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다. [!UICONTROL 편집] 모드를 사용하면 위젯 라이브러리와 사용자 정의 배경에 액세스하여 Experience Cloud 홈 페이지를 개인화할 수 있습니다. [!UICONTROL 편집] 모드는 위젯 이동, 크기 조정 및 관리를 위한 원활하고 직관적인 제어 기능을 제공합니다. 이 기능에는 대량 작업 및 레이아웃 조정이 포함되어 있어 보다 미적이고 맞춤화된 경험을 제공합니다. 위젯 라이브러리 및 사용자 정의 배경에 액세스하여 Experience Cloud 홈 페이지를 사용자 정의할 수 있습니다. |
 
 [!DNL Experience Cloud] 중앙 인터페이스 구성 요소에 대한 도움말은 [Experience Cloud 인터페이스 및 관리 안내서](https://experienceleague.adobe.com/ko/docs/core-services/interface/experience-cloud)([!UICONTROL 고객 속성], [!DNL Experience Cloud Assets] 및 [!UICONTROL 대상자] 포함)를 참조하십시오.
 
