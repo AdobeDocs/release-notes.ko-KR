@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
+source-git-commit: 83c0def18c96df9a9325ecc69fa3c41a6cd2611f
 workflow-type: tm+mt
-source-wordcount: '4855'
-ht-degree: 89%
+source-wordcount: '5013'
+ht-degree: 86%
 
 ---
 
@@ -34,7 +34,8 @@ ht-degree: 89%
 
 **2024년 11월/12월**
 
-마지막 업데이트: **2024년 1월 9일 수요일**
+최신 업데이트: **2024년 1월 21일**
+다음 페이지 새로 고침: **2025년 1월 22일**
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)(**12월 16일**)
 * [[!DNL Adobe System Status]](#status)
@@ -47,7 +48,7 @@ ht-degree: 89%
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (**1월 21일** 업데이트됨)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
@@ -104,9 +105,17 @@ Experience League에서 새로운 비디오 [재생목록](https://experiencelea
 
 +++세부 사항
 
-* **[!DNL Workfront]** | Workfront | _Adobe Workfront 1분기 릴리스 웨비나_ | Jeremy Flores(수석 제품 관리자)와 공동으로 주최하는 이 웨비나는 다음 주에 2025년 1분기 릴리스에서 릴리스될 예정인 최신 Adobe Workfront 기능 개선 사항을 강조 표시합니다. | **1월 9일 @ 오전 10시 30분** | [등록](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Workfront으로 일어나기: 무엇이든 물어보세요_ | 이번 &#39;무엇이든 물어보세요&#39; 세션에서는 Adobe Workfront 비즈니스 어드바이저 사만다 밀러, 애런 베이커, 메리 앤 에릭슨이 2025년 고객이 성공할 수 있도록 라이브 질문을 받고 Workfront의 모범 사례를 공유한다. | **1월 23일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | Workfront | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 시스템 관리자십니까? 천주교 구제 서비스와 협력하여 진행되는 이 고객 중심 세션은 모범 사례와 무료 질문 시간을 제공합니다. | **1월 10일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _연결: Workfront 집합_ | 다른 고객과 소통하고, Workfront 기능에 대해 논의하고, 아이디어를 공유하고, 공통된 문제를 해결하기 위해 함께 브레인스토밍하기 위해 고안된 월간 월요일의 Workfront 집단 이벤트에 참여하십시오. | **1월 27일 @ 오전 7시(MT)** | [등록](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _학습: Workfront 여정의 변화에 대한 저항 극복_ | Workfront 변경 관리 전문가와 함께 사용자를 식별하고 저항을 극복하기 위한 모범 사례에 대해 논의하십시오. | **1월 30일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Adobe Target 성숙도 웨비나 시리즈_ | GenAI를 포함한 Adobe Target의 혁신과 대규모 AI 기반 개인화 및 실험에 대한 모범 사례입니다. | **2월 4일 @ 오전 9시(MT)** | [등록](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketo 및 Mochas: 2025년에 알아야 할 Marketo 기능 5개_ | 올해 첫 Marketo &amp; Mochas 세션에서는 Marketo 전문가 Carly Gaver와 Kate Colbert가 2025년에 고객 경험을 향상시키고 수요를 창출할 수 있는 5가지 다양한 기능을 다룹니다. | **2월 6일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce 및 커피: B2B의 셀프 서비스 향상_ | Commerce 전문가인 Corey Gelato &amp; Agbi Bajrushi와 함께 최신 B2B 트렌드와 새로운 Adobe Commerce 기능을 활용하여 1년 내내 경쟁에서 앞서갈 수 있는 접근 방식을 살펴봄으로써 한 해를 멋지게 시작해 보십시오. | **2월 13일 @ 오전 11시(MT)** | [등록](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
@@ -381,13 +390,13 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 ### 최신 Campaign 제품 릴리스
 
-* [!DNL Web User Interface]: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8: [2025년 1월 15일 - 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/releases/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign] v8: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/releases/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Web User Interface]: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/latest-release) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [25.1 - 2025년 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/campaign-standard-home)
 
 ### 새로운 [!DNL Campaign] 튜토리얼 {#tutorials-campaign}
 
