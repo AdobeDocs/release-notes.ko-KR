@@ -1,5 +1,5 @@
 ---
-description: Experience Cloud 제품 및 서비스에 대한 릴리스 정보가 보관되었습니다.
+description: Experience Cloud 제품 및 서비스에 대해 보관된 릴리스 정보.
 seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
 title: 2021 및 이전 버전에 대한 릴리스 정보
 solution: Experience Cloud,Analytics,Target,Advertising
@@ -7,9 +7,9 @@ seo-title: Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
 source-git-commit: 590f0a21ab8ef16b2ccf9f651a2ef2e7cae48ff3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
