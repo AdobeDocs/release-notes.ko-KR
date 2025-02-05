@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
-workflow-type: ht
-source-wordcount: '4493'
-ht-degree: 100%
+source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+workflow-type: tm+mt
+source-wordcount: '4370'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## 2025년 1월
 
-마지막 업데이트: **2025년 1월 22일**
+최신 업데이트: **2025년 2월 5일 목요일**
 
 특정 애플리케이션 출시일은 제품 릴리스 정보를 참조하십시오.
 
@@ -69,35 +69,23 @@ ht-degree: 100%
 
 Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
 
-### Experience League 업데이트
+### Experience League 업데이트(2025년 2월)
 
 +++세부 사항
 
-릴리스: **2024년 가을**
+**개인 맞춤화된 홈 페이지**
 
-**목차 업데이트:** Experience League의 각 목차에 다음과 같은 업데이트가 이루어졌습니다.
+릴리스 날짜: **2025년 2월 5일**
 
-* **[!UICONTROL 모든 섹션 확장]**: 모든 Experience League 가이드에 전체 목차를 표시합니다. (페이지 로드 후 이 토글이 꺼집니다. 이 문제는 향후 업데이트에서 수정될 예정입니다.) **[!UICONTROL 더 보기]** 및 **[!UICONTROL 간단히 보기]** 옵션이 제거되었습니다.
-* **스크롤**: 긴 목차를 스크롤할 수 있습니다.
-* **[!UICONTROL 키워드로 필터링]**: 키워드를 입력하여 목차 항목을 필터링할 수 있습니다. 드롭다운에 관련 결과가 표시되고, **[!UICONTROL 지우기]**&#x200B;를 클릭하여 필터를 지울 수 있습니다.
-* **활성 페이지 표시**: 활성 페이지는 항상 목차에서 강조 표시됩니다.
+완전히 새로운 [Experience League 홈](https://experienceleague.adobe.com/?lang=en)은(는) [!DNL Adobe Target]에서 제공하는 개인화된 학습 권장 사항을 제공합니다.
 
-### Experience League의 재생 목록
+주요 기능:
 
-Experience League에서 새로운 비디오 [재생 목록](https://experienceleague.adobe.com/ko/playlists)이 제공됩니다. 재생 목록은 필요한 기술과 지식을 습득할 수 있도록 선별된 비디오 컬렉션입니다.
-
-재생 목록 기능은 다음과 같습니다.
-
-* 자동 재생 비디오
-* 챕터 선택 및 재생 속도
-* 중단된 지점에서 다시 시작
-* 비디오 트랜스크립트
-
-재생 목록을 찾아보려면 **[!UICONTROL 학습]** > **[!UICONTROL 모든 재생 목록 찾아보기]**&#x200B;로 이동하십시오.
-
->[!NOTE]
->
->Experience League의 강좌에 책갈피를 지정한 경우, 해당 재생 목록으로 리디렉션됩니다. 경우에 따라 원하는 주제를 다루는 새로운 재생 목록을 찾아야 할 수도 있습니다.
+* 역할, 제품 및 최근 활동에 따른 권장 콘텐츠
+* 최근에 본 콘텐츠
+* 제안된 온디맨드 이벤트 및 인증
+* 제품에 대해 새로 게시된 콘텐츠
+* 새롭게 디자인되고 새로 고쳐진 인터페이스
 
 +++
 
@@ -105,15 +93,17 @@ Experience League에서 새로운 비디오 [재생 목록](https://experiencele
 
 +++세부 사항
 
-* **[!DNL Workfront]** | _Workfront로 개선: 무엇이든 물어보세요_ | 이번 “무엇이든 물어보세요” 세션에서는 Adobe [!DNL Workfront] 비즈니스 어드바이저인 Samantha Miller, Aaron Baker, Mary Ann Erickson이 실시간 질문을 받고 2025년 고객의 성공을 돕기 위한 [!DNL Workfront]의 모범 사례를 공유합니다. | **1월 23일 오전 11시 (MT)** | [등록](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | 커뮤니티 이벤트 | _소통: [!DNL Workfront] Collective_ | 다른 고객과 소통하고, [!DNL Workfront] 기능을 논의하고, 아이디어를 공유하고, 브레인스토밍을 통해 문제를 해결할 수 있는 월간 월요일 [!DNL Workfront] Collective 이벤트에 참여하십시오. | **1월 27일 오전 7시 (MT)** | [등록](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _학습: [!DNL Workfront] 여정에서 변화에 대한 저항 극복_ | [!DNL Workfront] 변경 관리 전문가와 함께 사용자의 저항을 파악하고 극복하기 위한 모범 사례에 대해 논의하십시오. | **1월 30일 오전 10시 (MT)** | [등록](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Adobe Target 완성 웨비나 시리즈_ | 생성형 AI를 비롯한 Adobe Target의 혁신과 AI 기반 개인화 및 대규모 실험에 대한 모범 사례. | **2월 4일 오전 9시 (MT)** | [등록](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Adobe Summit]** | _디지털 경험 컨퍼런스_ | Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. | **3월 18일 - 19일 @ Las Vegas &amp; Online** | [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 * **[!DNL Target]** | _Marketo 및 Mochas: 2025년에 알아야 할 Marketo의 5가지 기능_ | 올해 첫 번째 [!DNL Marketo] 및 Mochas 세션에서는 [!DNL Marketo] 전문가 Carly Gaver와 Kate Colbert가 2025년에 고객 경험을 향상시키고 수요를 촉진하는 데 도움이 될 수 있는 5가지 기능에 대해 설명합니다. | **2월 6일 오전 11시 (MT)** | [등록](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _연결: 마케팅 및 크리에이티브용 관리자 채팅_ | 마케팅 또는 크리에이티브 팀의 Workfront 시스템 관리자십니까? 대화형 토론에 참여하여 다른 관리자와 연결하고 모범 사례를 공유하십시오! | **2월 7일 @ 오전 10시(MT)** | [등록](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _관리자 101: 사용자가 Workfront을 사용하도록 설정_ | Workfront을 처음 사용하십니까? 프로젝트 접수 및 사용자 채택에 대한 모범 사례를 제공하는 3부 시리즈의 두 번째 세션에 참여하십시오. | **2월 11일 @ 오전 9시(MT)** | [등록](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Workfront 거버넌스에 대해 질문하기_ | 조직의 전략적 목표에 더 잘 부합하도록 Workfront 프로세스, 정책 및 제어를 개선할 수 있는 방법에 대해 사내 전문가에게 문의하십시오. | **2월 12일 @ 오전 9시(MT)** | [등록](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
+
+* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage 챔피언 운영 시간 - 2025년 2월_ | 2024/25 Marketo Engage 챔피언이 이끄는 북미 및 LATAM 시간 친화 챔피언 오피스 아워(Champion Office Hours)에 참여해 보십시오. | **2월 13일 @ 오전 8시(MT)** | [등록](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce &amp; Coffee: B2B에서 셀프서비스의 부상_ | [!DNL Commerce] 전문가인 Corey Gelato, Agbi Bajrushi와 함께 2025년을 힘차게 시작해 보십시오. 최신 B2B 트렌드와 새로운 Adobe [!DNL Commerce] 기능을 활용하여 일년 내내 경쟁 우위를 유지하는 방법을 소개합니다. | **2월 13일 오전 11시 (MT)** | [등록](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
