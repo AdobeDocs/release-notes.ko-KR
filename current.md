@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
+source-git-commit: 566009aeac5ff30a0368d90226e1fd31583cba5d
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 49%
+source-wordcount: '3671'
+ht-degree: 50%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 49%
 
 ## 2025년 2월
 
-최신 업데이트: **2025년 2월 19일 목요일**
+최신 업데이트: **2025년 2월 24일 화요일**
 
 다음 링크를 사용하여 애플리케이션 릴리스 정보, 이벤트, 새로운 튜토리얼 및 최신 기술 자료 지원 문서를 찾을 수 있습니다.
 
@@ -87,11 +87,13 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **[!DNL Adobe Summit]** | _디지털 경험 컨퍼런스_ | Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. | **3월 18일 - 19일 @ Las Vegas &amp; Online** | [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _디지털 경험 컨퍼런스_ | Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. | **3월 18일 - 19일 @ Las Vegas &amp; Online** | [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Experience Cloud]** | _Adobe Digital Insights: 2024년 휴일 결과 및 2025년 초 트렌드의 래핑 해제_ | 2024년 명절 쇼핑 트렌드를 종합적으로 요약하고 2025년 상반기를 앞두고 살펴봅니다. 이러한 통찰력을 사용하여 앞으로의 연도에 고객 기대치를 예측하고 뛰어 넘을 수 있습니다. | **2월 20일 @ 오전 10시 MST** | [등록](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** | 동료로부터 학습 | _Workfront 값을 측정하고 공유하는 방법_ | 2025년 2월 26일에 참여하십시오. Synchronoy 및 EMMsphere의 동료들이 궁극적인 &quot;Workfront 이유&quot;를 만든 방법과 시간 및 비용 절감과 같은 측정 가능한 결과를 전달하는 방법을 공유하십시오.| **2월 26일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | _연결: Workfront 집합_ | 다른 고객과 소통하고, Workfront 기능에 대해 논의하고, 아이디어를 공유하고, 공통된 문제를 해결하기 위해 함께 브레인스토밍하기 위해 고안된 월간 월요일의 Workfront 집단 이벤트에 참여하십시오. | **2월 24일 @ 오전 7시 MST** | [등록](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | 웨비나 | _Adobe Workfront에 대한 경영진 후원 보호_ | AI Assistant를 통해 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 중요한 운영 통찰력을 확보하고 생산성을 높이며 작업을 재정의하는 방법을 살펴보십시오.| **2월 27일 @ 오전 9시 MST** | [등록](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Platform]** | Experience League 라이브 | _Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금 해제_ | AI Assistant를 통해 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 중요한 운영 통찰력을 확보하고 생산성을 높이며 작업을 재정의하는 방법을 살펴보십시오.| **2월 27일 @ 오전 8시 30분(PST)** | [등록](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
