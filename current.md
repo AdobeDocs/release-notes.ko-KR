@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3a542c8eddc0015672a975dd2b9fcd024a808084
+source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
 workflow-type: tm+mt
 source-wordcount: '3671'
-ht-degree: 96%
+ht-degree: 95%
 
 ---
 
@@ -87,13 +87,13 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _디지털 경험 컨퍼런스_ | Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. | **3월 18~19일 라스베이거스 및 온라인** | [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | 동료로부터 학습 | _Workfront 값을 측정하고 공유하는 방법_ | **2월 26일 @ 오전 8시(PT)** | 2025년 2월 26일에 참여하십시오. Synchronoy 및 EMMsphere의 동료들이 궁극적인 &quot;Workfront 이유&quot;를 만든 방법과 시간 및 비용 절감과 같은 측정 가능한 결과를 전달하는 방법을 공유하십시오. | [등록](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | 동료로부터 학습 | _Workfront 값을 측정하고 공유하는 방법_ | 2025년 2월 26일에 참여하십시오. Synchronoy 및 EMMsphere의 동료들이 궁극적인 &quot;Workfront 이유&quot;를 만든 방법과 시간 및 비용 절감과 같은 측정 가능한 결과를 전달하는 방법을 공유하십시오.| **2월 26일 @ 오전 8시(PT)** | [등록](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
+* **[!DNL Workfront]** | 웨비나 | _Adobe Workfront에 대한 경영진 후원 보호_ | **2월 27일 @ 오전 9시 MST** | AI Assistant를 통해 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 중요한 운영 통찰력을 확보하고 생산성을 높이며 작업을 재정의하는 방법을 살펴보십시오. | [등록](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | 웨비나 | _Adobe Workfront에 대한 경영진 후원 보호_ | AI Assistant를 통해 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 중요한 운영 통찰력을 확보하고 생산성을 높이며 작업을 재정의하는 방법을 살펴보십시오.| **2월 27일 @ 오전 9시 MST** | [등록](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | Experience League 라이브 | _Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금 해제_ | **2월 27일 @ 오전 8시 30분(PST)** | AI Assistant를 통해 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 중요한 운영 통찰력을 확보하고 생산성을 높이며 작업을 재정의하는 방법을 살펴보십시오. | [등록](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Platform]** | Experience League 라이브 | _Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금 해제_ | AI Assistant를 통해 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 중요한 운영 통찰력을 확보하고 생산성을 높이며 작업을 재정의하는 방법을 살펴보십시오.| **2월 27일 @ 오전 8시 30분(PST)** | [등록](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Cloud]** | Adobe Summit | _디지털 경험 컨퍼런스_ | **3월 18일 - 19일 @ Las Vegas &amp; Online**| Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. |  [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
