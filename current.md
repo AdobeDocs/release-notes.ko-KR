@@ -1,6 +1,6 @@
 ---
 title: 최신 릴리스 정보
-description: Adobe [!DNL Experience Cloud] 제품 및 서비스에 대한 최신 릴리스 정보 및 기술 자료 문제를 확인합니다. Experience League에서 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud] 애플리케이션의 최신 튜토리얼 및 교육 과정을 살펴보십시오.
+description: Adobe [!DNL Experience Cloud] 제품 및 서비스에 대한 최신 릴리스 정보 및 기술 자료 문제를 살펴보십시오. Experience League에서 예정된 이벤트 및 새로운 설명서에 대해 알아봅니다.  [!DNL Experience Cloud] 애플리케이션의 최신 튜토리얼 및 교육 과정을 살펴보십시오.
 doc-type: release notes
 last-update: February 2025
 author: mfrei
@@ -23,13 +23,13 @@ ht-degree: 95%
 
 * **알림 유지:** 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
-* **피드백 남기기:** 각 페이지 하단에서 **_이 콘텐츠가 도움이 되었습니까?_** 각 문서나 비디오 하단에 팝업 표시. 사용자의 피드백은 정리되어 콘텐츠 작성자에게 전달됩니다.
+* **피드백 남기기:** 각 페이지 하단에서 **_이 콘텐츠가 도움이 되었습니까?_** 각 문서나 비디오 하단에 팝업이 표시됩니다. 사용자의 피드백은 정리되어 콘텐츠 작성자에게 전달됩니다.
 
 ## 2025년 2월
 
 최신 업데이트: **2025년 2월 24일 화요일**
 
-이 링크를 사용하여 애플리케이션 릴리스 정보, 이벤트, 새 튜토리얼과 최신 Knowledge BASE 지원 문서를 찾을 수 있습니다.
+이 링크를 사용하여 애플리케이션 릴리스 정보, 이벤트, 새 튜토리얼과 최신 기술 자료 지원 문서를 찾을 수 있습니다.
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -105,7 +105,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-[!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/)에서 관련 정보를 확인합니다.
+[!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/)에서 관련 정보를 확인하십시오.
 
 최신 릴리스 정보는 여기에서 확인할 수 있습니다.
 
@@ -135,7 +135,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 ## [!DNL Experience Platform] {#platform}
 
-[!DNL Experience Platform] 및 [!UICONTROL Mobile SDK]에 대한 최신 릴리스 정보와 새로운 설명서를 확인합니다. Experience League에서 새로운 튜토리얼과 Knowledge BASE 문서를 확인합니다.
+[!DNL Experience Platform] 및 [!UICONTROL Mobile SDK]에 대한 최신 릴리스 정보와 새로운 설명서를 살펴보십시오. Experience League에서 새로운 튜토리얼과 기술 자료 문서를 살펴보십시오.
 
 +++세부 사항
 
@@ -152,7 +152,7 @@ Experience League에 새로운 Adobe [!DNL Experience Platform] 튜토리얼이 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | 2025년 2월 | [!DNL AI Assistant] | [AI 어시스턴트로 운영 인사이트 얻기](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/ai-assistant/operational-insights) | 새 비디오 | [!DNL AI Assistant]을 사용하여 Adobe [!DNL Experience Platform]에서 대상자, 데이터 세트, 스키마, 대상, 여정 등의 비즈니스 오브젝트에 대한 운영 인사이트를 얻는 방법에 대해 알아봅니다. |
-| 2025년 2월 | [!DNL Experience Platform] | [아이덴티티 그래프 연결 규칙 - 그래프 시뮬레이션](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/identities/graph-linking-rules/graph-simulation) | 새 비디오 | 그래프 시뮬레이터를 사용하여 [!DNL Experience Platform]에서 아이덴티티 그래프 연결 규칙을 테스트하는 방법에 대해 알아봅니다. 다양한 시나리오를 실험하고 _그래프별로 고유_ 및 우선순위 설정을 변경하여 비즈니스 그래프 축소 방지를 위해 필요한 규칙을 확인합니다. |
+| 2025년 2월 | [!DNL Experience Platform] | [아이덴티티 그래프 연결 규칙 - 그래프 시뮬레이션](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/identities/graph-linking-rules/graph-simulation) | 새 비디오 | 그래프 시뮬레이터를 사용하여 [!DNL Experience Platform]에서 아이덴티티 그래프 연결 규칙을 테스트하는 방법에 대해 알아봅니다. 다양한 시나리오를 실험하고 _그래프별로 고유_ 및 우선순위 설정을 변경하여 비즈니스 그래프 축소 방지를 위해 필요한 규칙을 확인하십시오. |
 
 ### 새 [!DNL Experience Platform] 지원 기술 자료{#kb-aep}
 
@@ -177,7 +177,7 @@ Experience League에 새로운 Adobe [!DNL Experience Platform] 튜토리얼이 
 
 ## [!DNL Real-Time CDP] {#rtcdp}
 
-Experience League에서 [!DNL Real-Time CDP]에 대한 최신 튜토리얼을 확인합니다.
+Experience League에서 [!DNL Real-Time CDP]에 대한 최신 튜토리얼을 살펴보십시오.
 
 +++세부 사항
 
@@ -197,7 +197,7 @@ Experience League에서 [!DNL Real-Time CDP]에 대한 최신 튜토리얼을 �
 
 ## [!DNL Analytics] {#analytics}
 
-[!DNL Adobe Analytics] 및 [!DNL AppMeasurement]에 대한 최신 릴리스 정보를 확인합니다. Experience League의 새로운 튜토리얼을 확인합니다.
+[!DNL Adobe Analytics] 및 [!DNL AppMeasurement]에 대한 최신 릴리스 정보를 살펴보십시오. Experience League의 새로운 튜토리얼을 살펴보십시오.
 
 +++세부 사항
 
@@ -234,7 +234,7 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
 ## [!DNL Customer Journey Analytics] {#cja}
 
-[!DNL Customer Journey Analytics]에 대한 최신 릴리스 정보를 확인합니다. 새로운 Experience League 튜토리얼을 확인합니다.
+[!DNL Customer Journey Analytics]에 대한 최신 릴리스 정보를 살펴보십시오. 새로운 Experience League 튜토리얼을 살펴보십시오.
 
 +++세부 사항
 
@@ -257,7 +257,7 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
 ## [!DNL Streaming Media Analytics] {#sma}
 
-[!DNL Streaming Media Analytics]에 대한 최신 릴리스 정보를 확인합니다. 새로운 Experience League 튜토리얼을 확인합니다.
+[!DNL Streaming Media Analytics]에 대한 최신 릴리스 정보를 살펴보십시오. 새로운 Experience League 튜토리얼을 살펴보십시오.
 
 +++세부 사항
 
@@ -320,7 +320,7 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
 ## [!DNL Commerce] {#commerce}
 
-Experience League의 [!DNL Adobe Commerce]에 대한 릴리스 정보, 새로운 튜토리얼과 Knowledge BASE 문서를 이용할 수 있습니다.
+Experience League의 [!DNL Adobe Commerce]에 대한 릴리스 정보, 새로운 튜토리얼과 기술 자료 문서를 이용할 수 있습니다.
 
 +++세부 사항
 
@@ -382,7 +382,7 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 ## [!DNL Campaign] {#ac}
 
-[!DNL Adobe Campaign]의 최신 업데이트를 다운로드합니다. Experience League에서 새로운 튜토리얼과 기술 자료 지원 문서를 확인합니다.
+[!DNL Adobe Campaign]의 최신 업데이트를 다운로드합니다. Experience League에서 새로운 튜토리얼과 기술 자료 지원 문서를 살펴보십시오.
 
 +++세부 사항
 
@@ -425,7 +425,7 @@ Adobe Campaign용으로 게시된 새로운 또는 업데이트된 비디오 튜
 
 ## [!DNL Journey Optimizer] {#journey-opt}
 
-[!DNL Journey Optimizer]의 최신 릴리스 정보에 대해 알아봅니다. Experience League에서 최신 튜토리얼과 Knowledge BASE 지원 문서를 확인합니다.
+[!DNL Journey Optimizer]의 최신 릴리스 정보에 대해 알아봅니다. Experience League에서 최신 튜토리얼과 기술 자료 지원 문서를 살펴보십시오.
 
 +++세부 사항
 
@@ -453,7 +453,7 @@ Experience League에 새로운 Adobe [!DNL Journey Optimizer] 튜토리얼이 �
 
 ## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
-릴리스 정보와 새 튜토리얼 [!DNL Journey Optimizer B2B Edition]을 확인합니다.
+릴리스 정보와 새 튜토리얼 [!DNL Journey Optimizer B2B Edition]을 살펴보십시오.
 
 +++세부 사항
 
@@ -496,7 +496,7 @@ Experience League에서 [!DNL Journey Orchestration]에 대한 최신 릴리스 
 
 ## [!DNL Marketo Engage] {#marketo}
 
-[!DNL Marketo Engage]의 최신 릴리스 정보와 릴리스 일정을 확인합니다.
+[!DNL Marketo Engage]의 최신 릴리스 정보와 릴리스 일정을 살펴보십시오.
 
 +++세부 사항
 
@@ -532,7 +532,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 ## [!DNL Workfront] {#workfront}
 
-[!DNL Adobe Workfront]의 최신 릴리스 정보에 대해 알아봅니다. 새로운 Experience League 튜토리얼을 확인합니다.
+[!DNL Adobe Workfront]의 최신 릴리스 정보에 대해 알아봅니다. 새로운 Experience League 튜토리얼을 살펴보십시오.
 
 +++세부 사항
 
@@ -548,7 +548,7 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼 및 이벤트
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025년 2월 | [새 Workfront 튜토리얼](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/home) | 여러 비디오 | Workfront에 대한 최신 튜토리얼을 확인합니다. |
+| 2025년 2월 | [새 Workfront 튜토리얼](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/home) | 여러 비디오 | Workfront에 대한 최신 튜토리얼을 살펴보십시오. |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
@@ -573,7 +573,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 ## 성과 마케팅을 위한 GenStudio {#genstudio-marketing}
 
-[!DNL GenStudio for Performance Marketing]에 대한 최신 릴리스 정보와 새로운 설명서를 확인합니다.
+[!DNL GenStudio for Performance Marketing]에 대한 최신 릴리스 정보와 새로운 설명서를 살펴보십시오.
 
 +++세부 사항
 
