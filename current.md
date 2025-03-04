@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
+source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
 workflow-type: tm+mt
-source-wordcount: '3590'
-ht-degree: 97%
+source-wordcount: '3666'
+ht-degree: 96%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 97%
 
 ## 2025년 2월
 
-최신 업데이트: **2025년 2월 27일 금요일**
+최신 업데이트: **2025년 3월 4일 수요일**
 
 이 링크를 사용하여 애플리케이션 릴리스 정보, 이벤트, 새 튜토리얼과 최신 기술 자료 지원 문서를 찾을 수 있습니다.
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**2월 26일**)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**3월 4일**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -87,9 +87,13 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **[!DNL Experience Platform]** | Experience League 라이브 | _Adobe Experience Platform에서 AI Assistant를 사용하여 운영 인사이트 잠금 해제_ | **2월 27일 @ 오전 8시 30분(PST)** | AI Assistant를 통해 Adobe Experience Platform 및 플랫폼 기반 애플리케이션에서 중요한 운영 통찰력을 확보하고 생산성을 높이며 작업을 재정의하는 방법을 살펴보십시오. | [등록](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Manager Forms]** | _에스프레소 및 Experience Manager: AEM Forms_ | **3월 6일** | 새로운 Gen AI Assistant, AEM Sites과의 통합 구성 및 대화를 통해 양식을 배포하는 새로운 방법 등 AEM Forms의 최신 혁신을 강조하는 Adobe AEM 제품 팀에 참여하십시오. | [등록](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _디지털 경험 컨퍼런스_ | **3월 18일 - 19일 @ Las Vegas &amp; Online**| Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. |  [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | _연결: 마케팅 및 Creative의 관리자 채팅_ | **3월 7일** | 마케팅, 크리에이티브 또는 다른 팀의 Workfront 시스템 관리자이든, 이 대화식 토론은 모범 사례와 집단 브레인스토밍에 중점을 둡니다. | [등록](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+
+* **[!DNL Workfront]** | _관리자 101: Workfront 데이터를 가져오는 중_ | **3월 11일** | Workfront을 처음 사용하십니까? Admin 101 시리즈의 세 번째 세션에 참여하여 모든 보고 사항을 알아보십시오. 블루프린트, 대시보드, 사용자 지정 Forms 등에 대한 대화형 토론을 기대할 수 있습니다. | [등록](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Cloud]** | _Adobe Summit - 디지털 경험 컨퍼런스_ | **3월 18일 - 19일 @ Las Vegas &amp; Online**| Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. | [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
@@ -409,7 +413,7 @@ Adobe Campaign용으로 게시된 새로운 또는 업데이트된 비디오 튜
 |---------|----|----|-----------|
 | 2025년 1월 | [ [!DNL Adobe Campaign]의 파일 시스템 공간 관리](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25586) | 신규 문서 | [!DNL Adobe Campaign]의 파일 시스템 공간 문제를 관리하는 방법에 대해 알아봅니다. |
 | 2025년 1월 |  [!DNL Adobe Campaign Standard]의 [[!DNL IP Whitelisting] ](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25610) | 신규 문서 | [!DNL Adobe Campaign Standard]의 IP 주소를 허용 목록에 작성하는 방법에 대해 알아봅니다. |
-| 2025년 1월 | [ [!DNL Adobe Campaign Classic V7] 를 구성하여 액세스 [!DNL Google BigQuery]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25618) | 신규 문서 | [!DNL Google Cloud Platform (GCP) BigQuery]로 [!DNL Adobe Campaign Classic] (ACC)를 통합하는 방법에 대해 알아봅니다. |
+| 2025년 1월 | [ [!DNL Adobe Campaign Classic V7] 를 구성하여 액세스 [!DNL Google BigQuery]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25618) | 신규 문서 | [!DNL Google Cloud Platform (GCP) BigQuery]로 [!DNL Adobe Campaign Classic]&#x200B;(ACC)를 통합하는 방법에 대해 알아봅니다. |
 | 2025년 1월 | [ [!DNL Adobe Campaign Classic]의 워크플로 성능 문제 추적](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25628) | 신규 문서 | [!DNL Adobe Campaign Classic]의 전략적 인스턴스 추적 워크플로에 대한 처리 시간을 개선하는 방법에 대해 알아봅니다. |
 | 2025년 1월 | [ [!DNL Adobe Campaign Classic]의 스키마 저장 문제](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25604) | 신규 문서 | [!DNL Adobe Campaign Classic] 개발 환경에서 스키마 저장 문제를 해결하는 방법에 대해 알아봅니다. |
 | 2025년 1월 | [게재 활동 오브젝트가  [!DNL Adobe Campaign Classic]에서 열리는 속도가 느림](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25451) | 신규 문서 | [!DNL Adobe Campaign Classic]에서 게재 활동 오브젝트를 열 때 성능이 저하되는 문제를 해결하는 방법에 대해 알아봅니다. |
