@@ -311,7 +311,7 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 | 2025년 1월 | [[!DNL Adobe Asset Link plug-in] 네트워크 오류: *[!DNL server is unreachable]*](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25506) | 신규 문서 | [!DNL Adobe Photoshop]에서 [!DNL Adobe Asset Link] 플러그인을 사용하여 연결 문제를 해결하는 방법에 대해 알아봅니다. |
 | 2025년 1월 | [ [!DNL InDesign]의  [!DNL Adobe Experience Manager (AEM)] 자산 링크 연결 문제 해결](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25562) | 신규 문서 | [!DNL InDesign] 내 [!DNL Adobe Asset Link] (AAL) 사용 시 발생하는 간헐적 연결 문제를 해결하는 방법에 대해 알아봅니다. |
 | 2025년 1월 | [ [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)]의 대형 [!DNL PDF]에 대한 텍스트 추출 제한](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25518) | 신규 문서 | 문자 길이 제한으로 인해 [!DNL Adobe Experience Manager as a Cloud Service]의 대형 [!DNL PDF] 문서에 대한 불안전한 텍스트 추출 문제를 해결하는 방법에 대해 알아봅니다. |
-| 2025년 1월 | [사용자가  [!DNL AEM as a Cloud Service]의 다른 사용자를 가장하도록 허용](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25539) | 신규 문서 | 누구에게나 [!DNL AEM Author]의 사용자를 가장할 수 있도록 해 주는 [!DNL AEM as a Cloud Service] 버전 2024.10의 새로운 설정에 대해 알아봅니다. |
+| 2025년 1월 | [사용자가 [!DNL AEM as a Cloud Service]의 다른 사용자를 가장하도록 허용](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25539) | 신규 문서 | 누구에게나 [!DNL AEM Author]의 사용자를 가장할 수 있도록 해 주는 [!DNL AEM as a Cloud Service] 버전 2024.10의 새로운 설정에 대해 알아봅니다. |
 | 2025년 1월 | [ [!DNL AEMaaCS]에서 작성 변경 및 복제 시 사용자 정의  [!DNL JCR] 속성 손실](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25541) | 신규 문서 | [!DNL Adobe Experience Manager as a Cloud Service] (AEMaaCS)에서 작성이 변경되고 콘텐츠가 복제되어 사용자 정의 [!DNL JCR] 속성이 손실되는 경우 문제를 해결하는 방법에 대해 알아봅니다. |
 | 2025년 1월 | [ [!DNL AEM as a Cloud Service - Assets]의 자산 처리 문제 해결](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25525) | 신규 문서 | 암호 동기화 문제로 인해 발생한 [!DNL Adobe AEM's Dynamic Media] 모듈의 자산 처리 문제를 해결하는 방법에 대해 알아봅니다. |
 | 2025년 1월 | [[!UICONTROL 콘텐츠 조각]은 자산의 참조 탭에서 제거되지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25533) | 신규 문서 | [!UICONTROL 콘텐츠 조각]에 대한 참조가 자산이 콘텐츠 조각에서 성공적으로 제거된 후에도 자산의 메타데이터 UI의 참조 탭에 그대로 유지되는 경우 [!DNL Adobe Experience Manager as a Cloud Service - Assets]에서 문제를 해결하는 방법에 대해 알아봅니다. |
@@ -571,7 +571,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## 성과 마케팅을 위한 GenStudio {#genstudio-marketing}
+## GenStudio for Performance Marketing {#genstudio-marketing}
 
 [!DNL GenStudio for Performance Marketing]에 대한 최신 릴리스 정보와 새로운 설명서를 살펴보십시오.
 
