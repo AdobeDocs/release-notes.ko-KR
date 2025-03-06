@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 96%
+source-wordcount: '3696'
+ht-degree: 95%
 
 ---
 
@@ -125,8 +125,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-| 일자 | 기능 | 설명 |
+| 일자 | 업데이트 | 설명 |
 | -----------| -----------| ---------- |
+| 2025년 3월 6일 금요일 | 마우스 오른쪽 버튼 클릭 메뉴 옵션 수정 | 이제 Experience Cloud 헤더 탐색 탭에서 마우스 오른쪽 버튼 클릭, 브라우저 드롭다운 메뉴 기능을 사용할 수 있습니다. 이는 스펙트럼 2 설계 시스템의 2월 릴리스에서 소개된 문제를 해결합니다. |
 | 2월 13일 | 스펙트럼 2 | 헤더 바와 헤더 바에서 액세스 하는 구성 요소(특정 애플리케이션의 왼쪽 탐색 레일)를 포함한 [!DNL Experience Cloud] 애플리케이션 프레임이 스펙트럼 2로 업데이트됩니다. 스펙트럼은 Adobe의 디자인 표준입니다. 새로워진 디자인에는 업데이트된 아이콘이 포함되어 있지만 기능은 동일합니다. 그러나 헤더의 여러 요소는 다른 Adobe 사이트 및 애플리케이션과 일치하도록 재배치됩니다. |
 
 [!DNL Experience Cloud] 중앙 인터페이스 구성 요소에 대한 도움말은 [Experience Cloud 인터페이스 및 관리 안내서](https://experienceleague.adobe.com/ko/docs/core-services/interface/experience-cloud)&#x200B;([!UICONTROL 고객 속성], [!DNL Experience Cloud Assets] 및 [!UICONTROL 대상자] 포함)를 참조하십시오.
