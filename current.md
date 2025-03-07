@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
+source-git-commit: 09edfe74b52391d042548e0eb9dfbe33381d3d85
 workflow-type: tm+mt
-source-wordcount: '3696'
-ht-degree: 95%
+source-wordcount: '3688'
+ht-degree: 96%
 
 ---
 
@@ -87,13 +87,13 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 +++세부 사항
 
-* **[!DNL Experience Manager Forms]** | _에스프레소 및 Experience Manager: AEM Forms_ | **3월 6일** | 새로운 Gen AI Assistant, AEM Sites과의 통합 구성 및 대화를 통해 양식을 배포하는 새로운 방법 등 AEM Forms의 최신 혁신을 강조하는 Adobe AEM 제품 팀에 참여하십시오. | [등록](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Adobe Summit]** | _디지털 경험 컨퍼런스_ | **3월 18일 - 19일 @ Las Vegas &amp; Online**| Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. | [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Workfront]** | _연결: 마케팅 및 Creative의 관리자 채팅_ | **3월 7일** | 마케팅, 크리에이티브 또는 다른 팀의 Workfront 시스템 관리자이든, 이 대화식 토론은 모범 사례와 집단 브레인스토밍에 중점을 둡니다. | [등록](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Workfront]** | _학습: Adobe Workfront Planning을 사용하여 과정을 성공적으로 차트 작성_ | **3월 13일** | Adobe 제품 관리자와 함께 Workfront Planning에 대한 심층적인 소개 세션에 참여하십시오. 여기에서는 이 기능이 조직의 운영 세부 정보를 포괄적으로 파악할 수 있는 방법을 공유합니다. | [등록](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _관리자 101: Workfront 데이터를 가져오는 중_ | **3월 11일** | Workfront을 처음 사용하십니까? Admin 101 시리즈의 세 번째 세션에 참여하여 모든 보고 사항을 알아보십시오. 블루프린트, 대시보드, 사용자 지정 Forms 등에 대한 대화형 토론을 기대할 수 있습니다. | [등록](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _관리자 101: Workfront 질문 가져오기_ | **3월 25일** | Workfront을 처음 사용하십니까? 이전 Admin 101 세션을 놓치셨나요? 요약 세션에 참여하여 질문하고, 리소스와 권장 사항을 확인하고, 다른 새 관리자를 만나십시오. | [등록](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Cloud]** | _Adobe Summit - 디지털 경험 컨퍼런스_ | **3월 18일 - 19일 @ Las Vegas &amp; Online**| Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. | [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Target]** | _Insights, Intelligence 및 Impact의 Personalization_ | **4월 1일** | Gen AI를 포함한 Adobe Target의 혁신과 대규모 AI 기반 개인화 및 실험에 대한 모범 사례입니다. | [등록](https://event.adobe.com/adobetargetmaturitywebinars03)
 
 기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
