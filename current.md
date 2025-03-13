@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
+source-git-commit: 88777fd2d5c5f195b07fc537d25887de5dd68eee
 workflow-type: tm+mt
-source-wordcount: '4056'
-ht-degree: 43%
+source-wordcount: '4011'
+ht-degree: 39%
 
 ---
 
@@ -19,15 +19,19 @@ ht-degree: 43%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home)에서는 Experience Cloud 및 Adobe 엔터프라이즈 애플리케이션에 대해 배울 수 있습니다. 최고의 경험을 위해 로그인하고 무료 리소스 라이브러리에서 검색을 사용자 정의하십시오.
+[Experience League](https://experienceleague.adobe.com/#home)은(는) Experience Cloud 및 Adobe 엔터프라이즈 응용 프로그램에 대해 학습하는 데 도움이 되는 리소스 라이브러리입니다. 로그인 및:
 
-* **알림 유지:** 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
+* [학습 사용자 지정](https://experienceleague.adobe.com/en/home/profile-settings): 학습 환경을 사용자 지정할 수 있도록 지원합니다. 자신의 역할, 업계 및 관심 있는 제품을 선택합니다.
+* [검색 및 검색](https://experienceleague.adobe.com/en/browse): 인기 콘텐츠, 새로운 튜토리얼, 설명서, 예정된 이벤트 등을 찾아보세요!
+* [새로운 관점 가져오기](https://experienceleague.adobe.com/en/perspectives): 동료와 Adobe 제품 전문가가 작성한 다양한 실제 사용 사례와 모범 사례를 수집했습니다.
+* [인증 받기](https://experienceleague.adobe.com/en/certification-home): 새로운 Adobe 인증 포털을 사용하면 기술을 연마하고 간단한 프로세스를 통해 인증을 받을 수 있습니다.
+* [동료의 커뮤니티에 참여](https://experienceleaguecommunities.adobe.com/): 그룹에 참여하고 Experience League 커뮤니티 어드바이저를 만나며 하나가 되는 방법도 배웁니다.
 
-* **피드백 남기기:** 각 페이지 하단에서 **_이 콘텐츠가 도움이 되었습니까?_** 각 문서나 비디오 하단에 팝업이 표시됩니다. 사용자의 피드백은 정리되어 콘텐츠 작성자에게 전달됩니다.
+이 페이지의 업데이트에 대한 분기별 이메일 알림을 받으려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)에 가입하십시오.
 
 ## 2025년 3월
 
-최신 업데이트: **2025년 3월 12일 목요일**
+최신 업데이트: **2025년 3월 13일 금요일**
 
 이 링크를 사용하여 애플리케이션 릴리스 정보, 이벤트, 새 튜토리얼과 최신 기술 자료 지원 문서를 찾을 수 있습니다.
 
@@ -58,37 +62,13 @@ ht-degree: 43%
 * [Adobe에서의 인증](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 제품 보안 취약점](https://helpx.adobe.com/kr/security.html)
 
-## [!DNL Experience League] 업데이트 및 이벤트 {#events}
+## [!DNL Experience League]의 이벤트 {#events}
 
-Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Adobe의 제품 전문가로부터 배우고, 상호 작용하고, 답변을 얻을 수 있는 유용한 공간입니다.
+[이벤트](https://experienceleague.adobe.com/events/)를 찾아 관심 있는 이벤트에 등록하십시오.
 
-### Experience League 업데이트
-
-+++세부 사항
-
-**맞춤형 홈 페이지**
-
-새 [Experience League 홈](https://experienceleague.adobe.com/?lang=en)에는 [!DNL Adobe Target]에서는 제공하는 맞춤형 학습 권장 사항이 포함됩니다.
-
-주요 기능:
-
-* 역할, 제품 및 최근 활동에 따라 권장되는 콘텐츠
-* 최근에 본 콘텐츠
-* 권장 온디맨드 이벤트 및 인증
-* 제품에 새로 게시된 콘텐츠
-* 재설계된 새로운 인터페이스
-
-[자세히 알아보기...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
-
-+++
-
-### Experience League 이벤트
-
-+++세부 사항
++++이벤트
 
 * **[!DNL Adobe Summit]** | _디지털 경험 컨퍼런스_ | **3월 18일 - 19일 @ Las Vegas &amp; Online**| Coca-Cola Company, JPMorganChase, ServiceNow 등의 경영진으로부터 동료와 함께 이야기를 들어보십시오. | [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _학습: Adobe Workfront Planning을 사용하여 과정을 성공적으로 차트 작성_ | **3월 13일** | Adobe 제품 관리자와 함께 Workfront Planning에 대한 심층적인 소개 세션에 참여하십시오. 여기에서는 이 기능이 조직의 운영 세부 정보를 포괄적으로 파악할 수 있는 방법을 공유합니다. | [등록](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _관리자 101: Workfront 질문 가져오기_ | **3월 25일** | Workfront을 처음 사용하십니까? 이전 Admin 101 세션을 놓치셨나요? 요약 세션에 참여하여 질문하고, 리소스와 권장 사항을 확인하고, 다른 새 관리자를 만나십시오. | [등록](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -110,7 +90,9 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 [!DNL Adobe System Status]의 최신 기능 및 업데이트에 대해 알아봅니다.
 
-+++세부 사항
+3월 업데이트 없음.
+
++++릴리스 정보
 
 [!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/)에서 관련 정보를 확인하십시오.
 
@@ -130,7 +112,7 @@ Experience League의 흥미로운 이벤트에 대해 알아봅니다. 이는 Ad
 
 [!DNL Experience Cloud] 중앙 인터페이스 구성 요소 및 관리에 대해 알아봅니다. 제품 및 사용자를 관리하고, 프로필 설정 및 환경 설정을 구성하고, Experience Cloud 오브젝트를 검색하고, 쿠키를 관리합니다.
 
-+++세부 사항
++++새로운 기능
 
 | 일자 | 업데이트 | 설명 |
 | -----------| -----------| ---------- |
