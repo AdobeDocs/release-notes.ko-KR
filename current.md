@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ ht-degree: 96%
 +++이벤트
 
 * **[!DNL Adobe Summit]** | _디지털 경험 컨퍼런스_ | **3월 18~19일 라스베이거스 및 온라인**| 동료들과 함께 Coca-Cola Company, JPMorganChase, ServiceNow 경영진의 의견을 들어봅니다. |  [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Admin 101: Workfront에 대한 질문 가져오기_ | **3월 25일** | Workfront를 처음 사용하십니까? 이전 Admin 101 세션을 놓치셨나요? 요약 세션에 참여하여 질문하고, 리소스와 권장 사항을 확인하고, 다른 새 관리자를 만나십시오. | [등록](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _학습: Adobe Workfront의 10가지 텍스트 모드 팁_ | **3월 27일** | 텍스트 모드를 사용하여 보고 지식을 확장하고자 합니까? 이것만 참고하십시오! 이 워크숍에서는 텍스트 모드 기본 사항과 API Explorer에 대해 소개하고 Adobe Workfront의 10가지 기본 팁을 제공합니다. | [등록](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _소통: Workfront Collective_ | **3월 31일** | 다른 고객과 소통하고, Workfront 기능을 논의하고, 아이디어를 공유하고, 브레인스토밍을 통해 문제를 해결할 수 있는 월간 월요일 Workfront Collective 이벤트에 참여하십시오. | [등록](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
