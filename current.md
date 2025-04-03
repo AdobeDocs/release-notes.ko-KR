@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
+source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
 workflow-type: tm+mt
-source-wordcount: '3867'
+source-wordcount: '3879'
 ht-degree: 95%
 
 ---
@@ -472,6 +472,12 @@ New articles and updates to existing articles for [!DNL Marketo].
 +++세부 사항
 
 ### [!DNL Adobe Workfront] 업데이트
+
+최신 릴리스:
+
+* [2025년 2분기 릴리스 개요](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+
+모든 릴리스 정보의 경우:
 
 * [!DNL Workfront] 릴리스 일정 정보 및 릴리스 정보는 [Adobe [!DNL Workfront] 제품 릴리스](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/product-releases) 페이지를 참조하십시오.
 
