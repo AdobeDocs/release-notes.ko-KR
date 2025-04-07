@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
 workflow-type: tm+mt
 source-wordcount: '3879'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home)은(는) Experience Cloud 및 Adobe 엔터프라이즈 응용 프로그램에 대해 학습하는 데 도움이 되는 리소스 라이브러리입니다. 로그인 및:
+[Experience League](https://experienceleague.adobe.com/#home)는 Experience Cloud와 Adobe 엔터프라이즈 애플리케이션에 대해 학습하는 데 도움이 되는 리소스 라이브러리입니다. 로그인 후 다음과 같은 작업을 수행할 수 있습니다.
 
-* [학습 사용자 지정](https://experienceleague.adobe.com/en/home/profile-settings): 학습 환경을 사용자 지정할 수 있도록 지원합니다. 자신의 역할, 업계 및 관심 있는 제품을 선택합니다.
-* [검색 및 검색](https://experienceleague.adobe.com/en/browse): 인기 콘텐츠, 새로운 튜토리얼, 설명서, 예정된 이벤트 등을 찾아보세요!
-* [새로운 관점 가져오기](https://experienceleague.adobe.com/en/perspectives): 동료와 Adobe 제품 전문가가 작성한 다양한 실제 사용 사례와 모범 사례를 수집했습니다.
-* [인증 받기](https://experienceleague.adobe.com/en/certification-home): 새로운 Adobe 인증 포털을 사용하면 기술을 연마하고 간단한 프로세스를 통해 인증을 받을 수 있습니다.
-* [동료의 커뮤니티에 참여](https://experienceleaguecommunities.adobe.com/): 그룹에 참여하고 Experience League 커뮤니티 어드바이저를 만나며 하나가 되는 방법도 배웁니다.
+* [학습 맞춤 설정](https://experienceleague.adobe.com/en/home/profile-settings): 학습 경험을 자신에게 맞춤화할 수 있습니다. 자신의 역할, 업종 및 관심 있는 제품을 선택하십시오.
+* [탐색 및 발견](https://experienceleague.adobe.com/en/browse): 인기 있는 콘텐츠, 새로운 튜토리얼, 문서, 다가올 이벤트 등을 찾아보십시오.
+* [새로운 관점으로 바라보기](https://experienceleague.adobe.com/en/perspectives): 업계 동료들과 Adobe 제품 전문가가 작성한 다양한 실제 사용 사례와 모범 사례의 모음을 살펴보십시오.
+* [인증 받기](https://experienceleague.adobe.com/en/certification-home): 새로운 Adobe Certification Portal에서 간단한 과정을 통해 기술을 연마하고 인증을 받으십시오.
+* [동료 커뮤니티에 참여](https://experienceleaguecommunities.adobe.com/): 그룹에 가입하고, Experience League 커뮤니티 어드바이저를 만나고, 일원이 되는 방법에 대해 알아보십시오.
 
-이 페이지의 업데이트에 대한 분기별 이메일 알림을 받으려면 [Adobe 우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)에 가입하십시오.
+이 페이지의 업데이트에 대한 분기별 이메일 알림을 받아 보려면 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
 ## 2025년 3월
 
-최신 업데이트: **2025년 3월 13일 금요일**
+최신 업데이트: **2025년 3월 13일**
 
 이 링크를 사용하여 애플리케이션 릴리스 정보, 이벤트, 새 튜토리얼과 최신 기술 자료 지원 문서를 찾을 수 있습니다.
 
@@ -62,9 +62,9 @@ ht-degree: 95%
 * [Adobe에서의 인증](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 제품 보안 취약점](https://helpx.adobe.com/kr/security.html)
 
-## [!DNL Experience League]의 이벤트 {#events}
+## [!DNL Experience League] 이벤트 {#events}
 
-[이벤트](https://experienceleague.adobe.com/events/)를 찾아 관심 있는 이벤트에 등록하십시오.
+관심 있는 [이벤트](https://experienceleague.adobe.com/events/)를 찾아 등록하십시오.
 
 +++이벤트
 
