@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
+source-git-commit: d895210dc6c24a5e5230f60987c125a2d8ba0bfb
 workflow-type: tm+mt
-source-wordcount: '3879'
+source-wordcount: '3746'
 ht-degree: 99%
 
 ---
@@ -31,11 +31,9 @@ ht-degree: 99%
 
 ## 2025년 3월
 
-최신 업데이트: **2025년 3월 13일**
-
 이 링크를 사용하여 애플리케이션 릴리스 정보, 이벤트, 새 튜토리얼과 최신 기술 자료 지원 문서를 찾을 수 있습니다.
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**4월 8일** 업데이트됨)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +66,9 @@ ht-degree: 99%
 
 +++이벤트
 
-* **[!DNL Adobe Summit]** | _디지털 경험 컨퍼런스_ | **3월 18~19일 라스베이거스 및 온라인**| 동료들과 함께 Coca-Cola Company, JPMorganChase, ServiceNow 경영진의 의견을 들어봅니다. |  [등록](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _소통: Workfront Collective_ | **3월 31일** | 다른 고객과 소통하고, Workfront 기능을 논의하고, 아이디어를 공유하고, 브레인스토밍을 통해 문제를 해결할 수 있는 월간 월요일 Workfront Collective 이벤트에 참여하십시오. | [등록](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _규모에 맞는 개인화 인사이트, 인텔리전스 및 영향_ | **4월 1일** | [!DNL Gen AI]를 비롯한 Adobe Target의 혁신과 AI 기반 개인화 및 대규모 실험에 대한 모범 사례. | [등록](https://event.adobe.com/adobetargetmaturitywebinars03)
-
-* **[!DNL Experience Manager, Experience Manager Assets, Experience Manager Forms, Experience Manager Sites, and Workfront]** | _완벽한 조화: AEM과 Workfront를 통한 공동 작업의 새로운 시대_ | **4월 2일** | Adobe Experience Manager와 Workfront가 어떻게 통합되어 팀이 일반적인 병목 현상 없이 아이디어에서 게재까지 전진하고, 콘텐츠를 체계적으로 정리하고 브랜드에 맞게 제작하여 더 빠르게 공개할 수 있는지 알아봅니다. | [등록](https://adobeevents.adobeconnect.com/eaqjw1zixw1f/event/registration.html?campaign-id=ExL)
-
 * **[!DNL Analytics]** | _데이터 드립: 기존 시스템에서 WebSDK로 마이그레이션하는 것의 이점_ | **4월 10일** | Adobe 기술 어드바이저인 Arindam Agarwal이 Adobe WebSDK 구현의 이점에 대해 안내해 드립니다. Arindam이 심층적인 개요를 제공하고 Q&amp;A 세션에서 실시간으로 질문에 답변할 예정입니다. 지금 등록하십시오! | [등록](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
-기타! Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
+Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
 +++
 
