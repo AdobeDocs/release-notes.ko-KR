@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c74dd10ff1a557693da52dfaf58d051bfbca521
+source-git-commit: aa6db19854fe6a00df59aa25a18874bc3a0d72f4
 workflow-type: tm+mt
-source-wordcount: '3864'
-ht-degree: 96%
+source-wordcount: '3879'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
 
 이 링크를 사용하여 애플리케이션 릴리스 정보, 이벤트, 새 튜토리얼과 최신 기술 자료 지원 문서를 찾을 수 있습니다.
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**4월 9일** 업데이트됨)
+* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**4월 15일** 업데이트됨)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,11 +66,11 @@ ht-degree: 96%
 
 +++이벤트
 
-* **[!DNL Analytics]** | _데이터 드립: 기존 시스템에서 WebSDK로 마이그레이션하는 것의 이점_ | **4월 10일** | Adobe 기술 어드바이저인 Arindam Agarwal이 Adobe WebSDK 구현의 이점에 대해 안내해 드립니다. Arindam이 심층적인 개요를 제공하고 Q&amp;A 세션에서 실시간으로 질문에 답변할 예정입니다. 지금 등록하십시오! | [등록](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+* **[!DNL Marketo]** | _Marketo 및 Mochas: 상속된 인스턴스 또는 현재 인스턴스 감사_ | **4월 17일** | 최근에 Marketo 인스턴스를 상속했습니까? 아니면 현재 인스턴스의 잠재력을 극대화하기 위해 정기 감사를 수행하려고 합니까? 심층 감사를 실행하여 인스턴스의 현재 상태를 파악하는 방법에 초점을 맞춘 Adobe 비즈니스 컨설턴트 Cynthia Chang 및 Carly Gaver와 함께 이 Marketo 및 Mochas 웨비나에 참여하십시오. | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
-* **[!DNL Real-Time Customer Data Platform]** | _기다리지 말고... 공동 작업하세요! Real-Time CDP Collaboration 소개_ | **4월 10일** | 이제 미국 고객이 이용할 수 있는 Real-Time CDP Collaboration은 브랜드 및 게시자를 위해 특별히 빌드된 사용자 친화적인 개인정보 보호 중심 데이터 공동 작업을 제공합니다. 광고 매출을 극대화하고 유료 마케팅 속도로 유료 미디어 활동을 강화할 수 있도록 대상을 검색, 활성화 및 측정할 수 있습니다. 가장 좋은 점은 Real-Time CDP의 고객인 경우 이미 이 놀라운 새 기능에 액세스할 수 있다는 것입니다! | [등록](https://engage.adobe.com/ExpLeagueLive-250410.html)
+* **[!DNL Workfront]** | _연결: Workfront 집합_ | **4월 21일** | 이 행사는 공식적인 발표나 의제가 없습니다. 토론 주제는 사용자의 참여를 기반으로 합니다. 이 워크숍을 Workfront에서 해결해야 할 문제(또는 공유 및 홍보하고 싶은 성공)가 있고 다른 고객과 솔루션을 통해 논의하고 싶은 경우 이를 집합적 문제 해결 세션으로 생각해 보십시오. 이는 완벽한 이벤트입니다. | [등록](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _연결: 마케팅 및 Creative의 관리자 채팅_ | **4월 11일** | 이 대화식 토론은 귀하를 다른 관리자와 연결하고, 모범 사례와 팁과 요령을 공유하여 귀하와 귀하의 사용자가 Workfront을 최대한 활용할 수 있도록 하기 위한 것입니다. | [등록](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **다중 솔루션** | _중단: 사전 모니터링 도구에 대한 전체 분류_ | **4월 24일** | SWAT, Fastly 및 New Relic과 같은 첨단 모니터링 도구를 활용하여 시스템 상태와 성능을 최적화하는 통찰력 있는 세션에 참여하십시오.  | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 Experience League에서 모든 [예정된 이벤트](https://experienceleague.adobe.com/events/)를 확인하거나 [지난 이벤트 녹화](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 검색하십시오.
 
@@ -349,11 +349,13 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 ### 최신 Campaign 제품 릴리스
 
-* [!DNL Campaign] v8: (2025년 2월 14일) [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/releases/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: [릴리스 노트](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]: (2025년 2월 18일) [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]: [25.1 - 2025 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/campaign-standard-home)
+
+* [!DNL Campaign Classic] 7.4.2: [릴리스 정보](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
