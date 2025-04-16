@@ -5,10 +5,10 @@ user-guide-title: Adobe Experience Cloud 릴리스 정보
 breadcrumb-title: 릴리스 정보
 user-guide-description: Adobe Experience Cloud 및 Experience Platform의 새로운 기능, 수정 사항 및 중요 공지 사항에 대해 알아봅니다.
 user-guide-url: https://www.adobe.com
-source-git-commit: a2237c9cba5a3495e04a0329a1bb3232a445912b
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+source-git-commit: 4139f3fb35a3a8ad81b90800c2f9870e02b4ea56
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 95%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 100%
 
 + [최신 릴리스 정보](current.md)
 + 이전 릴리스 정보 {#previous}
-   + 2025년 {#2025}
+   + 2025 {#2025}
+      + [2025년 3월](c-legacy-releases/2025/03122025.md)
       + [2025년 2월](c-legacy-releases/2025/02122025.md)
       + [2025년 1월](c-legacy-releases/2025/01222025.md)
-   + 2024년 {#2024}
+   + 2024 {#2024}
       + [2024년 11월](c-legacy-releases/2024/10232024.md)
       + [2024년 9월](c-legacy-releases/2024/09122024.md)
       + [2024년 8월](c-legacy-releases/2024/09142023.md)
@@ -31,7 +32,7 @@ ht-degree: 100%
       + [2024년 3월](c-legacy-releases/2024/03132024.md)
       + [2024년 2월](c-legacy-releases/2024/02142024.md)
       + [2024년 1월](c-legacy-releases/2024/01112024.md)
-   + 2023년 {#2023}
+   + 2023 {#2023}
       + [2023년 11월](c-legacy-releases/2023/10252023.md)
       + [2023년 10월](c-legacy-releases/2023/10042023.md)
       + [2023년 9월](c-legacy-releases/2023/09132023.md)
@@ -43,7 +44,7 @@ ht-degree: 100%
       + [2023년 3월](c-legacy-releases/2023/03082023.md)
       + [2023년 2월](c-legacy-releases/2023/02082023.md)
       + [2023년 1월](c-legacy-releases/2023/01112023.md)
-   + 2022년 {#2022}
+   + 2022 {#2022}
       + [2022년 10월](c-legacy-releases/2022/10052022.md)
       + [2022년 9월](c-legacy-releases/2022/09072022.md)
       + [2022년 8월](c-legacy-releases/2022/08172022.md)
