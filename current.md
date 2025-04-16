@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9705d647e844bc4d5f2ded18db9e8eb3ad716086
+source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
 workflow-type: tm+mt
-source-wordcount: '4071'
+source-wordcount: '4065'
 ht-degree: 35%
 
 ---
@@ -29,11 +29,10 @@ ht-degree: 35%
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
-업데이트 일자: **2025년 4월 16일 목요일**
+**업데이트 날짜: 2025년 4월 16일**
 
 +++모든 제품 보기
 
-* [[!DNL Experience League] 이벤트 및 업데이트](#events)(**4월 15일** 업데이트됨)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
