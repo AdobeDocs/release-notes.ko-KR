@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 9705d647e844bc4d5f2ded18db9e8eb3ad716086
 workflow-type: tm+mt
-source-wordcount: '4069'
+source-wordcount: '4071'
 ht-degree: 35%
 
 ---
@@ -96,8 +96,8 @@ ht-degree: 35%
 
 | 기능 | 설명 |
 | ------- | ------- |
-| **Virtual Assistant 베타** | <ul><li>가상 지원은 웹 및 모바일에서 [!DNL Adobe Status]명의 고객이 질문에 대한 답변을 얻고 홈 페이지를 벗어나지 않고도 빠른 작업을 수행할 수 있도록 지원하는 기능입니다. 모든 쿼리를 해결할 수 있는 한 곳의 역할을 할 수 있습니다. 고객 Beta에 참여하려면 [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com)에 전자 메일을 보내십시오. </li></ul> |
-| **새 이벤트 용어집 도움말 페이지** | <ul><li>[!DNL Adobe Status]명의 사용자에게 모든 이벤트 유형, 도상학 및 해당 상태에 대해 자세히 안내하여 웹 사이트를 보다 쉽게 탐색할 수 있도록 전용 도움말 페이지를 제공합니다.</li><li>Adobe 상태 개요 페이지 > 도움말 메뉴에는 이 새 페이지를 가리키는 새 메뉴 항목(이벤트 용어집)이 있습니다.</li><li>[!DNL Adobe Status]을(를) 참조하는 모든 Adobe 표면이 새 도움말 페이지에 링크를 추가할 수 있습니다.</li></ul> |
+| **Virtual Assistant 베타** | <ul><li>Virtual Assistant는 웹 및 모바일의 상태 고객이 질문에 대한 답변을 얻고 홈 페이지를 종료하지 않고도 빠른 작업을 수행할 수 있도록 도와주는 기능입니다. 모든 쿼리를 해결할 수 있는 한 곳의 역할을 할 수 있습니다. 고객 Beta에 참여하려면 [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com)에 전자 메일을 보내십시오. </li></ul> |
+| **새 이벤트 용어집** | <ul><li>[!DNL Adobe Status]명의 사용자에게 모든 이벤트 유형, 도상학 및 해당 상태에 대해 자세히 안내하여 웹 사이트를 보다 쉽게 탐색할 수 있도록 전용 도움말 페이지를 제공합니다.</li><li>Adobe 상태 개요 페이지 > 도움말 메뉴에는 이 새 페이지를 가리키는 새 메뉴 항목(이벤트 용어집)이 있습니다.</li><li>[!DNL Adobe Status]을(를) 참조하는 모든 Adobe 표면이 새 도움말 페이지에 링크를 추가할 수 있습니다.</li></ul> |
 | **버그 수정 및 개선 사항** | <ul><li>Slack 알림 - 미리 알림 메시지가 예약됨으로 표시됨</li><li>사용 중지된 제품 이벤트는 개요 페이지에 표시되지 않아야 합니다.</li><li>_닫힘_ > _CSO 해제_ 업데이트 메시지와 알림이 전송되지 않음</li><li>새로 고침 시 로드되는 데 시간이 오래 걸리는 상태 웹 머리글 및 바닥글</li><li>바닥글의 상태 현지화 메뉴가 손상되었습니다.</li></ul> |
 
 [!DNL Adobe System Status]의 이전 릴리스 정보:
@@ -364,13 +364,13 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 ### 최신 Campaign 제품 릴리스
 
-* [!DNL Campaign] v8.7.4: [릴리스 노트](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: 2025년 4월 10일 - [릴리스 정보](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: 2025년 2월 18일 - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]: [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: 25.1 - [릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2: [릴리스 정보](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/campaign-classic-home)
+* [!DNL Campaign Classic] 7.4.2: 2025년 4월 2일 - [릴리스 정보](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
