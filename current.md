@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4069'
 ht-degree: 35%
 
 ---
@@ -30,6 +30,8 @@ ht-degree: 35%
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
 업데이트 일자: **2025년 4월 16일 목요일**
+
++++모든 제품 보기
 
 * [[!DNL Experience League] 이벤트 및 업데이트](#events)(**4월 15일** 업데이트됨)
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ ht-degree: 35%
 * [Adobe에서의 인증](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 제품 보안 취약점](https://helpx.adobe.com/kr/security.html)
 
++++
+
 ## [!DNL Experience League] 이벤트 {#events}
 
 관심 있는 [이벤트](https://experienceleague.adobe.com/en/events)를 찾아 등록하십시오.
 
-+++이벤트
++++예정된 이벤트
 
 * **[!DNL Marketo]** | _Marketo 및 Mochas: 상속된 인스턴스 또는 현재 인스턴스 감사_ | **4월 17일** | 최근에 Marketo 인스턴스를 상속했습니까? 아니면 현재 인스턴스의 잠재력을 극대화하기 위해 정기 감사를 수행하려고 합니까? 심층 감사를 실행하여 인스턴스의 현재 상태를 파악하는 방법에 초점을 맞춘 Adobe 비즈니스 컨설턴트 Cynthia Chang 및 Carly Gaver와 함께 이 Marketo 및 Mochas 웨비나에 참여하십시오. | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
