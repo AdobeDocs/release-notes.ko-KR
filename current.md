@@ -6,10 +6,10 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
-workflow-type: ht
-source-wordcount: '4065'
-ht-degree: 100%
+source-git-commit: af9bda242f4ea74b71a8d42ca8669124f6e2cf13
+workflow-type: tm+mt
+source-wordcount: '3833'
+ht-degree: 99%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
-업데이트 일자: **2025년 4월 16일**
+업데이트 일자: **2025년 4월 25일 토요일**
 
 +++모든 제품 보기
 
@@ -67,15 +67,7 @@ ht-degree: 100%
 
 +++예정된 이벤트
 
-* **[!DNL Marketo]** | _Marketo &amp; Mochas: 상속된 인스턴스 또는 현재 인스턴스 감사_ | **4월 17일** | 최근 Marketo 인스턴스를 상속받았습니까? 또는 현재 인스턴스를 최대한 활용하기 위해 정기적인 감사 작업을 수행하려고 하십니까? Adobe 비즈니스 어드바이저 Cynthia Chang과 Carly Gaver가 진행하는 Marketo &amp; Mochas 웨비나에 참여하십시오. 이번 웨비나에서는 현재 인스턴스 상태를 파악하기 위한 심층 감사 수행 방법을 중심으로 다룹니다. | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
-
-* **[!DNL Workfront]** | _연결: Workfront Collective_ | **4월 21일** | 이 이벤트에는 공식적인 프레젠테이션이나 안건이 없습니다. 토론 주제는 귀하의 참여도에 따라 구성됩니다. 이 워크숍을 집단적 문제 해결 세션이라고 생각하면 됩니다. Workfront 사용 중 겪고 있는 어려움이나 공유하고 싶은 성공 사례가 있다면 또는 다른 고객들과 해결책을 함께 모색하고 싶다면 이 이벤트가 적합합니다. | [등록](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Multisolution** | _Brew의 이면: 사전 예방적 모니터링 도구에 대한 자세한 분석_ | **4월 24일** | SWAT, Fastly, New Relic과 같은 최첨단 모니터링 도구를 활용하여 시스템 상태와 성능을 최적화하는 방법에 대한 통찰력 있는 세션에 참여하십시오. | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL Campaign Classic]** | _Adobe ACC 게재 성능 - 문제 해결_ | **4월 25일** | 이 세션에서는 Adobe Campaign Classic(ACC)을 사용하여 최적의 성능을 제공할 때 직면하는 일반적인 과제를 살펴보고 문제 해결을 위한 실행 가능한 전략을 제공합니다. 성능 병목 현상을 식별하고, 게재 준비/구성 불일치를 해결하고, 원활한 커뮤니케이션을 보장하기 위한 모범 사례를 구현하는 방법에 대해 알아봅니다. | [등록](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5748224915&amp;_charset_=utf-8)
-
-Experience League에서 [예정된 이벤트](https://experienceleague.adobe.com/en/events)의 전체 목록을 보거나 [이전 이벤트](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview)를 찾아보십시오.
+Experience League에서 [예정된](https://experienceleague.adobe.com/en/events) 및 [온디맨드](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview) 이벤트의 전체 목록을 봅니다.
 
 +++
 
