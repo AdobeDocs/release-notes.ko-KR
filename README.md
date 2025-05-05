@@ -12,7 +12,7 @@ Adobe는 문서 팀의 외부 직원뿐만 아니라 커뮤니티로부터의 �
 ## Adobe 오픈소스 행동 수칙
 
 
-이 프로젝트에서는 [Adobe 오픈 소스 행동 수칙](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/code-of-conduct)이 채택되었습니다. 자세한 내용은 [기여](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html) 문서를 참조하십시오.
+이 프로젝트에서는 [Adobe 오픈 소스 행동 수칙](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html?lang=ko) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/code-of-conduct)이 채택되었습니다. 자세한 내용은 [기여](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html?lang=ko) 문서를 참조하십시오.
 
 ## Adobe 콘텐츠에 대한 귀하의 기여 관련 정보
 
