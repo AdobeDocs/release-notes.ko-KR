@@ -8,7 +8,7 @@ user-guide-url: https://www.adobe.com
 source-git-commit: ba5087b285fcbebe15c05ee304ed1022c225ac69
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
