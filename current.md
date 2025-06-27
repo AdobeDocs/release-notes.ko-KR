@@ -21,11 +21,11 @@ ht-degree: 100%
 
 이 페이지를 통해 Experience League의 애플리케이션별 릴리스 정보, 예정된 이벤트, 새로운 튜토리얼 및 최신 지원 문서를 찾을 수 있습니다. Experience League의 맞춤형 홈 페이지는 관심사에 맞춰 제공됩니다.
 
-<!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
-* [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
-* [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
-* [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
-* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
+<!-- * [Customize your learning](https://experienceleague.adobe.com/ko/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
+* [Browse and discover](https://experienceleague.adobe.com/ko/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
+* [Get fresh perspectives](https://experienceleague.adobe.com/ko/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
+* [Get certified](https://experienceleague.adobe.com/ko/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
+* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/?profile.language=ko): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
@@ -56,20 +56,20 @@ ht-degree: 100%
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
-* [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home)
-* [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
+* [Certification at Adobe](https://experienceleague.adobe.com/ko/certification-home)
+* [Adobe product security vulnerabilities](https://helpx.adobe.com/kr/security.html)
 
 +++  -->
 
 ## [!DNL Experience League] 이벤트 {#events}
 
-관심 있는 [이벤트](https://experienceleague.adobe.com/en/events)를 찾아 등록하십시오.
+관심 있는 [이벤트](https://experienceleague.adobe.com/ko/events)를 찾아 등록하십시오.
 
 +++예정된 이벤트
 
 * **[!DNL Workfront]** | _연결: Workfront Collective_ | Workfront Collective 이벤트 - 모든 Workfronter를 위한 크라우드소싱 기회입니다! 이 이벤트는 공식적인 발표나 의제가 없으며, 토론 주제는 순전히 참석자 참여에 따라 결정됩니다. 이 워크숍을 집단적 문제 해결 세션이라고 생각하면 됩니다. Workfront 사용 중 겪은 문제나 공유하고 싶은 성공 사례가 있다면 또는 다른 고객들과 해결책을 함께 모색하고 싶다면 이 이벤트가 적합합니다. | **6월 23일 월요일** | [등록](https://events.teams.microsoft.com/event/c9512e95-6ad0-4def-b178-1d8103702076@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Journey Optimizer]** | _Ask Me Anything_ | 6월 25일, Journey Optimizer 제품 전문가와 함께 대규모 개인화된 콘텐츠를 위한 애자일 워크플로, 마스터 캡핑 및 갈등 우선순위 지정에 대해 이야기해 보십시오. | **6월 25일 수요일** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-25th-with-journey-optimizer-product-experts/ev-p/757473)
+* **[!DNL Journey Optimizer]** | _Ask Me Anything_ | 6월 25일, Journey Optimizer 제품 전문가와 함께 대규모 개인화된 콘텐츠를 위한 애자일 워크플로, 마스터 캡핑 및 갈등 우선순위 지정에 대해 이야기해 보십시오. | **6월 25일 수요일** | [등록](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-25th-with-journey-optimizer-product-experts/ev-p/757473?profile.language=ko)
 
 * **[!DNL Workfront]** | _Workfront API 탐색 및 다중 선택 필드의 Fusion 변경 사항_ | 모든 Workfront Fusion 사용자 여러분께 알려 드립니다! 전문 서비스와 함께 제공되는 이 웨비나는 시스템 관리자가 Workfront API의 향후 변경 사항에 대해 정보를 얻고 선제적으로 대응하여 전환을 원활하게 수행할 수 있도록 하는 역할을 합니다.  | **6월 25일 수요일** | [등록](https://events.teams.microsoft.com/event/0f04ff7b-89ae-4685-ab3a-0825b7aea2ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -195,7 +195,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/ko/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 ### 새 [!DNL Analytics] 지원 기술 자료{#kb-analytics}
 
@@ -282,8 +282,8 @@ New or updated video tutorials published for Adobe Analytics.
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025년 6월 | [!DNL Experience Manager] | [경험 최적화 및 가치 실현](https://experienceleague.adobe.com/en/playlists/experience-manager-all-experience-optimization-and-value-realization) | 새 비디오 | Adobe Summit 2025의 짧은 클립. |
-| 2025년 6월 | [!DNL Experience Manager] | [Experience Manager의 생성형 AI 및 AI 기반 혁신](https://experienceleague.adobe.com/en/playlists/experience-manager-all-gen-ai-driven-innovations) | 새 비디오 | Adobe Summit 2025의 짧은 클립. |
+| 2025년 6월 | [!DNL Experience Manager] | [경험 최적화 및 가치 실현](https://experienceleague.adobe.com/ko/playlists/experience-manager-all-experience-optimization-and-value-realization) | 새 비디오 | Adobe Summit 2025의 짧은 클립. |
+| 2025년 6월 | [!DNL Experience Manager] | [Experience Manager의 생성형 AI 및 AI 기반 혁신](https://experienceleague.adobe.com/ko/playlists/experience-manager-all-gen-ai-driven-innovations) | 새 비디오 | Adobe Summit 2025의 짧은 클립. |
 | 2025년 6월 | [!DNL Experience Manager Assets] | [투명성과 콘텐츠 자동화 일괄 처리를 위한 Dynamic Media](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-image-automation) | 새 비디오 | AEM에서 Dynamic Media를 사용하여 가상 렌디션을 만들고, 투명성을 관리하며, 확장 가능한 콘텐츠 재사용을 위해 이미지 처리를 자동화하는 방법을 알아봅니다. |
 | 2025년 6월 | [!DNL Experience Manager Sites] | [ [!DNL Sites]에서 라이브 작성 안내서 만들기](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/sites/expert-resources/authoring-guide-in-sites) | 새 비디오 | AEM 챔피언 Brett Birschbach가 Adobe Experience Manager(AEM) 사이트에서 라이브 작성 안내서를 구축하기 위한 모범 사례를 공유합니다. |
 
@@ -384,7 +384,7 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * 프리릴리스에 대한 자세한 내용은 [[!DNL Adobe Target] 프리릴리스](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/target-release-notes)를 참조하십시오.
@@ -499,9 +499,9 @@ Experience League에 새로운 Adobe [!DNL Journey Optimizer] 튜토리얼이 �
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 자세한 내용은 다음 문서를 참조하십시오.
 
@@ -528,7 +528,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 최신 제품 설명서를 보려면 [Marketo 제품 설명서](https://experienceleague.adobe.com/ko/docs/marketo/using/home) 홈을 참조하십시오.
 
@@ -660,7 +660,7 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
+| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
 
 [!DNL Document Cloud] 튜토리얼을 찾아보려면 다음을 참조하십시오.
 
@@ -679,8 +679,8 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
 최신 튜토리얼은 [Creative Cloud for enterprise 튜토리얼](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)을 참조하십시오.
 
@@ -696,21 +696,21 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 <!-- |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
+|January 2025|[Guardrails](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
 
