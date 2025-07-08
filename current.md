@@ -6,10 +6,10 @@ last-update: June 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4507c886f985a4c63a61965700bae7e549a32df9
+source-git-commit: bb35f44eb02415f17e6a732d01dab1f3d7da6c84
 workflow-type: tm+mt
-source-wordcount: '6328'
-ht-degree: 95%
+source-wordcount: '6429'
+ht-degree: 94%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 95%
 
 이 페이지는 Experience Cloud 제품에 대한 중앙 릴리스 노트 리소스입니다. Experience League에서 애플리케이션별 릴리스 정보, 예정된 이벤트, 새로운 자습서 및 최신 지원 문서에 대한 링크를 찾을 수 있습니다. Experience League의 맞춤형 홈 페이지는 관심사에 맞춰 제공됩니다.
 
-<!-- * [Customize your learning](https://experienceleague.adobe.com/ko/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
-* [Browse and discover](https://experienceleague.adobe.com/ko/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
-* [Get fresh perspectives](https://experienceleague.adobe.com/ko/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
-* [Get certified](https://experienceleague.adobe.com/ko/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
-* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/?profile.language=ko): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
+<!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
+* [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
+* [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
+* [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
+* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
 
 이 페이지의 업데이트에 대한 월별 이메일 알림을 받아 보려면 [Adobe 우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 구독하십시오.
 
@@ -65,23 +65,23 @@ ht-degree: 95%
 
 | Product   | Release / Announcement Date            | Key Highlights |
 |-------|------------|----------------|
-| Experience Cloud admin & central interface   | [June 1, 2025](https://experienceleague.adobe.com/ko/docs/release-notes/experience-cloud/current) | Generative AI support in Admin Console, improved user/product license management |
-| Adobe Experience Platform | [June 18, 2025](https://experienceleague.adobe.com/ko/docs/experience-platform/release-notes/latest)  | New dashboard email exports, updated tutorials & support articles |
-| Adobe Real-Time CDP  | [June 12, 2025](https://experienceleague.adobe.com/ko/docs/real-time-cdp-collaboration/using/latest) | Self-serve destination support, audience refresh frequency |
-| Adobe Analytics  | [June 18-24, 2025](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest)  | Secure cloud exports, new preview bar chart, enhanced attribution |
-| Adobe Customer Journey Analytics | [June 2-18, 2025](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest)  | Fixed panel hover, new B2B Edition GA with account-level modeling |
+| Experience Cloud admin & central interface   | [June 1, 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/current) | Generative AI support in Admin Console, improved user/product license management |
+| Adobe Experience Platform | [June 18, 2025](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)  | New dashboard email exports, updated tutorials & support articles |
+| Adobe Real-Time CDP  | [June 12, 2025](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/latest) | Self-serve destination support, audience refresh frequency |
+| Adobe Analytics  | [June 18-24, 2025](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)  | Secure cloud exports, new preview bar chart, enhanced attribution |
+| Adobe Customer Journey Analytics | [June 2-18, 2025](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest)  | Fixed panel hover, new B2B Edition GA with account-level modeling |
 | Adobe Streaming Media Analytics  | _(Not updated)_  | No new release notes - last updated December 2024 | 
-| Adobe Experience Manager | [June 10, 2025](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0)  | Maintenance release 21193, feature release 2025.6.0 scheduled June 26 |
-| Adobe Commerce (Magento)  | [June 10, 2025](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/versions)  | Commerce 2.4.9‑alpha & patch 2.4.8‑p1, security fixes via APSB25‑50 |
-| Adobe Commerce B2B Edition | [June 10, 2025](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/release-notes)  | B2B module v1.5.2‑p1 and v1.4.2‑p6 released with security compatibility |
+| Adobe Experience Manager | [June 10, 2025](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0)  | Maintenance release 21193, feature release 2025.6.0 scheduled June 26 |
+| Adobe Commerce (Magento)  | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)  | Commerce 2.4.9‑alpha & patch 2.4.8‑p1, security fixes via APSB25‑50 |
+| Adobe Commerce B2B Edition | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/release-notes)  | B2B module v1.5.2‑p1 and v1.4.2‑p6 released with security compatibility |
 | Adobe Target   | _(Not updated)_  | No new official release info published in June 2025 |
 | Adobe Campaign   | _(Not updated)_   | Bundled under central Experience Cloud updates |
-| Adobe Journey Optimizer  | [June 18, 2025](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes) | Beta: AEP dataset decisioning |
+| Adobe Journey Optimizer  | [June 18, 2025](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) | Beta: AEP dataset decisioning |
 | Adobe Journey Optimizer B2B Edition  | *Included in Journey Optimizer June GA* via CJA B2B mention  | Account-level journey insights |
 | Adobe Marketo Engage   | _(Not updated)_ | No public release notes published in June |
 | Adobe Workfront | _(Not updated)_ | No public release notes published in June |
 | Adobe GenStudio for Performance Marketing    | *(Included in central AI updates)* | Announced along with LLM Optimizer (June 16) |
-| Adobe Mix Modeler   | [June 18, 2025](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/releases/latest)  | Introduced goal-based plans and spend pattern configurations |
+| Adobe Mix Modeler   | [June 18, 2025](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)  | Introduced goal-based plans and spend pattern configurations |
 | Adobe Advertising   | _(Not updated)_ | No separate public June notes |
 | Adobe Pass   | _(Not updated)_   | No public release notes published in June |
 | Adobe Document Cloud  | _(Not updated)_    | No public release notes published in June | -->
@@ -92,13 +92,29 @@ ht-degree: 95%
 
 +++예정된 이벤트
 
-* **[!DNL Workfront]** | _관리자 101 - Workfront 시작_ | 초보 시스템 관리자를 위해 설계된 이 일련의 이벤트는 새 관리자에게 사용 가능한 리소스에 대한 소개, 시스템 탐색에 대한 드롭다운, 초기 설정, 접수 및 기본 보고에 대한 모범 사례를 제공합니다. 어디로 가야 할지 확실하지 않은 질문이 있습니까? 참여가 권장되고 모든 질문이 관련성이 있는 1시간 짜리 워크숍에 참여하십시오! | **7월 8일 화요일** | [등록](https://events.teams.microsoft.com/event/8fc563fe-d0f1-4b2c-bae6-a68bd28a22f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _3분기 릴리스 웨비나_ | 2025년 7월 릴리스로 예정된 최신 Workfront 기능을 소개합니다 | [2025년 7월 10일 - 오전 9시(MT)](https://events.teams.microsoft.com/event/0481924a-fc34-4781-b7fc-ed4a54e6fa1f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Adobe Workfront 2025년 3분기 릴리스 웨비나_ | Adobe Workfront 제품 관리와 함께 호스팅되는 이 1시간 웨비나는 다음 주에 2025년 3분기 릴리스에서 제공될 예정인 최신 Workfront 기능 개선 사항을 강조 표시합니다. | **7월 10일 목요일** | [등록](https://events.teams.microsoft.com/event/0481924a-fc34-4781-b7fc-ed4a54e6fa1f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Marketo Engage** | _사용자 그룹_ | 이 기본 세션에서 Marketo Personalization을 사용하여 캠페인을 강화하는 방법을 알아봅니다 | 2025년 7월 10일 | [등록](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-powering-campaigns-with-marketo-personalization/)
 
-* **[!DNL Marketo Engage]** | _Marketo Engage의 기초: Marketo Personalization을 사용하여 캠페인 강화_ | Marketo Engage의 개인화 기능에 대한 기본 개요를 통해 마케팅 효과를 높이는 방법을 알아보십시오. 이 세션에서는 개인화가 중요한 이유와 이를 통해 캠페인 전반에서 보다 강력한 참여와 전환을 유도하는 방법에 대해 알아봅니다. | **7월 10일 목요일** | [등록](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-powering-campaigns-with-marketo-personalization/)
+* **Adobe Workfront** | _연결: 마케팅 및 Creative의 관리자 채팅_ | Workfront 관리자를 위한 모범 사례와 팁을 논의하기 위한 피어 주도 세션 | 2025년 7월 11일 - 오전 10시(MT) | [등록](https://events.teams.microsoft.com/event/14f0c251-136d-4a61-befc-54673bf58cd6@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-등 Experience League에서 [예정된 이벤트](https://experienceleague.adobe.com/ko/events)의 전체 목록을 보거나 [온디맨드](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview) 이벤트를 찾아보십시오.
+* **Adobe Commerce(다중 솔루션)** | _최신 정보: App Builder_ | App Builder을 사용하여 Adobe Commerce과 다른 플랫폼 통합 다룹니다 | 2025년 7월 17일 - 오전 11시(MT) | [등록](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
+
+* **Adobe Workfront** | _Workfront 집합_ | 기능 공유, 브레인스토밍 및 과제 해결을 위한 월별 모임 | 2025년 7월 17일 - 오전 7시(MT) | [등록](https://events.teams.microsoft.com/event/cce5eabe-e2e7-435f-aefb-14956ec192d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Workfront** | _Workfront에서 콘텐츠 승인 재검토_ | 향후 승인 워크플로, Frame.io 통합 및 로드맵에 대해 자세히 알아보기 | 2025년 7월 22일 - 오전 9시(MT) | [등록](https://events.teams.microsoft.com/event/0d5f80d1-9cb1-42f9-a199-ea0ca6f8fe99@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Experience Manager Assets** | _AEM Content Hub의 강력한 기능을 잠금 해제_ | 지역 간 브랜드 콘텐츠를 재사용, 활성화 및 중앙 집중화하는 방법에 대해 알아봅니다 | 2025년 7월 22일 - 오전 9시(MT) | [등록](https://events.teams.microsoft.com/event/04f70202-48dc-4ddb-954b-5b60fad1b693@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Experience Manager Forms** | _결제자 등록 여정 현대화_ | AEM Forms을 사용하여 구성원 등록 자동화 및 개선 | 2025년 7월 23일 - 오전 11시(MT) | [등록](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Workfront** | _Workfront 계획: Smart Start_ | Workfront 제품 관리 팀에서 기본 설정 모범 사례에 대해 알아봅니다 | 2025년 7월 31일 - 오전 10시(MT) | [등록](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Marketo Engage(다중 솔루션)** | _Marketo 및 Mochas: Salesforce 동기화_ | Salesforce + Marketo을 동기화하고 최적화하는 팁과 전략 | 2025년 7월 31일 - 오전 10시(MT) | [등록](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
+
+* **Adobe Workfront** | _단순성 디자인: Kohler가 Creative Brief를 다시 상상하는 방법_ | Workfront의 창의적 개요 프로세스 혁신에 관한 사례 연구 | 2025년 8월 6일 - 오후 12시(MT) | [등록](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Experience League에서 [예정된 이벤트](https://experienceleague.adobe.com/ko/events)의 전체 목록을 보거나 [온디맨드](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview) 이벤트를 찾아보십시오.
 
 +++
 
@@ -171,7 +187,7 @@ Experience League에 새로운 Adobe [!DNL Experience Platform] 튜토리얼이 
 | 2025년 5월 | [Adobe Experience Platform에서 프로필 수 불일치 해결](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26648) | 신규 문서 | 프로필 스냅샷 수가 Adobe Experience Platform(AEP)의 소스 시스템 보기와 다를 때 [!UICONTROL Real-Time Customer Data Platform]&#x200B;(CDP)에서 발생하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 5월 | [AEP Offer Decisioning에서 배치 간 캡핑 로직 불일치](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26682) | 신규 문서 | Adobe Experience Platform의 **[!UICONTROL Offer Decisioning]** 기능에서 캡핑 로직이 1:1 메시지와 이메일 배치 사이에서 일관성 없이 작동하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 5월 | [AEP: 요청 페이로드가 최대 허용 크기를 초과하여 데이터 수집 오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26712) | 신규 문서 | 스트리밍 수집 중 요청이 1MB 제한을 초과할 때 Adobe Experience Platform(AEP)에서 페이로드 크기 오류를 반환하는 문제에 대한 해결 방법을 알아봅니다. |
-| 2025년 5월 | [AEP - 서비스 가용성 요청 - [!UICONTROL 스트리밍 수집 API]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26456) | 신규 문서 | Adobe Experience Platform 내에서 [!UICONTROL 스트리밍 수집 API &#x200B;]의 서비스 가용성에 관한 문의 사항에 대해 알아봅니다. |
+| 2025년 5월 | [AEP - 서비스 가용성 요청 - [!UICONTROL 스트리밍 수집 API]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26456) | 신규 문서 | Adobe Experience Platform 내에서 [!UICONTROL 스트리밍 수집 API ]의 서비스 가용성에 관한 문의 사항에 대해 알아봅니다. |
 | 2025년 5월 | [AEP -  [!DNL Microsoft Dynamics] 소스 커넥터](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26458)를 통한 데이터 수집 필터링 | 신규 문서 | 기본 소스 커넥터를 사용하여 [!DNL Microsoft Dynamics]에서 특정 데이터를 필터링하려는 경우 AEP 사용자가 문제를 겪을 때의 해결 방법에 대해 알아봅니다. |
 
 +++
@@ -218,7 +234,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/ko/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 ### 새 [!DNL Analytics] 지원 기술 자료{#kb-analytics}
 
@@ -305,8 +321,8 @@ New or updated video tutorials published for Adobe Analytics.
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025년 6월 | [!DNL Experience Manager] | [경험 최적화 및 가치 실현](https://experienceleague.adobe.com/ko/playlists/experience-manager-all-experience-optimization-and-value-realization) | 새 비디오 | Adobe Summit 2025의 짧은 클립. |
-| 2025년 6월 | [!DNL Experience Manager] | [Experience Manager의 생성형 AI 및 AI 기반 혁신](https://experienceleague.adobe.com/ko/playlists/experience-manager-all-gen-ai-driven-innovations) | 새 비디오 | Adobe Summit 2025의 짧은 클립. |
+| 2025년 6월 | [!DNL Experience Manager] | [경험 최적화 및 가치 실현](https://experienceleague.adobe.com/en/playlists/experience-manager-all-experience-optimization-and-value-realization) | 새 비디오 | Adobe Summit 2025의 짧은 클립. |
+| 2025년 6월 | [!DNL Experience Manager] | [Experience Manager의 생성형 AI 및 AI 기반 혁신](https://experienceleague.adobe.com/en/playlists/experience-manager-all-gen-ai-driven-innovations) | 새 비디오 | Adobe Summit 2025의 짧은 클립. |
 | 2025년 6월 | [!DNL Experience Manager Assets] | [투명성과 콘텐츠 자동화 일괄 처리를 위한 Dynamic Media](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-image-automation) | 새 비디오 | AEM에서 Dynamic Media를 사용하여 가상 렌디션을 만들고, 투명성을 관리하며, 확장 가능한 콘텐츠 재사용을 위해 이미지 처리를 자동화하는 방법을 알아봅니다. |
 | 2025년 6월 | [!DNL Experience Manager Sites] | [ [!DNL Sites]에서 라이브 작성 안내서 만들기](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/sites/expert-resources/authoring-guide-in-sites) | 새 비디오 | AEM 챔피언 Brett Birschbach가 Adobe Experience Manager(AEM) 사이트에서 라이브 작성 안내서를 구축하기 위한 모범 사례를 공유합니다. |
 
@@ -407,7 +423,7 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * 프리릴리스에 대한 자세한 내용은 [[!DNL Adobe Target] 프리릴리스](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/target-release-notes)를 참조하십시오.
@@ -445,7 +461,7 @@ Adobe Campaign용으로 게시된 새로운 또는 업데이트된 비디오 튜
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|----|----|-----------|
-| 2025년 5월 | [**[!UICONTROL Adobe Campaign Classic의 데이터베이스 구조 업데이트&#x200B;]**&#x200B;마법사가 스키마를 표시하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26407) | 신규 문서 | Adobe Campaign Classic에서 **[!UICONTROL 데이터베이스 구조 업데이트]** 마법사를 사용할 때 발생하는 문제에 대한 해결 방법을 알아봅니다. 외부 데이터베이스에 연결된 스키마가 표시되지 않습니다. |
+| 2025년 5월 | [**[!UICONTROL Adobe Campaign Classic의 데이터베이스 구조 업데이트&#x200B;]**마법사가 스키마를 표시하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26407) | 신규 문서 | Adobe Campaign Classic에서 **[!UICONTROL 데이터베이스 구조 업데이트]** 마법사를 사용할 때 발생하는 문제에 대한 해결 방법을 알아봅니다. 외부 데이터베이스에 연결된 스키마가 표시되지 않습니다. |
 | 2025년 5월 | [Adobe Campaign Managed Cloud의 스케줄러 설정에도 불구하고 워크플로가 예기치 않게 실행됨](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26415) | 신규 문서 | Adobe Campaign Managed Cloud에서 스케줄러 업데이트가 적용되지 않고 예기치 않은 워크플로 실행이 발생하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 5월 | [Campaign Classic에서 타기팅 및 워크플로 탭을 볼 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26632) | 신규 문서 | Adobe Campaign Classic에서 **[!UICONTROL 타기팅 및 워크플로]** 탭이 표시되지 않는 경우 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 5월 | [Adobe Campaign Standard **[!UICONTROL 동적 보고서]**&#x200B;의 10,000개 레코드 제한으로 인해 게재 통계 필터가 작동하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26697) | 신규 문서 | 게재 통계 **[!UICONTROL 다음 포함]** 필터가 특정 키워드를 적용했을 때 전체 결과를 반환하지 않는 문제에 대한 해결 방법을 알아봅니다. |
@@ -522,9 +538,9 @@ Experience League에 새로운 Adobe [!DNL Journey Optimizer] 튜토리얼이 �
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 자세한 내용은 다음 문서를 참조하십시오.
 
@@ -551,7 +567,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 최신 제품 설명서를 보려면 [Marketo 제품 설명서](https://experienceleague.adobe.com/ko/docs/marketo/using/home) 홈을 참조하십시오.
 
@@ -683,7 +699,7 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
+| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
 
 [!DNL Document Cloud] 튜토리얼을 찾아보려면 다음을 참조하십시오.
 
@@ -702,8 +718,8 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
 최신 튜토리얼은 [Creative Cloud for enterprise 튜토리얼](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)을 참조하십시오.
 
@@ -719,21 +735,21 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 <!-- |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Guardrails](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
+|January 2025|[Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
 
