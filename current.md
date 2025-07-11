@@ -187,7 +187,7 @@ Experience League에 새로운 Adobe [!DNL Experience Platform] 튜토리얼이 
 | 2025년 5월 | [Adobe Experience Platform에서 프로필 수 불일치 해결](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26648) | 신규 문서 | 프로필 스냅샷 수가 Adobe Experience Platform(AEP)의 소스 시스템 보기와 다를 때 [!UICONTROL Real-Time Customer Data Platform]&#x200B;(CDP)에서 발생하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 5월 | [AEP Offer Decisioning에서 배치 간 캡핑 로직 불일치](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26682) | 신규 문서 | Adobe Experience Platform의 **[!UICONTROL Offer Decisioning]** 기능에서 캡핑 로직이 1:1 메시지와 이메일 배치 사이에서 일관성 없이 작동하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 5월 | [AEP: 요청 페이로드가 최대 허용 크기를 초과하여 데이터 수집 오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26712) | 신규 문서 | 스트리밍 수집 중 요청이 1MB 제한을 초과할 때 Adobe Experience Platform(AEP)에서 페이로드 크기 오류를 반환하는 문제에 대한 해결 방법을 알아봅니다. |
-| 2025년 5월 | [AEP - 서비스 가용성 요청 - [!UICONTROL 스트리밍 수집 API]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26456) | 신규 문서 | Adobe Experience Platform 내에서 [!UICONTROL 스트리밍 수집 API ]의 서비스 가용성에 관한 문의 사항에 대해 알아봅니다. |
+| 2025년 5월 | [AEP - 서비스 가용성 요청 - [!UICONTROL 스트리밍 수집 API]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26456) | 신규 문서 | Adobe Experience Platform 내에서 [!UICONTROL 스트리밍 수집 API &#x200B;]의 서비스 가용성에 관한 문의 사항에 대해 알아봅니다. |
 | 2025년 5월 | [AEP -  [!DNL Microsoft Dynamics] 소스 커넥터](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26458)를 통한 데이터 수집 필터링 | 신규 문서 | 기본 소스 커넥터를 사용하여 [!DNL Microsoft Dynamics]에서 특정 데이터를 필터링하려는 경우 AEP 사용자가 문제를 겪을 때의 해결 방법에 대해 알아봅니다. |
 
 +++
@@ -462,7 +462,7 @@ Adobe Campaign용으로 게시된 새로운 또는 업데이트된 비디오 튜
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|----|----|-----------|
-| 2025년 5월 | [**[!UICONTROL Adobe Campaign Classic의 데이터베이스 구조 업데이트&#x200B;]**마법사가 스키마를 표시하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26407) | 신규 문서 | Adobe Campaign Classic에서 **[!UICONTROL 데이터베이스 구조 업데이트]** 마법사를 사용할 때 발생하는 문제에 대한 해결 방법을 알아봅니다. 외부 데이터베이스에 연결된 스키마가 표시되지 않습니다. |
+| 2025년 5월 | [**[!UICONTROL Adobe Campaign Classic의 데이터베이스 구조 업데이트&#x200B;]**&#x200B;마법사가 스키마를 표시하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26407) | 신규 문서 | Adobe Campaign Classic에서 **[!UICONTROL 데이터베이스 구조 업데이트]** 마법사를 사용할 때 발생하는 문제에 대한 해결 방법을 알아봅니다. 외부 데이터베이스에 연결된 스키마가 표시되지 않습니다. |
 | 2025년 5월 | [Adobe Campaign Managed Cloud의 스케줄러 설정에도 불구하고 워크플로가 예기치 않게 실행됨](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26415) | 신규 문서 | Adobe Campaign Managed Cloud에서 스케줄러 업데이트가 적용되지 않고 예기치 않은 워크플로 실행이 발생하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 5월 | [Campaign Classic에서 타기팅 및 워크플로 탭을 볼 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26632) | 신규 문서 | Adobe Campaign Classic에서 **[!UICONTROL 타기팅 및 워크플로]** 탭이 표시되지 않는 경우 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 5월 | [Adobe Campaign Standard **[!UICONTROL 동적 보고서]**&#x200B;의 10,000개 레코드 제한으로 인해 게재 통계 필터가 작동하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26697) | 신규 문서 | 게재 통계 **[!UICONTROL 다음 포함]** 필터가 특정 키워드를 적용했을 때 전체 결과를 반환하지 않는 문제에 대한 해결 방법을 알아봅니다. |
