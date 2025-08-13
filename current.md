@@ -448,12 +448,12 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 | 2025년 7월 | [GraphQL을 통해 노출되는 고객 그룹 이름, 세그먼트 및 프로모션 규칙 정보](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27159) | 신규 문서 | GraphQL을 통해 고객 그룹 이름, 고객 세그먼트 및 프로모션 규칙 정보가 노출되지 않도록 하는 핫픽스에 대해 알아봅니다. |
 | 2025년 7월 | [관리자의 주문을 필터링하는 동안 오류가 발생했습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27163) | 신규 문서 | 날짜별로 관리자의 주문을 필터링하려고 할 때 오류가 발생하여 메시지를 표시하는 Adobe Commerce 문제의 패치에 대해 알아봅니다. *무결성 제약 조건 위반: 1052 열 &#39;created_at&#39; where 절이 모호합니다.* |
 | 2025년 7월 | [서버 전자 메일 주소에서 보낸 전자 메일 주문](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27164) | 신규 문서 | 서버 이메일 주소에서 전송되는 주문 이메일과 관련된 클라우드 인프라의 알려진 Adobe Commerce 2.2.4 문제에 대한 패치에 대해 알아봅니다. |
-| 2025년 7월 | [국가 허용&#x200B;****&#x200B;에서 선택한 항목이 없으면 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27167)사용자가 장바구니에 제품을 추가할 수 없습니다. | 신규 문서 | **[!UICONTROL 국가 허용]**&#x200B;을 선택하지 않은 경우 사용자가 제품을 장바구니에 추가할 수 없는 알려진 PHP 8.1 포함 Adobe Commerce 2.4.4 문제의 패치에 대해 알아봅니다. |
+| 2025년 7월 | [국가 허용&#x200B;**&#x200B;**&#x200B;에서 선택한 항목이 없으면 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27167)사용자가 장바구니에 제품을 추가할 수 없습니다. | 신규 문서 | **[!UICONTROL 국가 허용]**&#x200B;을 선택하지 않은 경우 사용자가 제품을 장바구니에 추가할 수 없는 알려진 PHP 8.1 포함 Adobe Commerce 2.4.4 문제의 패치에 대해 알아봅니다. |
 | 2025년 7월 | [Adobe Commerce 관리자 URL 위치가 공개됨](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27168) | 신규 문서 | 관리 패널의 URL 위치를 공개할 수 있는 Adobe Commerce 보안 문제에 대한 패치에 대해 알아봅니다. |
 | 2025년 7월 | [Braintree 결제가 활성화된 경우 관리자가 주문/순서를 만들 수 없습니다.](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27169) | 신규 문서 | Braintree 결제 방법이 활성화된 경우 관리자가 고객에 대한 주문이나 재주문을 생성할 수 없는 Adobe Commerce 2.4.5 문제에 대한 패치에 대해 알아봅니다. |
 | 2025년 7월 | [[!DNL JQuery] 2.4.4, 2.4.5 및 2.4.6 릴리스에 대한 UI 보안 취약성 CVE-2022-31160 수정](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27176) | 신규 문서 | 2.4.4, 2.4.5 및 2.4.6 릴리스에 대한 [!DNL JQuery] UI 보안 취약성 CVE-2022-31160 수정 사항에 대해 알아봅니다. |
 | 2025년 7월 | [Adobe Commerce에 보안 업데이트 사용 가능 - APSB25-50](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27181) | 신규 문서 | APSB25-50 보안 게시판의 주소를 지정하는 패치에 대해 알아봅니다. |
-| 2025년 7월 | 버전 &lt; 2.4.5[**[!UICONTROL 에서 업그레이드할 때 ]**salesRule](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27186) 레이블 문제 발생 | 신규 문서 | 버전 2.4.5보다 낮은 버전의 최신 Adobe Commerce 버전으로 업그레이드한 후 일치하지 않는 **[!UICONTROL salesRule]** 레이블을 해결하는 패치에 대해 알아봅니다. |
+| 2025년 7월 | 버전 &lt; 2.4.5[**[!UICONTROL 에서 업그레이드할 때 &#x200B;]**&#x200B;salesRule](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27186) 레이블 문제 발생 | 신규 문서 | 버전 2.4.5보다 낮은 버전의 최신 Adobe Commerce 버전으로 업그레이드한 후 일치하지 않는 **[!UICONTROL salesRule]** 레이블을 해결하는 패치에 대해 알아봅니다. |
 | 2025년 7월 | [관리 패널에서 Adobe Commerce 2.4.6 주문 오류 발생](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27187) | 신규 문서 | Commerce 관리 패널에서 주문한 후 스토어 선택이 중단될 때 클라우드 인프라의 알려진 Adobe Commerce 2.4.6 문제에 대한 패치에 대해 알아봅니다. |
 | 2025년 7월 | [통합 환경 개선 요청 - Pro 및 Starter](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27242) | 신규 문서 | Pro 및 Starter 계획 판매자가 통합 분기를 줄이고 지원 티켓을 제출하며 환경 재배포를 통해 느린 배포 및 성능 문제를 해결하는 방법을 알아봅니다. |
 | 2025년 7월 | [동적 IP를 사용하여 외부 서비스와 App Builder 통합](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27043) | 신규 문서 | 동적 IP를 사용하는 외부 서비스와의 App Builder 통합에 대해 알아봅니다. |
@@ -557,7 +557,7 @@ Experience League에 새로운 Adobe [!DNL Journey Optimizer] 튜토리얼이 �
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|----|----|-----------|
-| 2025년 7월 | [페이로드 배열의 동적 필드가 AJO 푸시 알림에서 실패했습니다.1}](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26992) | 신규 문서 | 푸시 알림이 페이로드 배열에서 동적 필드를 렌더링하지 못할 때(예: `callerName`) 이메일 및 SMS에서 동일한 데이터가 작동하더라도 이 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 7월 | [페이로드 배열의 동적 필드가 AJO 푸시 알림에서 실패했습니다.1&rbrace;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26992) | 신규 문서 | 푸시 알림이 페이로드 배열에서 동적 필드를 렌더링하지 못할 때(예: `callerName`) 이메일 및 SMS에서 동일한 데이터가 작동하더라도 이 문제에 대한 해결 방법에 대해 알아봅니다. |
 
 ### [!DNL Journey Optimizer]를 위한 추가 리소스
 
