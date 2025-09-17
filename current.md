@@ -83,8 +83,8 @@ Experience Cloud의 생성 AI(genAI), AI Assistant 및 AI 에이전트를 위해
 | 제품 | 리소스 | 설명 | 게시일 |
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Cloud] | [ [!DNL Experience Cloud]의 생성형 AI](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/generative-ai) | Experience Cloud 애플리케이션의 생성형 AI(GenAI) 및 AI 어시스턴트에 대한 도움말을 확인합니다. | 업데이트 날짜: 2025년 9월 |
-| Customer Journey Analytics | [AI 길잡이 사용](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant) | Customer Journey Analytics의 AI Assistant를 통해 개념 학습, 문제 해결 및 워크플로우 최적화를 수행하는 방법을 살펴봅니다. | 2025년 8월 |
-| [!DNL AI Assistant in Marketo Email Designer] | [이메일 디자이너](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en) | Marketo Engage 이메일 Designer의 AI 어시스턴트를 통해 현대적이고 효과적인 이메일을 빠르게 만들 수 있습니다. Adobe의 생성 AI, 프롬프트 라이브러리 및 이미지 생성용 Firefly을 사용하여 컨텐츠를 대상자, 여정 단계, 전략 또는 색조에 맞게 조정합니다. 자체 브랜드 자산을 통합할 수도 있습니다. | 2025년 8월 |
+| Customer Journey Analytics | [AI 길잡이 사용](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant) | Customer Journey Analytics의 AI Assistant를 통해 개념 학습, 문제 해결 및 워크플로우 최적화를 수행하는 방법을 살펴봅니다. | 2025년 8월 |
+| [!DNL AI Assistant in Marketo Email Designer] | [이메일 디자이너](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en) | Marketo Engage 이메일 Designer의 AI 어시스턴트를 통해 현대적이고 효과적인 이메일을 빠르게 만들 수 있습니다. Adobe의 생성 AI, 프롬프트 라이브러리 및 이미지 생성용 Firefly을 사용하여 컨텐츠를 대상자, 여정 단계, 전략 또는 색조에 맞게 조정합니다. 자체 브랜드 자산을 통합할 수도 있습니다. | 2025년 8월 |
 | [!DNL Experience Cloud] | [에이전틱 AI](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/agentic-ai) | 제품 지원 에이전트와 Data Insights 에이전트(에이전틱 AI)에 대해 알아봅니다. | 2025년 6월 |
 
 
@@ -180,7 +180,7 @@ Experience League에 새로운 Adobe [!DNL Experience Platform] 튜토리얼이 
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025년 9월 | [!DNL Journey Optimizer] | [Marketo Engage 대상 구성](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination) | 비디오 | Marketo Engage 대상을 통해 대상 데이터 및 프로필 속성을 매끄럽게 실시간으로 동기화하여 기술 스택 전반에 통합 마케팅을 강화하는 방법에 대해 알아봅니다. |
+| 2025년 9월 | [!DNL Journey Optimizer] | [Marketo Engage 대상 구성](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination) | 비디오 | Marketo Engage 대상을 통해 대상 데이터 및 프로필 속성을 매끄럽게 실시간으로 동기화하여 기술 스택 전반에 통합 마케팅을 강화하는 방법에 대해 알아봅니다. |
 
 <!--
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
@@ -189,12 +189,12 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2025|[Case sensitivity issues in audience creation on Adobe Experience Platform UI](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27033)|New article| Learn about the solutions to the issue where audience names are case-sensitive, so *NAME_1* and *name_1* are treated as separate audiences.|
-|July 2025|[Audience evaluation stuck in *queued* status in AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27035)|New article| Learn about the solutions to the issue when audience evaluations that you trigger on demand stay in a *queued* state.|
-|July 2025|[Adobe Experience Platform: [!UICONTROL Lookalike Audiences] not syncing with Google Ad Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27041)|New article| Learn about the solutions to the issue when you try to activate a [!UICONTROL Lookalike Audience] from Adobe Experience Platform (AEP) to Google Ad Manager (GAM), the audience appears in GAM, but stays empty and doesn't function.|
-|July 2025|[UPS job fails due to record size exceeding ingestion limits in AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27068)|New article| Learn about the solutions to the issue when UPS batch ingestion in Adobe Experience Platform (AEP) fails when records exceed size limits.|
-|July 2025|[Error occurs during segment activation to Amazon Ads destination in AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27098)|New article| Learn about the solutions to the issue when an error occurs during segment activation to the Amazon Ads destination even after renaming segments to meet mapping requirements by removing special characters.|
-|July 2025|[Real-Time Customer Data Platform: Missing profile fragment counts in *profile-enabled* datasets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27142)|New article| Learn about the solutions to the issue when the columns, **[!UICONTROL New profile fragments]** and **[!UICONTROL Existing profile fragments]**, may appear empty when viewing batches for a *profile-enabled* dataset in Real-Time Customer Data Platform.|
+|July 2025|[Case sensitivity issues in audience creation on Adobe Experience Platform UI](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27033)|New article| Learn about the solutions to the issue where audience names are case-sensitive, so *NAME_1* and *name_1* are treated as separate audiences.|
+|July 2025|[Audience evaluation stuck in *queued* status in AEP](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27035)|New article| Learn about the solutions to the issue when audience evaluations that you trigger on demand stay in a *queued* state.|
+|July 2025|[Adobe Experience Platform: [!UICONTROL Lookalike Audiences] not syncing with Google Ad Manager](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27041)|New article| Learn about the solutions to the issue when you try to activate a [!UICONTROL Lookalike Audience] from Adobe Experience Platform (AEP) to Google Ad Manager (GAM), the audience appears in GAM, but stays empty and doesn't function.|
+|July 2025|[UPS job fails due to record size exceeding ingestion limits in AEP](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27068)|New article| Learn about the solutions to the issue when UPS batch ingestion in Adobe Experience Platform (AEP) fails when records exceed size limits.|
+|July 2025|[Error occurs during segment activation to Amazon Ads destination in AEP](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27098)|New article| Learn about the solutions to the issue when an error occurs during segment activation to the Amazon Ads destination even after renaming segments to meet mapping requirements by removing special characters.|
+|July 2025|[Real-Time Customer Data Platform: Missing profile fragment counts in *profile-enabled* datasets](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27142)|New article| Learn about the solutions to the issue when the columns, **[!UICONTROL New profile fragments]** and **[!UICONTROL Existing profile fragments]**, may appear empty when viewing batches for a *profile-enabled* dataset in Real-Time Customer Data Platform.|
 -->
 
 +++
@@ -207,11 +207,11 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 | 게시일 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- |---------- |
-| 2025년 9월 | [Federated Audience Composition 자습서](https://experienceleague.adobe.com/en/docs/platform-learn/engage-with-audiences-from-your-data-warehouse-using-fac/overview) | 튜토리얼 | FAC(Federated Audience Composition)를 사용하여 Data Warehouse에서 직접 대상과 협력합니다. |
-| 2025년 9월 | [브랜드 간 공동 작업](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/brand-to-brand-collaboration) | 비디오 | 브랜드에서 브랜드 공동 작업에 지원하는 사용 사례와 이러한 워크플로를 지원하기 위해 도입된 특정 기능에 대해 알아봅니다. |
-| 2025년 9월 | [Collaboration 프로젝트 내에서 대상 겹침 발견](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/discover-audience-overlaps-in-projects) | 비디오 | Real-Time CDP Collaboration 프로젝트 내의 대상 중복을 비교하는 방법을 알아봅니다. |
-| 2025년 9월 | [Collaboration 프로젝트에서 대상 활성화](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/activate-audiences-in-projects) | 비디오 | Real-Time CDP Collaboration 프로젝트에서 공동 작업 파트너에게 대상자를 활성화하는 방법을 알아봅니다. |
-| 2025년 9월 | [Real-Time Customer Data Platform 사용자 인터페이스 및 워크플로 사용](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform-user-interface) | 비디오 | Real-Time Customer Data Platform(CDP) 사용자 인터페이스를 탐색하는 방법을 살펴보고 여러 기능이 통합되어 디지털 고객 여정 전반에 걸쳐 실시간 활성화를 제공하는 방법에 대해 알아봅니다. |
+| 2025년 9월 | [Federated Audience Composition 자습서](https://experienceleague.adobe.com/ko/docs/platform-learn/engage-with-audiences-from-your-data-warehouse-using-fac/overview) | 튜토리얼 | FAC(Federated Audience Composition)를 사용하여 Data Warehouse에서 직접 대상과 협력합니다. |
+| 2025년 9월 | [브랜드 간 공동 작업](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/collaboration/brand-to-brand-collaboration) | 비디오 | 브랜드에서 브랜드 공동 작업에 지원하는 사용 사례와 이러한 워크플로를 지원하기 위해 도입된 특정 기능에 대해 알아봅니다. |
+| 2025년 9월 | [Collaboration 프로젝트 내에서 대상 겹침 발견](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/collaboration/discover-audience-overlaps-in-projects) | 비디오 | Real-Time CDP Collaboration 프로젝트 내의 대상 중복을 비교하는 방법을 알아봅니다. |
+| 2025년 9월 | [Collaboration 프로젝트에서 대상 활성화](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/collaboration/activate-audiences-in-projects) | 비디오 | Real-Time CDP Collaboration 프로젝트에서 공동 작업 파트너에게 대상자를 활성화하는 방법을 알아봅니다. |
+| 2025년 9월 | [Real-Time Customer Data Platform 사용자 인터페이스 및 워크플로 사용](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform-user-interface) | 비디오 | Real-Time Customer Data Platform(CDP) 사용자 인터페이스를 탐색하는 방법을 살펴보고 여러 기능이 통합되어 디지털 고객 여정 전반에 걸쳐 실시간 활성화를 제공하는 방법에 대해 알아봅니다. |
 
 자세한 내용은 다음 문서를 참조하십시오.
 
@@ -248,7 +248,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/ko/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 <!-- 
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -257,9 +257,9 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|June 2025|[Analytics shared audience keeps showing collecting data on **[!UICONTROL Audience Library]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26635)|New article| Learn about the solutions to the issue when data isn't collected for a custom variable (For example: `eVar1`), the value will be shown as "`未指定`" in the **[!UICONTROL Analysis Workspace]** freeform table.|
-|June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
-|June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
+|June 2025|[Analytics shared audience keeps showing collecting data on **[!UICONTROL Audience Library]**](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26635)|New article| Learn about the solutions to the issue when data isn't collected for a custom variable (For example: `eVar1`), the value will be shown as "`未指定`" in the **[!UICONTROL Analysis Workspace]** freeform table.|
+|June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
+|June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
 -->
 
 +++
@@ -287,14 +287,14 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025년 9월 | [세그먼트에서 대상자 만들기](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/filters/create-audiences-from-segments) | 비디오 | Customer Journey Analytics에서 Real-Time Customer Data Platform으로 대상자를 만들고 게시하는 방법에 대해 알아봅니다. |
-| 2025년 9월 | [유형 지정 사용](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-typecasting-in-derived-fields) | 비디오 | Customer Journey Analytics 파생 필드의 [!UICONTROL Typeasting]에 대해 알아봅니다. 타이프캐스팅은 고급 분석을 위해 문자열을 숫자로 변환하거나 날짜/시간을 문자열로 변환하는 것과 같이 스키마 필드 데이터 유형을 조정합니다. |
-| 2025년 9월 | [이벤트 사이의 시간을 계산하려면 [!UICONTROL 날짜 계산]을 사용합니다](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-date-math-to-calculate-time-between-events) | 비디오 | Customer Journey Analytics 파생 필드의 날짜 수학에 대해 알아봅니다. |
-| 2025년 9월 | [이벤트 깊이 사용자 지정](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/customize-event-depth-in-derived-fields) | 비디오 | Customer Journey Analytics 파생 필드에서 [!UICONTROL 이벤트 깊이]를 구성하여 페이지 깊이, 내부 검색 깊이 등에 대한 분석을 사용자 지정하는 방법을 알아봅니다. |
-| 2025년 9월 | [맵 시각화 구성 및 사용](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/configure-and-use-the-map-visualization) | 비디오 | 맵 시각화를 통해 위치 데이터에 생기를 불어넣으십시오! 지역 클러스터를 식별하고 선택 도구를 사용하여 즉석으로 세그먼트를 만듭니다. |
-| 2025년 9월 | [AI 길잡이 사용](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant) | 비디오 | Customer Journey Analytics의 AI Assistant를 통해 개념 학습, 문제 해결 및 워크플로우 최적화를 수행하는 방법을 살펴봅니다. |
-| 2025년 9월 | [사용자 지정 템플릿 만들기](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/templates/create-custom-templates) | 비디오 | Customer Journey Analytics에서 사용자 지정 템플릿을 만드는 방법을 알아봅니다. |
-| 2025년 9월 | [Content Analytics - 보고](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/reporting) | 비디오 | Content Analytics이 어떻게 자산 추적을 자동화하고 보기, 클릭 수 및 전환을 포함한 웹 사이트 콘텐츠 성능에 대한 자세한 보고서를 제공하는지 알아보십시오. |
+| 2025년 9월 | [세그먼트에서 대상자 만들기](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/components/filters/create-audiences-from-segments) | 비디오 | Customer Journey Analytics에서 Real-Time Customer Data Platform으로 대상자를 만들고 게시하는 방법에 대해 알아봅니다. |
+| 2025년 9월 | [유형 지정 사용](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-typecasting-in-derived-fields) | 비디오 | Customer Journey Analytics 파생 필드의 [!UICONTROL Typeasting]에 대해 알아봅니다. 타이프캐스팅은 고급 분석을 위해 문자열을 숫자로 변환하거나 날짜/시간을 문자열로 변환하는 것과 같이 스키마 필드 데이터 유형을 조정합니다. |
+| 2025년 9월 | [이벤트 사이의 시간을 계산하려면 [!UICONTROL 날짜 계산]을 사용합니다](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-date-math-to-calculate-time-between-events) | 비디오 | Customer Journey Analytics 파생 필드의 날짜 수학에 대해 알아봅니다. |
+| 2025년 9월 | [이벤트 깊이 사용자 지정](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/customize-event-depth-in-derived-fields) | 비디오 | Customer Journey Analytics 파생 필드에서 [!UICONTROL 이벤트 깊이]를 구성하여 페이지 깊이, 내부 검색 깊이 등에 대한 분석을 사용자 지정하는 방법을 알아봅니다. |
+| 2025년 9월 | [맵 시각화 구성 및 사용](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/configure-and-use-the-map-visualization) | 비디오 | 맵 시각화를 통해 위치 데이터에 생기를 불어넣으십시오! 지역 클러스터를 식별하고 선택 도구를 사용하여 즉석으로 세그먼트를 만듭니다. |
+| 2025년 9월 | [AI 길잡이 사용](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant) | 비디오 | Customer Journey Analytics의 AI Assistant를 통해 개념 학습, 문제 해결 및 워크플로우 최적화를 수행하는 방법을 살펴봅니다. |
+| 2025년 9월 | [사용자 지정 템플릿 만들기](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/templates/create-custom-templates) | 비디오 | Customer Journey Analytics에서 사용자 지정 템플릿을 만드는 방법을 알아봅니다. |
+| 2025년 9월 | [Content Analytics - 보고](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/content-analytics/reporting) | 비디오 | Content Analytics이 어떻게 자산 추적을 자동화하고 보기, 클릭 수 및 전환을 포함한 웹 사이트 콘텐츠 성능에 대한 자세한 보고서를 제공하는지 알아보십시오. |
 
 ### 새 [!DNL Customer Journey Analytics] 지원 기술 자료{#kb-cja}
 
@@ -347,12 +347,12 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 | 게시일 | 애플리케이션 | 이름 | 형식 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025년 9월 | [!DNL AEM Assets] | [Dynamic Media 비디오 및 뷰어 모범 사례](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/video/dynamic-media-video-best-practices) | 비디오 | 적응형 스트리밍, 다양한 화면 크기에 대한 스마트 자르기, 사용자 지정 뷰어 사전 설정, 캡션, 오디오 트랙 및 챕터 마커 지원을 포함하여 AEM Dynamic Media에서 비디오를 게시하고 최적화하는 모범 사례에 대해 알아봅니다. |
-| 2025년 9월 | [!DNL AEM CS] | [동작 타깃팅](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting) | 비디오 | Adobe Experience Platform 및 Adobe Target을 사용하여 사용자 행동을 기반으로 콘텐츠를 개인화하는 방법을 알아봅니다. |
-| 2025년 9월 | [!DNL AEM Assets] | [AEM Assets 및 Figma 통합](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/creative-workflows/figma) | 비디오 | Experience Manager Assets을 Figma와 통합하여 디자인 워크플로를 간소화하고, 브랜드 일관성을 보장하며, 디자인하는 동안 크리에이티브 팀이 승인된 에셋에 직접 액세스하는 방법을 알아봅니다. |
-| 2025년 9월 | [!DNL AEM Assets] | [AEM Assets Content Hub 설정](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up) | 비디오 | Adobe Cloud Manager 프로그램 및 자산 추가 기능을 사용하여 Experience Manager Assets Content Hub를 설정하는 방법을 알아봅니다. 또한 제품 프로필을 사용하여 사용자의 액세스를 구성하는 방법도 확인할 수 있습니다. |
-| 2025년 9월 | [!DNL AEM Assets] | [Content Hub으로 자산을 관리하는 방법](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/use-cases/manage-assets) | 비디오 | AEM Assets Content Hub을 사용하여 승인된 브랜드 에셋을 쉽게 관리하고 공유하는 방법을 알아보고, 이를 통해 팀이 그 어느 때보다 빠르게 마케팅 캠페인을 실행할 수 있습니다. |
-| 2025년 9월 | [!DNL AEM Assets] | [AEM Assets Content Hub 구성](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/configure) | 비디오 | 조직의 요구 사항을 충족하도록 AEM Assets Content Hub을 구성하는 방법에 대해 알아봅니다. 이 비디오는 관리자가 Content Hub의 구성 설정을 이해하고 최적의 성능과 조직 목표에 맞게 조정하는 고급 지침을 제공합니다. |
+| 2025년 9월 | [!DNL AEM Assets] | [Dynamic Media 비디오 및 뷰어 모범 사례](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/dynamic-media/video/dynamic-media-video-best-practices) | 비디오 | 적응형 스트리밍, 다양한 화면 크기에 대한 스마트 자르기, 사용자 지정 뷰어 사전 설정, 캡션, 오디오 트랙 및 챕터 마커 지원을 포함하여 AEM Dynamic Media에서 비디오를 게시하고 최적화하는 모범 사례에 대해 알아봅니다. |
+| 2025년 9월 | [!DNL AEM CS] | [동작 타깃팅](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting) | 비디오 | Adobe Experience Platform 및 Adobe Target을 사용하여 사용자 행동을 기반으로 콘텐츠를 개인화하는 방법을 알아봅니다. |
+| 2025년 9월 | [!DNL AEM Assets] | [AEM Assets 및 Figma 통합](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/creative-workflows/figma) | 비디오 | Experience Manager Assets을 Figma와 통합하여 디자인 워크플로를 간소화하고, 브랜드 일관성을 보장하며, 디자인하는 동안 크리에이티브 팀이 승인된 에셋에 직접 액세스하는 방법을 알아봅니다. |
+| 2025년 9월 | [!DNL AEM Assets] | [AEM Assets Content Hub 설정](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/content-hub/set-up) | 비디오 | Adobe Cloud Manager 프로그램 및 자산 추가 기능을 사용하여 Experience Manager Assets Content Hub를 설정하는 방법을 알아봅니다. 또한 제품 프로필을 사용하여 사용자의 액세스를 구성하는 방법도 확인할 수 있습니다. |
+| 2025년 9월 | [!DNL AEM Assets] | [Content Hub으로 자산을 관리하는 방법](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/content-hub/use-cases/manage-assets) | 비디오 | AEM Assets Content Hub을 사용하여 승인된 브랜드 에셋을 쉽게 관리하고 공유하는 방법을 알아보고, 이를 통해 팀이 그 어느 때보다 빠르게 마케팅 캠페인을 실행할 수 있습니다. |
+| 2025년 9월 | [!DNL AEM Assets] | [AEM Assets Content Hub 구성](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/content-hub/configure) | 비디오 | 조직의 요구 사항을 충족하도록 AEM Assets Content Hub을 구성하는 방법에 대해 알아봅니다. 이 비디오는 관리자가 Content Hub의 구성 설정을 이해하고 최적의 성능과 조직 목표에 맞게 조정하는 고급 지침을 제공합니다. |
 
 ### 새 [!DNL Experience Manager] 지원 기술 자료{#kb-aem}
 
@@ -360,34 +360,34 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|--------|---------|---------|
-| 2025년 8월 | [[!UICONTROL LiveCopy]을(를) 사용한 후 일부 자산에 대해 DM에 게시가 작동하지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27254) | 신규 문서 | 소스 위치의 자산이 DynamicMedia Scene7에 동기화되어 동기화가 예상대로 작동하지 않는 대상 위치의 자산과 충돌할 수 있는 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEM의 특정 구성 요소 인스턴스에 대해 Dispatcher 캐시 비활성화](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27185) | 신규 문서 | 페이지의 여러 구성 요소가 동일한 `resourceType`을(를) 공유할 때 특정 구성 요소 인스턴스에 대해 Dispatcher 캐시를 비활성화하는 것이 어려워질 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | Dynamic Media에서 Adobe Analytics에 연결하는 동안 [*[!UICONTROL 브라우저 업데이트&#x200B;]*&#x200B;오류 발생](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27200) | 신규 문서 | *[!UICONTROL 에서 AEM Dynamic Media 데스크탑 앱을 통해 Adobe Analytics에 연결할 때]*&#x200B;브라우저 업데이트[!DNL Windows] 오류가 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [Adobe Experience Manager: 6.5.23에서 Dynamic Media 하이브리드의 로컬 이미지 게재에 대한 404 오류](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27297) | 신규 문서 | Dynamic Media Hybrid가 AEM 6.5.23에서 로컬 이미지를 제공하지 않는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [Adobe Experience Manager: AEM 6.5.23[!UICONTROL 에서 &#x200B;]개발자](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27405) 모드로 전환하면 페이지 편집을 사용할 수 없습니다. | 신규 문서 | 페이지 편집기에서 [!UICONTROL 개발자] 모드로 전환할 때 여러 문제가 발생할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEM 사이트 페이지에서 적응형 양식 제출 단추를 사용할 수 없습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27075) | 신규 문서 | [!UICONTROL 적응형 양식]을(를) AEM 사이트 페이지에 포함할 때 발생하는 문제의 해결 방법에 대해 알아보십시오. **제출** 단추는 누락되거나 초기화되지 않은 JavaScript 종속성으로 인해 비활성화 상태로 유지됩니다. |
-| 2025년 8월 | [WebM 파일이 AEM Managed Services에서 404 오류를 반환함](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27102) | 신규 문서 | DAM(디지털 자산 관리) 시스템에서 WebM 파일을 업로드하고 액세스하려고 할 때 Adobe Experience Manager(AEM) Managed Services이 *404 URL을 찾을 수 없음* 오류를 반환하는 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEM SP22 업그레이드 후 Dynamic Media 비디오 재생 오류](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27153) | 신규 문서 | Adobe Experience Manager(AEM) 6.5를 서비스 팩 22(SP22)로 업그레이드한 후 HMAC/기본 키 비동기화로 인한 Dynamic Media 암호 해독 오류로 인해 프로덕션 환경에서 비디오 재생이 실패하는 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEM Assets의 종속성 자동 관계](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27214) | 신규 문서 | DAM(디지털 에셋 관리) 시스템에 수집된 에셋이 AEM 6.5에 포함된 메타데이터를 기반으로 종속성을 자동으로 생성할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [검색 엔진이 AEM 관리 URL을 색인화하지 못하도록 합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27310) | 신규 문서 | AEM 관리 도메인과 연결된 URL이 검색 엔진 결과에 표시되어 색인화되지 않은 상태로 유지되어야 하는 페이지를 표시할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEM: 인덱싱 비용이 높으면 대규모 DAM 환경에 대한 쿼리 성능이 저하됩니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27315) | 신규 문서 | 대규모 AEM 환경에서 높은 인덱싱 비용으로 인해 기본 인덱싱 구성이 쿼리 성능 저하를 초래할 수 있는 경우의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | 업데이트된 [ 파일을 사용할 때 AEM Forms의 PDF 출력에 `XCI`단추가 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27406) | 신규 문서 | Adobe Experience Manager(AEM) Forms JEE에서 PDF/UA 호환을 위한 새 `XCI` 파일을 사용할 때 PDF 출력에서 단추가 누락된 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEM Forms JEE에서 IDP 인증 후 DRM-SAML 리디렉션 실패](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27434) | 신규 문서 | AEM Forms Document Security(Rights Management)를 사용하여 PDF을 보호할 때 Adobe Acrobat 또는 Reader에서 IDP(ID 공급자)를 통해 인증 후 리디렉션 오류가 발생하는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [속성이 Adobe Experience Manager의 Live Copy와 동기화되지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27312) | 신규 문서 | [!UICONTROL 다중 사이트 관리자]&#x200B;(MSM)를 사용하여 페이지를 롤아웃하면 일부 사용자 지정 속성이 AEM의 라이브 카피에 동기화되지 않는 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEM 전역 머리글과 바닥글을  [!DNL React] 앱에 통합](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27044) | 신규 문서 | AEM 전역 머리글과 바닥글을 [!DNL React] 응용 프로그램에 통합하여 스타일링 및 기능 문제를 일으킬 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEMaaCS용 [!UICONTROL 도메인 설정]에서 내부 도메인을 만들 수 없음 - Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27171) | 신규 문서 | AEMaaCS - Assets의 [!UICONTROL 도메인 설정] 인터페이스를 통해 [!UICONTROL 작성자] 인스턴스에 대한 사용자 지정 내부 도메인을 설정할 수 없을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEMaaCS의 CRX 패키지 관리자에서 패키지를 다운로드할 수 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27175) | 신규 문서 | CRX 패키지 관리자에서 `SYSTEM`(으)로 표시된 패키지를 AEMaaCS에서 다운로드할 수 없는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEMaaCS에서 100MB가 넘는 파일에 대한 PDF 미리 보기가 실패합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27183) | 신규 문서 | 100MB가 넘는 PDF 파일을 AEMaaCS에서 미리 볼 수 없을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEMaaCS에서 예약된 시간에 Dispatcher 캐시 지우기](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27184) | 신규 문서 | AEMaaCS에서 예약된 콘텐츠 게시를 지원하는 데 필요한 특정 시간에 Dispatcher 캐시를 플러시하는 방법에 대해 알아봅니다. |
-| 2025년 8월 | [배포 오류 [!DNL Splunk] AEMaaCS에서 로그 전달 중](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27196) | 신규 문서 | AEMaaCS에서 잘못된 끝점 사용 또는 네트워크 잘못된 구성으로 인해 [!DNL Splunk] 로그 전달을 구성할 때 배포가 실패할 경우 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEMaaCS에서 잘못된 SAML 토큰이 로그인을 차단합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27217) | 신규 문서 | AEMaaCS의 개발 환경에서 SAML 인증에 대해 업데이트된 구성을 테스트할 때 문제에 대한 솔루션에 대해 알아봅니다. 로그인 중 시스템에서 *invalid_token* 오류를 반환합니다. |
-| 2025년 8월 | [AEMaaCS에서 ESI를 사용하도록 설정하는 방법 설명](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27280) | 신규 문서 | AEMaaCS에서 ESI([!DNL Edge Side Includes])를 활성화하는 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEMaaCS에서 렌더링하거나 열지 않는 페이지가 거의 없습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27319) | 신규 문서 | AEMaaCS - Sites의 일부 현지화된 페이지가 특정 환경에서 렌더링되거나 열리지 않을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEM에서 RDE 업그레이드 후 콘텐츠 조각 기능이 지원되지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27321) | 신규 문서 | AEMaaCS에서 RDE(Rapid Development Environment)를 업그레이드한 후 버전 비호환으로 인해 콘텐츠 조각 기능을 열지 못할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [Adobe Experience Manager의 원래 위치로 태그를 다시 이동할 수 없습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27364) | 신규 문서 | 관리자가 아닌 사용자가 태그를 이동한 후 원래 위치로 다시 이동하려고 할 때 *권한 거부* 오류가 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [AEMaaCS로 마이그레이션한 후 온-프레미스 sling 매핑이 실패합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27393) | 신규 문서 | On-Premise AEM 설정에서 AEMaaCS로 sling 매핑을 마이그레이션할 때 호환성 문제가 발생하는 문제의 솔루션에 대해 알아봅니다. |
-| 2025년 8월 | [[!UICONTROL 콘텐츠 트리 게시] 워크플로가 AEMaaCS에서 실행 중 상태로 중단됨 - Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27369) | 신규 문서 | AEMaaCS - Assets의 [!UICONTROL 콘텐츠 트리 게시] 워크플로가 [!UICONTROL 작성자] 환경에서 자산을 게시하는 동안 중단되는 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | 미리 보기/라이브 사이트에서 인증이 [활성화&#x200B;*될 때* AEM 유니버설 편집기에서 401 오류를 반환함](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27451) | 신규 문서 | Adobe Experience Manager(AEM) EDS(Edge Delivery Service) 미리보기 및 라이브 사이트에 대해 인증이 *활성화*&#x200B;될 때 유니버설 편집기가 *401 Unauthorized* 오류와 함께 실패하는 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [[!UICONTROL LiveCopy]을(를) 사용한 후 일부 자산에 대해 DM에 게시가 작동하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27254) | 신규 문서 | 소스 위치의 자산이 DynamicMedia Scene7에 동기화되어 동기화가 예상대로 작동하지 않는 대상 위치의 자산과 충돌할 수 있는 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEM의 특정 구성 요소 인스턴스에 대해 Dispatcher 캐시 비활성화](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27185) | 신규 문서 | 페이지의 여러 구성 요소가 동일한 `resourceType`을(를) 공유할 때 특정 구성 요소 인스턴스에 대해 Dispatcher 캐시를 비활성화하는 것이 어려워질 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | Dynamic Media에서 Adobe Analytics에 연결하는 동안 [*[!UICONTROL 브라우저 업데이트&#x200B;]*&#x200B;오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27200) | 신규 문서 | *[!UICONTROL 에서 AEM Dynamic Media 데스크탑 앱을 통해 Adobe Analytics에 연결할 때]*&#x200B;브라우저 업데이트[!DNL Windows] 오류가 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Adobe Experience Manager: 6.5.23에서 Dynamic Media 하이브리드의 로컬 이미지 게재에 대한 404 오류](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27297) | 신규 문서 | Dynamic Media Hybrid가 AEM 6.5.23에서 로컬 이미지를 제공하지 않는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Adobe Experience Manager: AEM 6.5.23[!UICONTROL 에서 &#x200B;]개발자](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27405) 모드로 전환하면 페이지 편집을 사용할 수 없습니다. | 신규 문서 | 페이지 편집기에서 [!UICONTROL 개발자] 모드로 전환할 때 여러 문제가 발생할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEM 사이트 페이지에서 적응형 양식 제출 단추를 사용할 수 없습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27075) | 신규 문서 | [!UICONTROL 적응형 양식]을(를) AEM 사이트 페이지에 포함할 때 발생하는 문제의 해결 방법에 대해 알아보십시오. **제출** 단추는 누락되거나 초기화되지 않은 JavaScript 종속성으로 인해 비활성화 상태로 유지됩니다. |
+| 2025년 8월 | [WebM 파일이 AEM Managed Services에서 404 오류를 반환함](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27102) | 신규 문서 | DAM(디지털 자산 관리) 시스템에서 WebM 파일을 업로드하고 액세스하려고 할 때 Adobe Experience Manager(AEM) Managed Services이 *404 URL을 찾을 수 없음* 오류를 반환하는 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEM SP22 업그레이드 후 Dynamic Media 비디오 재생 오류](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27153) | 신규 문서 | Adobe Experience Manager(AEM) 6.5를 서비스 팩 22(SP22)로 업그레이드한 후 HMAC/기본 키 비동기화로 인한 Dynamic Media 암호 해독 오류로 인해 프로덕션 환경에서 비디오 재생이 실패하는 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEM Assets의 종속성 자동 관계](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27214) | 신규 문서 | DAM(디지털 에셋 관리) 시스템에 수집된 에셋이 AEM 6.5에 포함된 메타데이터를 기반으로 종속성을 자동으로 생성할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [검색 엔진이 AEM 관리 URL을 색인화하지 못하도록 합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27310) | 신규 문서 | AEM 관리 도메인과 연결된 URL이 검색 엔진 결과에 표시되어 색인화되지 않은 상태로 유지되어야 하는 페이지를 표시할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEM: 인덱싱 비용이 높으면 대규모 DAM 환경에 대한 쿼리 성능이 저하됩니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27315) | 신규 문서 | 대규모 AEM 환경에서 높은 인덱싱 비용으로 인해 기본 인덱싱 구성이 쿼리 성능 저하를 초래할 수 있는 경우의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | 업데이트된 [ 파일을 사용할 때 AEM Forms의 PDF 출력에 `XCI`단추가 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27406) | 신규 문서 | Adobe Experience Manager(AEM) Forms JEE에서 PDF/UA 호환을 위한 새 `XCI` 파일을 사용할 때 PDF 출력에서 단추가 누락된 경우의 문제 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEM Forms JEE에서 IDP 인증 후 DRM-SAML 리디렉션 실패](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27434) | 신규 문서 | AEM Forms Document Security(Rights Management)를 사용하여 PDF을 보호할 때 Adobe Acrobat 또는 Reader에서 IDP(ID 공급자)를 통해 인증 후 리디렉션 오류가 발생하는 경우의 문제 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [속성이 Adobe Experience Manager의 Live Copy와 동기화되지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27312) | 신규 문서 | [!UICONTROL 다중 사이트 관리자]&#x200B;(MSM)를 사용하여 페이지를 롤아웃하면 일부 사용자 지정 속성이 AEM의 라이브 카피에 동기화되지 않는 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEM 전역 머리글과 바닥글을  [!DNL React] 앱에 통합](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27044) | 신규 문서 | AEM 전역 머리글과 바닥글을 [!DNL React] 응용 프로그램에 통합하여 스타일링 및 기능 문제를 일으킬 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEMaaCS용 [!UICONTROL 도메인 설정]에서 내부 도메인을 만들 수 없음 - Assets](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27171) | 신규 문서 | AEMaaCS - Assets의 [!UICONTROL 도메인 설정] 인터페이스를 통해 [!UICONTROL 작성자] 인스턴스에 대한 사용자 지정 내부 도메인을 설정할 수 없을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEMaaCS의 CRX 패키지 관리자에서 패키지를 다운로드할 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27175) | 신규 문서 | CRX 패키지 관리자에서 `SYSTEM`(으)로 표시된 패키지를 AEMaaCS에서 다운로드할 수 없는 경우의 문제 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEMaaCS에서 100MB가 넘는 파일에 대한 PDF 미리 보기가 실패합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27183) | 신규 문서 | 100MB가 넘는 PDF 파일을 AEMaaCS에서 미리 볼 수 없을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEMaaCS에서 예약된 시간에 Dispatcher 캐시 지우기](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27184) | 신규 문서 | AEMaaCS에서 예약된 콘텐츠 게시를 지원하는 데 필요한 특정 시간에 Dispatcher 캐시를 플러시하는 방법에 대해 알아봅니다. |
+| 2025년 8월 | [배포 오류 [!DNL Splunk] AEMaaCS에서 로그 전달 중](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27196) | 신규 문서 | AEMaaCS에서 잘못된 끝점 사용 또는 네트워크 잘못된 구성으로 인해 [!DNL Splunk] 로그 전달을 구성할 때 배포가 실패할 경우 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEMaaCS에서 잘못된 SAML 토큰이 로그인을 차단합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27217) | 신규 문서 | AEMaaCS의 개발 환경에서 SAML 인증에 대해 업데이트된 구성을 테스트할 때 문제에 대한 솔루션에 대해 알아봅니다. 로그인 중 시스템에서 *invalid_token* 오류를 반환합니다. |
+| 2025년 8월 | [AEMaaCS에서 ESI를 사용하도록 설정하는 방법 설명](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27280) | 신규 문서 | AEMaaCS에서 ESI([!DNL Edge Side Includes])를 활성화하는 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEMaaCS에서 렌더링하거나 열지 않는 페이지가 거의 없습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27319) | 신규 문서 | AEMaaCS - Sites의 일부 현지화된 페이지가 특정 환경에서 렌더링되거나 열리지 않을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEM에서 RDE 업그레이드 후 콘텐츠 조각 기능이 지원되지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27321) | 신규 문서 | AEMaaCS에서 RDE(Rapid Development Environment)를 업그레이드한 후 버전 비호환으로 인해 콘텐츠 조각 기능을 열지 못할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Adobe Experience Manager의 원래 위치로 태그를 다시 이동할 수 없습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27364) | 신규 문서 | 관리자가 아닌 사용자가 태그를 이동한 후 원래 위치로 다시 이동하려고 할 때 *권한 거부* 오류가 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [AEMaaCS로 마이그레이션한 후 온-프레미스 sling 매핑이 실패합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27393) | 신규 문서 | On-Premise AEM 설정에서 AEMaaCS로 sling 매핑을 마이그레이션할 때 호환성 문제가 발생하는 문제의 솔루션에 대해 알아봅니다. |
+| 2025년 8월 | [[!UICONTROL 콘텐츠 트리 게시] 워크플로가 AEMaaCS에서 실행 중 상태로 중단됨 - Assets](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27369) | 신규 문서 | AEMaaCS - Assets의 [!UICONTROL 콘텐츠 트리 게시] 워크플로가 [!UICONTROL 작성자] 환경에서 자산을 게시하는 동안 중단되는 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | 미리 보기/라이브 사이트에서 인증이 [활성화&#x200B;*될 때* AEM 유니버설 편집기에서 401 오류를 반환함](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27451) | 신규 문서 | Adobe Experience Manager(AEM) EDS(Edge Delivery Service) 미리보기 및 라이브 사이트에 대해 인증이 *활성화*&#x200B;될 때 유니버설 편집기가 *401 Unauthorized* 오류와 함께 실패하는 문제에 대한 해결 방법에 대해 알아봅니다. |
 
 +++
 
@@ -407,7 +407,7 @@ Experience League의 새로운 [!DNL Adobe Commerce] 튜토리얼입니다.
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025년 9월 | [Adobe Exchange에서 App Builder 앱 설치](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-developer-app-builder/install-app-builder-app) | 비디오 | Adobe Exchange을 사용하여 Adobe Commerce App Builder 앱을 설치하고 확인하는 방법을 알아봅니다. |
+| 2025년 9월 | [Adobe Exchange에서 App Builder 앱 설치](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-developer-app-builder/install-app-builder-app) | 비디오 | Adobe Exchange을 사용하여 Adobe Commerce App Builder 앱을 설치하고 확인하는 방법을 알아봅니다. |
 
 ### 새 [!DNL Commerce] 지원 기술 자료{#kb-commerce}
 
@@ -416,9 +416,9 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|--------|---------|---------|
 | 2025년 8월 | [[!DNL Quality Patches Tool] (QPT)](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | 신규 문서 | QPT 1.1.67, QPT 1.1.68 및 QPT 1.1.69에서 사용할 수 있는 패치를 적용하는 방법에 대한 새로운 문서가 게시되었으며 각각의 섹션에서 찾을 수 있습니다. |
-| 2025년 8월 | [Adobe Commerce 온-프레미스: URL에 스토어 코드가 없는 다중 스토어 설정](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27235) | 신규 문서 | 전역 `www.example.com/dk`URL에 스토어 코드 추가&#x200B;**[!UICONTROL 설정을 활성화하지 않고 사용자 지정 URL 구조(예:]**)로 Adobe Commerce에서 새 스토어 보기를 설정할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. 콘텐츠와 테마는 예상대로 표시되지만 페이지에는 *404 오류*&#x200B;가 표시됩니다. |
-| 2025년 8월 | [Adobe Commerce 사이트 작동 중지 문제 해결 다이어그램](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27301) | 신규 문서 | Adobe Commerce 사이트 작동 중지 문제 해결 다이어그램을 사용하여 사이트 작동 중지 문제에 대한 솔루션에 대해 알아봅니다. |
-| 2025년 8월 | Commerce Cloud에서 PHP 메모리 소진으로 인해 [`setup:upgrade`이(가) 실패합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27387) | 신규 문서 | PHP CLI가 기본 메모리 제한인 1GB를 초과하여 [!UICONTROL &#x200B; 명령이 실패하는 Cloud 인프라의 Adobe Commerce에서 &#x200B;]프로덕션`setup:upgrade` 환경 재배포 중에 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Adobe Commerce 온-프레미스: URL에 스토어 코드가 없는 다중 스토어 설정](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27235) | 신규 문서 | 전역 `www.example.com/dk`URL에 스토어 코드 추가&#x200B;**[!UICONTROL 설정을 활성화하지 않고 사용자 지정 URL 구조(예:]**)로 Adobe Commerce에서 새 스토어 보기를 설정할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. 콘텐츠와 테마는 예상대로 표시되지만 페이지에는 *404 오류*&#x200B;가 표시됩니다. |
+| 2025년 8월 | [Adobe Commerce 사이트 작동 중지 문제 해결 다이어그램](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27301) | 신규 문서 | Adobe Commerce 사이트 작동 중지 문제 해결 다이어그램을 사용하여 사이트 작동 중지 문제에 대한 솔루션에 대해 알아봅니다. |
+| 2025년 8월 | Commerce Cloud에서 PHP 메모리 소진으로 인해 [`setup:upgrade`이(가) 실패합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27387) | 신규 문서 | PHP CLI가 기본 메모리 제한인 1GB를 초과하여 [!UICONTROL &#x200B; 명령이 실패하는 Cloud 인프라의 Adobe Commerce에서 &#x200B;]프로덕션`setup:upgrade` 환경 재배포 중에 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 
 +++
 
@@ -434,7 +434,7 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * 프리릴리스에 대한 자세한 내용은 [[!DNL Adobe Target] 프리릴리스](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/target-release-notes)를 참조하십시오.
@@ -473,9 +473,9 @@ Adobe Campaign용으로 게시된 새로운 또는 업데이트된 비디오 튜
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|----|----|-----------|
-| 2025년 8월 | [*더 이상 연락하지 않음(모든 채널에서)* Adobe Campaign에서 필드가 잘못 업데이트됨](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27296) | 신규 문서 | Adobe Campaign V8의 랜딩 페이지를 통해 구독 환경 설정을 관리할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. **[!UICONTROL 더 이상 연락하지 않음(모든 채널에서)]** 필드가 잘못 업데이트됩니다. |
-| 2025년 8월 | [Adobe Campaign v8 WebUI의 전자 메일 받은 편지함 렌더링 문제](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27408) | 신규 문서 | Adobe Campaign Managed Cloud v8의 받은 편지함 렌더링이 WebUI를 사용할 때 예상대로 작동하지 않을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [Adobe Campaign 웹 앱의 데이터 미리 로드 오류 수정](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27417) | 신규 문서 | Adobe Campaign에서 웹 애플리케이션을 테스트할 때 폴더 액세스 권한 누락으로 인해 데이터 미리 로드 오류가 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [*더 이상 연락하지 않음(모든 채널에서)* Adobe Campaign에서 필드가 잘못 업데이트됨](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27296) | 신규 문서 | Adobe Campaign V8의 랜딩 페이지를 통해 구독 환경 설정을 관리할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. **[!UICONTROL 더 이상 연락하지 않음(모든 채널에서)]** 필드가 잘못 업데이트됩니다. |
+| 2025년 8월 | [Adobe Campaign v8 WebUI의 전자 메일 받은 편지함 렌더링 문제](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27408) | 신규 문서 | Adobe Campaign Managed Cloud v8의 받은 편지함 렌더링이 WebUI를 사용할 때 예상대로 작동하지 않을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Adobe Campaign 웹 앱의 데이터 미리 로드 오류 수정](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27417) | 신규 문서 | Adobe Campaign에서 웹 애플리케이션을 테스트할 때 폴더 액세스 권한 누락으로 인해 데이터 미리 로드 오류가 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 
 +++
 
@@ -505,9 +505,9 @@ Experience League에 새로운 Adobe [!DNL Journey Optimizer] 튜토리얼이 �
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025년 9월 | [!DNL Journey Optimizer] | [Adobe Journey Optimizer에서 오케스트레이션된 캠페인 소개](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns) | 비디오 | Adobe Journey Optimizer의 오케스트레이션된 캠페인을 통해 마케터가 고급 데이터 관리 기능을 사용하여 브랜드에서 시작한 대상자 기반 캠페인을 관리하는 방법을 알아봅니다. |
+| 2025년 9월 | [!DNL Journey Optimizer] | [Adobe Journey Optimizer에서 오케스트레이션된 캠페인 소개](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns) | 비디오 | Adobe Journey Optimizer의 오케스트레이션된 캠페인을 통해 마케터가 고급 데이터 관리 기능을 사용하여 브랜드에서 시작한 대상자 기반 캠페인을 관리하는 방법을 알아봅니다. |
 | 2025년 9월 | [!DNL Journey Optimizer] | [라이브 보고서로 여정 모니터링 및 분석](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports) | 비디오 | Adobe Journey Optimizer의 라이브 보고서 기능을 효과적으로 사용하여 여정 및 메시지의 성능을 실시간으로 모니터링하고 분석하는 방법을 알아봅니다. 대시보드를 사용자 정의하고, 보고서를 내보내고, 여정별 지표를 해석하여 마케팅 전략을 최적화하는 방법을 알아봅니다. |
-| 2025년 9월 | [!DNL Journey Optimizer] | Journey Optimizer의 [관계형 저장소 기본 사항](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/relational-store-basics) | 비디오 | Journey Optimizer 캠페인 오케스트레이션에 사용되는 관계형 저장소의 기본 개념을 알아봅니다. 여기에는 스키마 디자인, 데이터 수집, 지원되는 소스 및 실시간 프로필 저장소와의 주요 차이점이 포함됩니다. |
+| 2025년 9월 | [!DNL Journey Optimizer] | Journey Optimizer의 [관계형 저장소 기본 사항](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/relational-store-basics) | 비디오 | Journey Optimizer 캠페인 오케스트레이션에 사용되는 관계형 저장소의 기본 개념을 알아봅니다. 여기에는 스키마 디자인, 데이터 수집, 지원되는 소스 및 실시간 프로필 저장소와의 주요 차이점이 포함됩니다. |
 
 ### 새 [!DNL Journey Optimizer] 지원 기술 자료{#kb-ajo}
 
@@ -515,8 +515,8 @@ Experience League에 새로운 Adobe [!DNL Journey Optimizer] 튜토리얼이 �
 
 | 게시일 | 이름 | 유형 | 설명 |
 |---------|----|----|-----------|
-| 2025년 8월 | [Adobe Journey Optimizer: 새 샌드박스의 [!UICONTROL 프로필] 및 [!UICONTROL 데이터 레이크] 데이터 세트에 대한 TTL 설정](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26135) | 신규 문서 | AJO에서 새 샌드박스를 만들 때 TTL(Time-to-Live) 설정이 [!UICONTROL 프로필] 및 [!UICONTROL 데이터 레이크] 데이터 세트에 적용되는 방법에 대해 알아봅니다. |
-| 2025년 8월 | [테마를 사용하여 Adobe Journey Optimizer에서 전자 메일 서식 문제를 방지](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27252) | 신규 문서 | 이메일 헤더에서 기본 CSS 블록을 수정하면 예기치 않은 서식 문제(특히 콘텐츠 조각을 제거한 후)가 발생할 수 있는 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Adobe Journey Optimizer: 새 샌드박스의 [!UICONTROL 프로필] 및 [!UICONTROL 데이터 레이크] 데이터 세트에 대한 TTL 설정](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26135) | 신규 문서 | AJO에서 새 샌드박스를 만들 때 TTL(Time-to-Live) 설정이 [!UICONTROL 프로필] 및 [!UICONTROL 데이터 레이크] 데이터 세트에 적용되는 방법에 대해 알아봅니다. |
+| 2025년 8월 | [테마를 사용하여 Adobe Journey Optimizer에서 전자 메일 서식 문제를 방지](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27252) | 신규 문서 | 이메일 헤더에서 기본 CSS 블록을 수정하면 예기치 않은 서식 문제(특히 콘텐츠 조각을 제거한 후)가 발생할 수 있는 문제에 대한 해결 방법에 대해 알아봅니다. |
 
 ### [!DNL Journey Optimizer]를 위한 추가 리소스
 
@@ -555,9 +555,9 @@ Experience League에 새로운 Adobe [!DNL Journey Optimizer] 튜토리얼이 �
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 +++
 
@@ -581,7 +581,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 최신 제품 설명서를 보려면 [Marketo 제품 설명서](https://experienceleague.adobe.com/ko/docs/marketo/using/home) 홈을 참조하십시오.
 
@@ -591,7 +591,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
+|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
 -->
 
 +++
@@ -604,7 +604,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 ### [!DNL Adobe Workfront] 업데이트
 
-* [2025년 4분기 릴리스 개요](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
+* [2025년 4분기 릴리스 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
 모든 릴리스 정보는 다음과 같습니다.
 
@@ -618,12 +618,12 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼 및 이벤트
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025년 9월 | [레코드 유형 요청 양식 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-record-type-request-form) | 비디오 | 작업을 구성하고, 주요 정보를 수집하고, 팀 효율성을 높이기 위한 사용자 정의 요청 양식을 만드는 방법을 배움으로써 작업을 간소화합니다. |
-| 2025년 9월 | [작업 상태 업데이트](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/update-the-task-status) | 비디오 | 작업 상태를 업데이트하는 방법, 이유 및 빈도를 알아봅니다. |
-| 2025년 9월 | [문제 상태 업데이트](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-the-issue-status) | 비디오 | 문제 상태 및 이를 사용하기 위한 모범 사례에 대해 알아봅니다. |
-| 2025년 9월 | [존재 필터 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/understand-exists-filters) | 비디오 | EXISTS 필터가 무엇인지, 필터가 사용자에게 무엇을 해줄 수 있는지, 그리고 필터를 처음부터 빌드하는 방법을 알아봅니다. 또한 EXISTS 필터의 많은 유용한 예를 참조하십시오. |
-| 2025년 9월 | [캔버스 대시보드 소개](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/introduction-to-canvas-dashboards) | 비디오 | 캔버스 대시보드로 이동하고 캔버스 대시보드 내에서 이동하는 방법과 기존 보고서를 사용하여 간단한 대시보드를 만드는 방법을 알아봅니다. |
-| 2025년 9월 | [캔버스 대시보드에서 KPI 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard) | 비디오 | 캔버스 대시보드에서 KPI 보고서를 만드는 방법을 알아봅니다. |
+| 2025년 9월 | [레코드 유형 요청 양식 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-record-type-request-form) | 비디오 | 작업을 구성하고, 주요 정보를 수집하고, 팀 효율성을 높이기 위한 사용자 정의 요청 양식을 만드는 방법을 배움으로써 작업을 간소화합니다. |
+| 2025년 9월 | [작업 상태 업데이트](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/update-the-task-status) | 비디오 | 작업 상태를 업데이트하는 방법, 이유 및 빈도를 알아봅니다. |
+| 2025년 9월 | [문제 상태 업데이트](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-the-issue-status) | 비디오 | 문제 상태 및 이를 사용하기 위한 모범 사례에 대해 알아봅니다. |
+| 2025년 9월 | [존재 필터 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/understand-exists-filters) | 비디오 | EXISTS 필터가 무엇인지, 필터가 사용자에게 무엇을 해줄 수 있는지, 그리고 필터를 처음부터 빌드하는 방법을 알아봅니다. 또한 EXISTS 필터의 많은 유용한 예를 참조하십시오. |
+| 2025년 9월 | [캔버스 대시보드 소개](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/introduction-to-canvas-dashboards) | 비디오 | 캔버스 대시보드로 이동하고 캔버스 대시보드 내에서 이동하는 방법과 기존 보고서를 사용하여 간단한 대시보드를 만드는 방법을 알아봅니다. |
+| 2025년 9월 | [캔버스 대시보드에서 KPI 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard) | 비디오 | 캔버스 대시보드에서 KPI 보고서를 만드는 방법을 알아봅니다. |
 
 ### 새 [!DNL Workfront] 지원 기술 자료
 
@@ -631,12 +631,12 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼 및 이벤트
 
 | 게시일 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025년 8월 | Workfront에서 소유자가 비활성화되어 있으면 [캘린더가 비어 있습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27192) | 신규 문서 | 달력 소유자가 비활성화되고 달력이 비어 있으며 작업 또는 이벤트가 표시되지 않는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [Workfront에서 리소스 관리자를 할당할 때 오류가 표시됩니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27251) | 신규 문서 | 필요한 라이선스 유형 없이 리소스 관리자가 포함된 프로젝트 템플릿을 첨부할 때 오류 *플랜 라이선스가 있는 사용자만 리소스 관리자로 추가할 수 있음*&#x200B;이(가) 발생하는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [프로젝트 전환 시 Workfront에서 기본적으로 홈 그룹 &quot;보기&quot; 액세스 권한을 부여하는 문제](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27261) | 신규 문서 | Adobe Workfront에서 템플릿을 사용하여 문제를 프로젝트로 전환할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. 크리에이터의 홈 그룹은 결과 프로젝트에 대한 보기 액세스 권한을 자동으로 받습니다. |
-| 2025년 8월 | [Workfront에서  [!DNL Fusion] 시나리오](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27287)를 통해 중복된 폴더를 자동으로 만들었습니다. | 신규 문서 | 활성 [!DNL Fusion] 연결로 인해 특정 Adobe Workfront 프로젝트에 중복 폴더가 자동으로 만들어지는 경우 이 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [Adobe Workfront에서 특정 승인자 작업에 대해 보고할 수 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27298) | 신규 문서 | Adobe Workfront 보고서가 기본적으로 다단계 승인 워크플로에서 특정 승인자가 수행한 작업을 격리하는 것을 지원하지 않는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2025년 8월 | [Workfront의 기존 프로젝트에 템플릿을 첨부할 수 없습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27305) | 신규 문서 | 시스템 전체 공유 권한 설정과 관련된 Adobe Workfront의 기존 프로젝트에 템플릿을 첨부할 때 오류가 발생할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | Workfront에서 소유자가 비활성화되어 있으면 [캘린더가 비어 있습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27192) | 신규 문서 | 달력 소유자가 비활성화되고 달력이 비어 있으며 작업 또는 이벤트가 표시되지 않는 문제의 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Workfront에서 리소스 관리자를 할당할 때 오류가 표시됩니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27251) | 신규 문서 | 필요한 라이선스 유형 없이 리소스 관리자가 포함된 프로젝트 템플릿을 첨부할 때 오류 *플랜 라이선스가 있는 사용자만 리소스 관리자로 추가할 수 있음*&#x200B;이(가) 발생하는 경우의 문제 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [프로젝트 전환 시 Workfront에서 기본적으로 홈 그룹 &quot;보기&quot; 액세스 권한을 부여하는 문제](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27261) | 신규 문서 | Adobe Workfront에서 템플릿을 사용하여 문제를 프로젝트로 전환할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. 크리에이터의 홈 그룹은 결과 프로젝트에 대한 보기 액세스 권한을 자동으로 받습니다. |
+| 2025년 8월 | [Workfront에서  [!DNL Fusion] 시나리오](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27287)를 통해 중복된 폴더를 자동으로 만들었습니다. | 신규 문서 | 활성 [!DNL Fusion] 연결로 인해 특정 Adobe Workfront 프로젝트에 중복 폴더가 자동으로 만들어지는 경우 이 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Adobe Workfront에서 특정 승인자 작업에 대해 보고할 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27298) | 신규 문서 | Adobe Workfront 보고서가 기본적으로 다단계 승인 워크플로에서 특정 승인자가 수행한 작업을 격리하는 것을 지원하지 않는 경우의 문제 해결 방법에 대해 알아봅니다. |
+| 2025년 8월 | [Workfront의 기존 프로젝트에 템플릿을 첨부할 수 없습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27305) | 신규 문서 | 시스템 전체 공유 권한 설정과 관련된 Adobe Workfront의 기존 프로젝트에 템플릿을 첨부할 때 오류가 발생할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 
 최신 제품 설명서를 보려면 [Adobe [!DNL Workfront] 홈 페이지](https://experienceleague.adobe.com/ko/docs/workfront/using/home)를 참조하십시오.
 
@@ -724,13 +724,13 @@ Adobe Document Cloud용으로 게시된 새로운 튜토리얼
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2025년 9월 | Acrobat | [액세스 가능한 PDF 파일 내용 및 이유](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/what-why-accessible-pdf) | 비디오 | 액세스 가능한 PDF 만들기의 중요성과 장애가 있는 사용자에게 도움이 되는 방법을 이해합니다. |
-| 2025년 9월 | Acrobat | [액세스 가능한 양식 만들기](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/create-accessible-forms) | 비디오 | Acrobat에서 양식에 액세스할 수 있도록 하는 방법을 알아봅니다. 이 7단계를 수행하면 대화형 양식 필드에 액세스할 수 있는 PDF을 만드는 처리 속도를 높이는 데 도움이 될 수 있습니다. |
-| 2025년 9월 | Acrobat | [작업 영역 설정](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/set-up-workspace) | 비디오 | 액세스 가능한 PDF 파일을 간소화하는 데 도움이 되는 모든 접근성 도구를 손끝에 적용하는 방법에 대해 알아봅니다. |
-| 2025년 9월 | Acrobat | [Word에서 액세스 가능한 PDF 만들기](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/create-accessible-from-word) | 비디오 | Microsoft Word에서 액세스 가능한 PDF 파일을 만드는 방법을 알아봅니다. 잘 구조화된 Word 파일로 시작하면 액세스 가능한 PDF을 만들 때 전혀 다른 세상을 만들 수 있습니다. |
+| 2025년 9월 | Acrobat | [액세스 가능한 PDF 파일 내용 및 이유](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/what-why-accessible-pdf) | 비디오 | 액세스 가능한 PDF 만들기의 중요성과 장애가 있는 사용자에게 도움이 되는 방법을 이해합니다. |
+| 2025년 9월 | Acrobat | [액세스 가능한 양식 만들기](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/create-accessible-forms) | 비디오 | Acrobat에서 양식에 액세스할 수 있도록 하는 방법을 알아봅니다. 이 7단계를 수행하면 대화형 양식 필드에 액세스할 수 있는 PDF을 만드는 처리 속도를 높이는 데 도움이 될 수 있습니다. |
+| 2025년 9월 | Acrobat | [작업 영역 설정](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/set-up-workspace) | 비디오 | 액세스 가능한 PDF 파일을 간소화하는 데 도움이 되는 모든 접근성 도구를 손끝에 적용하는 방법에 대해 알아봅니다. |
+| 2025년 9월 | Acrobat | [Word에서 액세스 가능한 PDF 만들기](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/create-accessible-from-word) | 비디오 | Microsoft Word에서 액세스 가능한 PDF 파일을 만드는 방법을 알아봅니다. 잘 구조화된 Word 파일로 시작하면 액세스 가능한 PDF을 만들 때 전혀 다른 세상을 만들 수 있습니다. |
 | 2025년 9월 | Acrobat Sign | [Docusign 템플릿 마이그레이션](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/docusign-templates) | 업데이트된 비디오 | 3가지 간단한 단계를 수행하여 Docusign 템플릿 및 워크플로를 Acrobat Sign으로 원활하게 마이그레이션하는 방법에 대해 알아봅니다. |
-| 2025년 9월 | Acrobat Sign | [Acrobat Sign 시작](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender) | 업데이트된 비디오 | Adobe Sign에서 새로운 발신자로서 서명을 위한 문서 전송을 시작하는 방법에 대해 알아봅니다. |
-| 2025년 9월 | Acrobat Sign | [단일 서명자에게 문서 보내기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/send-to-single-recipient.html?lang=en) | 업데이트된 비디오 | Adobe Sign을 사용하여 서명을 위해 문서를 단일 수신자에게 전송하는 방법에 대해 알아봅니다. |
+| 2025년 9월 | Acrobat Sign | [Acrobat Sign 시작](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender) | 업데이트된 비디오 | Adobe Sign에서 새로운 발신자로서 서명을 위한 문서 전송을 시작하는 방법에 대해 알아봅니다. |
+| 2025년 9월 | Acrobat Sign | [단일 서명자에게 문서 보내기](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/send-to-single-recipient.html?lang=ko) | 업데이트된 비디오 | Adobe Sign을 사용하여 서명을 위해 문서를 단일 수신자에게 전송하는 방법에 대해 알아봅니다. |
 
 [!DNL Document Cloud] 튜토리얼을 찾아보려면 다음을 참조하십시오.
 
@@ -749,8 +749,8 @@ Firefly을 포함하여 [!DNL Adobe Creative Cloud for enterprise]의 응용 프
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | -----------| -----------|---------- | ---------- | ---------- |
-| 2025년 9월 | Firefly | [사용자 지정 모델 만들기](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) | 비디오 | Firefly에서 배경, 색상 및 색상과 같은 특정 유형의 스타일을 사용하여 조직 브랜드에 대한 새로운 이미지를 만들 수 있는 사용자 정의 모델을 구축하는 방법에 대해 알아봅니다. |
-| 2025년 9월 | Firefly | [백그라운드 제거 및 교체](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) | 비디오 | Firefly Creative Production을 사용하여 대규모로 배경을 제거 및/또는 바꾸는 방법에 대해 알아봅니다. |
+| 2025년 9월 | Firefly | [사용자 지정 모델 만들기](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) | 비디오 | Firefly에서 배경, 색상 및 색상과 같은 특정 유형의 스타일을 사용하여 조직 브랜드에 대한 새로운 이미지를 만들 수 있는 사용자 정의 모델을 구축하는 방법에 대해 알아봅니다. |
+| 2025년 9월 | Firefly | [백그라운드 제거 및 교체](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) | 비디오 | Firefly Creative Production을 사용하여 대규모로 배경을 제거 및/또는 바꾸는 방법에 대해 알아봅니다. |
 
 자세한 내용은 [Creative Cloud for enterprise](https://experienceleague.adobe.com/ko/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)의 튜토리얼 라이브러리를 검색하십시오.
 
@@ -766,16 +766,16 @@ Firefly을 포함하여 [!DNL Adobe Creative Cloud for enterprise]의 응용 프
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
