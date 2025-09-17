@@ -2,13 +2,13 @@
 cloud: Experience Cloud, Experience Platform
 product: experience cloud
 user-guide-title: Adobe Experience Cloud 릴리스 정보
-breadcrumb-title: 릴리스 정보
+breadcrumb-title: 중앙 릴리스 노트
 user-guide-description: Adobe Experience Cloud 및 Experience Platform의 새로운 기능, 수정 사항 및 중요 공지 사항에 대해 알아봅니다.
 user-guide-url: https://www.adobe.com
-source-git-commit: 1394b4e413867e8170a5ae1d6cd3f45fb854e1c8
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: ead4489c7199749dbf8fec8bd596c4968005627c
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 97%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [최신 릴리스 정보](current.md)
 + 이전 릴리스 정보 {#previous}
    + 2025 {#2025}
+      + [2025년 8월](c-legacy-releases/2025/08132025.md)
       + [2025년 7월](c-legacy-releases/2025/07162025.md)
       + [2025년 6월](c-legacy-releases/2025/06182025.md)
       + [2025년 5월](c-legacy-releases/2025/05142025.md)
@@ -28,7 +29,7 @@ ht-degree: 100%
    + 2024 {#2024}
       + [2024년 11월](c-legacy-releases/2024/10232024.md)
       + [2024년 9월](c-legacy-releases/2024/09122024.md)
-      + [2024년 8월](c-legacy-releases/2024/09142023.md)
+      + [2024년 8월](c-legacy-releases/2024/08142024.md)
       + [2024년 7월](c-legacy-releases/2024/07172024.md)
       + [2024년 6월](c-legacy-releases/2024/06122024.md)
       + [2024년 5월](c-legacy-releases/2024/05152024.md)
