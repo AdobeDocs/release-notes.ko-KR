@@ -6,9 +6,9 @@ last-update: September 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 126e5166d4d1e99e047ac2650a68c185fc3009fd
+source-git-commit: 34f95b166656f5c9df9288af4f56bc6c47fb81cf
 workflow-type: tm+mt
-source-wordcount: '5012'
+source-wordcount: '4944'
 ht-degree: 99%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-업데이트 날짜: **2025년 9월 17일**
+업데이트 날짜: **2025년 9월 25일 금요일**
 
 이 페이지를 통해 다음을 수행할 수 있습니다.
 
@@ -91,22 +91,6 @@ Experience Cloud에서 생성형 AI(genAI), AI 어시스턴트 및 AI 에이전�
 
 +++릴리스 정보
 
-<!-- Release date: **July 16, 2025**
-
-**What's new**
-
-* Virtual Assistant general availability
-* Event ID search
-* Slack notification setup update
-* Bug fixes and improvements
-
-| Feature | Description |
-| ------- | ------- |
-| **Virtual Assistant general availability** | <ul><li>**[!UICONTROL Virtual Assistant]** lets Adobe Status customers on the web or mobile find answers and perform quick actions without leaving the home page. It's a single place for getting help and completing tasks quickly. </li><li>Virtual assistant is now available to all Adobe Status customers. It can be accessed by logging in to [status.adobe.com](https://status.adobe.com/) and interacting with the **[!UICONTROL Ask our assistant]** widget .</li></ul>|
-| **Event ID search** | <ul><li>Customers can now search by event ID on Product and Cloud pages as well as on Virtual Assistant.</li></ul> |
-| **Slack notification setup update** | <ul><li>Customers will be asked to enter their Slack channel details before they can proceed with the setup. This update ensures a smooth Slack setup with their Slack channel handy.</li></ul> |
-| **Bug fixes and improvements** | <ul><li>Missing notifications - Customer-facing statement availability notifications were not sent to customers on past CSOs</li><li>Missing notifications - When two events occurred at same time, email communications were missed.</li><li>40 days history for Maintenances - Maintenances were missing historical events due to some of them being older than 40 days.</li><li>Cloud page banner - The banner did not update when filters changed on the Cloud page.</li><li>UI Enhancements - Messages related to customer-facing statements are updated to improve clarity.</li></ul> | -->
-
 [!DNL Adobe System Status]에 대한 이전 릴리스 정보:
 
 * [2025년 8월](https://experienceleague.adobe.com/ko/docs/release-notes/experience-cloud/previous/2025/08132025#status)
@@ -127,13 +111,9 @@ Experience Cloud에서 생성형 AI(genAI), AI 어시스턴트 및 AI 에이전�
 
 +++도움말 리소스 보기
 
-릴리스 예정일: **2025년 9월 25일**
-
-(날짜는 변경될 수 있습니다.)
-
 | 일자 | 업데이트 | 설명 |
 | -----------| -----------| ---------- |
-| 예정: **2025년 9월 25일** | IP 액세스 목록 지원 | Admin Console에서 IP 액세스 목록을 사용하고 있고 활성화된 조직의 경우, Experience Cloud는 해당 IP 제한을 준수하여 `https://experience.adobe.com` 도메인에서 애플리케이션에 액세스합니다. 이 업데이트는 해당 도메인을 통해 액세스하는 모든 웹 애플리케이션에 영향을 미치며, 해당 조직에 로그인하고 새 페이지를 로드할 때 확인이 발생합니다. |
+| **2025년 9월 25일 금요일** | IP 액세스 목록 지원 | Admin Console에서 IP 액세스 목록을 사용하고 있고 활성화된 조직의 경우, Experience Cloud는 해당 IP 제한을 준수하여 `https://experience.adobe.com` 도메인에서 애플리케이션에 액세스합니다. 이 업데이트는 해당 도메인을 통해 액세스하는 모든 웹 애플리케이션에 영향을 미치며, 해당 조직에 로그인하고 새 페이지를 로드할 때 확인이 발생합니다. |
 
 다음에 대한 도움말은 [Experience Cloud 인터페이스 및 관리 안내서](https://experienceleague.adobe.com/ko/docs/core-services/interface/experience-cloud)를 참조하십시오.
 
@@ -151,21 +131,11 @@ Experience Cloud에서 생성형 AI(genAI), AI 어시스턴트 및 AI 에이전�
 
 **Experience Platform**
 
-**2025년 8월 19일** 업데이트:
-
-* **경고:** 스트리밍 처리량 용량 경고
-* **카탈로그 서비스:** 실시간 고객 프로필에 대한 데이터 보존
-* **대상:** Acxiom Real ID 대상자 연결 대상 등
-* **모델 기반 스키마:** 모델 기반 스키마로 데이터 모델링 단순화
-* **샌드박스:** 가져오기 워크플로에서 종속성 오브젝트 중복 제거, 조직 간 패키지 공유를 위한 전체 샌드박스 지원
-* **세분화 서비스:** 대상자 예상치
-* **소스:** Oracle NetSuite 소스의 일반 가용성 등
-
-자세한 내용은 [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-platform/release-notes/latest)를 참조하십시오.
+**2025년 9월 23일** 업데이트: 자세한 내용은 [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-platform/release-notes/latest)를 참조하세요.
 
 **Mobile SDK**
 
-업데이트 날짜: **2025년 9월 5일**
+업데이트 날짜: **2025년 9월 22일 화요일**
 
 자세한 내용은 [[!DNL Experience Platform] Mobile SDK 릴리스 정보](https://developer.adobe.com/client-sdks/documentation/release-notes/)를 참조하십시오.
 
@@ -184,12 +154,12 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2025|[Case sensitivity issues in audience creation on Adobe Experience Platform UI](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27033)|New article| Learn about the solutions to the issue where audience names are case-sensitive, so *NAME_1* and *name_1* are treated as separate audiences.|
-|July 2025|[Audience evaluation stuck in *queued* status in AEP](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27035)|New article| Learn about the solutions to the issue when audience evaluations that you trigger on demand stay in a *queued* state.|
-|July 2025|[Adobe Experience Platform: [!UICONTROL Lookalike Audiences] not syncing with Google Ad Manager](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27041)|New article| Learn about the solutions to the issue when you try to activate a [!UICONTROL Lookalike Audience] from Adobe Experience Platform (AEP) to Google Ad Manager (GAM), the audience appears in GAM, but stays empty and doesn't function.|
-|July 2025|[UPS job fails due to record size exceeding ingestion limits in AEP](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27068)|New article| Learn about the solutions to the issue when UPS batch ingestion in Adobe Experience Platform (AEP) fails when records exceed size limits.|
-|July 2025|[Error occurs during segment activation to Amazon Ads destination in AEP](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27098)|New article| Learn about the solutions to the issue when an error occurs during segment activation to the Amazon Ads destination even after renaming segments to meet mapping requirements by removing special characters.|
-|July 2025|[Real-Time Customer Data Platform: Missing profile fragment counts in *profile-enabled* datasets](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27142)|New article| Learn about the solutions to the issue when the columns, **[!UICONTROL New profile fragments]** and **[!UICONTROL Existing profile fragments]**, may appear empty when viewing batches for a *profile-enabled* dataset in Real-Time Customer Data Platform.|
+|July 2025|[Case sensitivity issues in audience creation on Adobe Experience Platform UI](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27033)|New article| Learn about the solutions to the issue where audience names are case-sensitive, so *NAME_1* and *name_1* are treated as separate audiences.|
+|July 2025|[Audience evaluation stuck in *queued* status in AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27035)|New article| Learn about the solutions to the issue when audience evaluations that you trigger on demand stay in a *queued* state.|
+|July 2025|[Adobe Experience Platform: [!UICONTROL Lookalike Audiences] not syncing with Google Ad Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27041)|New article| Learn about the solutions to the issue when you try to activate a [!UICONTROL Lookalike Audience] from Adobe Experience Platform (AEP) to Google Ad Manager (GAM), the audience appears in GAM, but stays empty and doesn't function.|
+|July 2025|[UPS job fails due to record size exceeding ingestion limits in AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27068)|New article| Learn about the solutions to the issue when UPS batch ingestion in Adobe Experience Platform (AEP) fails when records exceed size limits.|
+|July 2025|[Error occurs during segment activation to Amazon Ads destination in AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27098)|New article| Learn about the solutions to the issue when an error occurs during segment activation to the Amazon Ads destination even after renaming segments to meet mapping requirements by removing special characters.|
+|July 2025|[Real-Time Customer Data Platform: Missing profile fragment counts in *profile-enabled* datasets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27142)|New article| Learn about the solutions to the issue when the columns, **[!UICONTROL New profile fragments]** and **[!UICONTROL Existing profile fragments]**, may appear empty when viewing batches for a *profile-enabled* dataset in Real-Time Customer Data Platform.|
 -->
 
 +++
@@ -243,7 +213,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/ko/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 <!-- 
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -252,9 +222,9 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|June 2025|[Analytics shared audience keeps showing collecting data on **[!UICONTROL Audience Library]**](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26635)|New article| Learn about the solutions to the issue when data isn't collected for a custom variable (For example: `eVar1`), the value will be shown as "`未指定`" in the **[!UICONTROL Analysis Workspace]** freeform table.|
-|June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
-|June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
+|June 2025|[Analytics shared audience keeps showing collecting data on **[!UICONTROL Audience Library]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26635)|New article| Learn about the solutions to the issue when data isn't collected for a custom variable (For example: `eVar1`), the value will be shown as "`未指定`" in the **[!UICONTROL Analysis Workspace]** freeform table.|
+|June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
+|June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
 -->
 
 +++
@@ -357,7 +327,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 |---------|--------|---------|---------|
 | 2025년 8월 | [[!UICONTROL LiveCopy] 사용 후, 일부 자산에 대해 DM에 게시가 작동하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27254) | 신규 문서 | 소스 위치의 자산이 DynamicMedia Scene7과 동기화될 때 동기화가 예상대로 작동하지 않는 대상 위치의 자산과 충돌을 일으키는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 8월 | [AEM의 특정 구성 요소 인스턴스에 대한 Dispatcher 캐시 비활성화](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27185) | 신규 문서 | 한 페이지의 여러 구성 요소가 동일한 `resourceType`을 공유할 때 특정 구성 요소 인스턴스에 대한 Dispatcher 캐시를 비활성화하는 데 어려움이 있는 문제에 대한 해결 방법을 알아봅니다. |
-| 2025년 8월 | Dynamic Media에서 Adobe Analytics에 연결하는 동안 [*[!UICONTROL 브라우저 업데이트&#x200B;]*&#x200B;오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27200) | 신규 문서 | [!DNL Windows]에서 AEM Dynamic Media 데스크탑 앱을 통해 Adobe Analytics에 연결할 때 *[!UICONTROL 브라우저 업데이트]* 오류가 발생하는 문제에 대한 해결 방법을 알아봅니다. |
+| 2025년 8월 | Dynamic Media에서 Adobe Analytics에 연결하는 동안 [*[!UICONTROL 브라우저 업데이트&#x200B;]*오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27200) | 신규 문서 | [!DNL Windows]에서 AEM Dynamic Media 데스크탑 앱을 통해 Adobe Analytics에 연결할 때 *[!UICONTROL 브라우저 업데이트]* 오류가 발생하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 8월 | [Adobe Experience Manager: 6.5.23에서 Dynamic Media 하이브리드의 로컬 이미지 게재에 대한 404 오류](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27297) | 신규 문서 | Dynamic Media 하이브리드가 AEM 6.5.23에서 로컬 이미지를 게재하지 않는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 8월 | [Adobe Experience Manager: AEM 6.5.23](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27405)에서 [!UICONTROL 개발자] 모드로 전환하면 페이지 편집을 사용할 수 없음 | 신규 문서 | 페이지 편집기에서 [!UICONTROL 개발자] 모드로 전환할 때 여러 문제가 발생할 때 발생하는 경우에 대한 해결 방법을 알아봅니다. |
 | 2025년 8월 | [AEM 사이트 페이지에서 적응형 양식 제출 버튼을 사용할 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27075) | 신규 문서 | [!UICONTROL 적응형 양식]을 AEM 사이트 페이지에 임베드할 때, 누락되거나 초기화되지 않은 JavaScript 종속성으로 인해 **제출** 버튼이 비활성화 상태로 유지되는 문제에 대한 해결 방법을 알아봅니다. |
@@ -429,7 +399,7 @@ Adobe Commerce에 대한 신규 문서 및 기존 문서 업데이트
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * 프리릴리스에 대한 자세한 내용은 [[!DNL Adobe Target] 프리릴리스](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/target-release-notes)를 참조하십시오.
@@ -550,9 +520,9 @@ Experience League에 새로운 Adobe [!DNL Journey Optimizer] 튜토리얼이 �
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 +++
 
@@ -576,7 +546,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 최신 제품 설명서를 보려면 [Marketo 제품 설명서](https://experienceleague.adobe.com/ko/docs/marketo/using/home) 홈을 참조하십시오.
 
@@ -586,7 +556,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
+|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
 -->
 
 +++
@@ -761,16 +731,16 @@ Firefly를 포함하여 [!DNL Adobe Creative Cloud for enterprise] 애플리케�
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/ko/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
