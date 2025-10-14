@@ -4,9 +4,9 @@ description: Experience Cloud 릴리스 정보
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: ht
-source-wordcount: '716'
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
+workflow-type: tm+mt
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,7 +52,7 @@ Adobe Experience Cloud의 새로운 기능 및 수정 사항.
 
 [Adobe 시스템 상태](https://status.adobe.com/)를 참조하십시오.
 
-## ![아이콘](/assets/ec_appicon_24.png) Experience Cloud 중앙 UI 구성 요소 {#ecloud}
+## Experience Cloud 중앙 UI 구성 요소 {#ecloud}
 
 Experience Cloud 중앙 인터페이스 구성 요소에는 자체 도움말, 검색 및 사용자 계정 환경 설정과 같은 통합 제품 헤더에서 액세스된 업데이트가 포함되어 있습니다. 인물, 장소(위치) 및 제품 관리에 대한 업데이트는 여기에서 찾을 수 있습니다.
 
@@ -64,7 +64,7 @@ Experience Cloud 중앙 인터페이스 구성 요소에는 자체 도움말, �
 
 기능 및 수정 사항
 
-## ![아이콘](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL 오퍼], [!UICONTROL 사용자], [!UICONTROL 배치], [!UICONTROL 모바일 서비스], 및 보안 공지를 비롯한 [!DNL Experience Platform,]에 대한 릴리스 정보
 
@@ -94,7 +94,7 @@ Adobe [!UICONTROL Experience Platform]으로 모든 개인의 요구 사항을 �
 
 **기능**
 
-새로운 기능에 대한 설명입니다. 머리말 또는 표를 사용합니다.
+새로운 기능에 대한 설명입니다. 머리말 또는 테이블을 사용합니다.
 
 **수정 사항**
 
