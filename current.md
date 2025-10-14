@@ -79,7 +79,7 @@ Experience Cloud에서 생성형 AI(genAI), AI 어시스턴트 및 AI 에이전�
 | 제품 | 리소스 | 설명 | 게시일 |
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Cloud] | [Agentic AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/agentic-ai) | Experience Platform Agent Orchestrator과 같은 AI 에이전트에서 도움말을 찾거나 사용 가능 여부를 확인합니다. | 업데이트 날짜: 2025년 9월 |
-| [!DNL Experience Cloud] | [ [!DNL Experience Cloud]의 생성형 AI](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/generative-ai) | Experience Cloud 애플리케이션의 생성형 AI(GenAI) 및 AI 어시스턴트에 대한 도움말을 확인합니다. | 업데이트 날짜: 2025년 9월 |
+| [!DNL Experience Cloud] | [&#x200B; [!DNL Experience Cloud]의 생성형 AI](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/generative-ai) | Experience Cloud 애플리케이션의 생성형 AI(GenAI) 및 AI 어시스턴트에 대한 도움말을 확인합니다. | 업데이트 날짜: 2025년 9월 |
 | Customer Journey Analytics | [AI 어시스턴트 사용](https://experienceleague.adobe.com/ko/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant) | Customer Journey Analytics의 AI 어시스턴트가 개념을 배우고, 문제를 해결하고, 워크플로를 최적화하도록 지원하는 방법에 대해 알아봅니다. | 2025년 8월 |
 | [!DNL AI Assistant in Marketo Email Designer] | [이메일 디자이너](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en) | Marketo Engage 이메일 디자이너의 AI 어시스턴트를 사용하면 현대적이고 효과적인 이메일을 신속하게 생성할 수 있습니다. Adobe의 생성형 AI, 프롬프트 라이브러리 및 Firefly를 이미지 생성에 사용하여 대상자, 여정 단계, 전략 또는 어조에 맞게 콘텐츠를 조정합니다. 자체 브랜드 자산을 통합할 수도 있습니다. | 2025년 8월 |
 
@@ -362,7 +362,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 +++릴리스 정보, 새로운 튜토리얼 및 지원 문서
 
-* 최신 정보는 [ [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
+* 최신 정보는 [&#x200B; [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
 * Commerce Services 릴리스 정보 및 설명서를 보려면 [Adobe [!DNL Commerce] Services 안내서](https://experienceleague.adobe.com/ko/docs/commerce/user-guides/home)를 참조하십시오.
 * 개별 제품 릴리스 정보에 액세스하고 사용 가능 여부를 확인하려면 [제품 가용성](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/product-availability)을 참조하십시오.
 
@@ -599,7 +599,7 @@ Experience League의 새로운 [!DNL Workfront] 튜토리얼 및 이벤트
 | 2025년 8월 | [Workfront에서 소유자가 비활성화되면 캘린더가 비어 있는 것으로 표시됨](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27192) | 신규 문서 | 캘린더의 소유자가 비활성화되면 캘린더가 비어 있고 작업이나 이벤트가 표시되지 않는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 8월 | [Workfront에서 리소스 관리자를 할당할 때 오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27251) | 신규 문서 | 필요한 라이선스 유형이 없는 리소스 관리자가 포함된 프로젝트 템플릿을 연결할 때 *플랜 라이선스가 있는 사용자만 리소스 관리자로 추가할 수 있습니다.* 오류가 발생하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 8월 | [프로젝트 전환 시 Workfront에서 기본적으로 홈 그룹 “보기” 액세스 권한을 부여하는 문제](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27261) | 신규 문서 | Adobe Workfront에서 템플릿을 사용하여 문제를 프로젝트로 변환할 때 작성자의 홈 그룹이 결과 프로젝트에 대한 보기 액세스 권한을 자동으로 부여받는 문제에 대한 해결 방법을 알아봅니다. |
-| 2025년 8월 | [ [!DNL Fusion] 시나리오를 통해 Workfront에서 중복 폴더가 자동으로 생성됨](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27287) | 신규 문서 | 활성 [!DNL Fusion] 연결로 인해 특정 Adobe Workfront 프로젝트에서 중복 폴더가 자동으로 생성되는 문제에 대한 해결 방법을 알아봅니다. |
+| 2025년 8월 | [&#x200B; [!DNL Fusion] 시나리오를 통해 Workfront에서 중복 폴더가 자동으로 생성됨](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27287) | 신규 문서 | 활성 [!DNL Fusion] 연결로 인해 특정 Adobe Workfront 프로젝트에서 중복 폴더가 자동으로 생성되는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 8월 | [Adobe Workfront에서 특정 승인자 작업에 대해 보고할 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27298) | 신규 문서 | Adobe Workfront 보고서가 다단계 승인 워크플로에서 특정 승인자가 수행한 작업을 기본적으로 격리하여 지원하지 않는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 8월 | [Workfront에서 기존 프로젝트에 템플릿을 첨부할 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27305) | 신규 문서 | Adobe Workfront에서 시스템 전체 공유 권한 설정과 관련된 기존 프로젝트에 템플릿을 첨부할 때 오류가 발생하는 문제에 대한 해결 방법을 알아봅니다. |
 
@@ -659,13 +659,13 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 2025년 9월 3일
 
-[ [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
 
 ### [!DNL Advertising Search, Social, & Commerce]의 새로운 기능 {#advertising-search}
 
 2025년 7월 30일
 
-[ [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
 
 +++
 
