@@ -646,7 +646,7 @@ GenStudio for Performance Marketing에 대한 비디오 튜토리얼.
 
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/ko/browse/genstudio-for-performance-marketing) (모든 자체 도움말)
 * GenStudio for Performance Marketing [제품 설명서](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/home)
-* [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) 제품 정보
+* [GenStudio for Performance Marketing](https://business.adobe.com/kr/products/genstudio-for-performance-marketing.html) 제품 정보
 
 +++
 
