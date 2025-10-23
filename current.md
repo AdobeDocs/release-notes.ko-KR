@@ -37,7 +37,7 @@ Adobe은 또한 Experience Platform, AEM AI Assistant 및 Acrobat PDF 스페이�
 +++섹션 링크 보기
 
 * [이벤트 일정](#events)
-* [ [!DNL Experience Cloud]에서의 AI 활용을 위한 리소스](#ai)
+* [&#x200B; [!DNL Experience Cloud]에서의 AI 활용을 위한 리소스](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -98,7 +98,7 @@ Experience Cloud에서 생성형 AI(genAI), AI 어시스턴트 및 AI 에이전�
 | 제품 | 리소스 | 설명 | 게시일 |
 | ------- | ------- | ------- | ------- |
 | AI 설명서 홈 | [AI 설명서](https://experienceleague.adobe.com/ko/docs/ai) | Experience Cloud에서 AI 기반 기능(생성형 AI 및 AI 에이전트)에 대한 정보 링크를 찾으려면 신제품 설명서 랜딩을 방문하십시오. | 2025년 10월 |
-| [!DNL Experience Cloud] | [ [!DNL Experience Cloud]의 AI 에이전트](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/agentic-ai) | Experience Cloud에서 도움말을 찾거나 AI 에이전트의 사용 가능 여부를 확인합니다. | 업데이트 날짜: 2025년 10월 |
+| [!DNL Experience Cloud] | [&#x200B; [!DNL Experience Cloud]의 AI 에이전트](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/agentic-ai) | Experience Cloud에서 도움말을 찾거나 AI 에이전트의 사용 가능 여부를 확인합니다. | 업데이트 날짜: 2025년 10월 |
 | Acrobat | [PDF 스페이스로 팀 효율성 향상](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) | 개인화된 AI 어시스턴트를 사용하여 파일 및 웹 사이트 컬렉션을 공유 가능한 대화형 지식 허브로 전환합니다. | 2025년 10월 |
 | [!DNL AEM CS] | [AEM AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/aem-ai-assisstant) | Experience Manager AI 어시스턴트로 워크플로를 간소화하는 방법을 알아봅니다. | 2025년 10월 |
 | [!DNL Experience Platform] | [Data Insights 에이전트 개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview) | Data Insight 에이전트는 이벤트, 프로필, 여정 및 오프라인 데이터를 활용하여 검색을 간소화하고 개인화된 대시보드를 즉시 제공합니다. | 2025년 10월 |
@@ -325,7 +325,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025년 9월 | [AEM Cloud에서 Dynamic Media 자산 게재를 위한 사용자 정의 도메인 구성](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27330) | 신규 문서 | Adobe AEM Cloud에서 Dynamic Media 게재를 위한 사용자 정의 도메인을 구성하는 방법을 알아봅니다. |
 | 2025년 9월 | [AEM Dynamic Media에 대한 일괄 이미지 업로드가 실패하고 *지원되지 않는 파일 형식* 오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27467) | 신규 문서 | 이미지가 유효한 JPG/JPEG 파일인 경우에도 Adobe Experience Manager(AEM) Dynamic Media 또는 Scene7에 일괄 이미지 업로드가 실패하고 *지원되지 않는 파일 형식*&#x200B;이나 *유효한 형식이 아님* 오류가 발생하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [AEM Brand Portal에서 비디오 및 렌디션을 로드하거나 다운로드하지 못함](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27490) | 신규 문서 | Adobe Experience Manager(AEM)에서 Brand Portal로 게시된 비디오가 액세스할 때 *데이터 로드 실패* 오류를 트리거하거나 동적 렌디션이 손상되거나 불완전한 파일로 다운로드되는 문제에 대한 해결 방법을 알아봅니다. |
-| 2025년 9월 | [**[!UICONTROL 관리자 프로필 이름 변경으로 인해 AEM Cloud Service에 빠른 게시&#x200B;]**버튼 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27545) | 신규 문서 | Adobe Experience Manager(AEM) as a Cloud Service - Sites의 Admin Console에서 기본 프로필 이름을 변경할 경우 관리자 제품 프로필에 할당된 사용자가 **[!UICONTROL 빠른 게시]** 및 **[!UICONTROL 게시 관리]** 버튼에 액세스할 수 없는 문제에 대한 해결 방법을 알아봅니다. |
+| 2025년 9월 | [**[!UICONTROL 관리자 프로필 이름 변경으로 인해 AEM Cloud Service에 빠른 게시&#x200B;]**&#x200B;버튼 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27545) | 신규 문서 | Adobe Experience Manager(AEM) as a Cloud Service - Sites의 Admin Console에서 기본 프로필 이름을 변경할 경우 관리자 제품 프로필에 할당된 사용자가 **[!UICONTROL 빠른 게시]** 및 **[!UICONTROL 게시 관리]** 버튼에 액세스할 수 없는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [AEM SP22/SP23의 호환되지 않는 S3 커넥터로 인한 HTTP 503 오류](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27567) | 신규 문서 | S3 데이터 저장소가 활성화된 상태에서 서비스 팩 22 또는 23으로 업그레이드한 후 AEM에 액세스할 수 없게 되는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [Adobe Experience Manager: 컨테이너 복사 붙여넣기하면 중복된 구성 요소 표시](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27594) | 신규 문서 | AEM 6.5.20 및 AEM 6.5.21에서 컨테이너 구성 요소를 복사하여 페이지 편집기에 붙여넣기하면 붙여넣은 컨테이너의 내부 구성 요소가 중복된 것처럼 보일 수 있는 문제에 대한 해결 방법을 배울 수 있습니다. |
 | 2025년 9월 | [Adobe I/O을 통해 AEM에서 `aio app use` 명령을 사용할 때 액세스 거부](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27689) | 신규 문서 | Adobe I/O와 통합된 Adobe Experience Manager(AEM)에서 `aio app use` 명령을 사용하려고 할 때 *403 금지* 오류가 나타나는 문제에 대한 해결 방법을 알아봅니다. |
@@ -367,14 +367,14 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025년 9월 | [`Coral.FileUpload`가 AEMaaCS에서 로드되지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27659) | 신규 문서 | `/aem/start.html`같은 페이지에 삽입할 때 `Coral.FileUpload` 구성 요소가 렌더링되지 않거나 작동하지 않는 경우 AEMaaCS - Assets의 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [ACS [!DNL AEM Commons] 버튼이 AEMaaCS에 표시되지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27660) | 신규 문서 | `pom.xml` 파일을 통해 ACS [!DNL AEM Commons]를 설치할 때 **[!UICONTROL 도구]** 섹션에 필요한 메뉴가 표시되지 않는 경우 AEMaaCS의 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [AEMaaCS에서 일괄 메타데이터 편집이 작동하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27705) | 신규 문서 | 개별 자산을 개별적으로 편집한 다음 저장하기 전에 다시 선택하면 일괄 메타데이터 편집이 저장되지 않는 AEMaaCS - Assets의 문제에 대한 해결 방법을 알아봅니다. |
-| 2025년 9월 | [ [!DNL Unified Shell] 설정으로 인해 AEM Assets에서 팝업 비헤이비어가 일관되지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27066) | 신규 문서 | [!UICONTROL 콘텐츠 조각 목록 보기]의 팝업이 프로덕션 및 개발 환경의 헤더 또는 상단 표시줄과 겹치지만 스테이징에는 있지 않은 AEMaaCS - Assets의 문제에 대한 해결 방법을 알아봅니다. |
+| 2025년 9월 | [&#x200B; [!DNL Unified Shell] 설정으로 인해 AEM Assets에서 팝업 비헤이비어가 일관되지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27066) | 신규 문서 | [!UICONTROL 콘텐츠 조각 목록 보기]의 팝업이 프로덕션 및 개발 환경의 헤더 또는 상단 표시줄과 겹치지만 스테이징에는 있지 않은 AEMaaCS - Assets의 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [[!UICONTROL 자산 보기]에서 메타데이터 스키마 양식을 가져오는 동안 오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27535) | 신규 문서 | 사용자 정의 메타데이터 스키마 양식을 [!UICONTROL 자산 보기]로 가져오려고 할 때 양식에 지원되지 않는 필드 유형이 포함되어 있으면 프로세스가 실패하는 AEMaaCS의 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [AEM Cloud Manager의 오래된 환경 변수 수정](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27437) | 신규 문서 | 구성 파일을 업데이트하려고 할 때 일부 속성에 변경 사항이 표시되지 않는 AEMaaCS - Sites의 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [AEM: IP 허용 목록 **[!UICONTROL 저장]** 버튼이 Cloud Manager에서 작동하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27421) | 신규 문서 | Cloud Manager에서 IP 허용 목록을 추가하거나 업데이트할 때 **[!UICONTROL 업데이트]**&#x200B;를 클릭하면 **[!UICONTROL 저장]** 버튼이 비활성화되거나 변경 사항이 적용되지 않는 AEMaaCS의 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [AEM API를 통해 콘텐츠 조각을 푸시할 때 *403* 오류 수정](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27438) | 신규 문서 | 콘텐츠 조각을 `/sites/cf/fragments` API로 푸시할 때 *403 금지* 오류가 발생하는 AEMaaCS의 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [AEMaaCS의 비어 있는 날짜 필드로 인해 자산 다운로드 보고서 양식 실패](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27540) | 신규 문서 | [!UICONTROL 자산 다운로드 보고서]에서 **[!UICONTROL 날짜 조정]** 필드가 필수로 표시되지 않아서 제출 오류가 발생하는 AEMaaCS - Assets의 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [AEM Cloud 사용자 그룹 및 워크플로에서 비활성 사용자를 제거할 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27541) | 신규 문서 | ID 관리 시스템(IMS)에서 비활성화된 사용자가 워크플로 이메일 알림을 계속 수신한 때 AEMaaCS - Sites에서 발생하는 문제의 해결 방법을 알아봅니다. |
-| 2025년 9월 | [**[!UICONTROL 장바구니에 추가&#x200B;]**가  [!DNL Venia] 웹 사이트에서 구성 가능한 제품에 대해 작동하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27554) | 신규 문서 | [!DNL AEM Reference Demos Add-on]을 사용할 때 AEMaaCS로 구축된 [!DNL Venia] 데모 사이트에서 구성 가능한 제품에 대해 **[!UICONTROL 장바구니에 추가]** 기능이 실패하는 문제에 대한 해결 방법을 알아봅니다. |
+| 2025년 9월 | [**[!UICONTROL 장바구니에 추가&#x200B;]**&#x200B;가  [!DNL Venia] 웹 사이트에서 구성 가능한 제품에 대해 작동하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27554) | 신규 문서 | [!DNL AEM Reference Demos Add-on]을 사용할 때 AEMaaCS로 구축된 [!DNL Venia] 데모 사이트에서 구성 가능한 제품에 대해 **[!UICONTROL 장바구니에 추가]** 기능이 실패하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [Adobe Experience Manager 6.5에서 적응형 양식을 사용하여 많은 수의 계산에서 정밀도 오류 문제 해결](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27642) | 신규 문서 | AEM 6.5의 적응형 양식이 4자리 정밀도를 갖는 큰 숫자 계산에 대해 정확한 결과를 내지 못하는 문제에 대한 해결 방법을 알아봅니다. |
 | 2025년 9월 | [Adobe Target에서 원하지 않는 도메인 경로를 표시하는 경험 조각 오퍼](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-27491) | 신규 문서 | Adobe Experience Manager(AEM)의 [!UICONTROL 경험 조각]을 Adobe Target과 통합할 때 Adobe Target에 표시된 [!UICONTROL 오퍼 콘텐츠 보기] URL에 원하지 않는 도메인 경로가 표시됩니다. |
 
@@ -398,7 +398,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++릴리스 정보, 새로운 튜토리얼 및 지원 문서
 
-* 최신 정보는 [ [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
+* 최신 정보는 [&#x200B; [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
 * Commerce Services 릴리스 정보 및 설명서를 보려면 [Adobe [!DNL Commerce] Services 안내서](https://experienceleague.adobe.com/ko/docs/commerce/user-guides/home)를 참조하십시오.
 * 개별 제품 릴리스 정보에 액세스하고 사용 가능 여부를 확인하려면 [제품 가용성](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/product-availability)을 참조하십시오.
 
@@ -686,13 +686,13 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 2025년 9월 18일
 
-[ [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
 
 ### [!DNL Advertising Search, Social, & Commerce]의 새로운 기능 {#advertising-search}
 
 2025년 9월 23일
 
-[ [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
 
 +++
 
