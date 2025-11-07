@@ -33,7 +33,7 @@ ht-degree: 57%
 +++섹션 링크 보기
 
 * [이벤트 일정](#events)
-* [ [!DNL Experience Cloud]에서의 AI 활용을 위한 리소스](#ai)
+* [&#x200B; [!DNL Experience Cloud]에서의 AI 활용을 위한 리소스](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -90,7 +90,7 @@ Experience Cloud에서 생성형 AI(genAI), AI 어시스턴트 및 AI 에이전�
 | 제품 | 리소스 | 설명 | 게시일 |
 | ------- | ------- | ------- | ------- |
 | AI 설명서 홈 | [AI 설명서](https://experienceleague.adobe.com/ko/docs/ai) | Experience Cloud에서 AI 기반 기능(생성형 AI 및 AI 에이전트)에 대한 정보 링크를 찾으려면 신제품 설명서 랜딩을 방문하십시오. | 2025년 10월 |
-| [!DNL Experience Cloud] | [ [!DNL Experience Cloud]의 AI 에이전트](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/agentic-ai) | Experience Cloud에서 도움말을 찾거나 AI 에이전트의 사용 가능 여부를 확인합니다. | 업데이트 날짜: 2025년 10월 |
+| [!DNL Experience Cloud] | [&#x200B; [!DNL Experience Cloud]의 AI 에이전트](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/agentic-ai) | Experience Cloud에서 도움말을 찾거나 AI 에이전트의 사용 가능 여부를 확인합니다. | 업데이트 날짜: 2025년 10월 |
 | Acrobat | [PDF 스페이스로 팀 효율성 향상](https://experienceleague.adobe.com/ko/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) | 개인화된 AI 어시스턴트를 사용하여 파일 및 웹 사이트 컬렉션을 공유 가능한 대화형 지식 허브로 전환합니다. | 2025년 10월 |
 | [!DNL AEM CS] | [AEM AI 어시스턴트](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/aem-ai-assisstant) | Experience Manager AI 어시스턴트로 워크플로를 간소화하는 방법을 알아봅니다. | 2025년 10월 |
 | [!DNL Experience Platform] | [Data Insights 에이전트 개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview) | Data Insight 에이전트는 이벤트, 프로필, 여정 및 오프라인 데이터를 활용하여 검색을 간소화하고 개인화된 대시보드를 즉시 제공합니다. | 2025년 10월 |
@@ -310,7 +310,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025년 10월 | [Open API를 사용하는 Dynamic Media와 관련된 Q&amp;A 성능](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27825) | 신규 문서 | DMwOA 이미지가 예상보다 긴 지연 시간과 함께 제공되는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 10월 | [OpenAPI를 사용한 DM 문제 - 비디오 플레이어 컨테이너 API](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27804) | 신규 문서 | DynamicMedia를 개방형 API 기능과 함께 사용하고 외부 웹 사이트에서 뷰어를 변경하지 않고 표시하기 위해 반환된 코드를 사용할 때 이 코드는 잘못된 URL을 생성하여 비디오 세부 정보를 가져오고 예상대로 작동하지 않을 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2025년 10월 | AEM Forms as a Cloud Service에서 로컬 개발 토큰을 사용할 때 [401 오류 발생](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27706) | 신규 문서 | AEM Forms as a Cloud Service에서 Adobe Developer Console(ADC)의 로컬 개발 토큰을 사용할 때 401 오류가 발생하는 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2025년 10월 | [**[!UICONTROL 삭제 요청&#x200B;]**워크플로가 AEM Sites에서 작동하지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | 신규 문서 | **[!UICONTROL 복제]** 권한 없이 콘텐츠 페이지를 삭제할 때 시스템이 **[!UICONTROL 삭제 요청]** 워크플로우를 트리거하는 AEM Sites의 문제 해결 방법에 대해 알아봅니다. |
+| 2025년 10월 | [**[!UICONTROL 삭제 요청&#x200B;]**&#x200B;워크플로가 AEM Sites에서 작동하지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | 신규 문서 | **[!UICONTROL 복제]** 권한 없이 콘텐츠 페이지를 삭제할 때 시스템이 **[!UICONTROL 삭제 요청]** 워크플로우를 트리거하는 AEM Sites의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 10월 | [AEMaaCS: 모바일 장치에 Dynamic Media 비디오에 두 개의 재생 버튼이 표시됨](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27477) | 신규 문서 | Adobe Experience Manager(AEM) as a Cloud Service의 Dynamic Media 비디오에 모바일 디바이스에서 볼 때 두 개의 겹치는 재생 버튼이 표시되는 경우에 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2025년 10월 | [New Relic 대시보드에 AEMaaCS의 AEMaaCS VM 대신 AMS 가상 컴퓨터(VM)만 표시됨](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27864) | 신규 문서 | New Relic 대시보드에 AEMaaCS VM(가상 머신) 대신 AMS VM만 표시되는 경우 AEMaaCS에서 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2025년 10월 | [Querybuilder API가 Dispatcher 필터를 무시하고 중요한 정보를 노출합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27832) | 신규 문서 | Querybuilder API가 Dispatcher 필터를 우회하여 잠재적으로 중요한 정보를 노출할 수 있는 Adobe Experience Manager as a Cloud Service(AEMaaCS)의 액세스 제어 문제 의 해결 방법에 대해 알아봅니다. |
@@ -339,7 +339,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++릴리스 정보, 새로운 튜토리얼 및 지원 문서
 
-* 최신 정보는 [ [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
+* 최신 정보는 [&#x200B; [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
 * Commerce Services 릴리스 정보 및 설명서를 보려면 [Adobe [!DNL Commerce] Services 안내서](https://experienceleague.adobe.com/ko/docs/commerce/user-guides/home)를 참조하십시오.
 * 개별 제품 릴리스 정보에 액세스하고 사용 가능 여부를 확인하려면 [제품 가용성](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/product-availability)을 참조하십시오.
 
@@ -623,13 +623,13 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 2025년 10월 29일
 
-[ [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
 
 ### [!DNL Advertising Search, Social, & Commerce]의 새로운 기능 {#advertising-search}
 
 2025년 10월 15일
 
-[ [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
 
 +++
 
