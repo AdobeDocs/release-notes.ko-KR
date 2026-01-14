@@ -43,7 +43,7 @@ ht-degree: 45%
 +++섹션 링크 보기
 
 * [이벤트 일정](#events)
-* [ [!DNL Experience Cloud]의 AI 기능](#ai)
+* [&#x200B; [!DNL Experience Cloud]의 AI 기능](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -336,7 +336,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025년 11월 | [AEM as a Cloud Service의 프론트엔드 파이프라인 오류 문제 해결](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28088) | 신규 문서 | AEM as a Cloud Service에서 전체 스택 파이프라인을 프론트엔드(FE) 전용 파이프라인으로 변환할 때 플랫폼별 종속성 및 엄격한 린팅 요구 사항으로 인해 빌드 오류가 발생하는 문제의 솔루션에 대해 알아봅니다. |
 | 2025년 11월 | [[!DNL Tika] AEMaaCS-Assets에서 구성이 작동하지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27615) | 신규 문서 | PDF 제외와 같은 사용자 지정 [!DNL Tika] 구성이 기본 OOTB(기본 제공) 설정으로 설정되는 클라우드 환경에서 무시되는 경우 AEMaaCS-Assets의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 11월 | [AEMaaCS의 개인 GitHub 저장소로 전환한 후 릴리스 분기가 누락됨](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27923) | 신규 문서 | 개인 GitHub 저장소를 사용하여 배포 파이프라인을 구성할 때 AEMaaCS의 문제에 대한 솔루션에 대해 알아봅니다. 분기 선택 드롭다운에 일부 릴리스 분기가 표시되지 않습니다. |
-| 2025년 11월 | [**[!UICONTROL 유니버설 편집기&#x200B;]**가 AEMaaCS에서 잘못된 AEM 작성자 인스턴스를 로드함](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27935) | 신규 문서 | 작성자 인스턴스의 **[!UICONTROL 유니버설 편집기]**&#x200B;에 있는 Edge Delivery Services(EDS) 인덱스 페이지에 액세스할 때 다른 작성자 환경에서 콘텐츠를 로드할 때 AEMaaCS의 문제에 대한 솔루션에 대해 알아봅니다. |
+| 2025년 11월 | [**[!UICONTROL 유니버설 편집기&#x200B;]**&#x200B;가 AEMaaCS에서 잘못된 AEM 작성자 인스턴스를 로드함](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27935) | 신규 문서 | 작성자 인스턴스의 **[!UICONTROL 유니버설 편집기]**&#x200B;에 있는 Edge Delivery Services(EDS) 인덱스 페이지에 액세스할 때 다른 작성자 환경에서 콘텐츠를 로드할 때 AEMaaCS의 문제에 대한 솔루션에 대해 알아봅니다. |
 | 2025년 11월 | [AEMaaCS의 오래된 캐시 및 오래된 `frontend-maven-plugin` 버전으로 인해 파이프라인 빌드가 실패합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27902) | 신규 문서 | `UI.frontend` 모듈 실행 중 파이프라인 빌드가 실패할 때 AEMaaCS에서 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2025년 11월 | AEMaaCS에서 [콘텐츠 복사 도구&#x200B;**[!UICONTROL 를 사용할 때]**&#x200B;큰 DAM 폴더를 복사하지 못함](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27936) | 신규 문서 | **[!UICONTROL 콘텐츠 복사 도구]**&#x200B;를 사용하여 작성자 환경 간에 큰 폴더를 복사하지 못하는 경우 AEMaaCS에서 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2025년 11월 | [AEMaaCS에서 AEM 롤아웃 후 로그 전달 끝점이 되돌아감](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27945) | 신규 문서 | 롤아웃 후 로그 전달 구성이 이전 끝점으로 되돌아갈 때 AEMaaCS에서 발생하는 문제의 해결 방법에 대해 알아봅니다. |
@@ -344,7 +344,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025년 11월 | [로 마이그레이션한 후 서식 있는 텍스트 편집기 단추 문제 해결 [!DNL CoralUI3]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27985) | 신규 문서 | 사용자 지정 대화 상자 및 클라이언트 라이브러리를 [!DNL CoralUI2]에서 [!DNL CoralUI3]&#x200B;(으)로 마이그레이션하면 글꼴, 크기 및 색상에 대한 서식 있는 텍스트 편집기 버튼이 작동하지 않는 AEMaaCS의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 11월 | [Cloud Manager 파이프라인의 해시 가시성 지연 커밋](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28031) | 신규 문서 | 비공개 GitHub 저장소를 사용하여 Cloud Manager에서 파이프라인을 트리거할 때 문제의 해결 방법에 대해 알아보십시오. 커밋 해시는 빌드 또는 코드 품질 단계가 완료된 후에만 표시됩니다. |
 | 2025년 11월 | AEMaaCS에서 전용 이그레스 IP를 만들 때 [네트워크 인프라 예외 발생](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27884) | 신규 문서 | 기본 영역 매개 변수가 누락되어 전용 이그레스 IP를 만들 때 AEMaaCS - Sites에서 발생하는 문제의 해결 방법에 대해 알아봅니다. |
-| 2025년 11월 | AEMaaCS에 [**[!UICONTROL 변형 생성&#x200B;]**단추가 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27894) | 신규 문서 | **[!UICONTROL 콘텐츠 조각 편집기]**&#x200B;에 [!UICONTROL 변형 생성] 단추가 없는 경우 AEMaaCS - Sites의 문제 해결 방법에 대해 알아봅니다. |
+| 2025년 11월 | AEMaaCS에 [**[!UICONTROL 변형 생성&#x200B;]**&#x200B;단추가 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27894) | 신규 문서 | **[!UICONTROL 콘텐츠 조각 편집기]**&#x200B;에 [!UICONTROL 변형 생성] 단추가 없는 경우 AEMaaCS - Sites의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 11월 | [AEMaaCS 오류 응답에서 `X-Correlation-Id` 유지(404/500)](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27918) | 신규 문서 | AEM 로그에서 설정을 확인했지만 `X-Correlation-Id`404 찾을 수 없음&#x200B;*또는* 500 내부 서버 오류&#x200B;*오류 응답에* 헤더가 누락된 경우 AEMaaCS의 문제에 대한 해결 방법에 대해 알아봅니다. |
 | 2025년 11월 | [잘못된 OSGi 구성 속성으로 인해 AEM 배포 파이프라인이 실패합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27930) | 신규 문서 | 여러 시간 동안 실행한 후 **[!UICONTROL 서비스 업데이트]** 하위 단계 동안 단계 및 프로덕션 환경의 배포 파이프라인이 실패할 경우 AEMaaCS에서 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2025년 11월 | [OSGi 번들 누락으로 인해 AEM 배포 후 RDE 서비스 중단](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27376) | 신규 문서 | AEMaaCS RDE(Rapid Development Environment) 환경에 코드를 배포하면 더 엄격한 API 영역 제한으로 인해 `io.jsonwebtoken`과(와) 같은 서드파티 OSGi 번들을 해결하지 못해 서비스 중단이 발생하는 문제의 해결 방법에 대해 알아봅니다. |
@@ -373,7 +373,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++릴리스 정보, 새로운 튜토리얼 및 지원 문서
 
-* 최신 정보는 [ [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
+* 최신 정보는 [&#x200B; [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
 * Commerce Services 릴리스 정보 및 설명서를 보려면 [Adobe [!DNL Commerce] Services 안내서](https://experienceleague.adobe.com/ko/docs/commerce/user-guides/home)를 참조하십시오.
 * 개별 제품 릴리스 정보에 액세스하고 사용 가능 여부를 확인하려면 [제품 가용성](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/product-availability)을 참조하십시오.
 
@@ -658,13 +658,13 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 2025년 10월 29일
 
-[ [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
 
 ### [!DNL Advertising Search, Social, & Commerce]의 새로운 기능 {#advertising-search}
 
 2025년 10월 15일
 
-[ [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
 
 +++
 
