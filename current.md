@@ -43,7 +43,7 @@ Experience League에서 [과정](https://experienceleague.adobe.com/en/courses)�
 +++섹션 링크 보기
 
 * [이벤트 일정](#events)
-* [ [!DNL Experience Cloud]의 AI 기능](#ai)
+* [&#x200B; [!DNL Experience Cloud]의 AI 기능](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 중앙 인터페이스 및 관리](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -345,7 +345,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025년 12월 | [JSON 파일이 AEM에서 원치 않는 DAM 자산 업데이트 워크플로우를 트리거합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29606) | 신규 문서 | JSON 파일을 AEM에 업로드하면 DAM 자산 업데이트 워크플로우가 트리거되어 원치 않는 처리 및 렌디션 생성이 발생하는 Assets의 문제에 대한 해결 방법에 대해 알아봅니다. |
 | 2025년 12월 | [AEM 로그에 *토글 `FT_GRANITE-61513`이(가) 비활성화된 이유*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29639) | 신규 문서 | AEM as a Cloud Service에 게시할 때 문제에 대한 해결 방법에 대해 알아봅니다. `FT_GRANITE-61513`이(가) 비활성화되었음을 나타내는 로그가 표시됩니다. |
 | 2025년 12월 | [Adobe Experience Manager: AEM 6.5 LTS SP1](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29732)&#x200B;(으)로 업그레이드한 후 많은 인덱스 업데이트 메시지가 다시 표시됨 | 신규 문서 | AEM 6.5 LTS SP1로 업그레이드한 후 이전에 표시되지 않았던 색인 로그 메시지가 업그레이드 후 다시 표시되는 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2025년 12월 | [Adobe Experience Manager: 시작 콘텐츠를 저장할 수 없습니다. *양식을 전송하지 못했습니다.* AEM as a Cloud Service에서 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29733) | 신규 문서 | Launch에 추가된 콘텐츠를 저장하려고 할 때 변경 내용이 제대로 저장되지 않는 경우 오류 메시지 *양식 제출 실패*&#x200B;가 표시되는 AEMaaCS의 문제 해결 방법에 대해 알아봅니다. |
+| 2025년 12월 | [Adobe Experience Manager: 시작 콘텐츠를 저장할 수 없습니다. *양식을 전송하지 못했습니다.* AEM as a Cloud Service에서 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29733) | 신규 문서 | Launch에 추가된 콘텐츠를 저장하려고 할 때 변경 내용이 제대로 저장되지 않는 경우 오류 메시지 *양식 제출 실패*&#x200B;가 표시되는 AEMaaCS의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 12월 | AEM 6.5 SP23으로 업그레이드한 후 [`allowedComponents`에 `model.json`이(가) 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28057) | 신규 문서 | 서비스 팩 23으로 업그레이드한 후 `allowedComponents` 메타데이터가 게시 인스턴스의 `model.json` 내보내기에 더 이상 포함되지 않는 경우 AEM의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 12월 | [AEM 게시 인스턴스에서 반복 *SegmentNotFoundException* 오류 해결](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28172) | 신규 문서 | 반복되는 *SegmentNotFoundException* 오류로 인해 Adobe Experience Manager(AEM) 게시 인스턴스가 충돌하고 응답하지 않는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 12월 | [WebP 지원을 위해 AEM `AdaptiveImageServletMappingConfigurationFactory`을(를) 재정의](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29598) | 신규 문서 | `AdaptiveImageServletMappingConfigurationFactory` 구성에 WebP 확장이 포함되어 있지 않으면 Adobe Experience Manager(AEM)의 이미지 구성 요소가 WebP 자산을 렌더링하지 않는 경우의 문제에 대한 해결 방법에 대해 알아봅니다. |
@@ -353,7 +353,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025년 12월 | [상위 페이지가 AEM에 게시될 때까지 하위 페이지 변경 내용이 표시되지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29671) | 신규 문서 | 상위 페이지도 게시되지 않는 한 하위 페이지에 대한 변경 사항이 라이브 사이트에 표시되지 않는 경우 AEM Managed Services의 문제에 대한 해결 방법에 대해 알아봅니다. |
 | 2025년 12월 | [AEM의 하위 페이지가 잠겨서 언어 마스터 페이지 게시를 취소하지 못했습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29650) | 신규 문서 | AEM의 잠긴 하위 페이지로 인해 언어 마스터 페이지 게시 취소가 실패할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2025년 12월 | [Acrobat 보안 설정으로 인해 PDF Generator에서 PDF 내보내기가 실패하고 오류 *ALC-PDG-010-011*&#x200B;이(가) 발생했습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28137) | 신규 문서 | PDF을 [!DNL Word]의 AEM Forms 6.5.23에서 PDF Generator을 사용하여 [!DNL Excel], [!DNL Windows Server 2022] 또는 다른 형식으로 내보낼 때 PDFMaker에 연결할 수 없음을 나타내는 *ALC-PDG-010-011* 오류로 인해 프로세스가 실패합니다. |
-| 2025년 12월 | [AEM 6.5의 감사 추적(Forms 및 기타 솔루션)으로 인한 세그먼트 저장소 증가 해결 [!DNL Groovy Console] 2}](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28178) | 신규 문서 | AEM 6.5 온-프레미스 또는 AMS 환경에서 갑작스러운 디스크 스파이크와 빠르게 증가하는 [!UICONTROL TarMK] 세그멘테이션 스토어가 표시되는 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2025년 12월 | [AEM 6.5의 감사 추적(Forms 및 기타 솔루션)으로 인한 세그먼트 저장소 증가 해결 [!DNL Groovy Console] 2&rbrace;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28178) | 신규 문서 | AEM 6.5 온-프레미스 또는 AMS 환경에서 갑작스러운 디스크 스파이크와 빠르게 증가하는 [!UICONTROL TarMK] 세그멘테이션 스토어가 표시되는 문제에 대한 해결 방법에 대해 알아봅니다. |
 | 2025년 12월 | AEM Forms에서 Forms을 시작하는 동안 [직렬화 실패](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29676) | 신규 문서 | AEM Forms으로 업그레이드한 후 직렬화 실패로 서버 시작이 실패하는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2025년 12월 | [AEM Sites에서 인라인 스크립트에 대한 콘텐츠 보안 정책 임시 항목 지원](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29587) | 신규 문서 | AEM Sites에서 안전하지 않은 지시문 없이 인라인 스크립트를 로드하기 위해 CSP 임시 항목을 지원하는지 또는 안전한 대체 항목을 지원하는지에 대해 알아봅니다. |
 | 2025년 12월 | [AEM as a Cloud Service에서 리디렉션 환경을 구성할 때 인증 오류 발생](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27823) | 신규 문서 | Adobe Experience Manager(AEM) as a Cloud Service에서 EDS/xwalk 프로젝트에 대한 무시 환경을 구성할 때 발생하는 문제의 해결 방법에 대해 알아보십시오. *403 금지된 [관리자] 권한이 없음*&#x200B;이 발생합니다. |
@@ -403,7 +403,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++릴리스 정보, 새로운 튜토리얼 및 지원 문서
 
-* 최신 정보는 [ [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
+* 최신 정보는 [&#x200B; [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]의 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하십시오.
 * Commerce Services 릴리스 정보 및 설명서를 보려면 [Adobe [!DNL Commerce] Services 안내서](https://experienceleague.adobe.com/ko/docs/commerce/user-guides/home)를 참조하십시오.
 * 개별 제품 릴리스 정보에 액세스하고 사용 가능 여부를 확인하려면 [제품 가용성](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/product-availability)을 참조하십시오.
 
@@ -688,13 +688,13 @@ Adobe [!DNL Advertising] 도움말을 살펴보려면 [Adobe Advertising 설명�
 
 2025년 12월 17일 목요일
 
-[ [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home)을 참조하십시오.
 
 ### [!DNL Advertising Search, Social, & Commerce]의 새로운 기능 {#advertising-search}
 
 2025년 11월 12일
 
-[ [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
+[&#x200B; [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home)을 참조하십시오.
 
 +++
 
