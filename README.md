@@ -9,4 +9,4 @@ ht-degree: 0%
 
 이 저장소는 GitHub Enterprise Cloud로 마이그레이션되었습니다.
 
-<https://github.com/Adobe-Enterprise-Docs/release-notes.en>
+<https://github.com/Adobe-Enterprise-Docs/release-notes.ko-KR>
