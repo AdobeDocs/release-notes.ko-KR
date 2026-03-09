@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6327dedf77da7697e83326abcbe1ed75187eb138
+source-git-commit: c267781827d72bcd75bdfe8920b873c014095d8f
 workflow-type: tm+mt
-source-wordcount: '5639'
-ht-degree: 51%
+source-wordcount: '5811'
+ht-degree: 50%
 
 ---
 
@@ -82,7 +82,13 @@ Experience League에서 [교육 과정](https://experienceleague.adobe.com/ko/co
 
 +++예정된 이벤트 확인
 
-* **[!DNL Workfront]** | _연결: 마케팅 및 Creative의 관리자 채팅_ | 2월 26일에 Adobe 인사이더 투어를 시애틀로 모시게 되어 매우 기쁩니다 - 함께해 주시기 바랍니다. | **3월 6일** | [등록](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Adobe AI - Toronto]** | _새로운 인사이트 및 마케팅 및 AI의 다음 단계 살펴보기_ | 최신 Adobe AI 혁신 기술을 직접 살펴보고, 경영진 기조 연설을 통해 Adobe 리더의 의견을 듣고, Accenture 및 Deloitte의 파트너와 실제 고객으로부터 통찰력을 얻으십시오. 그리고 동료들과 함께 다음 프로젝트를 구체화합니다. | **3월 10일** | [등록](https://event.adobe.com/adobe-ai-forum-toronto/il/expleague)
+
+* **[!DNL Adobe Commerce]** | _피어 웨비나에서 학습: Adobe Commerce_ | Adobe Commerce 챔피언 Manav Padhariya 및 Michael Schenck과 함께 Adobe Commerce 제품 추천을 기본 기능에서 비즈니스 성장을 위한 강력한 AI 기반 전략 드라이버로 변환하는 방법에 대한 교육 세션에 참여하십시오. | **3월 11일** | [등록](https://engage.adobe.com/adobe-commerce-product-recommendations.html)
+
+* **[!DNL Experience Cloud]** | _Adobe 참가자 둘러보기_ | 이 반나절 무료 이벤트에는 전문가 통찰력, 고객 성공 사례, 동료 및 Adobe 제품 리더와 소통할 수 있는 기회가 포함되어 있습니다. 모범 사례를 살펴보고 대화형 세션 및 토론을 통해 Adobe 솔루션을 통해 가치를 극대화하는 방법을 알아봅니다. | **3월 11일** | [등록](https://event.adobe.com/adobe-insider-tour-atlanta)
+
+* **[!DNL Adobe AI - Dallas]** | _새로운 인사이트 및 마케팅 및 AI의 다음 단계 살펴보기_ | 최신 Adobe AI 혁신 기술을 직접 살펴보고, 경영진 기조 연설을 통해 Adobe 리더의 의견을 듣고, Accenture 및 Deloitte의 파트너와 실제 고객으로부터 통찰력을 얻으십시오. 그리고 동료들과 함께 다음 프로젝트를 구체화합니다. | **3월 12일** | [등록](https://event.adobe.com/adobe-ai-forum-dallas-il2026/expleague)
 
 * **[!DNL Adobe Summit]** | _마케팅, 크리에이티브 및 AI의 미래 보기_ | 마케팅, 크리에이티브 및 AI의 다음 단계에 대해 알아보십시오. | **라스베이거스, 4월 19~22일** | [등록](https://summit.adobe.com/na/)
 
