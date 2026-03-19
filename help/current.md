@@ -6,9 +6,9 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 760308da350bfa9769914ccabb1aab5dd7884c45
+source-git-commit: d5fdcb1d2d561318122a5941bbd04050b537559c
 workflow-type: tm+mt
-source-wordcount: '6709'
+source-wordcount: '6872'
 ht-degree: 29%
 
 ---
@@ -24,11 +24,11 @@ ht-degree: 29%
 * 애플리케이션별 새 비디오 튜토리얼 보기
 * 최신 지원 문서 확인
 
-최신 업데이트: **2026년 3월 13일**
+최신 업데이트: **2026년 3월 19일**
 
 이 페이지에서:
 
-* [이벤트 일정](#events)
+* [웨비나 및 학습 이벤트](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] 관리](#ecloud)
 * [Experience Cloud의 AI](#ai)
@@ -58,10 +58,15 @@ ht-degree: 29%
 * [Adobe에서의 인증](https://experienceleague.adobe.com/ko/certification-home){target="_blank"}
 * [Adobe 제품 보안 취약점](https://helpx.adobe.com/kr/security.html){target="_blank"}
 
-## 이벤트 일정 {#events}
+## 웨비나 및 학습 이벤트 {#events}
 
-* [예정된](https://experienceleague.adobe.com/ko/events){target="_blank"} 이벤트 일정
-* [요청 시](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview){target="_blank"} 이벤트 일정
+* **[!DNL Experience Cloud]** | _Adobe Experience Platform 챔피언 운영 시간_ | 도전, 차단기, 그리고 희망 목록을 이야기해 봅시다. 시스템을 흐리게 하기 위해 필요한 것은 무엇입니까? | **2026년 3월 24일** | [등록](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
+
+* **[!DNL Workfront]** | _관리자 101: Workfront 질문 가져오기_ | 1시간 동안 진행되는 후속 워크샵에 참여하십시오. 각 세션에 대한 요약을 빠르게 공유한 다음 Q&amp;A를 시작합니다. | **2026년 3월 24일** | [등록](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Fusion Decoded: 2부 - 빌드를 시작하겠습니다_ | Fusion 시리즈 2부에서는 즉시 사용 가능한 템플릿을 살펴보고 이를 사용하여 자동화 여정을 시작하는 방법을 보여 줍니다. | **2026년 3월 25일** | [등록](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+[예정된](https://experienceleague.adobe.com/ko/events){target="_blank"} 및 [온디맨드](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview){target="_blank"} 이벤트의 전체 일정을 봅니다.
 
 ## [!DNL Adobe System Status] {#status}
 
