@@ -50,7 +50,7 @@ Adobe Experience Cloud의 새로운 기능 및 수정 사항
 
 기능 및 수정 사항.
 
-[Adobe 시스템 상태](https://status.adobe.com/)를 참조하십시오.
+[Adobe 시스템 상태](https://status.adobe.com/ko-kr/)를 참조하십시오.
 
 ## Experience Cloud 중앙 UI 구성 요소 {#ecloud}
 
