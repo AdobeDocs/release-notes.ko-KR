@@ -46,4 +46,4 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. 업데이트된 정보/추가 서드파티 코드 정보는 [http://www.adobe.com/go/thirdparty_kr](https://www.adobe.com/products/eula/third_party/)을 참조하십시오.
+All third-party trademarks are the property of their respective owners. 업데이트된 정보/추가 서드파티 코드 정보는 [http://www.adobe.com/go/thirdparty_kr](https://www.adobe.com/kr/products/eula/third_party/)을 참조하십시오.
