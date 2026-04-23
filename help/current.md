@@ -1,6 +1,6 @@
 ---
 title: 중앙 릴리스 정보
-description: Experience Cloud 애플리케이션 릴리스 정보에 대한 링크를 찾습니다. Experience League에서 새 자습서 비디오를 보고, 지원 문서를 읽고, 자가 진단 리소스를 찾습니다.
+description: 모든 Adobe CX Enterprise 애플리케이션(이전의 Experience Cloud)에 대한 릴리스 노트 링크를 찾습니다. 새로운 비디오, 이벤트에 대해 알아보고 자가 진단 리소스에 대해 알아보십시오.
 doc-type: release notes
 last-update: April 2026
 author: mfrei
@@ -8,31 +8,33 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 3b12ac9312a38290356a4c80d01e3deaf3fcccf2
+source-git-commit: 7911b9606a2247f7b6427f14c1d1a88e53f755f4
 workflow-type: tm+mt
-source-wordcount: 6867
-ht-degree: 97%
+source-wordcount: 6909
+ht-degree: 95%
 
 ---
 
-# Experience Cloud 중앙 릴리스 정보 - 2026년 4월
+# Adobe CX Enterprise central 릴리스 노트
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
 이 페이지를 통해 다음을 수행할 수 있습니다.
 
-* 애플리케이션별 릴리스 정보에 대한 링크 찾기
-* 이벤트 및 새 리소스 찾기
-* 애플리케이션별 새 비디오 튜토리얼 보기
+* 애플리케이션별 릴리스 정보에 대한 모든 링크 찾기
+* Experience League(Adobe CX Enterprise 도움말 사이트)에서 사용할 수 있는 최신 학습 기회 찾기
+* 새로운 이벤트에 대한 정보 받기
 * 최신 지원 문서 확인
 
-최신 업데이트: **2026년 4월 15일**
+최신 업데이트: **2026년 4월 23일**
+
+**Adobe CX Enterprise 발표:** Experience Cloud은 이제 [Adobe CX Enterprise](https://business.adobe.com/kr/)입니다. Experience League 전체에 대한 업데이트를 완료할 때까지 제품 설명서, 과정 및 비디오에서 _Experience Cloud_&#x200B;을(를) 계속 볼 수 있습니다.
 
 이 페이지에서:
 
 * [웨비나 및 학습 이벤트](#events)
-* [[!DNL Adobe Experience Cloud] 중앙 UI 및 관리](#ecloud)
-* [Experience Cloud의 AI](#ai)
+* [[!DNL Adobe CX Enterprise] 중앙 UI 및 관리](#ecloud)
+* [CX Enterprise의 AI](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
@@ -64,26 +66,26 @@ ht-degree: 97%
 
 [예정된](https://experienceleague.adobe.com/ko/events){target="_blank"} 및 [온디맨드](https://experienceleague.adobe.com/ko/docs/events/experience-league-recorded-events/overview){target="_blank"} 이벤트의 전체 일정을 봅니다.
 
-## [!DNL Adobe Experience Cloud] 중앙 UI 및 관리 {#ecloud}
+## [!DNL Adobe CX Enterprise] 중앙 UI 및 관리 {#ecloud}
 
 | 기능 | 릴리스 날짜 | 설명 |
 | ------- | ------- | ------- |
 | 홈 페이지 새로 고침 | 2026년 4월 20일 | `https://experience.adobe.com/home`에 홈 페이지의 새로운 모양과 느낌입니다. 이번 릴리스에서는 UI를 새로 고치고 전체 _어두운 모드_&#x200B;를 지원하며 접근성을 개선하여 모든 기능이 동일하게 유지됩니다. |
 
-설명서는 [Experience Cloud 인터페이스 및 관리](https://experienceleague.adobe.com/ko/docs/core-services/interface/experience-cloud){target="_blank"}를 참조하십시오.
+설명서는 [CX Enterprise 인터페이스 및 관리](https://experienceleague.adobe.com/ko/docs/core-services/interface/experience-cloud){target="_blank"}를 참조하십시오.
 
-## Experience Cloud의 AI {#ai}
+## CX Enterprise의 AI {#ai}
 
-Experience Cloud에서 AI용으로 게시된 새로운 학습 리소스와 최근 학습 리소스를 찾아보십시오.
+CX Enterprise에서 AI용으로 게시된 새로운 학습 리소스와 최근 학습 리소스를 찾아보십시오.
 
 | 제품 | 리소스 | 설명 | 업데이트된 기능 |
 | ------- | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [AI 허브](https://experienceleague.adobe.com/ko/ai-training){target="_blank"} | Experience League의 AI 허브는 마케터가 일상적인 마케팅 작업에 필요한 실용적인 AI 기술을 구축할 수 있도록 지원합니다. 동료로부터 동일한 문제를 탐색하고 실제로 작동하는 것을 알아봅니다. | **2026년 4월 15일** |
-| [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ko/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Adobe Marketing Agent for Microsoft 365 Copilot이 Experience Platform을 Microsoft 365 Copilot에 직접 연결하는 방법에 대해 알아봅니다. | 2026년 4월 6일 |
+| [!DNL CX Enterprise] | [AI 허브](https://experienceleague.adobe.com/ko/ai-training){target="_blank"} | Experience League의 AI 허브는 마케터가 일상적인 마케팅 작업에 필요한 실용적인 AI 기술을 구축할 수 있도록 지원합니다. 동료로부터 동일한 문제를 탐색하고 실제로 작동하는 것을 알아봅니다. | **2026년 4월 15일** |
+| [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ko/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Adobe Marketing Agent for Microsoft 365 Copilot이 Experience Platform을 Microsoft 365 Copilot에 직접 연결하는 방법에 대해 알아봅니다. | 2026년 4월 6일 |
 | [!DNL AEM CS] | [Cloud Manager MCP 서버](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Cloud Manager MCP 서버를 통해 AI 도구가 AEM as a Cloud Service와 상호 작용하여 프로그램, 환경, 저장소 및 파이프라인을 관리하는 방법을 알아봅니다. | 2026년 4월 6일 |
 | [!DNL Acrobat Services] | [Acrobat 분석기](https://experienceleague.adobe.com/ko/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Adobe Acrobat Analyzer 웨비나를 탐색하여 Generative AI가 문서에서 구조화되고 감사 가능한 통찰력을 추출하여 워크플로를 자동화하고 위험을 줄이며 규모에 맞게 기업 의사 결정을 가속화하는 방법을 살펴봅니다. | 2026년 3월 10일 |
-| [!DNL Experience Cloud] | [마케팅 효율성 향상 및 비즈니스 성과 향상을 위한 Adobe Experience Platform 에이전트](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 이 독점 세션에서는 Adobe Experience Cloud의 수석 부사장인 Anjul Bhambhri와의 통찰력 있는 Q&amp;A 세션이 제공됩니다. Adobe의 여정과 대담한 비전을 통해 마케팅 및 크리에이티브 실무자가 복잡한 단계를 자동화하고, 의사 결정을 가속화하고, 제어 또는 감독을 손상하지 않고 팀의 역량을 확대할 수 있는 혁신적인 Agentic AI 기능을 제공하십시오. | 2026년 3월 3일 |
-| [!DNL Experience Cloud] | [에이전트 작업 및 AI 크레딧 사용량](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Experience Cloud 애플리케이션의 에이전트 작업 및 AI 크레딧 사용률에 대해 알아봅니다. | 2026년 3월 3일 |
+| [!DNL CX Enterprise] | [마케팅 효율성 향상 및 비즈니스 성과 향상을 위한 Adobe Experience Platform 에이전트](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 이 독점 세션에서는 Adobe CX Enterprise의 수석 부사장인 Anjul Bhambhri와의 통찰력 있는 Q&amp;A 세션이 제공됩니다. Adobe의 여정과 대담한 비전을 통해 마케팅 및 크리에이티브 실무자가 복잡한 단계를 자동화하고, 의사 결정을 가속화하고, 제어 또는 감독을 손상하지 않고 팀의 역량을 확대할 수 있는 혁신적인 Agentic AI 기능을 제공하십시오. | 2026년 3월 3일 |
+| [!DNL CX Enterprise] | [에이전트 작업 및 AI 크레딧 사용량](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | CX Enterprise 애플리케이션의 에이전트 작업 및 AI 크레딧 사용률에 대해 알아봅니다. | 2026년 3월 3일 |
 
 ## [!DNL Adobe System Status] {#status}
 
