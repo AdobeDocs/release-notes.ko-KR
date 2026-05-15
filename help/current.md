@@ -272,13 +272,13 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 2026년 5월 11일
 
-* [ [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home){target="_blank"}
+* [&#x200B; [!DNL Advertising DSP]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home){target="_blank"}
 
 ### [!DNL Advertising Search, Social, & Commerce]의 새로운 기능 {#advertising-search}
 
 2026년 2월 25일
 
-* [ [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home){target="_blank"}
+* [&#x200B; [!DNL Advertising Search, Social, & Commerce]의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home){target="_blank"}
 
 ## [!DNL Adobe Experience Manager] {#aem}
 
@@ -332,20 +332,20 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2026년 4월 | [**[!UICONTROL Assets용 Live Copy 만들기]**&#x200B;개 작업](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30207)에 대한 긴 큐 시간 및 오류 해결 | 신규 문서 | Adobe Experience Manager as a Cloud Service의 콘텐츠 조각에 대한 **[!UICONTROL Assets용 Live Copy 만들기]** 작업이 예상보다 오래 큐에 남아 있거나 대상 조각이 이미 있음을 나타내는 오류와 함께 실패하는 경우 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 4월 | [AEM 콘텐츠 조각 편집기의 게시 권한 차이점](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30216) | 신규 문서 | `crx:replicate` 권한을 제거하면 페이지에 대한 빠른 게시가 제거되지만 새로운 콘텐츠 조각 편집기에 콘텐츠 조각에 대한 게시 작업이 계속 표시됩니다. |
 | 2026년 4월 | [지원되지 않는 인코딩 프로필로 인해 DAM의 비디오가 iOS 장치에서 재생되지 않습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30313) | 신규 문서 | DAM에 저장된 비디오가 iOS 장치에서 로드되거나 재생되지 않을 때 iOS에서 지원하지 않는 [!DNL H.264] 프로필 수준을 사용하여 인코딩되므로 이 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2026년 4월 | AEM 작성자의 복제 큐가 늘어날 때 [**[!UICONTROL 클래식 UI 사이트 관리자&#x200B;]**가 느립니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262) | 신규 문서 | 게시 인스턴스에 연결할 수 없고 작성자 인스턴스에서 복제 큐가 커질 때 **[!UICONTROL 클래식 UI Siteadmin]**&#x200B;이(가) 느려질 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2026년 4월 | AEM 작성자의 복제 큐가 늘어날 때 [**[!UICONTROL 클래식 UI 사이트 관리자&#x200B;]**&#x200B;가 느립니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262) | 신규 문서 | 게시 인스턴스에 연결할 수 없고 작성자 인스턴스에서 복제 큐가 커질 때 **[!UICONTROL 클래식 UI Siteadmin]**&#x200B;이(가) 느려질 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 4월 | [Adobe Experience Manager: 자격 증명 저장소가 구성되지 않은 경우 Configuration Manager가 AEM Forms 6.5 LTS에서 중지됨](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30419) | 신규 문서 | AEM Forms 6.5 LTS Configuration Manager 설치가 **[!UICONTROL AEM Forms EAR 파일 배포]** 화면에서 중지되고 *[!DNL JBOSS]이(가) 온라인이 되지 않았다는 오류를 표시할 때 발생하는 문제의 해결 방법에 대해 알아봅니다.* |
 | 2026년 4월 | [Adobe Experience Manager as a Cloud Service에서 대용량 CRX 패키지 다운로드 시간이 초과됨](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30325) | 신규 문서 | **[!UICONTROL 패키지 관리자]**&#x200B;를 사용하여 큰 CRX 패키지를 다운로드할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. 이 문제는 플랫폼과 CDN에서 허용하는 HTTP 시간 초과에서 실행되며, 늘릴 수 없습니다. |
 | 2026년 4월 | [*501 Dynamic Media에서 `projectedFields`을(를) 사용하여 구현되지 않은 오류* [!DNL OpenAPI] 검색](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30304) | 신규 문서 | 요청 본문에서 `projectedFields` 또는 `facets`과(와) 함께 Dynamic Media [!DNL OpenAPI] 게재 계층 검색 API를 사용할 때 *501 구현되지 않음 오류*&#x200B;가 반환되는데, 이는 이러한 기능에 대한 서버측 지원을 사용할 수 없기 때문입니다. |
 | 2026년 4월 | [Cloud Manager에서 만료된 AEM 릴리스로 인해 파이프라인 유효성 검사가 실패합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30301) | 신규 문서 | 파이프라인이 만료된 AEM 릴리스로 구성되었기 때문에 Adobe Experience Manager as a Cloud Service에서 파이프라인 유효성 검사가 실패하는 경우 이 문제에 대한 솔루션에 대해 알아봅니다. |
 | 2026년 4월 | [AEMaaCS의 백엔드 요청에 마케팅 쿼리 매개 변수가 없음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30333) | 신규 문서 | 요청이 Dispatcher 또는 AEM에 도달하기 전에 CDN이 이러한 매개 변수를 제거하기 때문에 백엔드 서블릿 또는 서비스에서 `utm_*`, `cid` 및 `bid`과(와) 같은 마케팅 쿼리 매개 변수를 사용할 수 없는 경우의 문제에 대한 해결 방법에 대해 알아봅니다. |
 | 2026년 4월 | [Adobe RUM 스크립트에 대한 직접 액세스 적용 [!DNL Subresource Integrity] 및 제한](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30336) | 신규 문서 | Adobe Experience Manager as a Cloud Service의 Adobe [!DNL Real User Monitoring]&#x200B;(RUM) 스크립트가 내부 환경 세부 정보를 노출하고 외부 도메인 구성을 활성화한 후에도 게시자 도메인에서 바로 액세스할 수 있는 경우 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2026년 4월 | [**[!UICONTROL 게시됨으로 보기&#x200B;]**에서 AEM의 게시되지 않은 페이지에 대해 404를 반환합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | 신규 문서 | 현재 게시되지 않은 페이지에 대해 **[!UICONTROL 게시됨으로 보기]** 기능을 사용할 때 문제에 대한 해결 방법에 대해 알아봅니다. 페이지에 이전에 `offTime`이(가) 설정되어 있으면 404 오류가 표시됩니다. |
+| 2026년 4월 | [**[!UICONTROL 게시됨으로 보기&#x200B;]**&#x200B;에서 AEM의 게시되지 않은 페이지에 대해 404를 반환합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | 신규 문서 | 현재 게시되지 않은 페이지에 대해 **[!UICONTROL 게시됨으로 보기]** 기능을 사용할 때 문제에 대한 해결 방법에 대해 알아봅니다. 페이지에 이전에 `offTime`이(가) 설정되어 있으면 404 오류가 표시됩니다. |
 
 ## [!DNL Adobe Commerce] {#commerce}
 
 [!DNL Adobe Commerce]에 대한 릴리스 정보, 새로운 튜토리얼과 기술 자료 지원 문서를 이용할 수 있습니다.
 
-* [ [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]에 대한 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview){target="_blank"}
+* [&#x200B; [!DNL Adobe Commerce] 및 [!DNL Magento Open Source]에 대한 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview){target="_blank"}
 * [Adobe [!DNL Commerce] 서비스 안내서](https://experienceleague.adobe.com/ko/docs/commerce/user-guides/home){target="_blank"}
 * [제품 가용성](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/product-availability){target="_blank"}
 
