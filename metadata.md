@@ -2,15 +2,14 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/release-notes.ko-KR
+git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-source-git-commit: d6696605b4b4e357fac81509884625dad2c83fd9
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: c8427fc96f4b23442391cf60b0cec88f1f69e5ee
 workflow-type: tm+mt
 source-wordcount: 175
 ht-degree: 72%
@@ -23,7 +22,7 @@ ht-degree: 72%
 metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 사용 안내서의 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행해야 합니다.
 
 | 메타데이터 | 기능 |
-|--- |--- |
+| --- |--- |
 | solution-title | 문서 헤더에 링크로 사용됩니다. 짧게 유지하십시오. |
 | solution-hub-url | helpx 허브 페이지 열기 |
 | solution-icon | 솔루션 제목 옆에 솔루션 아이콘 표시 아직 구현되지 않음 |
