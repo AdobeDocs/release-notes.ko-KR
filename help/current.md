@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: dca17391c8c6ef661fb92f3c43291a35f810ebd0
+source-git-commit: 90a809f7a186f9bf441acd2bb8de22062685532c
 workflow-type: tm+mt
-source-wordcount: '2222'
+source-wordcount: '2227'
 ht-degree: 27%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 27%
 * 새로운 이벤트에 대한 정보 받아 보기
 * 최신 지원 문서 확인
 
-최근 업데이트: **2026년 5월 16일**
+최근 업데이트: **2026년 5월 28일**
 
 ## 애플리케이션 릴리스 정보 {#application-release-notes}
 
@@ -32,29 +32,29 @@ ht-degree: 27%
 | [!DNL CX Enterprise] | 2026년 4월 | [CX 엔터프라이즈 중앙 UI 및 관리](https://experienceleague.adobe.com/ko/docs/core-services/interface/more-resources/release-notes){target="_blank"} |
 | [!DNL Adobe System Status] | 2026년 5월 15일 | [Adobe 시스템 상태(이 안내서의)](https://experienceleague.adobe.com/ko/docs/release-notes/experience-cloud/current#status){target="_blank"} |
 | [!DNL Adobe LLM Optimizer] | 2026년 5월 8일 | [LLM Optimizer 릴리스 노트](https://llmo.now/articles/release-notes){target="_blank"} |
-| [!DNL Adobe Experience Platform] | 2026년 4월 28일 | [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-platform/release-notes/latest){target="_blank"} |
-| [!DNL Experience Platform] 모바일 SDK | 2026년 4월 21일 | [[!DNL Experience Platform] Mobile SDK 릴리스 정보](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} |
+| [!DNL Adobe Experience Platform] | 2026년 5월 19일 | [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-platform/release-notes/latest){target="_blank"} |
 | [!DNL Adobe Real-Time CDP] | 2026년 4월 28일 | [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-platform/release-notes/latest){target="_blank"} |
-| [!DNL Adobe Analytics] | 진행 중 | [[!DNL Analytics] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest){target="_blank"} |
-| [!DNL Adobe Customer Journey Analytics] | 2026년 2월 | [Customer Journey Analytics 릴리스 노트](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} |
-| [!DNL Adobe Streaming Media Analytics] | 2025년 10월 | [스트리밍 미디어 분석 릴리스 정보](https://experienceleague.adobe.com/ko/docs/media-analytics/using/release-notes/release-notes){target="_blank"} |
-| [!DNL Adobe Mix Modeler] | 2026년 3월 | [Mix Modeler 릴리스 정보](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/releases/latest){target="_blank"} |
-| [!DNL Adobe Advertising DSP] | 2026년 5월 11일 | [Advertising DSP의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home){target="_blank"} |
+| [!DNL Experience Platform] 모바일 SDK | 2026년 4월 21일 | [[!DNL Experience Platform] Mobile SDK 릴리스 정보](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} |
+| [!DNL Adobe Analytics] | 2026년 5월 5일 | [[!DNL Analytics] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest){target="_blank"} |
+| [!DNL Adobe Customer Journey Analytics] | 2026년 5월 1일 | [Customer Journey Analytics 릴리스 노트](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} |
+| [!DNL Adobe Streaming Media Analytics] | 2025년 10월 7일 | [스트리밍 미디어 분석 릴리스 정보](https://experienceleague.adobe.com/ko/docs/media-analytics/using/release-notes/release-notes){target="_blank"} |
+| [!DNL Adobe Mix Modeler] | 2026년 3월 30일 | [Mix Modeler 릴리스 정보](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/releases/latest){target="_blank"} |
+| [!DNL Adobe Advertising DSP] | 2026년 5월 20일 | [Advertising DSP의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/dsp/home){target="_blank"} |
 | [!DNL Adobe Advertising Search, Social, & Commerce] | 2026년 2월 25일 | [Advertising 검색, 소셜 및 Commerce의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home){target="_blank"} |
 | [!DNL Adobe Experience Manager] as a Cloud Service | 2026년 4월 30일 | AEM as a Cloud Service의 [릴리스 노트 홈](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/home){target="_blank"} |
-| [!DNL Adobe Experience Manager] 6.5 | 2025년 11월 26일 | [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} |
+| [!DNL Adobe Experience Manager] 6.5 | 2025년 5월 21일 | [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} |
 | [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | 2026년 5월 7일 | [Experience Manager Cloud Manager 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} |
 | [!DNL Experience Manager] [!DNL Assets Essentials] | 2024년 7월 25일 | [Experience Manager Assets Dynamic Media 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-assets-essentials/help/release-notes){target="_blank"} |
 | [!DNL Experience Manager] [!DNL Brand Portal] | 2026년 1월 1일 | [Experience Manager Brand Portal 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"} |
 | [!DNL Experience Manager] [!DNL Dispatcher] | 2025년 11월 20일 | [Experience Manager Dispatcher 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"} |
 | [!DNL Adobe Commerce] | 진행 중 | [Adobe Commerce 및 Magento Open Source 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview){target="_blank"} |
-| [!DNL Adobe Target] | 2026년 5월 12일 | [[!DNL Adobe Target] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/release-notes){target="_blank"} |
+| [!DNL Adobe Target] | 2026년 5월 21일 | [[!DNL Adobe Target] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/release-notes){target="_blank"} |
 | [!DNL Adobe Campaign] 웹 사용자 인터페이스 | 2026년 4월 29일 | [Campaign 웹 UI 릴리스 노트](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} |
 | [!DNL Adobe Campaign] v8 | 2026년 5월 3일 | [[!DNL Campaign] v8 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} |
 | [!DNL Adobe Campaign Standard] | 2026년 2월 (26.2) | [[!DNL Campaign Standard] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} |
 | [!DNL Adobe Campaign Classic] v7 | 2026년 3월 31일 | [[!DNL Campaign Classic] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} |
 | [!DNL Adobe Journey Optimizer] | 2026년 5월 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} |
-| [!DNL Adobe Journey Optimizer B2B Edition] | 2026년 3월 27일 | [Journey Optimizer B2B edition 릴리스 노트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} |
+| [!DNL Adobe Journey Optimizer B2B Edition] | 2026년 5월 22일 | [Journey Optimizer B2B edition 릴리스 노트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} |
 | [!DNL Adobe Marketo Engage] | 2026년 5월 | [Marketo Engage 최신 릴리스 정보](https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/current){target="_blank"} |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | 2026년 3월 | [Dynamic Chat 릴리스 노트](https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} |
 | [!DNL Adobe Workfront] | 2026년 1분기 | [Adobe Workfront 제품 릴리스](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} |
