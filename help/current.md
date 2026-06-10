@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b50bb01766d8cfadeeed250b7fc0d5a6e5b084ed
+source-git-commit: 877f89e212d5753fe765a5f1bac14bc61891b0bf
 workflow-type: tm+mt
-source-wordcount: '6063'
+source-wordcount: '6066'
 ht-degree: 52%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 52%
 * CX Enterprise의 새로운 생성 AI 및 아젠틱 AI 기능에 대해 알아봅니다
 * 애플리케이션별 릴리스 정보에 대한 모든 링크 찾기
 * Experience League(Adobe의 CX Enterprise 도움말 사이트)에서 제공되는 최신 학습 기회 찾기
-* 새로운 이벤트에 대한 정보 받아 보기
+* Experience League의 새로운 이벤트에 대한 정보 받기
 * 최신 지원 문서 확인
 
 <!--
@@ -28,7 +28,7 @@ ht-degree: 52%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-최신 업데이트: **2026년 6월 9일**
+최신 업데이트: **2026년 6월 10일**
 
 ## 새로운 기능
 
