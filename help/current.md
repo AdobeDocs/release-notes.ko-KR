@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 8f10855ecf307977cb13bee410a823c0102138cc
+source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
 workflow-type: tm+mt
-source-wordcount: '7264'
-ht-degree: 30%
+source-wordcount: '7107'
+ht-degree: 28%
 
 ---
 
@@ -28,14 +28,27 @@ ht-degree: 30%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-최신 업데이트: **2026년 6월 11일**
+최신 업데이트: **2026년 6월 16일**
 
 ## 새로운 기능
 
-* [새로운 릴리스 정보 - 모든 애플리케이션](#application-release-notes)
 * [CX Enterprise 의 새로운 AI 기능](#ai)
+* [새로운 릴리스 정보 - 모든 애플리케이션](#application-release-notes)
 * [예정된 웨비나 및 이벤트](#events)
 * [새로운 튜토리얼 및 지원 문서](#articles)
+
+## CX Enterprise 의 새로운 AI 기능 {#ai}
+
+CX Enterprise의 생성 및 agentic AI에 대해 게시된 최신 학습 리소스를 확인하십시오.
+
+| 애플리케이션 | 업데이트 | 설명 | 업데이트된 기능 |
+| ------- | ------- | ------- | ------- |
+| CX Enterprise | **[!DNL Coworker]** | CX Enterprise Coworker 는 전체 고객 경험 워크플로우를 자동화하는 아젠틱 AI 애플리케이션입니다. 시그널을 감지하고 대상자를 빌드하고 몇 시간 만에 내장된 거버넌스로 캠페인을 시작합니다. | 2026년 6월 11일 |
+| CX Enterprise | **Agentic AI 기능 카탈로그** | 라이센스가 부여된 CX 엔터프라이즈 앱에서 사용할 수 있는 agentic AI 작업을 알아보십시오. [Adobe Experience Platform 에이전트 작업 및 AI 크레딧 사용](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/ai-credit-consumption)에 대한 링크를 찾으십시오. | 2026년 6월 11일 |
+| [!DNL CX Enterprise] | **[!UICONTROL 모니터링]** | 이제 CX Enterprise는 기존 애플리케이션에서 에이전트 AI 사용을 모니터링할 수 있는 [AI 모니터링 대시보드](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/monitoring){target="_blank"}를 제공합니다. 채택을 추적하고, 대화 및 피드백을 검토하고, AI Assistant 및 기타 대화 화면을 통해 액세스되는 Experience Platform 에이전트에 대한 AI 크레딧 소비를 관리합니다. 개요, 사용자, 피드백 및 AI 크레딧 보기를 통해 거버넌스 이해 당사자가 데이터를 사용하여 채택을 안내할 수 있습니다. | 2026년 6월 2일 |
+| [!DNL CX Enterprise] - Experience League | **AI 교육** | Experience League의 [AI 허브](https://experienceleague.adobe.com/ko/ai-training){target="_blank"}는 마케터가 일상적인 마케팅 작업에 필요한 실용적인 AI 기술을 습득하는 데 도움이 됩니다. 동료로부터 동일한 문제를 탐색하고 실제로 효과가 있는 방안을 알아봅니다. | 2026년 4월 15일 |
+| [!DNL CX Enterprise] | **Microsoft 365 Copilot용 마케팅 에이전트** | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ko/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"}이(가) Experience Platform을 Microsoft 365 Copilot에 직접 연결하는 방법을 알아봅니다. | 2026년 4월 6일 |
+| [!DNL AEM CS] | **Cloud Manager MCP 서버** | [Cloud Manager MCP 서버](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"}를 통해 AI 도구가 AEM as a Cloud Service과 상호 작용하여 프로그램, 환경, 저장소 및 파이프라인을 관리하는 방법을 알아봅니다. | 2026년 4월 6일 |
 
 ## 새로운 릴리스 정보 - 모든 애플리케이션 {#application-release-notes}
 
@@ -71,7 +84,7 @@ ht-degree: 30%
 | [!DNL Adobe Campaign] v8 | 2026년 3월 11일 | [[!DNL Campaign] v8 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Debian 13 및 PostgreSQL 17 업그레이드</li><li>보안 및 안정성 수정 사항</li></ul> |
 | [!DNL Adobe Campaign Standard] | 2026년 2월 (26.2) | [[!DNL Campaign Standard] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>보안 수정 사항</li><li>기타 해결 사항</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026년 6월 | [[!DNL Campaign Classic] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>보안 업데이트(v7.4.3 6월 빌드)</li><li>Debian 13 및 PostgreSQL 17 업그레이드</li></ul> |
-| [!DNL Adobe Journey Optimizer] | 2026년 6월 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>여정 표현식을 위한 AI 지원(공개 Beta)</li><li>반복되지 않는 대상자 읽기 여정에 대한 자동 완료</li><li>사용자 지정 작업의 인증서 기반 사용자 지정 인증</li><li>여정 시뮬레이션(제한된 가용성)</li><li>여정 조각(제한된 가용성)</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026년 6월 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>여정 표현식을 위한 AI 어시스턴트(공개 Beta)</li><li>반복되지 않는 대상자 읽기 여정에 대한 자동 완료</li><li>사용자 지정 작업의 인증서 기반 사용자 지정 인증</li><li>여정 시뮬레이션(제한된 가용성)</li><li>여정 조각(제한된 공급)</li></ul> |
 | [!DNL Adobe Journey Optimizer B2B Edition] | 2026년 5월 22일 | [Journey Optimizer B2B edition 릴리스 노트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>랜딩 페이지</li><li>양식</li><li>계정 구성원 목록 필터</li><li>경험 이벤트 내역 필터링</li><li>다음 최적 경로 여정 노드</li></ul> |
 | [!DNL Adobe Marketo Engage] | 2026년 5월 | [Marketo Engage 최신 릴리스 정보](https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>MARKETO AI</li><li>Marketo Engage 서버</li><li>이메일 조각에 대한 Designer 조건부 콘텐츠</li><li>선택 목록 관리</li></ul> |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | 2026년 3월 | [Dynamic Chat 릴리스 노트](https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>방문자 대기 시간 제한</li><li>성적 증명서 다운로드</li><li>라우팅 논리 개선</li></ul> |
@@ -79,22 +92,6 @@ ht-degree: 30%
 | [!DNL Adobe Workfront Fusion] | 2026년 6월 | [Adobe Workfront Fusion 릴리스 활동](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>특정 시나리오 실행 다시 트리거</li><li>한 번 실행 기능에 대한 업데이트</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026년 3월 | [GenStudio for Performance Marketing 릴리스 노트](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Meta, LinkedIn 및 Horizon 캔버스에 표시를 위한 익스프레스 템플릿</li><li>TikTok 인피드 비디오 광고 만들기, 승인 및 활성화</li></ul> |
 | [!DNL Adobe Pass] | 2026년 5월(3.7.0.2) | [Adobe Pass 3.7.0 릴리스 노트](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>OAuth2 기반 MVPD 인증에 대한 PKCE 지원</li><li>TVE 대시보드 1.5.1</li><li>Apple SSO 구성 불일치 수정</li><li>HTTP 500 권한 부여-거부 수정</li></ul> |
-
-## CX Enterprise 의 새로운 AI 기능 {#ai}
-
-CX Enterprise의 생성 및 agentic AI에 대해 게시된 새로운 학습 리소스와 최근 학습 리소스를 살펴보십시오.
-
-| 제품 | 리소스 | 설명 | 업데이트된 기능 |
-| ------- | ------- | ------- | ------- |
-| CX Enterprise Coworker(일반 공급) | 곧 출시 예정 | CX Enterprise Coworker 는 전체 고객 경험 워크플로우를 자동화하는 아젠틱 AI 애플리케이션입니다. 시그널을 감지하고 대상자를 빌드하고 몇 시간 만에 내장된 거버넌스로 캠페인을 시작합니다. | **2026년 6월 11일** |
-| CX 엔터프라이즈 | CX 엔터프라이즈 에이전트 AI 기능 카탈로그 | 라이센스가 부여된 CX 엔터프라이즈 앱에서 사용할 수 있는 agentic AI 작업을 알아보십시오. [Adobe Experience Platform 에이전트 작업 및 AI 크레딧 사용](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/ai-credit-consumption)에 대한 링크를 찾으십시오. | **2026년 6월 11일** |
-| [!DNL CX Enterprise] | [AI 모니터링 대시보드](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/monitoring){target="_blank"} | 이제 CX Enterprise는 기존 애플리케이션에서 에이전트 AI 사용을 모니터링하는 대시보드를 제공합니다. 채택을 추적하고, 대화 및 피드백을 검토하고, AI Assistant 및 기타 대화 화면을 통해 액세스되는 Experience Platform 에이전트에 대한 AI 크레딧 소비를 관리합니다. 개요, 사용자, 피드백 및 AI 크레딧 보기를 통해 거버넌스 이해 당사자가 데이터를 사용하여 채택을 안내할 수 있습니다. | **2026년 6월 2일** |
-| [!DNL CX Enterprise] - Experience League | [AI 허브](https://experienceleague.adobe.com/ko/ai-training){target="_blank"} | Experience League의 AI 허브는 마케터가 일상적인 마케팅 작업에 필요한 실용적인 AI 기술을 구축할 수 있도록 지원합니다. 동료로부터 동일한 문제를 탐색하고 실제로 효과가 있는 방안을 알아봅니다. | 2026년 4월 15일 |
-| [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ko/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Adobe Marketing Agent for Microsoft 365 Copilot이 Experience Platform을 Microsoft 365 Copilot에 직접 연결하는 방법에 대해 알아봅니다. | 2026년 4월 6일 |
-| [!DNL AEM CS] | [Cloud Manager MCP 서버](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Cloud Manager MCP 서버를 통해 AI 도구가 AEM as a Cloud Service와 상호 작용하여 프로그램, 환경, 저장소 및 파이프라인을 관리하는 방법을 알아봅니다. | 2026년 4월 6일 |
-| [!DNL Acrobat Services] | [Acrobat 분석기](https://experienceleague.adobe.com/ko/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Adobe Acrobat Analyzer 웨비나를 탐색하여 Generative AI가 문서에서 구조화되고 감사 가능한 통찰력을 추출하여 워크플로를 자동화하고 위험을 줄이며 규모에 맞게 기업 의사 결정을 가속화하는 방법을 살펴봅니다. | 2026년 3월 10일 |
-| [!DNL CX Enterprise] | [마케팅 효율성 향상 및 비즈니스 성과 향상을 위한 Adobe Experience Platform 에이전트](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 이 독점 세션에서는 Adobe CX Enterprise의 수석 부사장인 Anjul Bhambhri와의 통찰력 있는 Q&amp;A 세션이 제공됩니다. Adobe의 여정과 대담한 비전을 통해 마케팅 및 크리에이티브 실무자가 복잡한 단계를 자동화하고, 의사 결정을 가속화하고, 제어 또는 감독을 손상하지 않고 팀의 역량을 확대할 수 있는 혁신적인 Agentic AI 기능을 제공하십시오. | 2026년 3월 3일 |
-| [!DNL CX Enterprise] | [에이전트 작업 및 AI 크레딧 사용량](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | CX Enterprise 애플리케이션의 에이전트 작업 및 AI 크레딧 사용률에 대해 알아봅니다. | 2026년 3월 3일 |
 
 ## 예정된 웨비나 및 이벤트 {#events}
 
