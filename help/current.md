@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 655ebfa1efb1b1365c247f9f0105467351a4e702
+source-git-commit: b0fa4b80693428f871214415f7eeb05bc3982667
 workflow-type: tm+mt
-source-wordcount: '20806'
+source-wordcount: '20832'
 ht-degree: 11%
 
 ---
@@ -21,16 +21,9 @@ ht-degree: 11%
 * 모든 CX 엔터프라이즈 애플리케이션에 대한 새 제품 [릴리스 정보](#application-release-notes)
 * Experience League에서 사용할 수 있는 새로운 [튜토리얼 및 지원 문서](#articles)
 
-<!--
 >[!TIP]
 >
->To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
--->
-<!--
->[!TIP]
->
->To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page.  
--->
+>이 페이지의 새로운 CX Enterprise 기능 및 업데이트에 대한 월별 이메일을 받으려면 [[!UICONTROL 뉴스레터]](https://account.adobe.com/magazines) 페이지에서 **[!UICONTROL 우선 순위 제품 업데이트]**&#x200B;를 사용하도록 설정하십시오.
 
 최신 업데이트: **2026년 8월 14일**
 
@@ -318,7 +311,7 @@ Experience Manager as a Cloud Service에 대한 최신 비디오 튜토리얼 �
 | 2026년 7월 | [Adobe Experience Manager에서 일괄 페이지 게시를 위한 단일 승인 요청 확인](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38796) | 신규 문서 | Adobe Experience Manager의 여러 페이지에 대해 [!UICONTROL 활성화 요청] 워크플로우를 시작하면 단일 통합 요청 대신 여러 승인 요청이 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM 6.5.66516의  [!DNL crx2oak] 1.22.0에서 CVE-2025-DFA 취약성이 보고되었습니다.](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-35659) | 신규 문서 | Adobe Experience Manager 6.5에 있는 취약한 버전의 `org.apache.tika:tika-core` 라이브러리가 포함되어 있으므로 보안 취약성 검색 결과가 [!DNL crx2oak] 1.22.0 유틸리티에 보고될 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [Adobe Experience Manager에서 비활성 복제 에이전트 및 *404* 오류 해결](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38738) | 신규 문서 | Adobe Experience Manager의 복제 에이전트가 비활성화되어 게시된 페이지가 게시 인스턴스에서 *404* 오류를 반환하는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2026년 7월 | AEM [!UICONTROL TarMK] [!DNL Cold Standby][&#128279;](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38765)에 대한 구성 [!DNL Keepalived] 상태 검사 | 신규 문서 | 기본 작성자 인스턴스만 사용자 트래픽을 수신하고 대기 노드가 수동 승격 전에 요청을 제공하지 않도록 Adobe Experience Manager [!UICONTROL TarMK] [!DNL Cold Standby] 환경에서 [!DNL Keepalived]을(를) 구성해야 할 때의 문제 해결 방법에 대해 알아봅니다. |
+| 2026년 7월 | AEM [!UICONTROL TarMK] [!DNL Cold Standby]&#x200B;[&#128279;](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38765)에 대한 구성 [!DNL Keepalived] 상태 검사 | 신규 문서 | 기본 작성자 인스턴스만 사용자 트래픽을 수신하고 대기 노드가 수동 승격 전에 요청을 제공하지 않도록 Adobe Experience Manager [!UICONTROL TarMK] [!DNL Cold Standby] 환경에서 [!DNL Keepalived]을(를) 구성해야 할 때의 문제 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM Dynamic Media: 이미지 크기 조정 시 종횡비 유지](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38792) | 신규 문서 | 폭 및 높이 매개 변수를 사용하여 이미지 크기를 조정할 때 원래 종횡비를 유지하기 위해 Adobe Experience Manager Dynamic Media 이미지 전달이 필요한 경우 이 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM 유니버설 편집기: 하위 항목은 콘텐츠 선택기에서 상위 선택 후에만 로드됩니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38913) | 신규 문서 | Adobe Experience Manager Universal Editor에서 컨텐츠 선택기 탐색의 하위 항목이 상위 항목을 선택한 후에만 로드되고 표시되는 경우에 발생하는 문제의 해결 방법에 대해 알아봅니다. 상위 항목은 설계에 의한 것이며 제품 결함이 아닙니다. |
 | 2026년 7월 | [지속된 쿼리는 AEM GraphQL 편집기에서 루트 수준이 아닌 구성에 사용할 수 없습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-39085) | 신규 문서 | 루트 수준이 아닌 구성을 사용할 때 Adobe Experience Manager GraphQL 편집기에서 지속 쿼리를 저장하는 옵션을 사용할 수 없을 때의 문제 해결 방법에 대해 알아봅니다. |
