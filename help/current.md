@@ -5,43 +5,25 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 25162d69b1259beed585214bc65cc058d8ca3934
+source-git-commit: 541841505215f51a23000b0c20d663d7ae4805c0
 workflow-type: tm+mt
-source-wordcount: '21003'
-ht-degree: 11%
+source-wordcount: '21404'
+ht-degree: 14%
 
 ---
 
 # CX Enterprise 중앙 릴리스 정보 — 2026년 8월
 
-이 페이지는 다음을 찾는 데 도움이 됩니다.
+이 페이지는 최신 버전을 찾는 데 도움이 됩니다.
 
-* [Experience League](#events)의 새로운 기능
-* [AI 및 CX Enterprise Coworker](#ai)에 대한 새로운 도움말
-* 모든 CX 엔터프라이즈 애플리케이션에 대한 새 제품 [릴리스 정보](#application-release-notes)
-* Experience League에서 사용할 수 있는 새로운 [튜토리얼 및 지원 문서](#articles)
+* 모든 CX 엔터프라이즈 애플리케이션에 대한 [릴리스 정보](#application-release-notes)(**9월 8일** 업데이트됨)
+* Experience League의 [이벤트 및 새로운 기능](#events)(**9월 8일** 업데이트됨)
+* [AI 및 CX Enterprise Coworker](#ai) 학습 리소스
+* Experience League에서 사용 가능한 [튜토리얼 및 지원 문서](#articles)
 
 >[!TIP]
 >
 >이 페이지의 새로운 CX Enterprise 기능 및 업데이트에 대한 월별 이메일을 받으려면 [[!UICONTROL 뉴스레터]](https://account.adobe.com/magazines) 페이지에서 **[!UICONTROL 우선 순위 제품 업데이트]**&#x200B;를 사용하도록 설정하십시오.
-
-최신 업데이트: **2026년 8월 31일**
-
-## Experience League의 새로운 기능{#events}
-
-* [Experience League 이벤트 v2](https://experienceleague.adobe.com/ko/events): 새 이벤트 페이지는 중앙 집중식 검색에서 예정된 이벤트와 온디맨드 이벤트를 결합합니다.
-* [AI 교육](https://experienceleague.adobe.com/ko/ai-training): Experience League의 AI 허브를 통해 일상적인 마케팅 작업에 필요한 실용적인 AI 기술을 습득할 수 있습니다.
-
-## 새 [!DNL CX Enterprise Coworker] 및 AI 리소스 {#ai}
-
-[!DNL CX Enterprise] 응용 프로그램에서 [!DNL Coworker] 및 AI 기능에 대해 게시된 최신 학습 리소스를 찾으십시오.
-
-| 애플리케이션 | 업데이트 | 설명 | 업데이트된 기능 |
-| ------- | ------- | ------- | ------- |
-| CX Enterprise [!DNL Coworker Chat] | **사용 사례 리소스** | [!DNL Coworker Chat]에서 사용할 수 있는 샘플 프롬프트를 찾습니다. 각 프롬프트는 복사되고, 고유한 데이터와 컨텍스트에 맞게 조정되며, 대화를 통해 정제되도록 작성됩니다. [자세히 알아보기...](https://experienceleague.adobe.com/ko/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview). | 2026년 8월 10일 |
-| CX Enterprise | **Agentic AI 기능 카탈로그** | 라이선스가 부여된 CX Enterprise 앱에서 사용할 수 있는 에이전틱 AI 작업을 알아보십시오. [AI 크레딧 사용량](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/ai-credit-consumption)에 대한 링크를 찾으십시오. | 2026년 6월 11일 |
-| [!DNL CX Enterprise] | **[!UICONTROL 모니터링]** | 이제 CX Enterprise는 기존 애플리케이션에서 에이전트 AI 사용을 모니터링할 수 있는 [AI 모니터링 대시보드](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/monitoring){target="_blank"}를 제공합니다. | 2026년 6월 2일 |
-| [!DNL CX Enterprise] - Experience League | **AI 교육** | Experience League의 [AI 허브](https://experienceleague.adobe.com/ko/ai-training){target="_blank"}는 마케터가 일상적인 마케팅 작업에 필요한 실용적인 AI 기술을 습득하는 데 도움이 됩니다. 동료로부터 동일한 문제를 탐색하고 실제로 효과가 있는 방안을 알아봅니다. | 2026년 4월 15일 |
 
 ## CX 엔터프라이즈 릴리스 정보 {#application-release-notes}
 
@@ -49,19 +31,19 @@ ht-degree: 11%
 
 **참고:** 여러 CX Enterprise 애플리케이션이 매주 릴리스됩니다. 애플리케이션 릴리스 정보 페이지를 자주 방문하여 최신 정보를 유지하십시오.
 
-마지막 업데이트: **2026년 8월 31일**
+마지막 업데이트: **2026년 9월 8일**
 
 | 애플리케이션 | 릴리스 일자 | 릴리스 정보 URL | 업데이트 |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Commerce] as a Cloud Service | 2026년 8월 12일 | [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>새 송장 결제 이벤트([!DNL observer.sales_order_invoice_pay])를 사용하면 통합에서 폴링 대신 송장 결제 상태를 구독할 수 있습니다</li><li>샌드박스 및 프로덕션 구성(샌드박스; 2026년 9월 1일 프로덕션)을 동기화하는 새로운 REST API 엔드포인트가 포함된 Adobe Commerce 2.4.9로 업데이트되었습니다</li><li>소스별 인벤토리 재고 가시성에 대한 새 GraphQL [!DNL sourceAvailability] 쿼리</li><li>지속적인 장바구니 및 위시리스트 설정의 GraphQL 노출</li><li>제품, SKU 또는 주문 ID로 고객 주문 검색</li></ul> |
-| [!DNL Adobe Experience Manager] as a Cloud Service | 2026년 8월 10일 | [최신 Adobe Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>새 콘텐츠 조각 편집기의 모든 RDE 및 개발 환경으로 롤아웃하는 콘텐츠 참조 선택기가 개선되었습니다</li><li>기능 릴리스 2026.7.0은 현재 최신 버전이며 2026.8.0은 2026년 8월 27일로 예약되었습니다</li><li>시각적 컨텐츠 조각(컨텐츠 조각 출력을 서식이 지정된 HTML으로 렌더링)</li><li>Adobe Express 임베드된 편집기에서 Photoshop(.psd) 에셋 열기</li></ul> |
-| [!DNL Adobe Customer Journey Analytics] | 2026년 8월 10일 | [Customer Journey Analytics 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>CJA Report API &quot;첫 번째 호출&quot; 안내서(기본 보고서 요청 구성)</li><li>하위 이벤트 분석(이벤트 내의 개별 컨테이너에 대한 세그먼트)</li><li>ad hoc 및 관계형 데이터 세트에 대한 B2B edition 지원</li><li>CX Enterprise [!DNL Coworker]: Customer Journey Analytics 데이터 분석</li><li>CX Enterprise [!DNL Coworker]: Adobe Analytics에서 마이그레이션할 때 데이터 유효성 검사</li></ul> |
-| [!DNL Adobe Analytics] | 2026년 8월 10일 | [[!DNL Analytics] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Analytics 1.4 API 사용 종료 고객 FAQ 게시됨</li><li>마케팅 채널 참조 및 엔드포인트 가이드가 2.0 API에 추가됨</li><li>하위 히트 분석</li><li>Activity Map 확장 UI 새로 고침</li><li>AA 2.0 API 검색 기능</li></ul> |
-| [!DNL Adobe Commerce Optimizer] | 2026년 8월 7일 | [Adobe Commerce Optimizer 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>새 [!DNL externalIds] 필드가 카탈로그 서비스 GraphQL에 추가되어 제품의 원래 외부 데이터 원본을 노출합니다.</li><li>구성 가능한 특정 제품에 대해 잘못된 가격 범위 및 가시성을 반환하는 [!DNL refineProduct] GraphQL 쿼리를 수정했습니다.</li><li>범주 탐색 성능 개선: [!DNL CategoryNavigation] 쿼리에 대해 높은 처리량과 낮은 P99 대기 시간</li><li>시맨틱 검색(AI 기반, 의미 및 컨텍스트 기반)이 적격 영어 카탈로그에 대해 기본적으로 활성화되어 있는 고급 검색 탭에 추가됩니다</li><li>제품 추천 단위에 대한 추천 가격 필터(베타)</li></ul> |
-| [!DNL Adobe Journey Optimizer] | 2026년 8월 5일 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>AI 콘텐츠 생성을 위한 유연한 이미지 소싱(균형 조정, Assets 전용 또는 Creative Essentials에서 가져오는 AEM Assets AI 모드)</li><li>충성도 과제: AI 기반 보고로 게임화된 충성도 이니셔티브</li><li>채널 최적화: 여정 및 캠페인에 대한 자동 최적 채널 선택</li><li>이메일 Designer 모듈: 드래그 앤 드롭 레이아웃 구성 요소 라이브러리</li><li>새 여정 캔버스 UI(새 UI 및 기존 UI 간 전환)</li></ul> |
+| [!DNL Adobe Customer Journey Analytics] | 2026년 9월 9일 | [Customer Journey Analytics 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>보고 날짜 범위로 세그먼트 제한(개인 최상위 컨테이너의 경우)</li><li>B2B: 개인-계정 결합은 매핑 데이터 세트에서 누락된 계정 ID를 파생합니다</li><li>Experience Platform 동의 정책과 일치하는 방문자에 대한 동의 정책 필터링 및 보고</li><li>하위 이벤트 분석(이벤트 내의 개별 컨테이너에 대한 세그먼트)</li><li>ad hoc 및 관계형 데이터 세트에 대한 B2B edition 지원</li></ul> |
+| [!DNL Adobe Analytics] | 2026년 9월 9일 | [[!DNL Analytics] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>보고 날짜 범위로 세그먼트 제한(방문자 최상위 컨테이너의 경우)</li><li>Analytics 1.4 API 사용 종료 고객 FAQ 게시됨</li><li>마케팅 채널 참조 및 엔드포인트 가이드가 2.0 API에 추가됨</li><li>하위 히트 분석</li><li>Activity Map 확장 UI 새로 고침</li></ul> |
+| [!DNL Adobe Commerce] as a Cloud Service | 2026년 9월 8일 | [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>이제 Adobe Commerce 2.4.9의 모든 기능이 포함됩니다(샌드박스, 프로덕션 2026년 9월 8일)</li><li>여러 환경에서 Commerce 시스템 구성 값을 읽고 업데이트하는 새로운 REST 엔드포인트</li><li>새로운 사은품 장바구니 가격 규칙 유형, 장바구니 가격 규칙에 대해 예약된 활성화 및 만료</li><li>사용자 지정 이메일 템플릿을 업데이트 및 삭제하는 새로운 REST 엔드포인트</li><li>B2B 회사 주소록은 구매 발주, 견적 및 반품에 걸쳐 공유됩니다.</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026년 9월 8일 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>증분 영향을 측정하기 위한 여정 수준 보류 그룹(제한된 가용성)</li><li>여정 고급 편집기에서 AI 기반 표현식 생성(일반 공급)</li><li>시간 기반 여정 논리에 대한 새 [!DNL dateDiff] 함수</li><li>이제 여정 시뮬레이션이 콘텐츠 결정 노드 및 타깃팅 최적화를 지원합니다.</li><li>CX Enterprise [!DNL Coworker]: 컨텐츠 관리 MCP 도구 및 여정 예외 항목 분석 스킬</li></ul> |
+| [!DNL Adobe Target] | 2026년 9월 8일 | [[!DNL Adobe Target] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>Target UI 버전 토글 사용 중단 예정(FAQ 참조)</li><li>26.9.2: 권장 사항 및 자동화된 세그먼트 보고서 표시에서 잘못된 피드 URL 인코딩이 수정되었습니다</li><li>26.9.1: 활동 전용 대상이 있는 A/B 활동을 복사할 때 &quot;잘못된 대상 id&quot; 오류가 수정되었습니다</li><li>A/B 테스트(수동) 활동에 대한 베이지안 통계</li><li>자동 할당 활동에 대한 Customer Journey Analytics 보고</li></ul> |
+| [!DNL Adobe Commerce Optimizer] | 2026년 9월 3일 | [Adobe Commerce Optimizer 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>속성 등급(Beta): 속성 조건에 일치하는 모든 제품을 자동으로 증폭, 매립 또는 숨깁니다.</li><li>제품의 원래 외부 데이터 원본을 노출하는 카탈로그 서비스 GraphQL의 새 [!DNL externalIds] 필드</li><li>적합한 영어 카탈로그에 대해 기본적으로 활성화된 고급 검색 탭의 의미 체계 검색(AI 기반)</li><li>제품 추천 단위에 대한 추천 가격 필터(베타)</li><li>[!DNL CategoryNavigation] 쿼리에 대한 범주 탐색 성능 개선</li></ul> |
+| [!DNL Adobe Experience Manager] as a Cloud Service | 2026년 8월 27일 | [최신 Adobe Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>기능 릴리스 2026.8.0은 현재 최신 버전이며 2026.9.0은 2026년 9월 24일로 예약되었습니다.</li><li>AI 생성 콘텐츠에 레이블을 지정하는 에셋 렌디션의 C2PA 메타데이터</li><li>Content Hub에서 생성된 Dynamic Media on Demand 표현물</li><li>에셋 업로드 시 브랜드 인식 AI 메타데이터 생성(Beta)</li><li>적응형 Forms 테이블 구성 요소 및 AEM Edge 기능(CDN에서 JavaScript 실행)</li></ul> |
 | [!DNL Adobe Brand Visibility] (이전 명칭: [!DNL Adobe LLM Optimizer]) | 2026년 8월 4일 | [브랜드 가시성 릴리스 노트](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>일반 가용성: 브랜드 가시성에서 통합된 AI 가시성 측정, 최적화 및 영향 추적(LLM Optimizer에서 새롭게 브랜딩)</li><li>Semrush 데이터를 사용하는 새로운 AI 가시성 대시보드</li><li>셀프서비스 브랜드 및 도메인 온보딩</li><li>영향력이 큰 프롬프트를 검색하는 프롬프트 전략 기능</li><li>광범위한 LLM 플랫폼 적용 범위([!DNL Claude], Grok, DeepSeek)</li></ul> |
-| [!DNL Adobe Campaign Classic] v7 | 2026년 8월 | [[!DNL Campaign Classic] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>보안 업데이트(v7.4.3, 빌드 9399, 8월 3일)</li><li>보안 업데이트(v7.4.3, 빌드 9398, 7월 29일)</li><li>보안 수정 사항 및 webForm.jsp ctx-parameter 동작 변경(빌드 9397)</li></ul> |
-| [!DNL Adobe Target] | 2026년 7월 30일 | [[!DNL Adobe Target] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>A/B 테스트(수동) 활동에 대한 베이지안 통계</li><li>자동 할당 활동에 대한 Customer Journey Analytics 보고</li><li>HTML 또는 경험 조각 오퍼를 선택하거나 수정할 때 시각적 경험 작성기 충돌이 수정되었습니다</li></ul> |
+| [!DNL Adobe Campaign Classic] v7 | 2026년 8월 | [[!DNL Campaign Classic] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>중요 취약점에 대한 보안 업데이트(v7.4.3, 빌드 9401, 8월 25일)</li><li>게재 도메인에 외부 URL 허용 목록 업데이트 필요(2026년 9월 5일까지)</li><li>Adobe Analytics 커넥터가 Analytics 2.0 API(빌드 9400, 8월 11일)로 마이그레이션되었습니다.</li><li>보안 업데이트(빌드 9399, 8월 3일)</li></ul> |
 | Adobe Advertising | 2026년 7월 29일 | [Advertising Search, Social 및 Commerce의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home){target="_blank"} | <ul><li>새로운 UI에서 캠페인, 광고 그룹 및 크리에이티브 관리 전반에 걸쳐 확장된 AI Max 기능</li><li>Experience Platform Web SDK을 통한 Customer Journey Analytics 데이터 교환</li><li>예약된 보고서, Bulksheets, 광고 네트워크 관리자 계정 및 지출 계획자 가 이제 새 UI에 추가됨</li><li>Google AI 최대 검색어 보고서</li><li>모든 포트폴리오에 대한 대량 작업 다운로드</li><li>모든 Google 광고 캠페인에 대한 AI 최대 최적화 지원</li></ul> |
 | [!DNL Adobe Experience Platform and Real-Time CDP] | 2026년 7월 28일 | [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>대상: 대상/대상 필터링, 시간별 증분 내보내기, Microsoft Ads 고객 일치 및 준수 지원</li><li>Real-Time CDP: Spectrum 2 시각적 새로 고침</li><li>실시간 고객 프로필: 더 빠른 내보내기 및 활성화</li><li>세그멘테이션 서비스: 외부 대상에 대한 JSON/Parquet 지원, 세그먼트 일치는 2026년 11월 27일에 중단됨</li><li>소스: Google 광고 및 Meta 광고 소스 추가됨</li></ul> |
 | [!DNL Adobe Campaign] Web 사용자 인터페이스 | 2026년 7월 28일 | [Campaign Web UI 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>웹 UI에서 직접 오퍼 관리(카탈로그 빌드, 자격 규칙, 배포)</li><li>클라이언트 콘솔을 사용하지 않는 브랜드 구성</li><li>이메일 디자이너의 공개 리소스</li><li>데이터 로드하기(RDBMS) 워크플로 활동</li><li>웹 UI에서 JSSP(다이내믹 JavaScript 페이지) 생성 및 관리</li></ul> |
@@ -90,7 +72,36 @@ ht-degree: 11%
 | [!DNL Experience Manager] [!DNL Assets Essentials] | 2024년 7월 25일 | [Experience Manager Assets Dynamic Media 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-assets-essentials/help/release-notes){target="_blank"} | <ul><li>Content Credential 통합</li><li>폴더 콘텐츠의 시각적 미리보기</li><li>상황별 검색</li><li>자산 및 폴더 이름 즉시 변경</li><li>Express 비디오 빠른 작업</li></ul> |
 | [!DNL Experience Manager] 자동화된 양식 변환 서비스 | 2022년 2월 24일 | [Automated Forms Conversion Service 릴리스 정보](https://experienceleague.adobe.com/ko/docs/aem-forms-automated-conversion-service/using/release-notes){target="_blank"} | <ul><li>렌더링 속도를 개선하기 위해 섹션을 조각으로 자동 변환</li></ul> |
 
-## 새로운 튜토리얼 및 지원 문서 {#articles}
+## 이벤트 및 새로운 기능{#events}
+
+* [Experience League 이벤트 v2](https://experienceleague.adobe.com/ko/events): 새 이벤트 페이지는 중앙 집중식 검색에서 예정된 이벤트와 온디맨드 이벤트를 결합합니다.
+* [AI 교육](https://experienceleague.adobe.com/ko/ai-training): Experience League의 AI 허브를 통해 일상적인 마케팅 작업에 필요한 실용적인 AI 기술을 습득할 수 있습니다.
+
+### 예정된 이벤트
+
+| 애플리케이션 | 일자 | 설명 | 세부 사항 |
+| ------- | ------- | ------- | ------- |
+| [!DNL Adobe Analytics], [!DNL Adobe Marketo Measure], [!DNL Adobe Workfront] | 2026년 9월 9일 | **Adobe Insider Tour Chicago** - 참석자가 [!DNL Analytics], [!DNL Marketo Measure] 및 [!DNL Workfront]의 혁신적인 최신 기능을 배울 수 있습니다. | [등록](https://event.adobe.com/adobeinsidertourFall2026){target="_blank"} |
+| [!DNL Adobe Workfront] | 2026년 9월 15일 | **전환: 통합 검토 및 승인으로의 전환 준비** - 변화하는 내용, 팀에서 일반적으로 마찰이 발생하는 위치, 성공적인 마이그레이션을 준비하는 데 도움이 되는 실용적인 팁을 알아봅니다. | [등록](https://events.teams.microsoft.com/event/58e114db-6cad-4d9e-811c-0891a521b1cd@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Adobe Analytics], [!DNL Adobe Marketo Measure], [!DNL Adobe Workfront] | 2026년 9월 16일 | **Adobe 참가자 투어 미니애폴리스** - 참석자가 [!DNL Analytics], [!DNL Marketo Measure] 및 [!DNL Workfront]의 혁신적인 최신 기능을 배웁니다. | [등록](https://event.adobe.com/adobeinsidertourFall2026){target="_blank"} |
+| [!DNL Experience Manager Assets], [!DNL Adobe Experience Manager] | 2026년 9월 16일 | **적합한 팀을 위한 올바른 액세스: AEM Assets에서 더 효율적인 역할 및 워크플로 디자인** — AEM 시리즈의 3부: 권한 및 액세스 수준이 공동 작업을 개선하고, 거버넌스를 강화하며, 브랜드 표준을 보호하고, 보다 확장 가능한 [!DNL AEM Assets] 운영 모델을 만드는 방법에 대해 알아봅니다. | [등록](https://events.teams.microsoft.com/event/41d4fa3f-672b-451a-8e85-8c9b5d22866f@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Adobe Workfront] | 2026년 9월 23일 | **[!DNL Workfront]Fusion Wednesday Forum** — 주제 없는 라운드테이블 동안 동료와 [!DNL Fusion] 솔루션을 브레인스토밍합니다. | [등록](https://events.teams.microsoft.com/event/6da30228-2bfc-4368-a81d-06398f9f2b40@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL CX Enterprise] | 2026년 9월 23일 | **Adobe 디지털 인사이트 표시: 가격 압력 색인** - 가격 압력 색인은 디지털 경제 전반에 걸쳐 소비자가 가격 변화에 대응하는 방법에 대한 고유한 측정값을 제공합니다. | [등록](https://events.teams.microsoft.com/event/9e9708a0-fa3b-4771-a16b-33f82da95062@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| 일반 | 2026년 9월 29일 | **Experience Maker Awards Community AMA \| Award 수상자의 조언** — Adobe이 Experience Makers를 축하하는 이유, 우리가 인식하고 있는 작업과 영향, 눈에 띄는 이야기를 하는 방법에 대해 알아봅니다. | [등록](https://events.teams.microsoft.com/event/005ef4f0-4f57-4f70-94bb-33c092cc91f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Adobe Experience Manager], [!DNL Experience Manager Assets] | 2026년 9월 30일 | **승인됨에서 활성화됨으로: AEM Assets으로 옴니채널 마케팅 강화** — AEM 시리즈의 4부: [!DNL AEM Assets]이(가) 일관성, 거버넌스 및 제어를 유지하면서 승인된 콘텐츠를 채널 간에 더 빠르게 전달하는 데 어떻게 도움이 되는지 알아봅니다. | [등록](https://events.teams.microsoft.com/event/adcc686d-d687-4d20-ae4e-ab57c8a36d0e@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+
+## AI 및 [!DNL CX Enterprise Coworker] 리소스 {#ai}
+
+[!DNL CX Enterprise] 응용 프로그램에서 [!DNL Coworker] 및 AI 기능에 대해 게시된 최신 학습 리소스를 찾으십시오.
+
+| 애플리케이션 | 업데이트 | 설명 | 업데이트된 기능 |
+| ------- | ------- | ------- | ------- |
+| CX Enterprise [!DNL Coworker Chat] | **사용 사례 리소스** | [!DNL Coworker Chat]에서 사용할 수 있는 샘플 프롬프트를 찾습니다. 각 프롬프트는 복사되고, 고유한 데이터와 컨텍스트에 맞게 조정되며, 대화를 통해 정제되도록 작성됩니다. [자세히 알아보기...](https://experienceleague.adobe.com/ko/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview). | 2026년 8월 10일 |
+| CX Enterprise | **Agentic AI 기능 카탈로그** | 라이선스가 부여된 CX Enterprise 앱에서 사용할 수 있는 에이전틱 AI 작업을 알아보십시오. [AI 크레딧 사용량](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/ai-credit-consumption)에 대한 링크를 찾으십시오. | 2026년 6월 11일 |
+| [!DNL CX Enterprise] | **[!UICONTROL 모니터링]** | 이제 CX Enterprise는 기존 애플리케이션에서 에이전트 AI 사용을 모니터링할 수 있는 [AI 모니터링 대시보드](https://experienceleague.adobe.com/ko/docs/core-services/interface/features/monitoring){target="_blank"}를 제공합니다. | 2026년 6월 2일 |
+| [!DNL CX Enterprise] - Experience League | **AI 교육** | Experience League의 [AI 허브](https://experienceleague.adobe.com/ko/ai-training){target="_blank"}는 마케터가 일상적인 마케팅 작업에 필요한 실용적인 AI 기술을 습득하는 데 도움이 됩니다. 동료로부터 동일한 문제를 탐색하고 실제로 효과가 있는 방안을 알아봅니다. | 2026년 4월 15일 |
+
+## 튜토리얼 및 지원 문서 {#articles}
 
 최신 튜토리얼 및 지원 문서에 대한 링크입니다. Adobe 시스템 상태 릴리스 정보는 아래에 나와 있습니다.
 
@@ -303,7 +314,7 @@ Experience Manager as a Cloud Service에 대한 최신 비디오 튜토리얼 �
 | 2026년 7월 | [경합 조건](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38059)&#x200B;(으)로 인해 AEM Managed Services 게시자가 비정상 상태입니다. [!DNL Sling Scripting JSP]  | 신규 문서 | 일반적으로 메모리 압력에 의해 트리거되는 [!DNL Apache] [!DNL Sling Scripting JSP] 모듈의 경합 상태로 인해 Adobe Experience Manager Managed Services 게시자가 비정상 상태가 될 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [[!UICONTROL 제품 프로필]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38343) 이름을 바꾼 후 AEM에서 중복 사용자 그룹 해결 | 신규 문서 | Adobe Admin Console에서 [!UICONTROL 제품 프로필]의 이름을 바꾼 후 Adobe Experience Manager에 중복 사용자 그룹이 나타나는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [Adobe Experience Manager Assets에서 분리된 자산 제거](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38286) | 신규 문서 | 관리 권한이 있거나 없는 사용자를 위해 Adobe Experience Manager Assets에서 고아 자산을 식별하고 제거해야 하는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2026년 7월 | [부적절한 EBS 스토리지 성능(AMS)으로 인한 AEM 작성자 불안정성과 심각한 지연](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-35831) | 신규 문서 | 기본 EBS 볼륨 유형이 AEM의 [!UICONTROL TarMK] 저장소의 I/O 요구 사항을 충족하지 않기 때문에 Adobe Managed Services에 호스팅된 Adobe Experience Manager 작성자 인스턴스가 반복적으로 성능 저하 및 불안정을 경험하는 경우 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2026년 7월 | [부적절한 EBS 스토리지 성능(AMS)으로 인한 AEM 작성자 불안정성과 심각한 지연](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-35831) | 신규 문서 | 기본 EBS 볼륨 유형이 AEM의 [!UICONTROL TarMK] 저장소의 I/O 요구 사항을 충족하지 않기 때문에 Adobe Managed Services에 호스팅된 Adobe Experience Manager 작성자 인스턴스가 반복적으로 성능 저하 및 불안정을 경험하는 경우 문제에 대한 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM Dispatcher: 규칙 변경 내용 다시 작성으로 인해 탐색 URL이 영어 사이트로 리디렉션됨](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38413) | 신규 문서 | Adobe Experience Manager의 현지화된 사이트에서 탐색 링크가 Dispatcher 구성 또는 규칙 다시 작성으로 인해 사용자를 영어 사이트로 잘못 리디렉션할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [DAM 자산 하위 트리가 완전히 게시되지 않아 Adobe Experience Manager에서 리디렉션 흐름 문제가 발생합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38470) | 신규 문서 | Adobe Experience Manager에서 DAM 에셋 하위 트리를 불완전하게 게시하면 리디렉션 흐름 또는 종속 페이지에 문제가 발생하는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [Adobe Experience Manager Managed Services에서 지연된 배포 파이프라인 취소 문제 해결](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38547) | 신규 문서 | 오래 실행되는 정리 프로세스로 인해 Adobe Experience Manager Managed Services의 배포 파이프라인 취소가 지연되는 경우의 문제 해결 방법에 대해 알아봅니다. |
@@ -346,7 +357,7 @@ Experience Manager as a Cloud Service에 대한 최신 비디오 튜토리얼 �
 | 2026년 7월 | [Cloud Manager 파이프라인이 `npm` 감사 단계에서 `ENOAUDIT` 및 끝점 사용 중지 알림](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38984)과(와) 함께 실패합니다. | 신규 문서 | 더 이상 사용되지 않는 `npm` 감사 끝점을 사용하여 Adobe Experience Manager의 `npm` 감사 단계에서 `ENOAUDIT`(으)로 Cloud Manager 파이프라인이 실패할 경우 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM Cloud Manager: `ui.content` 패키지 버전이 충돌하여 더 낮은 환경에서 배포가 차단됩니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-36366) | 신규 문서 | 정적 패키지 버전에서 Adobe Experience Manager Cloud Manager 파이프라인의 하위 환경에서 `ui.content` 패키지 배포를 막는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM Sites: RTE 플러그 인 구성에도 불구하고 [!DNL Rich Text Editor] 특수 문자가 표시되지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-35395) | 신규 문서 | 권장 RTE 플러그인을 구성한 후에도 [!DNL Rich Text Editor]에 입력된 특수 문자가 Adobe Experience Manager Sites에 표시되지 않는 문제의 해결 방법에 대해 알아봅니다. |
-| 2026년 7월 | [Adobe Experience Manager: 누락된 Dispatcher 경로 매핑으로 인해 끊어진 탐색 및 자산 링크를 수정합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38152) | 신규 문서 | 유지 관리 또는 Dispatcher 캐시를 새로 고친 후 Dispatcher 경로 매핑이 누락되거나 불완전하기 때문에 Adobe Experience Manager Sites에서 탐색 및 에셋 링크가 끊어질 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2026년 7월 | [Adobe Experience Manager: 누락된 Dispatcher 경로 매핑으로 인해 끊어진 탐색 및 자산 링크를 수정합니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38152) | 신규 문서 | 유지 관리 또는 Dispatcher 캐시를 새로 고친 후 Dispatcher 경로 매핑이 누락되거나 불완전하기 때문에 Adobe Experience Manager Sites에서 탐색 및 에셋 링크가 끊어질 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | 시작할 때 [AEM 6.5 LTS 라이선스 프롬프트가 나타납니다 [!DNL Quickstart JAR] 로컬로](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38492) | 신규 문서 | 누락되었거나 인식되지 않은 라이선스 파일로 인해 AEM 6.5 LTS [!DNL Quickstart JAR]을(를) 로컬로 시작하는 동안 라이선스 프롬프트가 나타날 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [API 통합이 *(으)로 실패했습니다. 액세스 토큰에 필수 범위가 없습니다. (403 금지됨)*](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-32517) | 신규 문서 | 통합이 올바르게 구성된 것으로 표시되고 액세스 토큰이 성공적으로 생성되더라도 OAuth S2S 인증에 필요한 범위가 없으므로 Adobe Experience Manager as a Cloud Service이 Assets API 요청 중에 *403 Forbidden* 오류를 반환하는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM에서 Dispatcher 구성 배포 오류를 해결합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-35744) | 신규 문서 | 잘못된 파일 구조, 지원되지 않는 패키징 또는 잘못된 파이프라인 및 캐시 구성 설정으로 인해 Adobe Experience Manager에서 배포 또는 마이그레이션 도중 Dispatcher 구성이 실패하는 경우 발생하는 문제의 해결 방법에 대해 알아봅니다. |
@@ -369,7 +380,7 @@ Experience Manager as a Cloud Service에 대한 최신 비디오 튜토리얼 �
 | 2026년 7월 | [AEM as a Cloud Service: 새 편집기에서 콘텐츠 조각을 게시할 때 *잘못된 콘텐츠 조각* 오류 발생](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-36835) | 신규 문서 | Adobe Experience Manager as a Cloud Service에서 새 편집기를 사용하여 콘텐츠 조각을 게시하는 동안 간헐적인 *잘못된 콘텐츠 조각* 오류가 발생할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [Cloud Manager 환경 생성을 위한 AEM 솔루션 실패](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38337) | 신규 문서 | 권한 누락, 필수 [!UICONTROL 제품 프로필] 누락, 잘못된 구성 선택 사항 또는 이미 진행 중인 다른 프로비저닝 작업으로 인해 Cloud Manager에서 환경 만들기가 실패하거나 Adobe Experience Manager as a Cloud Service에서 만들기 상태에 남아 있는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM as a Cloud Service 샌드박스 환경에서 CRX/DE에 액세스할 수 없음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38061) | 신규 문서 | Adobe Experience Manager as a Cloud Service 샌드박스 환경에서 CRX/DE에 액세스할 수 없는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2026년 7월 | [AEM as a Cloud Service: [!DNL Sling Content Distribution] 로컬 SDK과 클라우드 환경의 제한 테스트](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38160) | 신규 문서 | 로컬 Adobe Experience Manager as a Cloud Service SDK과 실제 Cloud Service 환경을 사용하여 [!DNL Sling Content Distribution]을(를) 테스트하는 것의 차이점과 제한에 대해 알아봅니다. |
+| 2026년 7월 | [AEM as a Cloud Service: [!DNL Sling Content Distribution] 로컬 SDK과 클라우드 환경의 제한 테스트](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38160) | 신규 문서 | 로컬 Adobe Experience Manager as a Cloud Service SDK과 실제 Cloud Service 환경을 사용하여 [!DNL Sling Content Distribution]을(를) 테스트하는 것의 차이점과 제한에 대해 알아봅니다. |
 | 2026년 7월 | [Adobe Experience Manager as a Cloud Service에서  [!DNL Splunk] 로그 전달이 실패함](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38161) | 신규 문서 | Adobe Experience Manager as a Cloud Service에서 구성하는 동안 [!DNL Splunk]&#x200B;(으)로 로그 전달이 실패할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM as a Cloud Service: 침투 테스트를 위해 화이트리스트에 IP 추가](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38200) | 신규 문서 | Adobe Experience Manager as a Cloud Service Stage 또는 UAT 환경에서 침투 테스트를 활성화하기 위해 IP 화이트리스트를 요청해야 하는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [환경 변수가 Adobe Experience Manager의 OSGi 구성에서 보간되지 않습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38770) | 신규 문서 | 환경 변수가 표시되지 않거나, OSGi 구성에 보간되지 않거나, Adobe Experience Manager as a Cloud Service, AEM Managed Services 및 Adobe Developer App Builder에서 *null* 값을 반환하고, `$[env:VAR]` 및 `$[secret:VAR]`과(와) 같은 자리 표시자 값이 문자 그대로 로그에 표시되는 경우에 발생하는 문제의 해결 방법에 대해 알아봅니다. |
@@ -435,7 +446,7 @@ Experience Manager as a Cloud Service에 대한 최신 비디오 튜토리얼 �
 | 2026년 7월 | [AEM Cloud Manager: 보류 중인 프로그램 삭제로 인해 기존 프로그램에서 Edge Delivery Services을 사용할 수 없습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-34887) | 신규 문서 | EDS 권한이 삭제 보류 중인 다른 프로그램과 연결된 상태로 유지되므로 기존 Adobe Experience Manager Cloud Manager 프로그램에서 Edge Delivery Services을 활성화할 수 없는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM as a Cloud Service: 잘못된 [!UICONTROL 고급 네트워킹] 또는 프록시 구성](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-36031) 때문에 SMTP 전자 메일 배달이 실패합니다. | 신규 문서 | 메일 서비스가 [!UICONTROL 고급 네트워킹]에서 잘못된 SMTP 호스트 또는 포트 구성을 사용하므로 Adobe Experience Manager as a Cloud Service의 워크플로 이메일 알림이 실패할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [Adobe Experience Manager as a Cloud Service에서 힙 덤프 사용 가능 여부 및 요청 프로세스](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-37893) | 신규 문서 | Adobe Experience Manager as a Cloud Service에서 특정 기간에 힙 덤프를 사용할 수 없는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2026년 7월 | [Cloud Manager에서 AEMaaCS 환경을 만들지 못했습니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38656) | 신규 문서 | 권한 부족, 파이프라인 실행 오류, 불완전한 구성, [!UICONTROL 제품 프로필] 누락, 시간 초과 또는 동시 환경 생성 프로세스 때문에 Cloud Manager에서 프로비전하는 동안 Adobe Experience Manager as a Cloud Service에서 환경 만들기가 실패할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
+| 2026년 7월 | [Cloud Manager에서 AEMaaCS 환경을 만들지 못했습니다](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38656) | 신규 문서 | 권한 부족, 파이프라인 실행 오류, 불완전한 구성, [!UICONTROL 제품 프로필] 누락, 시간 초과 또는 동시 환경 생성 프로세스 때문에 Cloud Manager에서 프로비전하는 동안 Adobe Experience Manager as a Cloud Service에서 환경 만들기가 실패할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | `/conf` 및 관련 폴더에 대한 [저장소 브라우저 게시]에 대한 [[!UICONTROL AEM 솔루션]](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38342) | 신규 문서 | 현재 계정에 필요한 게시측 액세스 권한이 없기 때문에 [!UICONTROL 저장소 브라우저 게시]에 Adobe Experience Manager에 `/conf`개 또는 유사한 폴더가 표시되지 않는 문제에 대한 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [[!UICONTROL Groovy Console용 AEM 솔루션] 액세스 및 실행 실패](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38346) | 신규 문서 | 변경 불가능한 저장소 경로에 의존하는 런타임 코드 실행 도구가 지원되지 않으므로 [!UICONTROL Groovy Console]이(가) Adobe Experience Manager as a Cloud Service에서 스크립트 실행을 열지 못하거나 거부할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [Cloud Manager에서 환경 만들기 실패를 위한 AEM 솔루션](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38453) | 신규 문서 | 다른 환경 작업이 이미 실행 중이거나, 필요한 [!UICONTROL 제품 프로필]이 없거나, 액세스 및 파이프라인 구성이 완료되지 않았으므로 Adobe Experience Manager에서 Cloud Manager의 환경 만들기가 실패할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
@@ -443,13 +454,13 @@ Experience Manager as a Cloud Service에 대한 최신 비디오 튜토리얼 �
 | 2026년 7월 | [고객 관리 CDN의 *421 TLS SAN 불일치* 오류에 대한 AEM 솔루션](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38478) | 신규 문서 | 고객 관리 CDN, 프록시 또는 WAF이 잘못된 Host 헤더 또는 SNI 값을 Adobe Experience Manager as a Cloud Service 인그레스 도메인으로 보내며 종종 누락되거나 불완전한 전달된 헤더가 있기 때문에 *HTTP 421 TLS SAN 불일치* 오류가 Adobe에서 발생할 때 발생하는 문제의 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [일괄 에셋 게시 중 *알 수 없는 네임스페이스 접두사*(으)로 트리 활성화에 실패](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-32157) | 신규 문서 | 하나 이상의 자산에 등록되지 않은 JCR 네임스페이스 접두사를 사용하는 메타데이터 속성이 포함되어 있으므로 [!UICONTROL 게시 관리]로 자산을 일괄적으로 게시하거나 Adobe Experience Manager에서 빠른 게시가 *알 수 없는 네임스페이스 접두사* 오류와 함께 실패하는 경우 이 문제에 대한 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [AEM Cloud Manager: 개발 파이프라인 빌드가 실패하고 *프로젝트를 [!DNL Java] 21 이상으로 컴파일해야 함*](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-35284) | 신규 문서 | *버전 요구 사항으로 인해 [!DNL Java] 21 이상을 사용하여 프로젝트를 컴파일해야 하는*&#x200B;로 인해 Adobe Experience Manager Cloud Manager 파이프라인 빌드가 실패하는 경우 발생하는 문제의 해결 방법에 대해 알아봅니다.[!DNL Java] |
-| 2026년 7월 | [AEM as a Cloud Service: Assets 전용 프로비저닝으로 인해 게시 계층이 콘텐츠를 제공하지 않음](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-36687) | 신규 문서 | 환경이 Assets 전용으로 프로비저닝되었으므로 Adobe Experience Manager as a Cloud Service의 게시 계층이 게시된 콘텐츠를 제공하지 않는 경우의 문제 해결 방법에 대해 알아보십시오. |
-| 2026년 7월 | [AEM as a Cloud Service: 파이프라인 배포 외부의 SDK 및 유지 관리 업데이트 이해](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-37173) | 신규 문서 | Adobe Experience Manager as a Cloud Service이 고객 파이프라인 배포와 별개로 유지 관리 및 SDK 업데이트를 적용하는 방법을 이해해야 할 때 이 문제에 대한 솔루션에 대해 알아봅니다. |
+| 2026년 7월 | [AEM as a Cloud Service: Assets 전용 프로비저닝으로 인해 게시 계층이 콘텐츠를 제공하지 않음](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-36687) | 신규 문서 | 환경이 Assets 전용으로 프로비저닝되었으므로 Adobe Experience Manager as a Cloud Service의 게시 계층이 게시된 콘텐츠를 제공하지 않는 경우의 문제 해결 방법에 대해 알아보십시오. |
+| 2026년 7월 | [AEM as a Cloud Service: 파이프라인 배포 외부의 SDK 및 유지 관리 업데이트 이해](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-37173) | 신규 문서 | Adobe Experience Manager as a Cloud Service이 고객 파이프라인 배포와 별개로 유지 관리 및 SDK 업데이트를 적용하는 방법을 이해해야 할 때 이 문제에 대한 솔루션에 대해 알아봅니다. |
 | 2026년 7월 | [AEM 작성자 로그에 일시적인 INFO 수준 [!DNL MongoDB] 관리되는 노드 변경 중 연결 오류 표시](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-37266) | 신규 문서 | Adobe 관리 [!DNL MongoDB] 크기 조정, 연속 다시 시작, DNS 변경 또는 기본 선택 중 Adobe Experience Manager 작성자 로그에 일시적인 INFO 수준 [!DNL MongoDB] 연결 예외가 표시되는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [Adobe Experience Manager 보안 패치 배포 조정](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38231) | 신규 문서 | Adobe Experience Manager 관리자가 새로 식별된 취약성을 해결하기 위해 보안 패치 배포를 계획 및 조정해야 하는 경우의 문제 해결 방법에 대해 알아봅니다. |
 | 2026년 7월 | [클라우드 관리 콘솔에서 클라우드 서비스 환경 만들기가 실패합니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38397) | 신규 문서 | Adobe Experience Manager에서 프로비전이 시작된 후 클라우드 서비스 환경 만들기가 실패하고 필수 프로필 누락, 권한 부족, 동시 만들기 시도, 구성 불일치, 시간 초과 또는 내부 프로비저닝 오류로 인해 환경이 *준비* 또는 *프로비전됨* 상태에 도달하지 않는 경우의 문제 해결 방법에 대해 알아봅니다. |
-| 2026년 7월 | [AEM as a Cloud Service 환경 만들기 실패](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38401) | 신규 문서 | [!UICONTROL 제품 프로필]이 누락되거나 권한 부족, 구성 문제 또는 동시 환경 만들기 작업으로 인해 Cloud Manager에서 환경 만들기가 프로비전하는 동안 실패하고 Adobe Experience Manager as a Cloud Service에서 특정 오류 메시지가 없는 경우, 해당 문제에 대한 해결 방법에 대해 알아봅니다. |
-| 2026년 7월 | [Adobe Experience Manager as a Cloud Service에서 예약된 업그레이드에 대한 지원 프로세스](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-38415) | 신규 문서 | 업그레이드 도중 또는 업그레이드 후에 문제가 발생하는 경우 프로덕션 환경에서 Adobe의 예약된 업그레이드 중에 Adobe Experience Manager as a Cloud Service 지원이 필요한 경우 해당 문제에 대한 솔루션에 대해 알아봅니다. |
+| 2026년 7월 | [AEM as a Cloud Service 환경 만들기 실패](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38401) | 신규 문서 | [!UICONTROL 제품 프로필]이 누락되거나 권한 부족, 구성 문제 또는 동시 환경 만들기 작업으로 인해 Cloud Manager에서 환경 만들기가 프로비전하는 동안 실패하고 Adobe Experience Manager as a Cloud Service에서 특정 오류 메시지가 없는 경우, 해당 문제에 대한 해결 방법에 대해 알아봅니다. |
+| 2026년 7월 | [Adobe Experience Manager as a Cloud Service에서 예약된 업그레이드에 대한 지원 프로세스](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38415) | 신규 문서 | 업그레이드 도중 또는 업그레이드 후에 문제가 발생하는 경우 프로덕션 환경에서 Adobe의 예약된 업그레이드 중에 Adobe Experience Manager as a Cloud Service 지원이 필요한 경우 해당 문제에 대한 솔루션에 대해 알아봅니다. |
 | 2026년 7월 | [Cloud Manager: [!DNL Snyk Container] CI/CD의 취약성 [!DNL Selenium] CI/CD [!DNL Docker] 이미지](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-35013) | 신규 문서 | [!DNL Snyk] 컨테이너가 Adobe Experience Manager Cloud Manager 파이프라인의 [!DNL Selenium] UI 테스트에 사용되는 [!DNL Docker] 이미지에서 보고서 OS 수준 취약점을 스캔할 때 발생하는 문제의 해결 방법에 대해 알아보십시오. 이는 검색 결과가 업스트림 기본 이미지에서 상속된 시스템 패키지에 영향을 주기 때문입니다. |
 | 2026년 7월 | [[!UICONTROL AEMFD 서명 번들]은(는) AEM Forms 설치 또는 업그레이드 후 비활성 상태로 유지됩니다](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-36889) | 신규 문서 | 필요한 RSA 또는 [!DNL BouncyCastle] 암호화 클래스를 OSGi 프레임워크에서 사용할 수 없거나 오래된 암호화 JAR이 올바른 공급자를 재정의하므로 AEM Forms을 설치하거나 업그레이드한 후 [!UICONTROL AEMFD 서명 번들] 활성화가 실패하여 번들이 *해결됨* 또는 *설치됨* 상태로 남게 되는 경우의 문제 해결 방법에 대해 알아보십시오. |
 | 2026년 7월 | [AEM as a Cloud Service: *[!UICONTROL 전체 텍스트 쿼리] (필터 인덱스 없음)* 분리된 경로를 검색할 때 경고](https://experienceleague.adobe.com/ko/docs/experience-cloud-kcs/kbarticles/ka-35229) | 신규 문서 | 분리된 하위 트리에서 [!UICONTROL 전체 텍스트 쿼리]를 실행할 때 빈번한 *[!UICONTROL 전체 텍스트 쿼리] 필터 인덱스 없는* 경고가 Adobe Experience Manager as a Cloud Service에서 발생하는 문제의 해결 방법에 대해 알아봅니다. |
