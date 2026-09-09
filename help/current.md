@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 541841505215f51a23000b0c20d663d7ae4805c0
+source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
 workflow-type: tm+mt
 source-wordcount: '21404'
 ht-degree: 14%
@@ -554,7 +554,7 @@ Experience League에서 최신 튜토리얼 및 지원 문서를 확인하십시
 | 2026년 7월 | [!DNL Journey Optimizer] | [충성도 챌린지에 대한 보상 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/configure-your-challenge/configure-rewards){target="_blank"} | 비디오 | 주요 이정표 또는 과제 완료 시 보상 유형을 선택하고, 전달 방법을 정의하고, 참여자에게 보상하여 과제 보상을 구성하는 방법에 대해 알아봅니다. |
 | 2026년 7월 | [!DNL Journey Optimizer] | [충성도 질문 설정](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/configure-your-challenge/set-up-a-loyalty-challenge){target="_blank"} | 비디오 | 올바른 과제 유형을 선택하고, 대상과 일정을 구성하고, 참여 규칙을 정의하고, 진행 상황을 추적하고 보상받는 방식을 제어하여 충성도 과제를 설정하는 방법을 알아봅니다. |
 | 2026년 7월 | [!DNL Journey Optimizer] | [충성도 챌린지에 대한 작업 만들기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-tasks){target="_blank"} | 비디오 | 자격 규칙 및 제외를 포함하여 구매, 지출 및 사용자 지정 이벤트 활동을 사용하여 충성도 챌린지 작업을 만들고 구성하는 방법에 대해 알아봅니다. |
-| 2026년 7월 | [!DNL Journey Optimizer] | [Journey Optimizer 충성도 살펴보기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | 비디오 | 참여를 유도하는 AI 기반 인사이트, 적응형 gamification 및 통합 고객 프로필을 통해 Journey Optimizer 충성도가 충성도 데이터를 개인화된 경험으로 변환하는 방법에 대해 알아봅니다. |
+| 2026년 7월 | [!DNL Journey Optimizer] | [Journey Optimizer Loyalty 검색](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | 비디오 | 참여를 유도하는 AI 기반 인사이트, 적응형 gamification 및 통합 고객 프로필을 통해 Journey Optimizer Loyalty이 충성도 데이터를 개인화된 경험으로 변환하는 방법에 대해 알아봅니다. |
 | 2026년 7월 | [!DNL Journey Optimizer] | [외부 대상자와 여정 시뮬레이션](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/simulate-journeys-with-external-audiences){target="_blank"} | 비디오 | CSV 파일 또는 페더레이션 대상 구성에서 외부 대상 프로필을 사용하여 여정을 시뮬레이션하고, 외부 속성을 사용하여 메시지를 개인화하고, 라이브로 전환하기 전에 여정 경로를 확인하는 방법을 알아봅니다. |
 | 2026년 7월 | [!DNL Journey Optimizer] | [사용자 지정 채널 구성 및 사용](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/channels/configure-and-use-custom-channels){target="_blank"} | 비디오 | Slack, WeChat 또는 Telegram과 같이 Journey Optimizer에서 기본적으로 지원되지 않는 메시징 플랫폼을 사용자 지정 채널을 사용하여 연결하고 여정에서 사용하는 방법에 대해 알아봅니다. |
 | 2026년 7월 | [!DNL Journey Optimizer] | [새 여정 캔버스 소개](https://experienceleague.adobe.com/ko/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-the-new-journey-canvas){target="_blank"} | 비디오 | 오케스트레이션된 캠페인 및 대상 구성에 이미 사용된 경험에 여정 빌드를 맞추는 최신 렌더링 엔진을 도입한 Journey Optimizer의 새로운 여정 캔버스 경험을 살펴보십시오. |
