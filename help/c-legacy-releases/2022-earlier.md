@@ -1,11 +1,11 @@
 ---
 description: Experience Cloud 제품 및 서비스를 위한 PDF 릴리스 정보가 보관되었습니다.
 title: 2022 및 이전 버전에 대한 중앙 릴리스 노트
-solution: Experience Cloud,Analytics,Target,Advertising
+solution: CX Enterprise,Analytics,Target,Advertising
 seo-title: Central Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
-source-git-commit: e40d2dd3a1d11e5ac45c86cebeffabb0de17f631
+source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 65%
