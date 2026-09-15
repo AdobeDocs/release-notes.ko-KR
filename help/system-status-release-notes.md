@@ -12,7 +12,7 @@ ht-degree: 30%
 
 # [!DNL Adobe System Status] 릴리스 정보 {#status-release-notes}
 
-[!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/){target="_blank"}에서 관련 정보를 확인하십시오.
+[!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/ko-kr/){target="_blank"}에서 관련 정보를 확인하십시오.
 
 이 페이지는 시간에 따른 [!DNL Adobe System Status]개의 업데이트를 추적합니다. 보고할 새 릴리스가 있을 때만 업데이트됩니다.
 
