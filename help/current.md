@@ -5,16 +5,16 @@ doc-type: release notes
 last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 37d60912fd1ea9adb3c77bc9c7406f7236300c93
+source-git-commit: 1922760b879f0c0ec86c42b4a938b23dba1c3341
 workflow-type: tm+mt
-source-wordcount: '21604'
+source-wordcount: '21662'
 ht-degree: 13%
 ---
 # [!DNL CX Enterprise] 중앙 릴리스 정보 — 2026년 9월 {#top}
 
 이 페이지는 최신 버전을 찾는 데 도움이 됩니다.
 
-* 모든 [!DNL CX Enterprise]개 응용 프로그램에 대한 [릴리스 정보](#application-release-notes)(업데이트됨: **9월 14일**)
+* 모든 [!DNL CX Enterprise]개 응용 프로그램에 대한 [릴리스 정보](#application-release-notes)(업데이트됨: **9월 21일**)
 * Experience League의 [이벤트 및 새로운 기능](#events)(**9월 8일** 업데이트됨)
 * [[!DNL CX Enterprise Coworker] 및 AI](#ai) 학습 리소스
 * [!DNL Experience League]에서 사용 가능한 [튜토리얼 및 지원 문서](#articles)
@@ -25,31 +25,31 @@ ht-degree: 13%
 
 ## [!DNL CX Enterprise] 릴리스 정보 {#application-release-notes}
 
-모든 [!DNL CX Enterprise]개 응용 프로그램에 대해 강조 표시된 업데이트에 대해 알아봅니다. 애플리케이션별 릴리스 정보에 대한 링크가 제공됩니다.
+모든 [!DNL CX Enterprise] 응용 프로그램의 새로운(및 예정된) 업데이트에 대해 알아봅니다.
 
-**참고:** 여러 [!DNL CX Enterprise] 응용 프로그램이 매주 릴리스됩니다. 애플리케이션 릴리스 정보 페이지를 자주 방문하여 최신 정보를 유지하십시오.
+**중요:** 특정 응용 프로그램은 매주 릴리스됩니다. 최신 정보를 유지하려면 이 페이지를 자주 방문하십시오.
 
-마지막 업데이트: **2026년 9월 14일**
+마지막 업데이트: **2026년 9월 21일**
 
 | 애플리케이션 | 릴리스 일자 | 릴리스 정보 URL | 업데이트 |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Customer Journey Analytics] | 2026년 9월 9일 | [Customer Journey Analytics 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>보고 날짜 범위로 세그먼트 제한(개인 최상위 컨테이너의 경우)</li><li>B2B: 개인-계정 결합은 매핑 데이터 세트에서 누락된 계정 ID를 파생합니다</li><li>Experience Platform 동의 정책과 일치하는 방문자에 대한 동의 정책 필터링 및 보고</li><li>하위 이벤트 분석(이벤트 내의 개별 컨테이너에 대한 세그먼트)</li><li>ad hoc 및 관계형 데이터 세트에 대한 B2B edition 지원</li></ul> |
-| [!DNL Adobe Analytics] | 2026년 9월 9일 | [[!DNL Analytics] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>보고 날짜 범위로 세그먼트 제한(방문자 최상위 컨테이너의 경우)</li><li>Analytics 1.4 API 사용 종료 고객 FAQ 게시됨</li><li>마케팅 채널 참조 및 엔드포인트 가이드가 2.0 API에 추가됨</li><li>하위 히트 분석</li><li>Activity Map 확장 UI 새로 고침</li></ul> |
+| [!DNL Adobe Analytics] | 2026년 10월 2일 | [[!DNL Analytics] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>[!DNL Coworker Chat]에서 직접 Analysis Workspace에서 시각화 열기</li><li>[!DNL Coworker Chat] 근본 원인 분석은 변경된 내용뿐만 아니라 지표가 변경된 이유를 설명합니다.</li><li>자연어 프롬프트를 사용하여 [!DNL Coworker Chat]에서 [!DNL Adobe Analytics] 데이터 분석</li><li>보고 날짜 범위로 세그먼트 제한(방문자 최상위 컨테이너의 경우)</li><li>하위 히트 분석</li></ul> |
+| [!DNL Adobe Customer Journey Analytics] | 2026년 9월 30일 | [Customer Journey Analytics 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>이제 [!DNL CX Enterprise Coworker]에서 업그레이드 및 구현 기술을 사용할 수 있습니다.</li><li>프로필 및 조회 데이터 세트에 대한 총 모집단 보고, Analysis Workspace에서 LLM 고객 경험 분석을 위한 대화 통찰력</li><li>보고 날짜 범위로 세그먼트 제한(개인 최상위 컨테이너의 경우)</li><li>Experience Platform 동의 정책과 일치하는 방문자에 대한 동의 정책 필터링 및 보고</li><li>하위 이벤트 분석(이벤트 내의 개별 컨테이너에 대한 세그먼트)</li></ul> |
+| [!DNL Adobe Marketo Engage] | 2026년 9월 25일 | [Marketo Engage 최신 릴리스 정보](https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL Marketo Engage]개의 새 UI: 메뉴, 아이콘 및 레이아웃을 새로 고쳤습니다.</li><li>작업 영역이 활성화된 환경을 위해 가져올 때 파티션 선택</li><li>구독한 관리자의 CRM 동기화 상태 변경 사항에 대한 즉각적인 경고</li><li>셀프서비스 흐름 단계 콜백 시간 제한이 1시간에서 4시간으로 늘어났습니다</li><li>이메일 Designer: 테이블 컨텐츠 유형 드래그 앤 드롭</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026년 9월 18일 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>배치 대상 평가 후 트리거: 반복 여정 타기팅 배치 대상에 대해 구성 가능한 대기 창(최대 6시간)</li><li>Healthcare Shield 및 Privacy and Security Shield 고객은 [!DNL Journey Optimizer] 충성도를 사용할 수 있습니다.</li><li>이제 여정 시뮬레이션에서 의사 결정(경로 실험)이 지원됩니다</li><li>예기치 않은 트래픽 편차에 대한 새 여정 예외 항목 탐지 경고(프로덕션 샌드박스)</li><li>여정 고급 편집기에서 AI 기반 표현식 생성(일반 공급)</li></ul> |
+| [!DNL Adobe Target] | 2026년 9월 17일 | [[!DNL Adobe Target] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.9.4: 가장 위쪽 페이지 요소에 대한 뷰포트 외부의 시각적 경험 작성기 &quot;다음 항목 앞에 삽입&quot; 제어 렌더링을 수정했습니다</li><li>26.9.3: A4T 자동 타겟 보고서에서 누락된 상승도 및 신뢰도 값이 수정됨(방문 전환율 목표 최대화)</li><li>26.9.3: 이제 Analytics for Target 보고 Source 필드가 Analytics 액세스 권한이 없는 라이브 활동에 대해 읽기 전용입니다.</li><li>A/B 테스트(수동) 활동에 대한 베이지안 통계</li><li>자동 할당 활동에 대한 Customer Journey Analytics 보고</li></ul> |
+| [!DNL Adobe GenStudio for Performance Marketing] | 2026년 9월 15일 | [GenStudio for Performance Marketing 릴리스 정보](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>일괄 활성화: 단일 활성화 테이블에서 유료 광고 채널([!DNL Meta], [!DNL LinkedIn], Google Campaign Manager 360, Amazon Ads, Innovid, [!DNL TikTok], [!DNL YouTube], ChatGPT, The Trade Desk)에 걸쳐 승인된 여러 경험을 게시합니다.</li><li>Horizon 캔버스에서 일괄 편집(연결된 텍스트/이미지 필드는 크기 및 페이지 전반에 걸쳐 편집 내용 전파)</li><li>Trade Desk에 광고 활성화 표시</li><li>컨텐츠 조각 교체: 텍스트 블록을 AEM의 미리 승인된 재사용 가능한 컨텐츠 조각으로 바꾸기</li></ul> |
 | [!DNL Adobe Commerce Optimizer] | 2026년 9월 9일 | [Adobe Commerce Optimizer 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>다중 값 HTTP 헤더 트리거 정책(단일 헤더에서 쉼표로 구분된 여러 값 일치)</li><li>속성 등급(Beta): 속성 조건에 일치하는 모든 제품을 자동으로 증폭, 매립 또는 숨깁니다.</li><li>제품의 원래 외부 데이터 원본을 노출하는 카탈로그 서비스 GraphQL의 새 [!DNL externalIds] 필드</li><li>적합한 영어 카탈로그에 대해 기본적으로 활성화된 고급 검색 탭의 의미 체계 검색(AI 기반)</li><li>제품 추천 단위에 대한 추천 가격 필터(베타)</li></ul> |
 | [!DNL Adobe Commerce] as a Cloud Service | 2026년 9월 8일 | [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>이제 Adobe Commerce 2.4.9의 모든 기능이 포함됩니다(샌드박스, 프로덕션 2026년 9월 8일)</li><li>여러 환경에서 Commerce 시스템 구성 값을 읽고 업데이트하는 새로운 REST 엔드포인트</li><li>새로운 사은품 장바구니 가격 규칙 유형, 장바구니 가격 규칙에 대해 예약된 활성화 및 만료</li><li>사용자 지정 이메일 템플릿을 업데이트 및 삭제하는 새로운 REST 엔드포인트</li><li>B2B 회사 주소록은 구매 발주, 견적 및 반품에 걸쳐 공유됩니다.</li></ul> |
-| [!DNL Adobe Journey Optimizer] | 2026년 9월 8일 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>증분 영향을 측정하기 위한 여정 수준 보류 그룹(제한된 가용성)</li><li>여정 고급 편집기에서 AI 기반 표현식 생성(일반 공급)</li><li>시간 기반 여정 논리에 대한 새 [!DNL dateDiff] 함수</li><li>이제 여정 시뮬레이션이 콘텐츠 결정 노드 및 타깃팅 최적화를 지원합니다.</li><li>[!DNL CX Enterprise Coworker]: 콘텐츠 관리 MCP 도구 및 여정 예외 항목 분석 스킬</li></ul> |
-| [!DNL Adobe Target] | 2026년 9월 8일 | [[!DNL Adobe Target] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>Target UI 버전 토글 사용 중단 예정(FAQ 참조)</li><li>26.9.2: 권장 사항 및 자동화된 세그먼트 보고서 표시에서 잘못된 피드 URL 인코딩이 수정되었습니다</li><li>26.9.1: 활동 전용 대상이 있는 A/B 활동을 복사할 때 &quot;잘못된 대상 id&quot; 오류가 수정되었습니다</li><li>A/B 테스트(수동) 활동에 대한 베이지안 통계</li><li>자동 할당 활동에 대한 Customer Journey Analytics 보고</li></ul> |
 | [!DNL Adobe Experience Manager] as a Cloud Service | 2026년 8월 27일 | [최신 Adobe Experience Manager as a Cloud Service 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>기능 릴리스 2026.8.0은 현재 최신 버전이며 2026.9.0은 2026년 9월 24일로 예약되었습니다.</li><li>AI 생성 콘텐츠에 레이블을 지정하는 에셋 렌디션의 C2PA 메타데이터</li><li>Content Hub에서 생성된 Dynamic Media on Demand 표현물</li><li>에셋 업로드 시 브랜드 인식 AI 메타데이터 생성(Beta)</li><li>적응형 Forms 테이블 구성 요소 및 AEM Edge 기능(CDN에서 JavaScript 실행)</li></ul> |
 | [!DNL Adobe Brand Visibility] (이전 명칭: [!DNL Adobe LLM Optimizer]) | 2026년 8월 4일 | [브랜드 가시성 릴리스 노트](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>일반 가용성: 브랜드 가시성에서 통합된 AI 가시성 측정, 최적화 및 영향 추적(LLM Optimizer에서 새롭게 브랜딩)</li><li>Semrush 데이터를 사용하는 새로운 AI 가시성 대시보드</li><li>셀프서비스 브랜드 및 도메인 온보딩</li><li>영향력이 큰 프롬프트를 검색하는 프롬프트 전략 기능</li><li>광범위한 LLM 플랫폼 적용 범위([!DNL Claude], Grok, DeepSeek)</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026년 8월 | [[!DNL Campaign Classic] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>중요 취약점에 대한 보안 업데이트(v7.4.3, 빌드 9401, 8월 25일)</li><li>게재 도메인에 외부 URL 허용 목록 업데이트 필요(2026년 9월 5일까지)</li><li>Adobe Analytics 커넥터가 Analytics 2.0 API(빌드 9400, 8월 11일)로 마이그레이션되었습니다.</li><li>보안 업데이트(빌드 9399, 8월 3일)</li></ul> |
 | Adobe Advertising | 2026년 7월 29일 | [Advertising Search, Social 및 Commerce의 새로운 기능](https://experienceleague.adobe.com/ko/docs/advertising/search-social-commerce/home){target="_blank"} | <ul><li>새로운 UI에서 캠페인, 광고 그룹 및 크리에이티브 관리 전반에 걸쳐 확장된 AI Max 기능</li><li>Experience Platform Web SDK을 통한 Customer Journey Analytics 데이터 교환</li><li>예약된 보고서, Bulksheets, 광고 네트워크 관리자 계정 및 지출 계획자 가 이제 새 UI에 추가됨</li><li>Google AI 최대 검색어 보고서</li><li>모든 포트폴리오에 대한 대량 작업 다운로드</li><li>모든 Google 광고 캠페인에 대한 AI 최대 최적화 지원</li></ul> |
 | [!DNL Adobe Experience Platform and Real-Time CDP] | 2026년 7월 28일 | [[!DNL Experience Platform] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>대상: 대상/대상 필터링, 시간별 증분 내보내기, Microsoft Ads 고객 일치 및 준수 지원</li><li>Real-Time CDP: Spectrum 2 시각적 새로 고침</li><li>실시간 고객 프로필: 더 빠른 내보내기 및 활성화</li><li>세그멘테이션 서비스: 외부 대상에 대한 JSON/Parquet 지원, 세그먼트 일치는 2026년 11월 27일에 중단됨</li><li>소스: Google 광고 및 Meta 광고 소스 추가됨</li></ul> |
 | [!DNL Adobe Campaign] Web 사용자 인터페이스 | 2026년 7월 28일 | [Campaign Web UI 릴리스 정보](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>웹 UI에서 직접 오퍼 관리(카탈로그 빌드, 자격 규칙, 배포)</li><li>클라이언트 콘솔을 사용하지 않는 브랜드 구성</li><li>이메일 디자이너의 공개 리소스</li><li>데이터 로드하기(RDBMS) 워크플로 활동</li><li>웹 UI에서 JSSP(다이내믹 JavaScript 페이지) 생성 및 관리</li></ul> |
-| [!DNL Adobe GenStudio for Performance Marketing] | 2026년 7월 16일 | [GenStudio for Performance Marketing 릴리스 정보](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Horizon 캔버스에서 일괄 편집(연결된 텍스트/이미지 필드는 크기 및 페이지 전반에 걸쳐 편집 내용 전파)</li><li>Trade Desk에 광고 활성화 표시</li><li>컨텐츠 조각 교체: 텍스트 블록을 AEM의 미리 승인된 재사용 가능한 컨텐츠 조각으로 바꾸기</li></ul> |
 | [!DNL Experience Platform] Mobile SDK | 2026년 7월 16일 | [[!DNL Experience Platform] Mobile SDK 릴리스 정보](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} | <ul><li>React Native Optimize 7.2.0: React Native 터보 모듈 지원</li><li>iOS EdgeIdentity 5.1.0: 표준 시간대 프로필 속성을 Edge에 동기화(AEPCore 5.10.0+ 필요)</li><li>iOS Core 5.10.0: 새로운 updateProfileAttributes API</li><li>Android Core 3.8.0: 표준 시간대 동기화를 위한 프로필 속성 API 업데이트</li><li>Android BOM 3.20.0: 코어, EdgeIdentity 및 확장 최적화 업데이트</li></ul> |
 | [!DNL CX Enterprise] | 2026년 7월 10일 | [[!DNL CX Enterprise] 중앙 UI 및 관리](https://experienceleague.adobe.com/ko/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>페더레이션 게스트 계정에 대한 [!DNL CX Enterprise] 지원(7월 10일)</li><li>[!DNL CX Enterprise Coworker]: CX 워크플로우용 agentic AI 애플리케이션(6월 11일)</li><li>Agentic AI 사용 모니터링 대시보드 (6월 1일)</li><li>Adobe [!DNL CX Enterprise] 인터페이스 새로 고침(다크 모드, 향상된 접근성)(4월 20일)</li></ul> |
 | [!DNL Adobe Journey Optimizer B2B Edition] | 2026년 7월 10일 | [Journey Optimizer B2B Edition 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>A/B 테스트를 위해 변형(Beta)이 있는 분할 경로 여정 노드</li><li>여러 트리거를 지원하는 향상된 &quot;이벤트 수신&quot; 노드</li><li>새 사람 작업: 사람 여정에서 추가/제거</li><li>여정 랜딩 페이지 및 양식(일반 공급)</li><li>이메일 성능 대시보드 시작</li></ul> |
-| [!DNL Adobe Marketo Engage] | 2026년 7월 10일 | [Marketo Engage 최신 릴리스 정보](https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>Marketo AI 스킬 - 제품 지식(오픈 베타)</li><li>Marketo AI 스킬 - 리드 조사(Beta 열기)</li><li>Designer AI Assistant 상황별 메뉴를 이메일로 보내기(준비 중)</li><li>REST API access_token 매개 변수 사용 중단(2026년 8월 31일)</li><li>SOAP API 종료(2026년 7월 31일)</li></ul> |
 | [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | 2026년 7월 9일 | [Experience Manager Cloud Manager 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>스마트 빌드 모듈 수준 캐싱을 통해 빌드 성능이 향상되었습니다.</li><li>AEM Managed Services(Beta)용 웹 계층 파이프라인</li><li>고객 관리형 키(CMK) 셀프 서비스</li></ul> |
 | [!DNL Adobe Commerce] | 진행 중인 릴리스 | [Adobe Commerce 및 Magento Open Source 릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/adobe-commerce/2-4-9){target="_blank"} | <ul><li>스토어 보기 수준에서 REST API 제품 갤러리 상속 제어</li><li>clearCart GraphQL 돌연변이는 이제 Open Source에서 사용할 수 있습니다.</li><li>PHP 8.5 지원 추가됨, PHP 8.2 지원 제거됨</li><li>REST 및 GraphQL API에 대해 CAPTCHA 유효성 검사가 적용됨</li><li>OAuth 2.0을 사용하여 RESTful API로 마이그레이션된 USPS 통합</li><li>MariaDB 11.8/12.x 및 OpenSearch 3.x 지원</li></ul> |
 | [!DNL Adobe Workfront] | 2026년 3분기 | [Adobe Workfront 제품 릴리스](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview){target="_blank"} | <ul><li>신규 고객을 위한 독립 실행형 Adobe Workfront Planning 제품</li><li>Adobe Cloud Drive 데스크탑 앱(Workflow Ultimate)</li><li>문서에 대한 병렬 승인 경로(최대 30개 트랙)</li><li>AI 에이전트 통합용 Workfront MCP 서버</li><li>카드 템플릿 통합 평가(워크플로우 Ultimate)</li></ul> |
@@ -138,7 +138,7 @@ ht-degree: 13%
 
 ### [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/ko-kr/){target="_blank"}에서 관련 정보를 확인하십시오.
+[!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단, 서비스 장애 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/ko-kr/){target="_blank"}에서 관련 정보를 확인하십시오.
 
 <!-- 
 [internal](https://wiki.corp.adobe.com/spaces/AdobeStatus/pages/2821708019/Product+priority+update+-+release+notes) 
@@ -185,11 +185,11 @@ Real-Time CDP에 대한 최신 비디오 튜토리얼과 지원 문서를 확인
 
 ### [!DNL Adobe Analytics] {#tutorials-analytics}
 
-Adobe Analytics 릴리스는 기능 배포에 대한 보다 확장 가능한 단계별 접근 방식을 고려하는 연속 게재 모델에서 작동합니다. 릴리스 정보는 월별로 여러 차례 업데이트됩니다.
+Adobe Analytics 릴리스는 기능 배포에 대해 더 확장 가능하고 단계적인 접근 방식을 가능하게 하는 연속 게재 모델로 운영됩니다. 릴리스 정보는 월별로 여러 차례 업데이트됩니다.
 
 #### AppMeasurement {#appm}
 
-* [AppMeasurement for JavaScript 릴리스 노트](https://github.com/adobe/appmeasurement/releases){target="_blank"}
+* [AppMeasurement for JavaScript 릴리스 정보](https://github.com/adobe/appmeasurement/releases){target="_blank"}
 
 <!--
 #### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -698,7 +698,7 @@ Adobe의 노드 기반 크리에이티브 자동화 도구인 [!DNL Firefly Grap
 
 [Customer Data Management Voices](https://experienceleague.adobe.com/ko/events#f-el_event_series=Customer%20Data%20Management%20Voices){target="_blank"}는 고객 데이터 관리 기술 및 마케팅 실무 리더 및 전문가를 위한 공간입니다. 이 튜토리얼 컬렉션은 동료의 의견을 듣고, 영감을 얻고, MarTech의 개발에 대해 배울 수 있는 포괄적인 리소스입니다. 등록이 필요하지 않습니다.
 
-### Customer experience orchestration 블루프린트 {#tutorials-blueprints}
+### 고객 경험 오케스트레이션 블루프린트 {#tutorials-blueprints}
 
 [고객 경험 오케스트레이션 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/overview){target="_blank"}는 전략을 다루고 기존 비즈니스 문제를 빠르게 해결할 수 있는 반복 가능한 구현입니다. 각 블루프린트는 고가치 비즈니스 문제, 아키텍처, 구현 단계, 기술 고려 사항 및 관련 문서 링크를 설명하는 일련의 아티팩트를 제공합니다.
 
