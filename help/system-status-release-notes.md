@@ -2,22 +2,23 @@
 title: Adobe 시스템 상태 릴리스 노트
 description: Adobe 시스템 상태에 대한 릴리스 내역(status.adobe.com).
 doc-type: release notes
-last-update: September 2026
+last-update: October 2026
 author: mfrei
-source-git-commit: 012ac83c9545c3ed9a008affe497d866162085dd
+source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '306'
+ht-degree: 27%
 ---
 
 # [!DNL Adobe System Status] 릴리스 정보 {#status-release-notes}
 
-[!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/ko-kr/){target="_blank"}에서 관련 정보를 확인하십시오.
+[!DNL Adobe System Status]는 Adobe 제품 및 서비스에 대한 자세한 정보, 상태 업데이트 및 이메일 알림을 제공합니다. 중단, 서비스 장애 및 유지 관리 이벤트에 대한 알림을 받습니다. [status.adobe.com](https://status.adobe.com/){target="_blank"}에서 관련 정보를 확인하십시오.
 
 이 페이지는 시간에 따른 [!DNL Adobe System Status]개의 업데이트를 추적합니다. 보고할 새 릴리스가 있을 때만 업데이트됩니다.
 
 | 일자 | 업데이트 |
 | ------- | ------- |
+| 2026년 10월 1일 | <ul><li>구독이나 권한이 없고 **내 이벤트**&#x200B;가 켜져 있는 경우 빈 클라우드 섹션을 수정했습니다.</li><li>Akamai 원본 장애 조치(failover)를 통해 가용성 향상</li><li>필수 ID 범위를 사용하도록 프로필 검색을 업데이트했습니다.</li></ul> |
 | 2026년 3월 | <ul><li>AI 가상 어시스턴트 Beta</li><li>버그 수정 및 개선 사항</li></ul> |
 | 2025년 12월 8일 | <ul><li>Virtual Assistant 피드백 개선 사항(간소화된 안내 워크플로, 직관적인 아이콘)</li><li>버그 수정 및 개선 사항</li></ul> |
 | 2025년 7월 16일 | <ul><li>Virtual Assistant 일반 가용성</li><li>제품 및 클라우드 페이지와 Virtual Assistant에서 이벤트 ID 검색</li><li>Slack 알림 설정 업데이트</li><li>버그 수정 및 개선 사항</li></ul> |
