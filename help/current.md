@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: a01234edb05a1df886bcff92668492f8ae961256
+source-git-commit: cc2ce02bd5c2ed35c3103d22b0c946a1bb4a0715
 workflow-type: tm+mt
-source-wordcount: '21360'
+source-wordcount: '21377'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise] 중앙 릴리스 정보 — 2026년 10월 {#top}
@@ -29,11 +29,11 @@ ht-degree: 12%
 
 **중요:** 특정 응용 프로그램은 매주 릴리스됩니다. 최신 정보를 유지하려면 이 페이지를 자주 방문하십시오.
 
-마지막 업데이트: **2026년 10월 12일**
+마지막 업데이트: **2026년 10월 14일**
 
 | 애플리케이션 | 릴리스 일자 | 릴리스 정보 URL | 업데이트 |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Journey Optimizer] | 2026년 10월 9일 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>온디맨드 여정 유효성 검사(10월 9일)</li><li>[!DNL CX Enterprise Coworker]의 비즈니스 성과 분석 스킬(10월 7일)</li><li>사용자 지정 아웃바운드 채널(GA): WeChat 또는 KakaoTalk과 같은 HTTP 기반 메시징 채널을 의사 결정, 비즈니스 규칙 및 API 트리거 캠페인 지원과 통합합니다</li><li>이제 오케스트레이션된 캠페인에서 네이티브 아웃바운드 채널로 사용할 수 있는 LINE</li><li>대상 자격 여정의 이동 활동(일괄 처리 대상에서 이벤트 기반 여정으로 이동)</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026년 10월 12일 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>작업 여정 활동 중지: 여정을 종료하지 않고 최대 5개의 인바운드 활동 또는 경험에서 프로필을 제거합니다(10월 12일).</li><li>온디맨드 여정 유효성 검사(10월 9일)</li><li>[!DNL CX Enterprise Coworker]의 비즈니스 성과 분석 스킬(10월 7일)</li><li>사용자 지정 아웃바운드 채널(GA): WeChat 또는 KakaoTalk과 같은 HTTP 기반 메시징 채널을 의사 결정, 비즈니스 규칙 및 API 트리거 캠페인 지원과 통합합니다</li><li>충성도 구성의 성능 설정: 충성도 데이터 세트 및 우선 순위 KPI 선택(10월 1일)</li></ul> |
 | [!DNL Adobe Customer Journey Analytics] | 2026년 10월 8일 | [Customer Journey Analytics 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>Analysis Workspace에서 LLM 고객 경험 분석을 위한 대화 통찰력</li><li>Customer Journey Analytics MCP 서버에 대한 읽기 전용 권한</li><li>이제 [!DNL CX Enterprise Coworker]에서 업그레이드 및 구현 기술을 사용할 수 있습니다.</li><li>Experience Platform 동의 정책과 일치하는 방문자에 대한 동의 정책 필터링 및 보고</li><li>하위 이벤트 분석(이벤트 내의 개별 컨테이너에 대한 세그먼트)</li></ul> |
 | [!DNL Adobe Commerce] as a Cloud Service | 2026년 10월 7일 | [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>이제 배송 요율 웹후크에서 회사 세부 정보를 사용하여 배송 자격 확인</li><li>카탈로그 가격 규칙 관리를 위한 새로운 REST API 엔드포인트</li><li>사전 서명된 파일 업로드에 대한 reCAPTCHA 보호</li><li>반환 항목의 사용자 지정 특성에 대한 REST API 지원</li><li>인증되지 않은 게스트가 회사를 등록하지 못하도록 하는 옵션</li><li>카탈로그 가격 규칙에 대해 예약된 활성화 및 만료 시간</li><li>주문 감사: GraphQL을 통해 original_number별로 주문 필터링</li></ul> |
 | [!DNL Adobe Analytics] | 2026년 10월 6일 | [[!DNL Analytics] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>[!DNL Adobe Analytics] MCP 서버에 대한 읽기 전용 권한</li><li>[!DNL Coworker Chat]에서 직접 Analysis Workspace에서 시각화 열기</li><li>[!DNL Coworker Chat] 근본 원인 분석은 변경된 내용뿐만 아니라 지표가 변경된 이유를 설명합니다.</li><li>자연어 프롬프트를 사용하여 [!DNL Coworker Chat]에서 [!DNL Adobe Analytics] 데이터 분석</li><li>보고 날짜 범위로 세그먼트 제한(방문자 최상위 컨테이너의 경우)</li></ul> |
@@ -88,7 +88,7 @@ ht-degree: 12%
 
 ## [!DNL CX Enterprise Coworker] 및 AI 리소스 {#ai}
 
-[!DNL CX Enterprise] 응용 프로그램에서 [!DNL Coworker] 및 AI 기능에 대해 게시된 최신 학습 리소스를 찾으십시오.
+[!DNL CX Enterprise] 응용 프로그램에서 [[!DNL Coworker]](https://experienceleague.adobe.com/ko/docs/coworker/content/home) 및 AI 기능에 대해 게시된 최신 학습 리소스를 찾으십시오.
 
 | 애플리케이션 | 업데이트 | 설명 | 업데이트된 기능 |
 | ------- | ------- | ------- | ------- |
