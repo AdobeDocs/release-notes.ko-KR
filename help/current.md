@@ -5,18 +5,18 @@ doc-type: release notes
 last-update: October 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: cc2ce02bd5c2ed35c3103d22b0c946a1bb4a0715
+source-git-commit: fa32060d6839944dd4cf3f736ba605fe764a011f
 workflow-type: tm+mt
-source-wordcount: '21377'
+source-wordcount: '21428'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise] 중앙 릴리스 정보 — 2026년 10월 {#top}
 
 이 페이지는 최신 버전을 찾는 데 도움이 됩니다.
 
-* 모든 [!DNL CX Enterprise]개 응용 프로그램에 대한 [릴리스 정보](#application-release-notes)(업데이트됨: **10월 8일**)
+* 모든 [!DNL CX Enterprise]개 응용 프로그램에 대한 [릴리스 정보](#application-release-notes)(**10월 14일**&#x200B;에 업데이트됨)
 * Experience League의 [이벤트 및 새로운 기능](#events)
-* [[!DNL CX Enterprise Coworker] 및 AI](#ai) 학습 리소스
+* [[!DNL CX Enterprise Coworker] 및 AI](#ai) 학습 리소스(**10월 14일** 업데이트됨)
 * [!DNL Experience League]에서 사용 가능한 [튜토리얼 및 지원 문서](#articles)
 
 >[!TIP]
@@ -92,6 +92,7 @@ ht-degree: 12%
 
 | 애플리케이션 | 업데이트 | 설명 | 업데이트된 기능 |
 | ------- | ------- | ------- | ------- |
+| [!DNL Coworker] | **데이터 인사이트** | [Coworker, AEM 및 CJA을 통해 데이터 인사이트 가속화](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/accelerate-data-insights){target="_blank"} — [!DNL Coworker]이(가) [!DNL Experience Manager], [!DNL Experience Platform], Web SDK 및 [!DNL Customer Journey Analytics]을(를) 연결하여 구현을 계획하고 수행하는 방법을 참조하십시오. 이를 통해 웹 사이트 참여 데이터를 분석할 준비가 되었습니다. | 2026년 10월 14일 |
 | [!DNL Coworker] | **Experience League LIVE** | [Coworker 잠금 해제](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}: Coworker의 Audience &amp; 여정 B2C 기능 | 2026년 10월 8일 |
 | [!DNL Coworker] | **캠페인** | [Coworker와 함께 디지털 캠페인 시작 계획](https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/workflow-and-planning/plan-digital-campaign-launch){target="_blank"} - 한 채팅에서 대상, 여정, 콘텐츠 및 랜딩 페이지를 빌드하여 B2C 마케팅 캠페인을 계획하고 시작하는 방법에 대해 알아봅니다. | 2026년 10월 8일 |
 | [!DNL Adobe Target] | **최적화** | [Coworker, AEM 및 Target을 사용하여 실험 가속화](https://experienceleague.adobe.com/ko/docs/coworker/content/chat/use-cases/optimization/accelerate-experimentation){target="_blank"} — WKND Magazine 페이지에서 실험을 만드는 제품 간 워크플로우를 참조하여 Coworker가 그 작업에 필요한 Adobe 기능을 조정할 수 있도록 합니다. | 2026년 10월 8일 |
