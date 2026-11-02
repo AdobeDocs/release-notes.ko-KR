@@ -2,12 +2,12 @@
 title: Adobe 시스템 상태 릴리스 노트
 description: Adobe 시스템 상태에 대한 릴리스 내역(status.adobe.com).
 doc-type: release notes
-last-update: October 2026
+last-update: November 2026
 author: mfrei
-source-git-commit: 5c94477bd7f3397d2a48228961f95737cec2232e
+source-git-commit: 7c1a3d1b65801e3ae5f6b17cfc32e6e3de249fc3
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '401'
+ht-degree: 21%
 ---
 
 # [!DNL Adobe System Status] 릴리스 정보 {#status-release-notes}
@@ -16,8 +16,14 @@ ht-degree: 30%
 
 이 페이지는 시간에 따른 [!DNL Adobe System Status]개의 업데이트를 추적합니다. 보고할 새 릴리스가 있을 때만 업데이트됩니다.
 
-| 일자 | 업데이트 |
+<!-- 
+[internal](https://wiki.corp.adobe.com/pages/viewpage.action?pageId=2821708019&spaceKey=AdobeStatus&title=Product%2Bpriority%2Bupdate%2B-%2Brelease%2Bnotes) 
+-->
+
+| 날짜 | 업데이트 |
 | ------- | ------- |
+| 2026년 9월 16일 | <ul><li>AI Virtual Assistant의 컨텍스트: 보다 효율적인 대화를 위해 연속 프롬프트 간의 컨텍스트를 지원합니다.</li><li>기본 홈, 클라우드 및 제품 페이지: 이제 사용자의 권한 및 구독을 기반으로 이벤트가 기본값으로 설정됩니다. 다른 이벤트를 보려면 **모두**&#x200B;와 **내 이벤트** 간을 전환하세요.</li><li>상태 MCP(베타): MCP(Model Context Protocol)를 통해 AI 에이전트 및 LLM에 상태 API를 직접 연결합니다. 고객 Beta에 참여하려면 statuscom-adobe-support@adobe.com으로 전자 메일을 보내십시오.</li></ul> |
+| 2026년 6월 4일 | <ul><li>AI Virtual Assistant 일반 가용성: 웹 및 모바일에서 이벤트 및 구독 정보에 대한 대화식 액세스 속도 향상</li><li>Microsoft Teams 알림: 구독을 만들거나 편집할 때 Teams 채널 구독에 대해 진행 중인 이벤트를 게시합니다</li><li>예정된 유지 관리 및 이벤트를 위해 구독 이메일(Outlook 및 기타 캘린더)의 캘린더에 추가</li><li>접근성 수정 및 기타 개선 사항</li></ul> |
 | 2026년 3월 | <ul><li>AI 가상 어시스턴트 Beta</li><li>버그 수정 및 개선 사항</li></ul> |
 | 2025년 12월 8일 | <ul><li>Virtual Assistant 피드백 개선 사항(간소화된 안내 워크플로, 직관적인 아이콘)</li><li>버그 수정 및 개선 사항</li></ul> |
 | 2025년 7월 16일 | <ul><li>Virtual Assistant 일반 가용성</li><li>제품 및 클라우드 페이지와 Virtual Assistant에서 이벤트 ID 검색</li><li>Slack 알림 설정 업데이트</li><li>버그 수정 및 개선 사항</li></ul> |
