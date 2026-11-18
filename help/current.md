@@ -6,23 +6,29 @@ last-update: November 2026
 last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 1d8a31b77f449087cd7c194b3dd2309e28d50634
+source-git-commit: 8f06996ad7b33f0561546d175ac9477b6ad850f1
 workflow-type: tm+mt
-source-wordcount: '34828'
+source-wordcount: '34982'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise] 중앙 릴리스 정보 — 2026년 11월 {#top}
 
 이 페이지는 최신 버전을 찾는 데 도움이 됩니다.
 
-* 모든 [!DNL CX Enterprise]개 응용 프로그램에 대한 [릴리스 정보](#application-release-notes) 종합 정보(**11월 13일** 업데이트됨)
+* 모든 [!DNL CX Enterprise]개 응용 프로그램에 대한 [릴리스 정보](#application-release-notes) 종합 정보(**11월 17일** 업데이트됨)
 * 응용 프로그램별 [최신 비디오 및 지원 문서](#articles)
-
-이벤트를 찾아 등록하려면 [Experience League 이벤트](https://experienceleague.adobe.com/ko/events)를 방문하세요.
 
 >[!TIP]
 >
 >이 페이지의 새로운 [!DNL CX Enterprise] 기능 및 업데이트에 대한 월별 이메일을 받으려면 [[!UICONTROL 뉴스레터]](https://account.adobe.com/magazines) 페이지에서 **[!UICONTROL 우선 순위 제품 업데이트]**&#x200B;를 사용하도록 설정하십시오.
+
+## 이벤트 {#events}
+
+| 애플리케이션 | 이벤트 | 설명 | 날짜 | 등록 |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| [!DNL Adobe Experience Platform], [!DNL Real-Time CDP], [!DNL Adobe Journey Optimizer] | _Experience League LIVE_ | 더 빠른 확장과 유연한 발전: Adobe Experience Platform 성장 크레딧을 충족합니다. | 12월 2일 @ 오전 8시 30분(PT) | [등록](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} |
+
+이벤트를 찾아 등록하려면 [Experience League 이벤트](https://experienceleague.adobe.com/ko/events)를 방문하세요.
 
 ## [!DNL CX Enterprise] 릴리스 정보 {#application-release-notes}
 
@@ -30,11 +36,11 @@ ht-degree: 11%
 
 **중요:** 특정 응용 프로그램은 매주 릴리스됩니다. 최신 정보를 유지하려면 이 페이지를 자주 방문하십시오.
 
-마지막 업데이트: **2026년 11월 13일**
+마지막 업데이트: **2026년 11월 16일**
 
 | 애플리케이션 | 추가 일자 | 릴리스 정보 URL | 새로운 기능 |
 | ------------- | ------------- | ------------- | ------------- |
-| **[!DNL Adobe Journey Optimizer]** | 2026년 11월 13일 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>트랜잭션 이메일 캠페인 마이그레이션: 마이그레이션 작업 영역은 이제 캠페인을 지원하므로 트랜잭션 이메일을 기존 마케팅 플랫폼에서 API 트리거 캠페인(제한된 가용성)으로 변환(11월 13일)할 수 있습니다</li><li>Experience Manager 조각에 대한 동적 토큰 대체: 컨텐츠 조각에서 직접 프로필 속성 경로를 사용하며 토큰 맵이 필요하지 않습니다(제한된 가용성)(11월 5일).</li><li>오퍼 관련성을 개선하기 위한 개인화된 최적화 모델의 프로필 및 컨텍스트 기능(제한된 가용성)(11월 3일)</li><li>[!DNL CX Enterprise Coworker]에서 오케스트레이션된 캠페인 기술: 캠페인 나열 및 필터링, 세부 정보 및 내역 검색, 워크플로우 그래프 렌더링(11월 3일)</li><li>캠페인 및 여정에 대한 사용자 지정 메타데이터: 엔티티 유형당 최대 10개의 사용자 지정 비즈니스 필드(제한된 가용성)(10월 29일)</li></ul>[튜토리얼 및 지원 문서](#tutorials-ajo) |
+| **[!DNL Adobe Journey Optimizer]** | 2026년 11월 16일 | [[!DNL Journey Optimizer] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>트랜잭션 이메일 캠페인 마이그레이션: 마이그레이션 작업 영역은 이제 캠페인을 지원하므로 트랜잭션 이메일을 기존 마케팅 플랫폼에서 API 트리거 캠페인(제한된 가용성)으로 변환(11월 13일)할 수 있습니다</li><li>Experience Manager 조각에 대한 동적 토큰 대체: 컨텐츠 조각에서 직접 프로필 속성 경로를 사용하며 토큰 맵이 필요하지 않습니다(제한된 가용성)(11월 5일).</li><li>오퍼 관련성을 개선하기 위한 개인화된 최적화 모델의 프로필 및 컨텍스트 기능(제한된 가용성)(11월 3일)</li><li>[!DNL CX Enterprise Coworker]에서 오케스트레이션된 캠페인 기술: 캠페인 나열 및 필터링, 세부 정보 및 내역 검색, 워크플로우 그래프 렌더링(11월 3일)</li><li>캠페인 및 여정에 대한 사용자 지정 메타데이터: 엔티티 유형당 최대 10개의 사용자 지정 비즈니스 필드(제한된 가용성)(10월 29일)</li></ul>[튜토리얼 및 지원 문서](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | 2026년 11월 12일 | [[!DNL Adobe Target] 릴리스 정보](https://experienceleague.adobe.com/ko/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1: 활동 목록의 [!DNL Coworker] 진입점: 각 활동의 내 라이브 테스트 검토 단추 및 [!DNL Coworker]에게 묻기 메뉴</li><li>26.10.2: 활동 개요에 잘못 표시된 목표 설정, 승격 편집 후 생성된 백업 권장 사항 및 약 2주 후 삭제된 보고 사전 설정, 추가된 Safari 지원(시각적 경험 작성기 또는 고급 경험 작성기에서 지원되지 않음)</li><li>26.10.1: 시각적 경험 작성기에서 경험 조각에 대한 오퍼 이름 대신 새로 추가된 보고서 세트 및 원시 HTML이 표시되는 A4T 보고 오류가 수정되었습니다</li><li>26.9.8: 트래픽, 기간 및 최소 감지 가능한 효과를 추정하여 실험을 계획하는 샘플 크기 계산기 (베타)</li></ul>[튜토리얼 및 지원 문서](#tutorials-target) |
 | **[!DNL Adobe Commerce]as a Cloud Service** | 2026년 11월 10일 | [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>GraphQL을 통해 제품 리뷰(기본적으로 비활성화됨)를 읽고 만들 수 있음, 사용자 지정 속성으로 대변 메모 필터링, 주문 사용자 지정 속성을 추가하거나 업데이트하는 엔드포인트, 반품 시 사용자 지정 속성(RMA)(11월 18일, 샌드박스)</li><li>`addProductsToCart` 돌연변이를 통한 장바구니 항목의 사용자 지정 속성, 서드파티가 이행한 항목을 제외하기 위한 배송 항목 필터 웹후크(11월 10일, 지금 샌드박스)</li><li>반환 데이터를 저장하기 전에 읽고 수정하는 새 `observer.rma_save_before` 웹후크(11월 10일)</li><li>이제 REST API를 통해 생성된 비가상 주문에 배송 주소(11월 10일)가 필요합니다.</li><li>저장소 크레딧 잔액에 대한 `GET /V1/customers/:customerId/balance` 끝점, `InvoiceItemInterface`의 `row_total` 필드(11월 10일)</li></ul>[튜토리얼 및 지원 문서](#tutorials-commerce) |
 | **[!DNL Adobe Marketo Engage]** | 2026년 11월 6일 | [Marketo Engage 최신 릴리스 정보](https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker] 플랜 캠페인 스킬: 캠페인 개요를 [!DNL Marketo Engage] 프로그램 설정 문서로 전환합니다.</li><li>호출 가능 에이전트: 스마트 캠페인 흐름 단계로 실행되고 결과를 리드 필드에 다시 작성하는 AI 에이전트(준비 중)</li><li>복제 대상에 대한 이 프로그램/폴더로 복제 옵션(준비 중)</li><li>구독한 관리자의 CRM 동기화 상태 변경 사항에 대한 즉각적인 경고</li><li>[!DNL Marketo Engage]개의 새 UI: 메뉴, 아이콘 및 레이아웃을 새로 고쳤습니다.</li></ul>[튜토리얼 및 지원 문서](#tutorials-marketo) |
@@ -147,6 +153,7 @@ ht-degree: 11%
 
 | 게시일 | 애플리케이션 | 이름 | 유형 | 설명 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 2026년 12월 | [!DNL Experience Platform], [!DNL Real-Time CDP], [!DNL Journey Optimizer] | [[!DNL Experience League LIVE]: 더 빠르게 확장하고 Adobe Experience Platform Growth Credits를 통해 유연하게 진화하십시오](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} | 이벤트 | 필요에 따라 [!DNL Real-Time CDP] 또는 [!DNL Journey Optimizer] 투자에 용량을 추가하는 유연한 방법인 [!DNL Experience Platform] 성장 크레딧에 대해 알아봅니다. 12월 2일 오전 8시 30분에 생방송으로 |
 | 2026년 10월 | [!DNL Experience Platform] | [AI Assistant 보안 개요](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/ai-assistant/security-overview){target="_blank"} | 비디오 | Adobe의 AI Assistant 보안 팩트시트를 기반으로 Adobe Experience Platform의 AI Assistant 뒤의 보안 기능에 대한 개요를 살펴보십시오. |
 | 2026년 10월 | [!DNL Real-Time CDP] | [증가 크레딧 초과 모니터링 및 해결](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/license-usage/growth-credits/monitor-and-address-growth-credit-overage){target="_blank"} | 튜토리얼 | Adobe Experience Platform에서 증가 크레딧 사용을 모니터링하고 계정에 영향을 미치기 전에 초과 사용을 해결하는 방법을 알아봅니다. |
 | 2026년 10월 | [!DNL Real-Time CDP] | [스트리밍 용량 예약](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/license-usage/growth-credits/schedule-streaming-capacity){target="_blank"} | 비디오 | 주요 비즈니스 이벤트 전에 추가 스트리밍 용량을 예약하여 Experience Platform이 트래픽 급증 시 실시간 서비스를 원활하게 실행하도록 하는 방법에 대해 알아봅니다. |
